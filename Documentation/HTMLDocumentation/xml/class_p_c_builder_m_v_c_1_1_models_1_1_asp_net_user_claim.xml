@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::AspNetUserClaim</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim_1abe6064a4d509498a4bff5e0b3004e8fb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.AspNetUserClaim.Id</definition>
+        <argsstring></argsstring>
+        <name>Id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" line="11" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim_1a967797d567964ee4f5835d17afac9087" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUserClaim.UserId</definition>
+        <argsstring></argsstring>
+        <name>UserId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim_1afc87beebef4b5a3706aa950e9334312c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUserClaim.ClaimType</definition>
+        <argsstring></argsstring>
+        <name>ClaimType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim_1a2ddb20d0ae673265de4cfbd8f9d6b6d8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUserClaim.ClaimValue</definition>
+        <argsstring></argsstring>
+        <name>ClaimValue</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim_1a451f06776aeaf224a70eec4c81e559cf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user" kindref="compound">AspNetUser</ref></type>
+        <definition>virtual AspNetUser PCBuilderMVC.Models.AspNetUserClaim.AspNetUser</definition>
+        <argsstring></argsstring>
+        <name>AspNetUser</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" line="10" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserClaim.cs" bodystart="9" bodyend="22"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim_1a451f06776aeaf224a70eec4c81e559cf" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUserClaim</scope><name>AspNetUser</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim_1afc87beebef4b5a3706aa950e9334312c" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUserClaim</scope><name>ClaimType</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim_1a2ddb20d0ae673265de4cfbd8f9d6b6d8" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUserClaim</scope><name>ClaimValue</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim_1abe6064a4d509498a4bff5e0b3004e8fb" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUserClaim</scope><name>Id</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim_1a967797d567964ee4f5835d17afac9087" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUserClaim</scope><name>UserId</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

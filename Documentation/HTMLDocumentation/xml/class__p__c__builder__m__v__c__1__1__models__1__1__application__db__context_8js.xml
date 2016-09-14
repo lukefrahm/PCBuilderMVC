@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__application__db__context_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__application__db__context_8js_1aa06e4b17f1a14941c2321a4eded6d628" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context</name>
+        <initializer>=
+[
+    [ &quot;ApplicationDbContext&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context.html#acc03c97fcfb51332c54f89ecd3bd0aba&quot;, null ],
+    [ &quot;AspNetRoles&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context.html#a3999bd7ef81ac8511b08b2b067744c1a&quot;, null ],
+    [ &quot;CPUs&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context.html#abe6c40c6be3a6fd178405e5dcc7a5b7f&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ApplicationDbContext&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context.html#acc03c97fcfb51332c54f89ecd3bd0aba&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetRoles&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context.html#a3999bd7ef81ac8511b08b2b067744c1a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPUs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context.html#abe6c40c6be3a6fd178405e5dcc7a5b7f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="6"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context.js"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_resources_8_designer_8cs">
+    <title>Resources.Designer.cs File Reference</title>
+        <section>
+            <title> Classes </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_forms_1_1_properties_1_1_resources">PCBuilderForms::Properties::Resources</link></para>
+<para><emphasis>&lt;summary&gt;
+  A strongly-typed resource class, for looking up localized strings, etc.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <simplesect>
+            <title> Namespaces </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="namespace_p_c_builder_forms_1_1_properties">PCBuilderForms::Properties</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </simplesect>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Properties/Resources.Designer.cs</para>
+    </simplesect>
+</section>

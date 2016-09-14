@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_objects_1_1_r_a_m">
+<title>BusinessObjects::RAM class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_r_a_m_1ae7ed2981f24613ded0d4548f69c21fd2">RAM</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;RAM&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_r_a_m_1ad7c04e059617e0e6079a522b094447ee">RAM</link> (
+int ramId, string brand, string model, int ramSize, int ramGeneration, int ramSpeed, string ramTimings, decimal price)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;RAM&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_business_objects_1_1_r_a_m">RAM</link> object to hold necessary data on the <link linkend="class_business_objects_1_1_r_a_m">RAM</link> </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 18 of file RAM.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>RAM.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_objects_1_1_r_a_m_1ae7ed2981f24613ded0d4548f69c21fd2">
+                <title>BusinessObjects.RAM.RAM ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;RAM&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_objects_1_1_r_a_m_1ad7c04e059617e0e6079a522b094447ee">
+                <title>BusinessObjects.RAM.RAM (int ramId, string brand, string model, int ramSize, int ramGeneration, int ramSpeed, string ramTimings, decimal price)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;RAM&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>ramId</entry>
+                                <entry>
+<para>The ram identifier.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>brand</entry>
+                                <entry>
+<para>The brand.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>model</entry>
+                                <entry>
+<para>The model.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>ramSize</entry>
+                                <entry>
+<para>Size of the ram.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>ramGeneration</entry>
+                                <entry>
+<para>The ram generation.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>ramSpeed</entry>
+                                <entry>
+<para>The ram speed.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>ramTimings</entry>
+                                <entry>
+<para>The ram timings.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>price</entry>
+                                <entry>
+<para>The price.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

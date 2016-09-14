@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller">
+<title>PCBuilderMVC::Controllers::PSUController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a091077c612db8f41b3fdc91d8f40ee1a">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1aa11ba9390a2ade5a7780fde7184ad605">Details</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1aab12c9297ccd422406759d10486b4089">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a3f8a86f6901b123fd7f481a9d69f4e85">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_p_s_u">PSU</link> pSU)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a0cd44180c3a4e4571745bcc26f4f125a">Edit</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1ad171810d48df24733a5314645121e61b">Edit</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_p_s_u">PSU</link> pSU)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a50c3976316e118165f74e9f9e89dec75">Delete</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1ac313c3b328777eb91f58d7fa8dbb6d16">DeleteConfirmed</link> (
+int id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a6c6ac75cfb1d74033266cdb58f28053b">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>PSU controller class to handle PSU views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file PSUController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>PSUController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a091077c612db8f41b3fdc91d8f40ee1a">
+                <title>ActionResult PCBuilderMVC.Controllers.PSUController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1aa11ba9390a2ade5a7780fde7184ad605">
+                <title>ActionResult PCBuilderMVC.Controllers.PSUController.Details (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1aab12c9297ccd422406759d10486b4089">
+                <title>ActionResult PCBuilderMVC.Controllers.PSUController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a3f8a86f6901b123fd7f481a9d69f4e85">
+                <title>ActionResult PCBuilderMVC.Controllers.PSUController.Create ([Bind(Include=&quot;PsuId,Brand,Model,Wattage,Efficiency,Price&quot;)] PSU pSU)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a0cd44180c3a4e4571745bcc26f4f125a">
+                <title>ActionResult PCBuilderMVC.Controllers.PSUController.Edit (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1ad171810d48df24733a5314645121e61b">
+                <title>ActionResult PCBuilderMVC.Controllers.PSUController.Edit ([Bind(Include=&quot;PsuId,Brand,Model,Wattage,Efficiency,Price&quot;)] PSU pSU)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a50c3976316e118165f74e9f9e89dec75">
+                <title>ActionResult PCBuilderMVC.Controllers.PSUController.Delete (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1ac313c3b328777eb91f58d7fa8dbb6d16">
+                <title>ActionResult PCBuilderMVC.Controllers.PSUController.DeleteConfirmed (int id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a6c6ac75cfb1d74033266cdb58f28053b">
+                <title>override void PCBuilderMVC.Controllers.PSUController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_objects_1_1_p_s_u">
+<title>BusinessObjects::PSU class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_p_s_u_1a797da5110778eadc6ae1770b7b6fa1f7">PSU</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;PSU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_p_s_u_1ae552ae19d45745f5a7b3138e80309fd3">PSU</link> (
+int psuId, string brand, string model, int wattage, string efficiency, decimal price)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;PSU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_business_objects_1_1_p_s_u">PSU</link> object to hold necessary data on the <link linkend="class_business_objects_1_1_p_s_u">PSU</link>. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 18 of file PSU.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>PSU.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_objects_1_1_p_s_u_1a797da5110778eadc6ae1770b7b6fa1f7">
+                <title>BusinessObjects.PSU.PSU ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;PSU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_objects_1_1_p_s_u_1ae552ae19d45745f5a7b3138e80309fd3">
+                <title>BusinessObjects.PSU.PSU (int psuId, string brand, string model, int wattage, string efficiency, decimal price)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;PSU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>psuId</entry>
+                                <entry>
+<para>The psu identifier.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>brand</entry>
+                                <entry>
+<para>The brand.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>model</entry>
+                                <entry>
+<para>The model.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>wattage</entry>
+                                <entry>
+<para>The wattage.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>efficiency</entry>
+                                <entry>
+<para>The efficiency.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>price</entry>
+                                <entry>
+<para>The price.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

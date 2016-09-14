@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_optical" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::Optical</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_optical_1ad8f51257139f512f0ec6ad54fca96905" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Optical.OpticalId</definition>
+        <argsstring></argsstring>
+        <name>OpticalId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_optical_1a1b25c8c270d28d22aaa6d48644c57962" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Optical.Brand</definition>
+        <argsstring></argsstring>
+        <name>Brand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_optical_1a0529bf610b4aaa363b423caf26200c10" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Optical.Model</definition>
+        <argsstring></argsstring>
+        <name>Model</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_optical_1a8e452e1102a79129f77286b425bd780a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Optical.OpticalType</definition>
+        <argsstring></argsstring>
+        <name>OpticalType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_optical_1a70c467d88703603c376033c4d4058dc0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal PCBuilderMVC.Models.Optical.Price</definition>
+        <argsstring></argsstring>
+        <name>Price</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_optical" kindref="compound">Optical</ref> view model class. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Optical.cs" bodystart="13" bodyend="30"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_optical_1a1b25c8c270d28d22aaa6d48644c57962" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Optical</scope><name>Brand</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_optical_1a0529bf610b4aaa363b423caf26200c10" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Optical</scope><name>Model</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_optical_1ad8f51257139f512f0ec6ad54fca96905" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Optical</scope><name>OpticalId</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_optical_1a8e452e1102a79129f77286b425bd780a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Optical</scope><name>OpticalType</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_optical_1a70c467d88703603c376033c4d4058dc0" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Optical</scope><name>Price</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

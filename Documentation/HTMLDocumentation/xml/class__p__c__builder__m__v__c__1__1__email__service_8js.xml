@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__email__service_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_email_service.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__email__service_8js_1aa2e1cb91527891842bad0e59976661ff" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_email_service</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_email_service</name>
+        <initializer>=
+[
+    [ &quot;SendAsync&quot;, &quot;class_p_c_builder_m_v_c_1_1_email_service.html#a5edc6da9b4227c6f699f71c011c86621&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_email_service.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_email_service.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_email_service<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;SendAsync&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_email_service.html#a5edc6da9b4227c6f699f71c011c86621&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="4"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_email_service.js"/>
+  </compounddef>
+</doxygen>

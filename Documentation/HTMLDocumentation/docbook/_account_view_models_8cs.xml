@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_account_view_models_8cs">
+    <title>AccountViewModels.cs File Reference</title>
+        <section>
+            <title> Classes </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model">PCBuilderMVC::Models::ExternalLoginConfirmationViewModel</link></para>
+<para><emphasis>&lt;summary&gt;
+Externam login confirmation view model class.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_external_login_list_view_model">PCBuilderMVC::Models::ExternalLoginListViewModel</link></para>
+<para><emphasis>&lt;summary&gt;
+External login list view model class.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_manage_user_view_model">PCBuilderMVC::Models::ManageUserViewModel</link></para>
+<para><emphasis>&lt;summary&gt;
+Manage user  view model class.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_login_view_model">PCBuilderMVC::Models::LoginViewModel</link></para>
+<para><emphasis>&lt;summary&gt;
+Login view model class.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_register_view_model">PCBuilderMVC::Models::RegisterViewModel</link></para>
+<para><emphasis>&lt;summary&gt;
+Register view model class.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_reset_password_view_model">PCBuilderMVC::Models::ResetPasswordViewModel</link></para>
+<para><emphasis>&lt;summary&gt;
+Reset password view model class.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_forgot_password_view_model">PCBuilderMVC::Models::ForgotPasswordViewModel</link></para>
+<para><emphasis>&lt;summary&gt;
+Forgot password view model class.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <simplesect>
+            <title> Namespaces </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="namespace_p_c_builder_m_v_c_1_1_models">PCBuilderMVC::Models</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="namespace_system_1_1_component_model_1_1_data_annotations">System::ComponentModel::DataAnnotations</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </simplesect>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AccountViewModels.cs</para>
+    </simplesect>
+</section>

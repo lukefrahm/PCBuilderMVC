@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_application_user">
+<title>PCBuilderMVC::Models::ApplicationUser class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ClaimsIdentity &gt; <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_application_user_1a1958c9bf9604c202bc00ed69dd0425e4">GenerateUserIdentityAsync</link> (
+UserManager&lt; <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_application_user">ApplicationUser</link> &gt; manager)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Application user model. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>Microsoft.AspNet.Identity.EntityFramework.IdentityUser</para>
+</formalpara>
+</para>
+                <para>Definition at line 14 of file IdentityModels.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>IdentityModels.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_application_user_1a1958c9bf9604c202bc00ed69dd0425e4">
+                <title>async Task&lt;ClaimsIdentity&gt; PCBuilderMVC.Models.ApplicationUser.GenerateUserIdentityAsync (UserManager&lt; ApplicationUser &gt; manager)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

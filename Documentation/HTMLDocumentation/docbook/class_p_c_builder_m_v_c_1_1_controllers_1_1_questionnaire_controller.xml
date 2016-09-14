@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller">
+<title>PCBuilderMVC::Controllers::QuestionnaireController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1ac7fd83d5be85d3faa104f769f459741e">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1aee74d3623a8572991d23e6718ea5cc23">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1a56e22d7a06a6dd75dca2244a994454da">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model">QuestionnaireViewModel</link> questionnaireViewModel)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1a8b20695629cea08ed178104f70efe939">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Questionnaire controller class to handle Questionnaire views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 20 of file QuestionnaireController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>QuestionnaireController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1ac7fd83d5be85d3faa104f769f459741e">
+                <title>ActionResult PCBuilderMVC.Controllers.QuestionnaireController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1aee74d3623a8572991d23e6718ea5cc23">
+                <title>ActionResult PCBuilderMVC.Controllers.QuestionnaireController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1a56e22d7a06a6dd75dca2244a994454da">
+                <title>ActionResult PCBuilderMVC.Controllers.QuestionnaireController.Create ([Bind(Include=&quot;QuestionnaireID,SldPerformance,ChkUseBasic,ChkUseVideoEdit,ChkUseGaming,ChkUseDevelopment,ChkUseOfficeModerate,RadResolution720,RadResolution1080,RadResolution4k,SldNumMonitors,SldStorageSize,RadSSD,RadHDD,RadRAMRecommended,RadRAMSelectManual,SldRamSize,SldNumCores,RadCaseSizeFull,RadCaseSizeMid,RadCaseSizeMicro,RadCaseSizeMini,RadCaseSizeConsole,RadBRBurner,RadBRReader,RadDVDBurner,RadOpticalNone&quot;)] QuestionnaireViewModel questionnaireViewModel)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1a8b20695629cea08ed178104f70efe939">
+                <title>override void PCBuilderMVC.Controllers.QuestionnaireController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

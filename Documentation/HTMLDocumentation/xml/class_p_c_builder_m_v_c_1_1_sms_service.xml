@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_sms_service" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::SmsService</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IIdentityMessageService</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_sms_service_1afebab35ad2f0bab84e2786ab713907bc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Task</type>
+        <definition>Task PCBuilderMVC.SmsService.SendAsync</definition>
+        <argsstring>(IdentityMessage message)</argsstring>
+        <name>SendAsync</name>
+        <param>
+          <type>IdentityMessage</type>
+          <declname>message</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" line="92" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" bodystart="92" bodyend="96"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Creates an SMS service. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>Microsoft.AspNet.Identity.IIdentityMessageService</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="264">
+        <label>IIdentityMessageService</label>
+      </node>
+      <node id="263">
+        <label>PCBuilderMVC.SmsService</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_sms_service"/>
+        <childnode refid="264" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="266">
+        <label>IIdentityMessageService</label>
+      </node>
+      <node id="265">
+        <label>PCBuilderMVC.SmsService</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_sms_service"/>
+        <childnode refid="266" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" line="91" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" bodystart="90" bodyend="97"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_sms_service_1afebab35ad2f0bab84e2786ab713907bc" prot="public" virt="non-virtual"><scope>PCBuilderMVC::SmsService</scope><name>SendAsync</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

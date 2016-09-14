@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_forms_1_1_properties_1_1_settings" kind="class" language="C#" prot="package">
+    <compoundname>PCBuilderForms::Properties::Settings</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">ApplicationSettingsBase</basecompoundref>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_properties_1_1_settings_1a05f0262a3e60a5088e4bfe2040b999c0" prot="private" static="yes" mutable="no">
+        <type><ref refid="class_p_c_builder_forms_1_1_properties_1_1_settings" kindref="compound">Settings</ref></type>
+        <definition>Settings PCBuilderForms.Properties.Settings.defaultInstance</definition>
+        <argsstring></argsstring>
+        <name>defaultInstance</name>
+        <initializer>= ((<ref refid="class_p_c_builder_forms_1_1_properties_1_1_settings" kindref="compound">Settings</ref>)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new <ref refid="class_p_c_builder_forms_1_1_properties_1_1_settings" kindref="compound">Settings</ref>())))</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Properties/Settings.Designer.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Properties/Settings.Designer.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_forms_1_1_properties_1_1_settings_1ab249d99921408a81b2f5b75c0945e547" prot="public" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_p_c_builder_forms_1_1_properties_1_1_settings" kindref="compound">Settings</ref></type>
+        <definition>Settings PCBuilderForms.Properties.Settings.Default</definition>
+        <argsstring></argsstring>
+        <name>Default</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Properties/Settings.Designer.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Properties/Settings.Designer.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="260">
+        <label>global::SystemConfiguration::ApplicationSettingsBase</label>
+      </node>
+      <node id="259">
+        <label>PCBuilderForms.Properties.Settings</label>
+        <link refid="class_p_c_builder_forms_1_1_properties_1_1_settings"/>
+        <childnode refid="260" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="262">
+        <label>global::SystemConfiguration::ApplicationSettingsBase</label>
+      </node>
+      <node id="261">
+        <label>PCBuilderForms.Properties.Settings</label>
+        <link refid="class_p_c_builder_forms_1_1_properties_1_1_settings"/>
+        <childnode refid="262" relation="public-inheritance">
+        </childnode>
+        <childnode refid="261" relation="usage">
+          <edgelabel>defaultInstance</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Properties/Settings.Designer.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Properties/Settings.Designer.cs" bodystart="17" bodyend="29"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_forms_1_1_properties_1_1_settings_1ab249d99921408a81b2f5b75c0945e547" prot="public" virt="non-virtual"><scope>PCBuilderForms::Properties::Settings</scope><name>Default</name></member>
+      <member refid="class_p_c_builder_forms_1_1_properties_1_1_settings_1a05f0262a3e60a5088e4bfe2040b999c0" prot="private" virt="non-virtual"><scope>PCBuilderForms::Properties::Settings</scope><name>defaultInstance</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

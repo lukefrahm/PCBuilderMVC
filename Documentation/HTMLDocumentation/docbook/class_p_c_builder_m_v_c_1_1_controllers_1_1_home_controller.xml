@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller">
+<title>PCBuilderMVC::Controllers::HomeController class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1a801d32817dc4293c2f8e33c691ada19f">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1a8890fc72d17ba59929e1dea4020a93a8">About</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1aede11cb947edcbe91f408801ad549d89">Contact</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Home controller class to handle Home views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 14 of file HomeController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>HomeController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1a801d32817dc4293c2f8e33c691ada19f">
+                <title>ActionResult PCBuilderMVC.Controllers.HomeController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1a8890fc72d17ba59929e1dea4020a93a8">
+                <title>ActionResult PCBuilderMVC.Controllers.HomeController.About ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1aede11cb947edcbe91f408801ad549d89">
+                <title>ActionResult PCBuilderMVC.Controllers.HomeController.Contact ()</title> <emphasis></emphasis>
+                
+            </section>
+</section>

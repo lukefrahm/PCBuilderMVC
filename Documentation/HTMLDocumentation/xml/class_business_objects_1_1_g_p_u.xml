@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_g_p_u" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::GPU</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1afeb1e8b9b58e0400721046e676cc3614" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.GPU.GpuId</definition>
+        <argsstring></argsstring>
+        <name>GpuId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1af2f55e8a9725448cead02124bbab762d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.GPU.Brand</definition>
+        <argsstring></argsstring>
+        <name>Brand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1aa9e024751d02378f97e24e80cb8dfc22" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.GPU.Model</definition>
+        <argsstring></argsstring>
+        <name>Model</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1a1b68b71a45aad6cdea19b43d6043c69b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.GPU.ClockSpeed</definition>
+        <argsstring></argsstring>
+        <name>ClockSpeed</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1a30166940091fc02016e2c16b942b8f81" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.GPU.ProductLineName</definition>
+        <argsstring></argsstring>
+        <name>ProductLineName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1a5e71ca43b91549127e3303966f9c1883" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.GPU.BenchmarkScore</definition>
+        <argsstring></argsstring>
+        <name>BenchmarkScore</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1a8cb10d609af32f50b4efaa38fcff82da" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.GPU.BestUse</definition>
+        <argsstring></argsstring>
+        <name>BestUse</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1ab38f21d1da4e4b6d16bc00e1a3077c38" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.GPU.GpuRamSize</definition>
+        <argsstring></argsstring>
+        <name>GpuRamSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="26" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1a2d08d354f962c6c77cd9e29e623f776f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.GPU.PciPinConnector1</definition>
+        <argsstring></argsstring>
+        <name>PciPinConnector1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1a29b8be931b594510733fb12ebafda81b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.GPU.PciPinConnector2</definition>
+        <argsstring></argsstring>
+        <name>PciPinConnector2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1a3c73e1c2905ca5c93207dc84537c71bc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.GPU.PciPinConnector3</definition>
+        <argsstring></argsstring>
+        <name>PciPinConnector3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1a28e5f1a2955634bdb563d5ae5904d9ce" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.GPU.PowerRequirement</definition>
+        <argsstring></argsstring>
+        <name>PowerRequirement</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1ab5a737850479b96f7530d4c852acc4b8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>char</type>
+        <definition>char BusinessObjects.GPU.GpuLength</definition>
+        <argsstring></argsstring>
+        <name>GpuLength</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_g_p_u_1a2640d3a1607005bb9c89a39218aa3e39" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal BusinessObjects.GPU.Price</definition>
+        <argsstring></argsstring>
+        <name>Price</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="32" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_objects_1_1_g_p_u_1ab773228207f38d564b424c819a4fc9c8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.GPU.GPU</definition>
+        <argsstring>()</argsstring>
+        <name>GPU</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="37" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="37" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_objects_1_1_g_p_u_1a444248551f8e905f4e5cbfa1e6f9b90a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.GPU.GPU</definition>
+        <argsstring>(int gpuId, string brand, string model, double clockSpeed, string productLineName, int benchmarkScore, string bestUse, int gpuRamSize, int pciPinConnector1, int pciPinConnector2, int pciPinConnector3, int powerRequirement, char gpuLength, decimal price)</argsstring>
+        <name>GPU</name>
+        <param>
+          <type>int</type>
+          <declname>gpuId</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>brand</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>model</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>clockSpeed</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>productLineName</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>benchmarkScore</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>bestUse</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>gpuRamSize</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pciPinConnector1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pciPinConnector2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pciPinConnector3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>powerRequirement</declname>
+        </param>
+        <param>
+          <type>char</type>
+          <declname>gpuLength</declname>
+        </param>
+        <param>
+          <type>decimal</type>
+          <declname>price</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>gpuId</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref> identifier.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>brand</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The brand.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>model</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The model.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>clockSpeed</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The clock speed.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>productLineName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Name of the product line.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>benchmarkScore</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The benchmark score.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>bestUse</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The best use case.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>gpuRamSize</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Size of the <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref> ram.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pciPinConnector1</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The PCIe pin connector #1.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pciPinConnector2</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The PCIe pin connector #2.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pciPinConnector3</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The PCIe pin connector #3.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>powerRequirement</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The power requirement.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>gpuLength</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Length of the <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref>.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>price</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="56" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="56" bodyend="85"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref> object to hold necessary data on the <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref>. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/GPU.cs" bodystart="17" bodyend="86"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_g_p_u_1a5e71ca43b91549127e3303966f9c1883" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>BenchmarkScore</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1a8cb10d609af32f50b4efaa38fcff82da" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>BestUse</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1af2f55e8a9725448cead02124bbab762d" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>Brand</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1a1b68b71a45aad6cdea19b43d6043c69b" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>ClockSpeed</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1ab773228207f38d564b424c819a4fc9c8" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>GPU</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1a444248551f8e905f4e5cbfa1e6f9b90a" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>GPU</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1afeb1e8b9b58e0400721046e676cc3614" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>GpuId</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1ab5a737850479b96f7530d4c852acc4b8" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>GpuLength</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1ab38f21d1da4e4b6d16bc00e1a3077c38" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>GpuRamSize</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1aa9e024751d02378f97e24e80cb8dfc22" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>Model</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1a2d08d354f962c6c77cd9e29e623f776f" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>PciPinConnector1</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1a29b8be931b594510733fb12ebafda81b" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>PciPinConnector2</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1a3c73e1c2905ca5c93207dc84537c71bc" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>PciPinConnector3</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1a28e5f1a2955634bdb563d5ae5904d9ce" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>PowerRequirement</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1a2640d3a1607005bb9c89a39218aa3e39" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>Price</name></member>
+      <member refid="class_business_objects_1_1_g_p_u_1a30166940091fc02016e2c16b942b8f81" prot="public" virt="non-virtual"><scope>BusinessObjects::GPU</scope><name>ProductLineName</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_objects_1_1_questionnaire_results">
+<title>BusinessObjects::QuestionnaireResults class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_questionnaire_results_1af03bf5cea4bc3c29bb2a4b111b6e6a2c">QuestionnaireResults</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;QuestionnaireResults&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_questionnaire_results_1a4e99b6de8ad5c240763baa74ebae2ca4">QuestionnaireResults</link> (
+double sldPerformance, bool chkUseBasic, bool chkUseDevelopment, bool chkUseGaming, bool chkUseOfficeModerate, bool chkUseVideoEdit, bool radResolution720, bool radResolution1080, bool radResolution4k, double sldNumMonitors, double sldStorageSize, bool radSSD, bool radHDD, bool radRAMRecommended, bool radRAMSelectManual, double sldRamSize, double sldNumCores, bool radCaseSizeFull, bool radCaseSizeMid, bool radCaseSizeMicro, bool radCaseSizeMini, bool radCaseSizeConsole, bool radBRBurner, bool radBRReader, bool radDVDBurner, bool radOpticalNone)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;QuestionnaireResults&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_business_objects_1_1_questionnaire_results">QuestionnaireResults</link> object to hold necessary data on the questionnaire form after submission. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 13 of file QuestionnaireResults.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>QuestionnaireResults.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_objects_1_1_questionnaire_results_1af03bf5cea4bc3c29bb2a4b111b6e6a2c">
+                <title>BusinessObjects.QuestionnaireResults.QuestionnaireResults ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;QuestionnaireResults&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_objects_1_1_questionnaire_results_1a4e99b6de8ad5c240763baa74ebae2ca4">
+                <title>BusinessObjects.QuestionnaireResults.QuestionnaireResults (double sldPerformance, bool chkUseBasic, bool chkUseDevelopment, bool chkUseGaming, bool chkUseOfficeModerate, bool chkUseVideoEdit, bool radResolution720, bool radResolution1080, bool radResolution4k, double sldNumMonitors, double sldStorageSize, bool radSSD, bool radHDD, bool radRAMRecommended, bool radRAMSelectManual, double sldRamSize, double sldNumCores, bool radCaseSizeFull, bool radCaseSizeMid, bool radCaseSizeMicro, bool radCaseSizeMini, bool radCaseSizeConsole, bool radBRBurner, bool radBRReader, bool radDVDBurner, bool radOpticalNone)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;QuestionnaireResults&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sldPerformance</entry>
+                                <entry>
+<para>The slider for performance.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>chkUseBasic</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput> [Check use basic].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>chkUseDevelopment</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput> [Check use development].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>chkUseGaming</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput> [Check use gaming].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>chkUseOfficeModerate</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput> [Check use office moderate].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>chkUseVideoEdit</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput> [Check use video editing].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radResolution720</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput> [Monitor resolution 720].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radResolution1080</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput> [Monitor resolution 1080].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radResolution4k</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput> [Monitor resolution 4k].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>sldNumMonitors</entry>
+                                <entry>
+<para>The slider for number of monitors.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>sldStorageSize</entry>
+                                <entry>
+<para>Size of the storage.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radSSD</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [use SSD].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radHDD</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [use HDD].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radRAMRecommended</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [Use recommended <link linkend="class_business_objects_1_1_r_a_m">RAM</link> size].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radRAMSelectManual</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [Use manual Ram size].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>sldRamSize</entry>
+                                <entry>
+<para>Size of the ram.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>sldNumCores</entry>
+                                <entry>
+<para>The number of cores.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radCaseSizeFull</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [full size case].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radCaseSizeMid</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [mid size case].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radCaseSizeMicro</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [micro-ATX case].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radCaseSizeMini</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [mini-ITX case].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radCaseSizeConsole</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [HTPC/Console case].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radBRBurner</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [BluRay burner].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radBRReader</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [BluRay reader].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radDVDBurner</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [DVD burner].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>radOpticalNone</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [No optical drive].</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

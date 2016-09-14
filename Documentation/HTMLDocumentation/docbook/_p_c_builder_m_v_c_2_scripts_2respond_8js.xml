@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_p_c_builder_m_v_c_2_scripts_2respond_8js">
+    <title>respond.js File Reference</title>
+        <section>
+            <title>Variables</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8js_1a7fb6409e50be4828fc4d8f4417be88df">w</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>w <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8js_1adc9a210911ea7d907dc1d986b0c061e0">matchMedia</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8js_1a05c09a5e9d53fa7adf0a7936038c2fa3">this</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8js_1abf4c7ee8caa940be2c6bdf6b73c3f4e1">respond</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>respond <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8js_1a98917bda956f6c824861730a3974eedc">update</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8js_1abea246851d111d42c5a42e0f5114e776">requestQueue</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8js_1abb9d4af3951f734d95ca1254919ef370">xmlHttp</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8js_1aabb4a841db9544b7f80dbf19a23bf6b9">ajax</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>respond <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8js_1ac31b6e62c4a1c6baa4fe3d6507686018">queue</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.js</para>
+    </simplesect>
+</section>

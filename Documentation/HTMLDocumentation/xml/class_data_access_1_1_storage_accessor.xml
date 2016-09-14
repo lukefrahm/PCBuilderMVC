@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_data_access_1_1_storage_accessor" kind="class" language="C#" prot="public">
+    <compoundname>DataAccess::StorageAccessor</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_data_access_1_1_storage_accessor_1abb7e1e5d633910b7003fd0f7c2b99825" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref></type>
+        <definition>static Storage DataAccess.StorageAccessor.RetrieveStorageByName</definition>
+        <argsstring>(string name)</argsstring>
+        <name>RetrieveStorageByName</name>
+        <param>
+          <type>string</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves storage components by name. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Storage object.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" bodystart="23" bodyend="71"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_storage_accessor_1ae946acb35222d3b911c8f38938ef5c7d" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref> &gt;</type>
+        <definition>static List&lt;Storage&gt; DataAccess.StorageAccessor.RetrieveStorageBySize</definition>
+        <argsstring>(int size)</argsstring>
+        <name>RetrieveStorageBySize</name>
+        <param>
+          <type>int</type>
+          <declname>size</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves list of storage objects by storage size. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>size</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The size.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>List of storage objects.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" line="79" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" bodystart="79" bodyend="128"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_storage_accessor_1a9a989363273f5b9395817912303858db" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref> &gt;</type>
+        <definition>static List&lt;Storage&gt; DataAccess.StorageAccessor.RetrieveStorageByType</definition>
+        <argsstring>(string type)</argsstring>
+        <name>RetrieveStorageByType</name>
+        <param>
+          <type>string</type>
+          <declname>type</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a lsit of storage objects by type. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>type</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The type.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Lsit of storage objects.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" line="136" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" bodystart="136" bodyend="185"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_storage_accessor_1a637e56c95349a4ec29fdf8046bf2e61c" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.StorageAccessor.InsertStorage</definition>
+        <argsstring>(Storage storage)</argsstring>
+        <name>InsertStorage</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref></type>
+          <declname>storage</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a new storage object. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>storage</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The storage.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of rows affected.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" line="192" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" bodystart="192" bodyend="229"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_storage_accessor_1ae14e363a18a78cebd20e2c0731e6236d" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref> &gt;</type>
+        <definition>static List&lt;Storage&gt; DataAccess.StorageAccessor.RetrieveAllStorage</definition>
+        <argsstring>()</argsstring>
+        <name>RetrieveAllStorage</name>
+        <briefdescription>
+<para>Retrieves all storage objects. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Lsit of storage objects.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" line="236" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" bodystart="236" bodyend="283"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Storage accessor to communicate with database on storage objects. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/StorageAccessor.cs" bodystart="15" bodyend="284"/>
+    <listofallmembers>
+      <member refid="class_data_access_1_1_storage_accessor_1a637e56c95349a4ec29fdf8046bf2e61c" prot="public" virt="non-virtual"><scope>DataAccess::StorageAccessor</scope><name>InsertStorage</name></member>
+      <member refid="class_data_access_1_1_storage_accessor_1ae14e363a18a78cebd20e2c0731e6236d" prot="public" virt="non-virtual"><scope>DataAccess::StorageAccessor</scope><name>RetrieveAllStorage</name></member>
+      <member refid="class_data_access_1_1_storage_accessor_1abb7e1e5d633910b7003fd0f7c2b99825" prot="public" virt="non-virtual"><scope>DataAccess::StorageAccessor</scope><name>RetrieveStorageByName</name></member>
+      <member refid="class_data_access_1_1_storage_accessor_1ae946acb35222d3b911c8f38938ef5c7d" prot="public" virt="non-virtual"><scope>DataAccess::StorageAccessor</scope><name>RetrieveStorageBySize</name></member>
+      <member refid="class_data_access_1_1_storage_accessor_1a9a989363273f5b9395817912303858db" prot="public" virt="non-virtual"><scope>DataAccess::StorageAccessor</scope><name>RetrieveStorageByType</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

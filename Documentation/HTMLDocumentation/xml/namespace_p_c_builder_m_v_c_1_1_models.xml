@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace_p_c_builder_m_v_c_1_1_models" kind="namespace" language="C#">
+    <compoundname>PCBuilderMVC::Models</compoundname>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context" prot="public">PCBuilderMVC::Models::ApplicationDbContext</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_user" prot="public">PCBuilderMVC::Models::ApplicationUser</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role" prot="public">PCBuilderMVC::Models::AspNetRole</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user" prot="public">PCBuilderMVC::Models::AspNetUser</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim" prot="public">PCBuilderMVC::Models::AspNetUserClaim</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login" prot="public">PCBuilderMVC::Models::AspNetUserLogin</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u" prot="public">PCBuilderMVC::Models::CPU</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model" prot="public">PCBuilderMVC::Models::ExternalLoginConfirmationViewModel</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_external_login_list_view_model" prot="public">PCBuilderMVC::Models::ExternalLoginListViewModel</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model" prot="public">PCBuilderMVC::Models::FinalizedBuildViewModel</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_forgot_password_view_model" prot="public">PCBuilderMVC::Models::ForgotPasswordViewModel</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u" prot="public">PCBuilderMVC::Models::GPU</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_login_view_model" prot="public">PCBuilderMVC::Models::LoginViewModel</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_manage_user_view_model" prot="public">PCBuilderMVC::Models::ManageUserViewModel</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard" prot="public">PCBuilderMVC::Models::Motherboard</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_optical" prot="public">PCBuilderMVC::Models::Optical</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" prot="public">PCBuilderMVC::Models::PCBuilderEntityModels</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_s_u" prot="public">PCBuilderMVC::Models::PSU</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model" prot="public">PCBuilderMVC::Models::QuestionnaireViewModel</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m" prot="public">PCBuilderMVC::Models::RAM</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_register_view_model" prot="public">PCBuilderMVC::Models::RegisterViewModel</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_reset_password_view_model" prot="public">PCBuilderMVC::Models::ResetPasswordViewModel</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_role" prot="public">PCBuilderMVC::Models::Role</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage" prot="public">PCBuilderMVC::Models::Storage</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_user" prot="public">PCBuilderMVC::Models::User</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities" prot="public">PCBuilderMVC::Models::UserEntities</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AccountViewModels.cs" line="4" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_6ea05ce7934583be227ab2c43b995708" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.2.2.3/Content/Scripts</compoundname>
+    <innerfile refid="jquery-2_82_83-vsdoc_8js">jquery-2.2.3-vsdoc.js</innerfile>
+    <innerfile refid="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8js">jquery-2.2.3.js</innerfile>
+    <innerfile refid="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js">jquery-2.2.3.min.js</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.2.2.3/Content/Scripts/"/>
+  </compounddef>
+</doxygen>

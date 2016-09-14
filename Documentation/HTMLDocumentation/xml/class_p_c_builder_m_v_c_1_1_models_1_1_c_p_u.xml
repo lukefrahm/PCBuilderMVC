@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::CPU</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a990a746196bffb0de705df0e5d05a5f3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.CPU.CpuId</definition>
+        <argsstring></argsstring>
+        <name>CpuId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a46f0933a115043582379ed8845692090" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.CPU.Brand</definition>
+        <argsstring></argsstring>
+        <name>Brand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a64cd925d1ab719b2c4519d314c11ae7a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.CPU.Model</definition>
+        <argsstring></argsstring>
+        <name>Model</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a3b51ddcaba446375f2880e448d22d66f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.CPU.Cores</definition>
+        <argsstring></argsstring>
+        <name>Cores</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a4e09d178413e4af0f20b39f275f06591" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.CPU.HyperThreaded</definition>
+        <argsstring></argsstring>
+        <name>HyperThreaded</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a3b88315bd4c8d296807d3f38f6f705f8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double PCBuilderMVC.Models.CPU.ClockSpeed</definition>
+        <argsstring></argsstring>
+        <name>ClockSpeed</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1ad2e6b5def809796f3a7865ea0be5f22b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.CPU.Unlocked</definition>
+        <argsstring></argsstring>
+        <name>Unlocked</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a12d3226172e4f56916215600f3e396e5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.CPU.Socket</definition>
+        <argsstring></argsstring>
+        <name>Socket</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="35" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1adf3f7a5d8ab10033237a18ae9b68437c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.CPU.ProductLineName</definition>
+        <argsstring></argsstring>
+        <name>ProductLineName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="39" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a4061ea1754a5439a260d290f642d1eaf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.CPU.BenchmarkScore</definition>
+        <argsstring></argsstring>
+        <name>BenchmarkScore</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="41" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1ad2680d0499c84545de6787a7a185c7d8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.CPU.BestUse</definition>
+        <argsstring></argsstring>
+        <name>BestUse</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="45" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a8c71bc85082460aa45e7bc30bf90c477" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.CPU.PowerRequirement</definition>
+        <argsstring></argsstring>
+        <name>PowerRequirement</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="47" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a456c4cc415062456a8b8b3b1fc61b077" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal PCBuilderMVC.Models.CPU.Price</definition>
+        <argsstring></argsstring>
+        <name>Price</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="49" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u" kindref="compound">CPU</ref> view model class. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/CPU.cs" bodystart="13" bodyend="50"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a4061ea1754a5439a260d290f642d1eaf" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>BenchmarkScore</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1ad2680d0499c84545de6787a7a185c7d8" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>BestUse</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a46f0933a115043582379ed8845692090" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>Brand</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a3b88315bd4c8d296807d3f38f6f705f8" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>ClockSpeed</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a3b51ddcaba446375f2880e448d22d66f" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>Cores</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a990a746196bffb0de705df0e5d05a5f3" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>CpuId</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a4e09d178413e4af0f20b39f275f06591" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>HyperThreaded</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a64cd925d1ab719b2c4519d314c11ae7a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>Model</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a8c71bc85082460aa45e7bc30bf90c477" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>PowerRequirement</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a456c4cc415062456a8b8b3b1fc61b077" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>Price</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1adf3f7a5d8ab10033237a18ae9b68437c" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>ProductLineName</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1a12d3226172e4f56916215600f3e396e5" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>Socket</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u_1ad2e6b5def809796f3a7865ea0be5f22b" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::CPU</scope><name>Unlocked</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

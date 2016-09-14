@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_logic_1_1_user_manager">
+<title>BusinessLogic::UserManager class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; <link linkend="class_business_objects_1_1_user">User</link> &gt; <link linkend="class_business_logic_1_1_user_manager_1a3056179e2041b2022e1a28356188c288">GetUserList</link> (
+<link linkend="namespace_business_objects_1a640a4d136931381578aad0a180173cfc">Active</link> group)<para><emphasis>&lt;summary&gt;
+Gets the user list for all active users.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>int <link linkend="class_business_logic_1_1_user_manager_1a65be32ae93f260d00fc7d259470d8869">GetUserCount</link> (
+<link linkend="namespace_business_objects_1a640a4d136931381578aad0a180173cfc">Active</link> group)<para><emphasis>&lt;summary&gt;
+Gets the user count for all active users.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>bool <link linkend="class_business_logic_1_1_user_manager_1ab868aeac2dd021d3d230cceb099422c8">AddNewUser</link> (
+<link linkend="class_business_objects_1_1_user">User</link> usr)<para><emphasis>&lt;summary&gt;
+Adds a new user.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>bool <link linkend="class_business_logic_1_1_user_manager_1a58674010581be08d264cb486810c9de8">UpdateUserInformation</link> (
+<link linkend="class_business_objects_1_1_user">User</link> usr)<para><emphasis>&lt;summary&gt;
+Updates the user information.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>User manager with the job of talking to the database for user fields. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 17 of file UserManager.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>UserManager.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_logic_1_1_user_manager_1a3056179e2041b2022e1a28356188c288">
+                <title>List&lt;User&gt; BusinessLogic.UserManager.GetUserList (Active group)</title> <emphasis>&lt;summary&gt;
+Gets the user list for all active users.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>group</entry>
+                                <entry>
+<para>The group.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>List of Users.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>No records found.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_user_manager_1a65be32ae93f260d00fc7d259470d8869">
+                <title>int BusinessLogic.UserManager.GetUserCount (Active group=Active.active)</title> <emphasis>&lt;summary&gt;
+Gets the user count for all active users.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>group</entry>
+                                <entry>
+<para>The active status. Defaults to active if no value is passed.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Count of active users.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_user_manager_1ab868aeac2dd021d3d230cceb099422c8">
+                <title>bool BusinessLogic.UserManager.AddNewUser (User usr)</title> <emphasis>&lt;summary&gt;
+Adds a new user.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>usr</entry>
+                                <entry>
+<para>The user to be added.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Boolean result of the insert.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_user_manager_1a58674010581be08d264cb486810c9de8">
+                <title>bool BusinessLogic.UserManager.UpdateUserInformation (User usr)</title> <emphasis>&lt;summary&gt;
+Updates the user information.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>usr</entry>
+                                <entry>
+<para>The user to be updated.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Boolean result of the update.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Invalid userID or First name is too long. Maximum 50 characters. or Last name is too long.&apos; Maximum 50 characters. or Address is too long.&apos; Maximum 50 characters. or City name is too long.&apos; Maximum 50 characters. or User name is too long.&apos; Maximum 50 characters. or Email address is too long. Maximun 100 characters. </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

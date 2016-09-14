@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Controllers::QuestionnaireController</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Controller</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1a664b66f071710f84457bd129929b6777" prot="private" static="no" mutable="no">
+        <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref></type>
+        <definition>PCBuilderEntityModels PCBuilderMVC.Controllers.QuestionnaireController.db</definition>
+        <argsstring></argsstring>
+        <name>db</name>
+        <initializer>= new <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1ac7fd83d5be85d3faa104f769f459741e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.QuestionnaireController.Index</definition>
+        <argsstring>()</argsstring>
+        <name>Index</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" bodystart="24" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1aee74d3623a8572991d23e6718ea5cc23" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.QuestionnaireController.Create</definition>
+        <argsstring>()</argsstring>
+        <name>Create</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1a56e22d7a06a6dd75dca2244a994454da" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.QuestionnaireController.Create</definition>
+        <argsstring>([Bind(Include=&quot;QuestionnaireID,SldPerformance,ChkUseBasic,ChkUseVideoEdit,ChkUseGaming,ChkUseDevelopment,ChkUseOfficeModerate,RadResolution720,RadResolution1080,RadResolution4k,SldNumMonitors,SldStorageSize,RadSSD,RadHDD,RadRAMRecommended,RadRAMSelectManual,SldRamSize,SldNumCores,RadCaseSizeFull,RadCaseSizeMid,RadCaseSizeMicro,RadCaseSizeMini,RadCaseSizeConsole,RadBRBurner,RadBRReader,RadDVDBurner,RadOpticalNone&quot;)] QuestionnaireViewModel questionnaireViewModel)</argsstring>
+        <name>Create</name>
+        <param>
+          <attributes>[Bind(Include=&quot;QuestionnaireID,SldPerformance,ChkUseBasic,ChkUseVideoEdit,ChkUseGaming,ChkUseDevelopment,ChkUseOfficeModerate,RadResolution720,RadResolution1080,RadResolution4k,SldNumMonitors,SldStorageSize,RadSSD,RadHDD,RadRAMRecommended,RadRAMSelectManual,SldRamSize,SldNumCores,RadCaseSizeFull,RadCaseSizeMid,RadCaseSizeMicro,RadCaseSizeMini,RadCaseSizeConsole,RadBRBurner,RadBRReader,RadDVDBurner,RadOpticalNone&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model" kindref="compound">QuestionnaireViewModel</ref></type>
+          <declname>questionnaireViewModel</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" line="40" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" bodystart="40" bodyend="90"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1a8b20695629cea08ed178104f70efe939" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void PCBuilderMVC.Controllers.QuestionnaireController.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" line="92" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" bodystart="92" bodyend="99"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Questionnaire controller class to handle Questionnaire views interaction. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>System.Web.Mvc.Controller</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="217">
+        <label>PCBuilderMVC.Controllers.QuestionnaireController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller"/>
+        <childnode refid="218" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="218">
+        <label>Controller</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="222">
+        <label>DbContext</label>
+      </node>
+      <node id="219">
+        <label>PCBuilderMVC.Controllers.QuestionnaireController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller"/>
+        <childnode refid="220" relation="public-inheritance">
+        </childnode>
+        <childnode refid="221" relation="usage">
+          <edgelabel>db</edgelabel>
+        </childnode>
+      </node>
+      <node id="221">
+        <label>PCBuilderMVC.Models.PCBuilderEntityModels</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models"/>
+        <childnode refid="222" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="220">
+        <label>Controller</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/QuestionnaireController.cs" bodystart="19" bodyend="100"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1aee74d3623a8572991d23e6718ea5cc23" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::QuestionnaireController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1a56e22d7a06a6dd75dca2244a994454da" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::QuestionnaireController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1a664b66f071710f84457bd129929b6777" prot="private" virt="non-virtual"><scope>PCBuilderMVC::Controllers::QuestionnaireController</scope><name>db</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1a8b20695629cea08ed178104f70efe939" prot="protected" virt="non-virtual"><scope>PCBuilderMVC::Controllers::QuestionnaireController</scope><name>Dispose</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller_1ac7fd83d5be85d3faa104f769f459741e" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::QuestionnaireController</scope><name>Index</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_email_service">
+<title>PCBuilderMVC::EmailService class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Task <link linkend="class_p_c_builder_m_v_c_1_1_email_service_1a5edc6da9b4227c6f699f71c011c86621">SendAsync</link> (
+IdentityMessage message)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Creates an email service. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>Microsoft.AspNet.Identity.IIdentityMessageService</para>
+</formalpara>
+</para>
+                <para>Definition at line 78 of file IdentityConfig.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>IdentityConfig.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_email_service_1a5edc6da9b4227c6f699f71c011c86621">
+                <title>Task PCBuilderMVC.EmailService.SendAsync (IdentityMessage message)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

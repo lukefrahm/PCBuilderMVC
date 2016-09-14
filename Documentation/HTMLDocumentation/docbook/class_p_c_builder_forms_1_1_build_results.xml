@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_forms_1_1_build_results">
+<title>PCBuilderForms::BuildResults class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblCPUBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblGPUBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblMotherboardBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblOpticalBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblPSUBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblRAMBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStorageBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblCPUModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblGPUModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblMotherboardModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblOpticalModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblPSUModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblRAMModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStorageModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblCPUPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblGPUPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblMotherboardPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblOpticalPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblPSUPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblRAMPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStoragePrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblTotalPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>bool _contentLoaded</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_build_results_1a9c575c605cc69bafccc43687729b9f4c">InitializeComponent</link> (
+)<para><emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void System.Windows.Markup.IComponentConnector. <link linkend="class_p_c_builder_forms_1_1_build_results_1a6fa0ebd3e7f1d83778bdf6176cd88013">Connect</link> (
+int connectionId, object target)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_p_c_builder_forms_1_1_build_results">BuildResults</link> </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 41 of file BuildResults.g.i.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>BuildResults.g.i.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_forms_1_1_build_results_1a9c575c605cc69bafccc43687729b9f4c">
+                <title>void PCBuilderForms.BuildResults.InitializeComponent ()</title> <emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_build_results_1a6fa0ebd3e7f1d83778bdf6176cd88013">
+                <title>void System.Windows.Markup.IComponentConnector. PCBuilderForms.BuildResults.Connect (int connectionId, object target)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

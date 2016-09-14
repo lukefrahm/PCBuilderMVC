@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="properties__0_8js" kind="file" language="Javascript">
+    <compoundname>properties_0.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="properties__0_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;role&apos;,[&apos;Role&apos;,[&apos;../class_business_objects_1_1_roles.html#ac3d92844ec99b3c5d19117a5d110c1fd&apos;,1,&apos;<ref refid="class_business_objects_1_1_roles" kindref="compound">BusinessObjects::Roles</ref>&apos;]]]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/properties_0.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/properties_0.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;role&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Role&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_roles.html#ac3d92844ec99b3c5d19117a5d110c1fd&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects::Roles&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="4"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/properties_0.js"/>
+  </compounddef>
+</doxygen>

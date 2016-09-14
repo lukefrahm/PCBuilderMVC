@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="namespace_p_c_builder_m_v_c_1_1_migrations">
+<title>PCBuilderMVC::Migrations</title>
+        <section>
+            <title> Classes </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_migrations_1_1_configuration">PCBuilderMVC::Migrations::Configuration</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1">PCBuilderMVC::Migrations::dbupdate1</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create">PCBuilderMVC::Migrations::InitialCreate</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+</section>

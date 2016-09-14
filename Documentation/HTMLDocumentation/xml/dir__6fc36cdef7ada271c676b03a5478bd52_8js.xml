@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir__6fc36cdef7ada271c676b03a5478bd52_8js" kind="file" language="Javascript">
+    <compoundname>dir_6fc36cdef7ada271c676b03a5478bd52.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="dir__6fc36cdef7ada271c676b03a5478bd52_8js_1a8d56e1287784691180656bca16f0842f" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var dir_6fc36cdef7ada271c676b03a5478bd52</definition>
+        <argsstring></argsstring>
+        <name>dir_6fc36cdef7ada271c676b03a5478bd52</name>
+        <initializer>=
+[
+    [ &quot;AccountViewModels.cs&quot;, &quot;_account_view_models_8cs_source.html&quot;, null ],
+    [ &quot;AspNetRole.cs&quot;, &quot;_asp_net_role_8cs_source.html&quot;, null ],
+    [ &quot;AspNetUser.cs&quot;, &quot;_asp_net_user_8cs_source.html&quot;, null ],
+    [ &quot;AspNetUserClaim.cs&quot;, &quot;_asp_net_user_claim_8cs_source.html&quot;, null ],
+    [ &quot;AspNetUserLogin.cs&quot;, &quot;_asp_net_user_login_8cs_source.html&quot;, null ],
+    [ &quot;CPU.cs&quot;, &quot;_p_c_builder_m_v_c_2_models_2_c_p_u_8cs_source.html&quot;, null ],
+    [ &quot;FinalizedBuildViewModel.cs&quot;, &quot;_finalized_build_view_model_8cs_source.html&quot;, null ],
+    [ &quot;GPU.cs&quot;, &quot;_p_c_builder_m_v_c_2_models_2_g_p_u_8cs_source.html&quot;, null ],
+    [ &quot;IdentityModels.cs&quot;, &quot;_identity_models_8cs_source.html&quot;, null ],
+    [ &quot;Motherboard.cs&quot;, &quot;_p_c_builder_m_v_c_2_models_2_motherboard_8cs_source.html&quot;, null ],
+    [ &quot;Optical.cs&quot;, &quot;_p_c_builder_m_v_c_2_models_2_optical_8cs_source.html&quot;, null ],
+    [ &quot;PCBuilderEntityModels.cs&quot;, &quot;_p_c_builder_entity_models_8cs_source.html&quot;, null ],
+    [ &quot;PSU.cs&quot;, &quot;_p_c_builder_m_v_c_2_models_2_p_s_u_8cs_source.html&quot;, null ],
+    [ &quot;QuestionnaireViewModel.cs&quot;, &quot;_questionnaire_view_model_8cs_source.html&quot;, null ],
+    [ &quot;RAM.cs&quot;, &quot;_p_c_builder_m_v_c_2_models_2_r_a_m_8cs_source.html&quot;, null ],
+    [ &quot;Role.cs&quot;, &quot;_role_8cs_source.html&quot;, null ],
+    [ &quot;Storage.cs&quot;, &quot;_p_c_builder_m_v_c_2_models_2_storage_8cs_source.html&quot;, null ],
+    [ &quot;User.cs&quot;, &quot;_p_c_builder_m_v_c_2_models_2_user_8cs_source.html&quot;, null ],
+    [ &quot;Users.Context.cs&quot;, &quot;_users_8_context_8cs_source.html&quot;, null ],
+    [ &quot;Users.cs&quot;, &quot;_users_8cs_source.html&quot;, null ],
+    [ &quot;Users.Designer.cs&quot;, &quot;_users_8_designer_8cs_source.html&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_6fc36cdef7ada271c676b03a5478bd52.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_6fc36cdef7ada271c676b03a5478bd52.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>dir_6fc36cdef7ada271c676b03a5478bd52<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AccountViewModels.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_account_view_models_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetRole.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_asp_net_role_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetUser.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_asp_net_user_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetUserClaim.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_asp_net_user_claim_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetUserLogin.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_asp_net_user_login_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPU.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_c_builder_m_v_c_2_models_2_c_p_u_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FinalizedBuildViewModel.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_finalized_build_view_model_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPU.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_c_builder_m_v_c_2_models_2_g_p_u_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;IdentityModels.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_identity_models_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Motherboard.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_c_builder_m_v_c_2_models_2_motherboard_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Optical.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_c_builder_m_v_c_2_models_2_optical_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PCBuilderEntityModels.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_c_builder_entity_models_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSU.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_c_builder_m_v_c_2_models_2_p_s_u_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;QuestionnaireViewModel.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_questionnaire_view_model_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAM.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_c_builder_m_v_c_2_models_2_r_a_m_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Role.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_role_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Storage.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_c_builder_m_v_c_2_models_2_storage_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;User.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_c_builder_m_v_c_2_models_2_user_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Users.Context.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_users_8_context_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Users.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_users_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Users.Designer.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_users_8_designer_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="24"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_6fc36cdef7ada271c676b03a5478bd52.js"/>
+  </compounddef>
+</doxygen>

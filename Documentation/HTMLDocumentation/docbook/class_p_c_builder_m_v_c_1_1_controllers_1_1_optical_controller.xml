@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller">
+<title>PCBuilderMVC::Controllers::OpticalController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a19d91c5c0eb4c6db44a9b52e49caa15c">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a451e9a21abefe7878228c4af97e42fb4">Details</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1af5abe48aa5f880e392a1578c43e533a7">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a003bcc62793607ef4d4a79a7e821abcc">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_optical">Optical</link> optical)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1ad97768ce3483ae9d4407f55ac1825221">Edit</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a8a2ad0474ec18caed739167e1b535630">Edit</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_optical">Optical</link> optical)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a3ec1c51763dc146925d897e15fb3f33f">Delete</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1aa88c8083a1bb937c87dc99359495b4d3">DeleteConfirmed</link> (
+int id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a25e4700610f3e58e07a3ef2cfbe12330">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Optical drive controller class to handle Optical views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file OpticalController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>OpticalController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a19d91c5c0eb4c6db44a9b52e49caa15c">
+                <title>ActionResult PCBuilderMVC.Controllers.OpticalController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a451e9a21abefe7878228c4af97e42fb4">
+                <title>ActionResult PCBuilderMVC.Controllers.OpticalController.Details (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1af5abe48aa5f880e392a1578c43e533a7">
+                <title>ActionResult PCBuilderMVC.Controllers.OpticalController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a003bcc62793607ef4d4a79a7e821abcc">
+                <title>ActionResult PCBuilderMVC.Controllers.OpticalController.Create ([Bind(Include=&quot;OpticalId,Brand,Model,OpticalType,Price&quot;)] Optical optical)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1ad97768ce3483ae9d4407f55ac1825221">
+                <title>ActionResult PCBuilderMVC.Controllers.OpticalController.Edit (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a8a2ad0474ec18caed739167e1b535630">
+                <title>ActionResult PCBuilderMVC.Controllers.OpticalController.Edit ([Bind(Include=&quot;OpticalId,Brand,Model,OpticalType,Price&quot;)] Optical optical)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a3ec1c51763dc146925d897e15fb3f33f">
+                <title>ActionResult PCBuilderMVC.Controllers.OpticalController.Delete (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1aa88c8083a1bb937c87dc99359495b4d3">
+                <title>ActionResult PCBuilderMVC.Controllers.OpticalController.DeleteConfirmed (int id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a25e4700610f3e58e07a3ef2cfbe12330">
+                <title>override void PCBuilderMVC.Controllers.OpticalController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

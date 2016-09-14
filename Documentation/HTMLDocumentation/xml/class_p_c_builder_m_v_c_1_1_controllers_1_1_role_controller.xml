@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Controllers::RoleController</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Controller</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a80a5f7cc23a5d4f5b44003861bc251c0" prot="private" static="no" mutable="no">
+        <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref></type>
+        <definition>PCBuilderEntityModels PCBuilderMVC.Controllers.RoleController.db</definition>
+        <argsstring></argsstring>
+        <name>db</name>
+        <initializer>= new <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a539d1b8b95c8cce64e2e6191070ab4f1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.RoleController.Index</definition>
+        <argsstring>()</argsstring>
+        <name>Index</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="22" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a622d75d4760677d73ecef02d8b7e4112" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.RoleController.Details</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Details</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="28" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1ac7d1a9619975e3e734535a104731fab4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.RoleController.Create</definition>
+        <argsstring>()</argsstring>
+        <name>Create</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a380152084b9a7911121f64f4c7890c53" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.RoleController.Create</definition>
+        <argsstring>([Bind(Include=&quot;RoleId,RoleName,RoleDescription&quot;)] Role role)</argsstring>
+        <name>Create</name>
+        <param>
+          <attributes>[Bind(Include=&quot;RoleId,RoleName,RoleDescription&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_role" kindref="compound">Role</ref></type>
+          <declname>role</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="53" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="53" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1acfe183da8623b0e5ceaa1e345b78c83f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.RoleController.Edit</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Edit</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="66" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="66" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a7726bbef911a2d11d6dd051a1ad336be" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.RoleController.Edit</definition>
+        <argsstring>([Bind(Include=&quot;RoleId,RoleName,RoleDescription&quot;)] Role role)</argsstring>
+        <name>Edit</name>
+        <param>
+          <attributes>[Bind(Include=&quot;RoleId,RoleName,RoleDescription&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_role" kindref="compound">Role</ref></type>
+          <declname>role</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="85" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="85" bodyend="94"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a9b8397f06d1f42fa5aca85d14d9ac8cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.RoleController.Delete</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Delete</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="97" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="97" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a9f7f7bd802c01e7fd33c2d5b14b7ca3e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.RoleController.DeleteConfirmed</definition>
+        <argsstring>(int id)</argsstring>
+        <name>DeleteConfirmed</name>
+        <param>
+          <type>int</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="114" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="114" bodyend="120"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a6c4e2e6ec3e29a8c899cd71da1450150" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void PCBuilderMVC.Controllers.RoleController.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="122" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="122" bodyend="129"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Role controller class to handle Role views interaction. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>System.Web.Mvc.Controller</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="247">
+        <label>PCBuilderMVC.Controllers.RoleController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller"/>
+        <childnode refid="248" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="248">
+        <label>Controller</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="252">
+        <label>DbContext</label>
+      </node>
+      <node id="249">
+        <label>PCBuilderMVC.Controllers.RoleController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller"/>
+        <childnode refid="250" relation="public-inheritance">
+        </childnode>
+        <childnode refid="251" relation="usage">
+          <edgelabel>db</edgelabel>
+        </childnode>
+      </node>
+      <node id="251">
+        <label>PCBuilderMVC.Models.PCBuilderEntityModels</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models"/>
+        <childnode refid="252" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="250">
+        <label>Controller</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/RoleController.cs" bodystart="17" bodyend="130"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1ac7d1a9619975e3e734535a104731fab4" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::RoleController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a380152084b9a7911121f64f4c7890c53" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::RoleController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a80a5f7cc23a5d4f5b44003861bc251c0" prot="private" virt="non-virtual"><scope>PCBuilderMVC::Controllers::RoleController</scope><name>db</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a9b8397f06d1f42fa5aca85d14d9ac8cf" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::RoleController</scope><name>Delete</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a9f7f7bd802c01e7fd33c2d5b14b7ca3e" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::RoleController</scope><name>DeleteConfirmed</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a622d75d4760677d73ecef02d8b7e4112" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::RoleController</scope><name>Details</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a6c4e2e6ec3e29a8c899cd71da1450150" prot="protected" virt="non-virtual"><scope>PCBuilderMVC::Controllers::RoleController</scope><name>Dispose</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1acfe183da8623b0e5ceaa1e345b78c83f" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::RoleController</scope><name>Edit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a7726bbef911a2d11d6dd051a1ad336be" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::RoleController</scope><name>Edit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a539d1b8b95c8cce64e2e6191070ab4f1" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::RoleController</scope><name>Index</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

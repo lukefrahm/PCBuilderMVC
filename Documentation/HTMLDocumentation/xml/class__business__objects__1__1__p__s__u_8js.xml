@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__p__s__u_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_p_s_u.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__p__s__u_8js_1a817f736c20341180f4710f206c88fac3" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_p_s_u</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_p_s_u</name>
+        <initializer>=
+[
+    [ &quot;PSU&quot;, &quot;class_business_objects_1_1_p_s_u.html#a797da5110778eadc6ae1770b7b6fa1f7&quot;, null ],
+    [ &quot;PSU&quot;, &quot;class_business_objects_1_1_p_s_u.html#ae552ae19d45745f5a7b3138e80309fd3&quot;, null ],
+    [ &quot;Brand&quot;, &quot;class_business_objects_1_1_p_s_u.html#a21529fd3e98dcae4c9b169d3324a083b&quot;, null ],
+    [ &quot;Efficiency&quot;, &quot;class_business_objects_1_1_p_s_u.html#a10bfc5e78c2ef86a33b947dd1578aae2&quot;, null ],
+    [ &quot;Model&quot;, &quot;class_business_objects_1_1_p_s_u.html#a61151c4df983466da3f88f255bfab7b8&quot;, null ],
+    [ &quot;Price&quot;, &quot;class_business_objects_1_1_p_s_u.html#a9384364baec19b5b9205133831945c2e&quot;, null ],
+    [ &quot;PsuId&quot;, &quot;class_business_objects_1_1_p_s_u.html#ab1c703d2846b1b7a0bd1c62f918aabef&quot;, null ],
+    [ &quot;Wattage&quot;, &quot;class_business_objects_1_1_p_s_u.html#a9daaba69d8ef52adeb86bc89d0aa6a4d&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_p_s_u.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_p_s_u.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_p_s_u<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSU&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_p_s_u.html#a797da5110778eadc6ae1770b7b6fa1f7&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSU&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_p_s_u.html#ae552ae19d45745f5a7b3138e80309fd3&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Brand&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_p_s_u.html#a21529fd3e98dcae4c9b169d3324a083b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Efficiency&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_p_s_u.html#a10bfc5e78c2ef86a33b947dd1578aae2&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Model&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_p_s_u.html#a61151c4df983466da3f88f255bfab7b8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_p_s_u.html#a9384364baec19b5b9205133831945c2e&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PsuId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_p_s_u.html#ab1c703d2846b1b7a0bd1c62f918aabef&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Wattage&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_p_s_u.html#a9daaba69d8ef52adeb86bc89d0aa6a4d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="11"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_p_s_u.js"/>
+  </compounddef>
+</doxygen>

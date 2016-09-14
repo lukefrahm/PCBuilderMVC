@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace_p_c_builder_m_v_c_1_1_controllers" kind="namespace" language="C#">
+    <compoundname>PCBuilderMVC::Controllers</compoundname>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller" prot="public">PCBuilderMVC::Controllers::AccountController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_administration_controller" prot="public">PCBuilderMVC::Controllers::AdministrationController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller" prot="public">PCBuilderMVC::Controllers::CPUController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller" prot="public">PCBuilderMVC::Controllers::FinalizedBuildController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller" prot="public">PCBuilderMVC::Controllers::GPUController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller" prot="public">PCBuilderMVC::Controllers::HomeController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller" prot="public">PCBuilderMVC::Controllers::MotherboardController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller" prot="public">PCBuilderMVC::Controllers::OpticalController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller" prot="public">PCBuilderMVC::Controllers::PSUController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller" prot="public">PCBuilderMVC::Controllers::QuestionnaireController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller" prot="public">PCBuilderMVC::Controllers::RAMController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller" prot="public">PCBuilderMVC::Controllers::RoleController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller" prot="public">PCBuilderMVC::Controllers::StorageController</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller" prot="public">PCBuilderMVC::Controllers::UserController</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" line="16" column="1"/>
+  </compounddef>
+</doxygen>

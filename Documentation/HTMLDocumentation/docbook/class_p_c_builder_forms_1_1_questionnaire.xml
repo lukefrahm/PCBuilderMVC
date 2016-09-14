@@ -1,0 +1,703 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_forms_1_1_questionnaire">
+<title>PCBuilderForms::Questionnaire class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Slider sldPerformance</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblPerformance</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblAppxDollarsLabel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblAppxDollars</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblUse</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.CheckBox chkUseBasic</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.CheckBox chkUseVideoEdit</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.CheckBox chkUseGaming</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.CheckBox chkUseDevelopment</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.CheckBox chkUseOfficeModerate</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TextBlock lblBudgetNotice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnAccept</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnReset</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnCancel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Slider sldStorageSize</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStorageSizeLabel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStorageSize</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStorageSizeGB</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStorageType</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.GroupBox grpStorageType</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radSSD</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radHDD</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.GroupBox grpRAMChoices</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radRAMRecommended</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radRAMSelectManual</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Slider sldRamSize</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblManualRamSelect</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblManualRamSelectLabel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Slider sldNumCores</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblNumCoresLabel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblNumCores</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.GroupBox grpCaseSize</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radCaseSizeFull</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radCaseSizeMid</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radCaseSizeMicro</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radCaseSizeMini</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radCaseSizeConsole</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.GroupBox grpOptical</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radBRBurner</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radBRReader</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radDVDBurner</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.RadioButton radOpticalNone</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>bool _contentLoaded</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_questionnaire_1a89db3c8c78b52416caa22372430d1e6e">InitializeComponent</link> (
+)<para><emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_questionnaire_1a89db3c8c78b52416caa22372430d1e6e">InitializeComponent</link> (
+)<para><emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_forms_1_1_questionnaire_1a8adf8b22d2427f03949f3df37f99ce2d">Questionnaire</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Questionnaire&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void System.Windows.Markup.IComponentConnector. <link linkend="class_p_c_builder_forms_1_1_questionnaire_1af04ecdbdb6d1206ff7b04627ea55c08e">Connect</link> (
+int connectionId, object target)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void System.Windows.Markup.IComponentConnector. <link linkend="class_p_c_builder_forms_1_1_questionnaire_1af04ecdbdb6d1206ff7b04627ea55c08e">Connect</link> (
+int connectionId, object target)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_questionnaire_1a4c5659e3c84f9eb08287fa86ad3a4684">sldPerformance_ValueChanged</link> (
+object sender, RoutedPropertyChangedEventArgs&lt; double &gt; e)<para><emphasis>&lt;summary&gt;
+Handles the ValueChanged event of the sldPerformance control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_questionnaire_1abd5934363e01fc284501e7dca14cf0e1">radRAMSelectManual_Checked</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Checked event of the radRAMSelectManual control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_questionnaire_1aafa36d5d99af61aec682aadc59f6b6b7">radRAMSelectManual_Unchecked</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Unchecked event of the radRAMSelectManual control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_questionnaire_1a95e76d557be209143133d97d71e40bdd">btnReset_Click</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Click event of the btnReset control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_questionnaire_1a21b5d339c61d10bdc83bdac62cebccd6">btnCancel_Click</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Click event of the btnCancel control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_questionnaire_1a57d92628463485e31d68831240f1a97d">ResetForm</link> (
+)<para><emphasis>&lt;summary&gt;
+Resets the form.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_questionnaire_1a2000ae75279c69732241fe71e4b66b89">btnAccept_Click</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Click event of the btnAccept control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_p_c_builder_forms_1_1_questionnaire">Questionnaire</link> </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para>Interaction logic for Questionnaire.xaml </para>
+                <para>Definition at line 41 of file Questionnaire.g.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>Questionnaire.g.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1a89db3c8c78b52416caa22372430d1e6e">
+                <title>void PCBuilderForms.Questionnaire.InitializeComponent ()</title> <emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1a89db3c8c78b52416caa22372430d1e6e">
+                <title>void PCBuilderForms.Questionnaire.InitializeComponent ()</title> <emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1a8adf8b22d2427f03949f3df37f99ce2d">
+                <title>PCBuilderForms.Questionnaire.Questionnaire ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Questionnaire&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1af04ecdbdb6d1206ff7b04627ea55c08e">
+                <title>void System.Windows.Markup.IComponentConnector. PCBuilderForms.Questionnaire.Connect (int connectionId, object target)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1af04ecdbdb6d1206ff7b04627ea55c08e">
+                <title>void System.Windows.Markup.IComponentConnector. PCBuilderForms.Questionnaire.Connect (int connectionId, object target)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1a4c5659e3c84f9eb08287fa86ad3a4684">
+                <title>void PCBuilderForms.Questionnaire.sldPerformance_ValueChanged (object sender, RoutedPropertyChangedEventArgs&lt; double &gt; e)</title> <emphasis>&lt;summary&gt;
+Handles the ValueChanged event of the sldPerformance control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedPropertyChangedEventArgs&lt;System.Double&gt; instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1abd5934363e01fc284501e7dca14cf0e1">
+                <title>void PCBuilderForms.Questionnaire.radRAMSelectManual_Checked (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Checked event of the radRAMSelectManual control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1aafa36d5d99af61aec682aadc59f6b6b7">
+                <title>void PCBuilderForms.Questionnaire.radRAMSelectManual_Unchecked (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Unchecked event of the radRAMSelectManual control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1a95e76d557be209143133d97d71e40bdd">
+                <title>void PCBuilderForms.Questionnaire.btnReset_Click (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Click event of the btnReset control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1a21b5d339c61d10bdc83bdac62cebccd6">
+                <title>void PCBuilderForms.Questionnaire.btnCancel_Click (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Click event of the btnCancel control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1a57d92628463485e31d68831240f1a97d">
+                <title>void PCBuilderForms.Questionnaire.ResetForm ()</title> <emphasis>&lt;summary&gt;
+Resets the form.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_questionnaire_1a2000ae75279c69732241fe71e4b66b89">
+                <title>void PCBuilderForms.Questionnaire.btnAccept_Click (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Click event of the btnAccept control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

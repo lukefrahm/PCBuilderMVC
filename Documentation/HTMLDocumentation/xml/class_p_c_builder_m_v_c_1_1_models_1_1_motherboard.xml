@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::Motherboard</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1adc616659ca7e2381b59c71e282f32b0c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.MotherboardId</definition>
+        <argsstring></argsstring>
+        <name>MotherboardId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a45b69456d5d3fb16a0714bd0097f48eb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Motherboard.Brand</definition>
+        <argsstring></argsstring>
+        <name>Brand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a8726c74436e9d6e99b3f57c4641e6bdf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Motherboard.Model</definition>
+        <argsstring></argsstring>
+        <name>Model</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1aa6d3f08365a197f5c1ea6e32e70d91db" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Motherboard.Socket</definition>
+        <argsstring></argsstring>
+        <name>Socket</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a965931a786ee5851dfc785af9a24758b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Motherboard.Chipset</definition>
+        <argsstring></argsstring>
+        <name>Chipset</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1ad41711e748f857b8ffa76e1dc503b102" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.MaxRam</definition>
+        <argsstring></argsstring>
+        <name>MaxRam</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="33" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1afb2a80f80dc4e1a866f3d84ad522f85b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.RamType</definition>
+        <argsstring></argsstring>
+        <name>RamType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="35" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a410560eef623e4a1ac230d821cc5d072" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Motherboard.FormFactor</definition>
+        <argsstring></argsstring>
+        <name>FormFactor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="39" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a738dba6282460d5ebbd52461d59454b8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.SataPorts</definition>
+        <argsstring></argsstring>
+        <name>SataPorts</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="41" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1ac88c0c446e9daf8aca9934ca032fb2ba" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.M2Slots</definition>
+        <argsstring></argsstring>
+        <name>M2Slots</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a031591b73fd5df48be5fadf0557f52eb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.PowerPhases</definition>
+        <argsstring></argsstring>
+        <name>PowerPhases</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="45" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a75ae40158f3d558cb32db2ea1d6393b5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.FanHeaders</definition>
+        <argsstring></argsstring>
+        <name>FanHeaders</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="47" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a4a083ef2b68cd380c35ed521dce60774" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.Pcie8</definition>
+        <argsstring></argsstring>
+        <name>Pcie8</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="49" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a9eaebf0ccba2a9a479dd5d8c2987d43a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.Pcie4</definition>
+        <argsstring></argsstring>
+        <name>Pcie4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="51" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a099818136af0a7b41a83857de04d4356" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.Pcie1</definition>
+        <argsstring></argsstring>
+        <name>Pcie1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="53" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a46ddeb94a1f5c767106ab10abef5977a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Motherboard.Pci</definition>
+        <argsstring></argsstring>
+        <name>Pci</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="55" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a0586a52b1a3f77980186217e9e8a8b4d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal PCBuilderMVC.Models.Motherboard.Price</definition>
+        <argsstring></argsstring>
+        <name>Price</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="57" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard" kindref="compound">Motherboard</ref> view model class. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Motherboard.cs" bodystart="13" bodyend="58"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a45b69456d5d3fb16a0714bd0097f48eb" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>Brand</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a965931a786ee5851dfc785af9a24758b" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>Chipset</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a75ae40158f3d558cb32db2ea1d6393b5" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>FanHeaders</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a410560eef623e4a1ac230d821cc5d072" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>FormFactor</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1ac88c0c446e9daf8aca9934ca032fb2ba" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>M2Slots</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1ad41711e748f857b8ffa76e1dc503b102" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>MaxRam</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a8726c74436e9d6e99b3f57c4641e6bdf" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>Model</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1adc616659ca7e2381b59c71e282f32b0c" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>MotherboardId</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a46ddeb94a1f5c767106ab10abef5977a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>Pci</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a099818136af0a7b41a83857de04d4356" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>Pcie1</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a9eaebf0ccba2a9a479dd5d8c2987d43a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>Pcie4</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a4a083ef2b68cd380c35ed521dce60774" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>Pcie8</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a031591b73fd5df48be5fadf0557f52eb" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>PowerPhases</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a0586a52b1a3f77980186217e9e8a8b4d" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>Price</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1afb2a80f80dc4e1a866f3d84ad522f85b" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>RamType</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1a738dba6282460d5ebbd52461d59454b8" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>SataPorts</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard_1aa6d3f08365a197f5c1ea6e32e70d91db" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Motherboard</scope><name>Socket</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

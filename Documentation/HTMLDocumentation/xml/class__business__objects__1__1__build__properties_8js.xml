@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__build__properties_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_build_properties.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__build__properties_8js_1ad31a1b724e27805e64f659a61cf8a7b9" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_build_properties</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_build_properties</name>
+        <initializer>=
+[
+    [ &quot;CPUBudget&quot;, &quot;class_business_objects_1_1_build_properties.html#ad47af7204e41617b511c28fe51bb2768&quot;, null ],
+    [ &quot;GPUBudget&quot;, &quot;class_business_objects_1_1_build_properties.html#ae0f7d3ad79d4d78b73dba502a0f82147&quot;, null ],
+    [ &quot;MotherboardBudget&quot;, &quot;class_business_objects_1_1_build_properties.html#a38e2be70d3a2a5cddb453c94132dbeaf&quot;, null ],
+    [ &quot;OpticalBudget&quot;, &quot;class_business_objects_1_1_build_properties.html#a69dd67f21573074f826cafc40ecc5bb6&quot;, null ],
+    [ &quot;PSUBudget&quot;, &quot;class_business_objects_1_1_build_properties.html#abe6c1bb5085fe3d404fadfe9ab48b5fe&quot;, null ],
+    [ &quot;RAMBudget&quot;, &quot;class_business_objects_1_1_build_properties.html#a43c5545428656e0f07cd3fa6674abace&quot;, null ],
+    [ &quot;StorageBudget&quot;, &quot;class_business_objects_1_1_build_properties.html#a4c0a340000beda0f71bb35bf7ba7ee3a&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_build_properties.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_build_properties.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_build_properties<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPUBudget&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_build_properties.html#ad47af7204e41617b511c28fe51bb2768&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPUBudget&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_build_properties.html#ae0f7d3ad79d4d78b73dba502a0f82147&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MotherboardBudget&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_build_properties.html#a38e2be70d3a2a5cddb453c94132dbeaf&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;OpticalBudget&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_build_properties.html#a69dd67f21573074f826cafc40ecc5bb6&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSUBudget&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_build_properties.html#abe6c1bb5085fe3d404fadfe9ab48b5fe&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAMBudget&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_build_properties.html#a43c5545428656e0f07cd3fa6674abace&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StorageBudget&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_build_properties.html#a4c0a340000beda0f71bb35bf7ba7ee3a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="10"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_build_properties.js"/>
+  </compounddef>
+</doxygen>

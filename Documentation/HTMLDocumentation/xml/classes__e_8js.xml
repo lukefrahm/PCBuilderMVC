@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="classes__e_8js" kind="file" language="Javascript">
+    <compoundname>classes_e.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="classes__e_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;ram&apos;,[&apos;RAM&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html&apos;,1,&apos;PCBuilderMVC::Models&apos;]]],
+  [&apos;ram&apos;,[&apos;RAM&apos;,[&apos;../class_business_objects_1_1_r_a_m.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;ramaccessor&apos;,[&apos;RAMAccessor&apos;,[&apos;../class_data_access_1_1_r_a_m_accessor.html&apos;,1,&apos;DataAccess&apos;]]],
+  [&apos;ramcontroller&apos;,[&apos;RAMController&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller.html&apos;,1,&apos;PCBuilderMVC::Controllers&apos;]]],
+  [&apos;registerviewmodel&apos;,[&apos;RegisterViewModel&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_register_view_model.html&apos;,1,&apos;PCBuilderMVC::Models&apos;]]],
+  [&apos;resetpasswordviewmodel&apos;,[&apos;ResetPasswordViewModel&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_reset_password_view_model.html&apos;,1,&apos;PCBuilderMVC::Models&apos;]]],
+  [&apos;role&apos;,[&apos;Role&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_role.html&apos;,1,&apos;PCBuilderMVC::Models&apos;]]],
+  [&apos;rolecontroller&apos;,[&apos;RoleController&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller.html&apos;,1,&apos;PCBuilderMVC::Controllers&apos;]]],
+  [&apos;roles&apos;,[&apos;Roles&apos;,[&apos;../class_business_objects_1_1_roles.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;routeconfig&apos;,[&apos;RouteConfig&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_route_config.html&apos;,1,&apos;PCBuilderMVC&apos;]]]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/classes_e.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/classes_e.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;ram&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;RAM&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Models&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;ram&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;RAM&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_r_a_m.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;ramaccessor&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;RAMAccessor&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_data_access_1_1_r_a_m_accessor.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;DataAccess&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;ramcontroller&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;RAMController&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Controllers&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;registerviewmodel&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;RegisterViewModel&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_register_view_model.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Models&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;resetpasswordviewmodel&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;ResetPasswordViewModel&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_reset_password_view_model.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Models&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;role&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Role&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_role.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Models&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;rolecontroller&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;RoleController&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Controllers&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;roles&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Roles&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_roles.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;routeconfig&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;RouteConfig&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_route_config.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="13"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/classes_e.js"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create">
+<title>PCBuilderMVC::Migrations::InitialCreate class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>readonly ResourceManager Resources</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create_1ae19a5b764e8e812350c7ed3235ddd828">Up</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create_1aa37b4ae0ed69ba9868659227304c67c1">Down</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create_1ae19a5b764e8e812350c7ed3235ddd828">
+                <title>override void PCBuilderMVC.Migrations.InitialCreate.Up ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create_1aa37b4ae0ed69ba9868659227304c67c1">
+                <title>override void PCBuilderMVC.Migrations.InitialCreate.Down ()</title> <emphasis></emphasis>
+                
+            </section>
+</section>

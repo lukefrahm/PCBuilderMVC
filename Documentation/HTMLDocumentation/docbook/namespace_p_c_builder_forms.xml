@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="namespace_p_c_builder_forms">
+<title>PCBuilderForms</title>
+        <section>
+            <title> Classes </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_forms_1_1_app">PCBuilderForms::App</link></para>
+<para><emphasis>&lt;summary&gt;
+Interaction logic for App.xaml
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_forms_1_1_build_results">PCBuilderForms::BuildResults</link></para>
+<para><emphasis>&lt;summary&gt;
+BuildResults
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_forms_1_1_log_in">PCBuilderForms::LogIn</link></para>
+<para><emphasis>&lt;summary&gt;
+Interaction logic for LogIn.xaml
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_forms_1_1_main_window">PCBuilderForms::MainWindow</link></para>
+<para><emphasis>&lt;summary&gt;
+Interaction logic for MainWindow.xaml
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_forms_1_1_questionnaire">PCBuilderForms::Questionnaire</link></para>
+<para><emphasis>&lt;summary&gt;
+Questionnaire
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_forms_1_1_window1">PCBuilderForms::Window1</link></para>
+<para><emphasis>&lt;summary&gt;
+Window1
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <simplesect>
+            <title> Namespaces </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="namespace_p_c_builder_forms_1_1_properties">PCBuilderForms::Properties</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </simplesect>
+</section>

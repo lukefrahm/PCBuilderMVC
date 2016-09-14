@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::AspNetUserLogin</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login_1afd4bba05697f6059c5bb725cfe67b8e8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUserLogin.LoginProvider</definition>
+        <argsstring></argsstring>
+        <name>LoginProvider</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserLogin.cs" line="13" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserLogin.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login_1a97e4012d80f0f5ae777ec65d088775be" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUserLogin.ProviderKey</definition>
+        <argsstring></argsstring>
+        <name>ProviderKey</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserLogin.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserLogin.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login_1a2859dab3356abc6d968042cc40de395a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUserLogin.UserId</definition>
+        <argsstring></argsstring>
+        <name>UserId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserLogin.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserLogin.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login_1a160b1f3b2b2cfdb125c218180df57bec" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user" kindref="compound">AspNetUser</ref></type>
+        <definition>virtual AspNetUser PCBuilderMVC.Models.AspNetUserLogin.AspNetUser</definition>
+        <argsstring></argsstring>
+        <name>AspNetUser</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserLogin.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserLogin.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserLogin.cs" line="10" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUserLogin.cs" bodystart="9" bodyend="24"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login_1a160b1f3b2b2cfdb125c218180df57bec" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUserLogin</scope><name>AspNetUser</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login_1afd4bba05697f6059c5bb725cfe67b8e8" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUserLogin</scope><name>LoginProvider</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login_1a97e4012d80f0f5ae777ec65d088775be" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUserLogin</scope><name>ProviderKey</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login_1a2859dab3356abc6d968042cc40de395a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUserLogin</scope><name>UserId</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

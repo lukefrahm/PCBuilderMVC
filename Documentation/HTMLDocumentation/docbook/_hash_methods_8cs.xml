@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_hash_methods_8cs">
+    <title>HashMethods.cs File Reference</title>
+        <section>
+            <title> Classes </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_logic_1_1_hash_methods">BusinessLogic::HashMethods</link></para>
+<para><emphasis>&lt;summary&gt;
+Hash method class containing the Sha256 hashing method.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <simplesect>
+            <title> Namespaces </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="namespace_business_logic">BusinessLogic</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="namespace_system_1_1_security_1_1_cryptography">System::Security::Cryptography</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </simplesect>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/HashMethods.cs</para>
+    </simplesect>
+</section>

@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller">
+<title>PCBuilderMVC::Controllers::AccountController class Reference</title>
+        <section>
+            <title> Classes </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result">PCBuilderMVC::Controllers::AccountController::ChallengeResult</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                            <para><literallayout>enum <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad3692d193cfffaef23c5b0b72b7b69ab">ManageMessageId</link> {
+<link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad3692d193cfffaef23c5b0b72b7b69aba0053618c57496fec45c67daf91919394">ChangePasswordSuccess</link>,
+<link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad3692d193cfffaef23c5b0b72b7b69abaf17ca72fcf8adaa46d5e87b12ec3a27d">SetPasswordSuccess</link>,
+<link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad3692d193cfffaef23c5b0b72b7b69aba46e53931d0e837638a46368b2b04ba6a">RemoveLoginSuccess</link>,
+<link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad3692d193cfffaef23c5b0b72b7b69aba902b0d55fddef6f8d651fe1035b7d4bd">Error</link>
+}</literallayout>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ApplicationUserManager _userManager</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>const string XsrfKey</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1adfd9098572de6653b5de32295891cb71">AccountController</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a3df29313acdd6591b5873bb9bdb67b71">AccountController</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_application_user_manager">ApplicationUserManager</link> userManager)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ae380c072ed2c6c2f2aa3ec143d06069a">Login</link> (
+string returnUrl)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ActionResult &gt; <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ae54dbd2be5908155b37a0c7a76bb022d">Login</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_login_view_model">LoginViewModel</link> model, string returnUrl)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a92aa1b746f1a5607e2667ce98f2efed9">Register</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ActionResult &gt; <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1abc856a6c8ee0bd33cff9bacee36fedfe">Register</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_register_view_model">RegisterViewModel</link> model)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ActionResult &gt; <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a6aed0b4d63a8ff3d35b1428451a15e7b">ConfirmEmail</link> (
+string userId, string code)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a9123201fc1ab48128f5218abb3d859e0">ForgotPassword</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ActionResult &gt; <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad2776ab9d0b98fe8256c12d86037ddb2">ForgotPassword</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_forgot_password_view_model">ForgotPasswordViewModel</link> model)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a75d016c3002e245b36c3530a92d8afad">ForgotPasswordConfirmation</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a8cf1eea1c767332f70226c31874e1321">ResetPassword</link> (
+string code)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ActionResult &gt; <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a785e97b23ad2b5effd37c12719597b03">ResetPassword</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_reset_password_view_model">ResetPasswordViewModel</link> model)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a74560e996a058eeda093d161a141c916">ResetPasswordConfirmation</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ActionResult &gt; <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a951282fe09539493acc5e0ac701125c5">Disassociate</link> (
+string loginProvider, string providerKey)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a9e62c1f787a32d28bd36d95684aec9fc">Manage</link> (
+ManageMessageId? message)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ActionResult &gt; <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1aa54468166a91284e9ab801c6c93735be">Manage</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_manage_user_view_model">ManageUserViewModel</link> model)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a7b9f58ec5691d7e5432aa85caabdce1a">ExternalLogin</link> (
+string provider, string returnUrl)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ActionResult &gt; <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1aca010e9588956c6fcf9fd40992f8a9d5">ExternalLoginCallback</link> (
+string returnUrl)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1af4463ae5ae9ebdd71a7921459241af89">LinkLogin</link> (
+string provider)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ActionResult &gt; <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a5464ab822361c3aae7ea11b71afb2833">LinkLoginCallback</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task&lt; ActionResult &gt; <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a3e8a615f61a8cb1260ad3d1eeec2aa41">ExternalLoginConfirmation</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model">ExternalLoginConfirmationViewModel</link> model, string returnUrl)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a1e8962ce6f6e6b413c0e4aa54ee8ff4e">LogOff</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a98f2769b65d47f2eecf8de39e891a477">ExternalLoginFailure</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1aacd25e3088db5d4fa258f686eb71c299">RemoveAccountList</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a61fac6a43b44896e9ed7879a51a1c487">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>async Task <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1afb3adb4d6e2dd57c0551e4853abd26fe">SignInAsync</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_application_user">ApplicationUser</link> user, bool isPersistent)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a6ebea49c8114af9e18f742c7f57ce7a6">AddErrors</link> (
+IdentityResult result)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>bool <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a0520a211ff47b1b31296215a75b2edd8">HasPassword</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a21e5ebc02425bba4b3d2eef5bc47447a">SendEmail</link> (
+string email, string callbackUrl, string subject, string message)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a68ee6edabbc6c6090bd29c59797e0e0c">RedirectToLocal</link> (
+string returnUrl)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Account controller to handle Account views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 23 of file AccountController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>AccountController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad3692d193cfffaef23c5b0b72b7b69ab">
+               <title>enum ManageMessageId </title>
+               
+               <formalpara>
+                    <title>Enumerator:</title>
+                    <variablelist>
+                        <varlistentry xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad3692d193cfffaef23c5b0b72b7b69aba0053618c57496fec45c67daf91919394">
+                            <term>ChangePasswordSuccess</term>
+                            <listitem>
+                                <para></para>
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad3692d193cfffaef23c5b0b72b7b69abaf17ca72fcf8adaa46d5e87b12ec3a27d">
+                            <term>SetPasswordSuccess</term>
+                            <listitem>
+                                <para></para>
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad3692d193cfffaef23c5b0b72b7b69aba46e53931d0e837638a46368b2b04ba6a">
+                            <term>RemoveLoginSuccess</term>
+                            <listitem>
+                                <para></para>
+                            </listitem>
+                        </varlistentry>
+                        <varlistentry xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad3692d193cfffaef23c5b0b72b7b69aba902b0d55fddef6f8d651fe1035b7d4bd">
+                            <term>Error</term>
+                            <listitem>
+                                <para></para>
+                            </listitem>
+                        </varlistentry>
+                     </variablelist>
+                </formalpara>
+                <para>Definition at line 515 of file AccountController.cs
+                    <computeroutput><literallayout>
+{
+ChangePasswordSuccess, 
+SetPasswordSuccess, 
+RemoveLoginSuccess, 
+Error, 
+}ManageMessageId;
+                    </literallayout></computeroutput>
+                </para>
+            </section>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1adfd9098572de6653b5de32295891cb71">
+                <title>PCBuilderMVC.Controllers.AccountController.AccountController ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a3df29313acdd6591b5873bb9bdb67b71">
+                <title>PCBuilderMVC.Controllers.AccountController.AccountController (ApplicationUserManager userManager)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ae380c072ed2c6c2f2aa3ec143d06069a">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.Login (string returnUrl)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ae54dbd2be5908155b37a0c7a76bb022d">
+                <title>async Task&lt;ActionResult&gt; PCBuilderMVC.Controllers.AccountController.Login (LoginViewModel model, string returnUrl)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a92aa1b746f1a5607e2667ce98f2efed9">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.Register ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1abc856a6c8ee0bd33cff9bacee36fedfe">
+                <title>async Task&lt;ActionResult&gt; PCBuilderMVC.Controllers.AccountController.Register (RegisterViewModel model)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a6aed0b4d63a8ff3d35b1428451a15e7b">
+                <title>async Task&lt;ActionResult&gt; PCBuilderMVC.Controllers.AccountController.ConfirmEmail (string userId, string code)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a9123201fc1ab48128f5218abb3d859e0">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.ForgotPassword ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1ad2776ab9d0b98fe8256c12d86037ddb2">
+                <title>async Task&lt;ActionResult&gt; PCBuilderMVC.Controllers.AccountController.ForgotPassword (ForgotPasswordViewModel model)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a75d016c3002e245b36c3530a92d8afad">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.ForgotPasswordConfirmation ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a8cf1eea1c767332f70226c31874e1321">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.ResetPassword (string code)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a785e97b23ad2b5effd37c12719597b03">
+                <title>async Task&lt;ActionResult&gt; PCBuilderMVC.Controllers.AccountController.ResetPassword (ResetPasswordViewModel model)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a74560e996a058eeda093d161a141c916">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.ResetPasswordConfirmation ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a951282fe09539493acc5e0ac701125c5">
+                <title>async Task&lt;ActionResult&gt; PCBuilderMVC.Controllers.AccountController.Disassociate (string loginProvider, string providerKey)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a9e62c1f787a32d28bd36d95684aec9fc">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.Manage (ManageMessageId?message)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1aa54468166a91284e9ab801c6c93735be">
+                <title>async Task&lt;ActionResult&gt; PCBuilderMVC.Controllers.AccountController.Manage (ManageUserViewModel model)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a7b9f58ec5691d7e5432aa85caabdce1a">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.ExternalLogin (string provider, string returnUrl)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1aca010e9588956c6fcf9fd40992f8a9d5">
+                <title>async Task&lt;ActionResult&gt; PCBuilderMVC.Controllers.AccountController.ExternalLoginCallback (string returnUrl)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1af4463ae5ae9ebdd71a7921459241af89">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.LinkLogin (string provider)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a5464ab822361c3aae7ea11b71afb2833">
+                <title>async Task&lt;ActionResult&gt; PCBuilderMVC.Controllers.AccountController.LinkLoginCallback ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a3e8a615f61a8cb1260ad3d1eeec2aa41">
+                <title>async Task&lt;ActionResult&gt; PCBuilderMVC.Controllers.AccountController.ExternalLoginConfirmation (ExternalLoginConfirmationViewModel model, string returnUrl)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a1e8962ce6f6e6b413c0e4aa54ee8ff4e">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.LogOff ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a98f2769b65d47f2eecf8de39e891a477">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.ExternalLoginFailure ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1aacd25e3088db5d4fa258f686eb71c299">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.RemoveAccountList ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a61fac6a43b44896e9ed7879a51a1c487">
+                <title>override void PCBuilderMVC.Controllers.AccountController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1afb3adb4d6e2dd57c0551e4853abd26fe">
+                <title>async Task PCBuilderMVC.Controllers.AccountController.SignInAsync (ApplicationUser user, bool isPersistent)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a6ebea49c8114af9e18f742c7f57ce7a6">
+                <title>void PCBuilderMVC.Controllers.AccountController.AddErrors (IdentityResult result)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a0520a211ff47b1b31296215a75b2edd8">
+                <title>bool PCBuilderMVC.Controllers.AccountController.HasPassword ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a21e5ebc02425bba4b3d2eef5bc47447a">
+                <title>void PCBuilderMVC.Controllers.AccountController.SendEmail (string email, string callbackUrl, string subject, string message)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1a68ee6edabbc6c6090bd29c59797e0e0c">
+                <title>ActionResult PCBuilderMVC.Controllers.AccountController.RedirectToLocal (string returnUrl)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

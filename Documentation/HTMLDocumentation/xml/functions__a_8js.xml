@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="functions__a_8js" kind="file" language="Javascript">
+    <compoundname>functions_a.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="functions__a_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;questionnaire&apos;,[&apos;Questionnaire&apos;,[&apos;../class_p_c_builder_forms_1_1_questionnaire.html#a8adf8b22d2427f03949f3df37f99ce2d&apos;,1,&apos;<ref refid="class_p_c_builder_forms_1_1_questionnaire" kindref="compound">PCBuilderForms::Questionnaire</ref>&apos;]]],
+  [&apos;questionnaireresults&apos;,[&apos;QuestionnaireResults&apos;,[&apos;../class_business_objects_1_1_questionnaire_results.html#af03bf5cea4bc3c29bb2a4b111b6e6a2c&apos;,1,&apos;<ref refid="class_business_objects_1_1_questionnaire_results_1af03bf5cea4bc3c29bb2a4b111b6e6a2c" kindref="member">BusinessObjects.QuestionnaireResults.QuestionnaireResults</ref>()&apos;],[&apos;../class_business_objects_1_1_questionnaire_results.html#a4e99b6de8ad5c240763baa74ebae2ca4&apos;,1,&apos;<ref refid="class_business_objects_1_1_questionnaire_results_1af03bf5cea4bc3c29bb2a4b111b6e6a2c" kindref="member">BusinessObjects.QuestionnaireResults.QuestionnaireResults</ref>(double sldPerformance, bool chkUseBasic, bool chkUseDevelopment, bool chkUseGaming, bool chkUseOfficeModerate, bool chkUseVideoEdit, bool radResolution720, bool radResolution1080, bool radResolution4k, double sldNumMonitors, double sldStorageSize, bool radSSD, bool radHDD, bool radRAMRecommended, bool radRAMSelectManual, double sldRamSize, double sldNumCores, bool radCaseSizeFull, bool radCaseSizeMid, bool radCaseSizeMicro, bool radCaseSizeMini, bool radCaseSizeConsole, bool radBRBurner, bool radBRReader, bool radDVDBurner, bool radOpticalNone)&apos;]]]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/functions_a.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/functions_a.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;questionnaire&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Questionnaire&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_forms_1_1_questionnaire.html#a8adf8b22d2427f03949f3df37f99ce2d&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderForms::Questionnaire&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;questionnaireresults&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;QuestionnaireResults&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_questionnaire_results.html#af03bf5cea4bc3c29bb2a4b111b6e6a2c&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects.QuestionnaireResults.QuestionnaireResults()&apos;</highlight><highlight class="normal">],[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_questionnaire_results.html#a4e99b6de8ad5c240763baa74ebae2ca4&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects.QuestionnaireResults.QuestionnaireResults(double<sp/>sldPerformance,<sp/>bool<sp/>chkUseBasic,<sp/>bool<sp/>chkUseDevelopment,<sp/>bool<sp/>chkUseGaming,<sp/>bool<sp/>chkUseOfficeModerate,<sp/>bool<sp/>chkUseVideoEdit,<sp/>bool<sp/>radResolution720,<sp/>bool<sp/>radResolution1080,<sp/>bool<sp/>radResolution4k,<sp/>double<sp/>sldNumMonitors,<sp/>double<sp/>sldStorageSize,<sp/>bool<sp/>radSSD,<sp/>bool<sp/>radHDD,<sp/>bool<sp/>radRAMRecommended,<sp/>bool<sp/>radRAMSelectManual,<sp/>double<sp/>sldRamSize,<sp/>double<sp/>sldNumCores,<sp/>bool<sp/>radCaseSizeFull,<sp/>bool<sp/>radCaseSizeMid,<sp/>bool<sp/>radCaseSizeMicro,<sp/>bool<sp/>radCaseSizeMini,<sp/>bool<sp/>radCaseSizeConsole,<sp/>bool<sp/>radBRBurner,<sp/>bool<sp/>radBRReader,<sp/>bool<sp/>radDVDBurner,<sp/>bool<sp/>radOpticalNone)&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="5"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/functions_a.js"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,246 @@
+\hypertarget{class_data_access_1_1_user_accessor}{}\section{Data\+Access.\+User\+Accessor Class Reference}
+\label{class_data_access_1_1_user_accessor}\index{Data\+Access.\+User\+Accessor@{Data\+Access.\+User\+Accessor}}
+
+
+Data access class that handles data connections with the Users table.  
+
+
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \hyperlink{class_business_objects_1_1_user}{User} \hyperlink{class_data_access_1_1_user_accessor_a72f9e01c595f36043a8ba0801836ac11}{Retrieve\+User\+By\+Username} (string user\+Name)
+\begin{DoxyCompactList}\small\item\em Retrieves the user by username. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_roles}{Roles} $>$ \hyperlink{class_data_access_1_1_user_accessor_a452e243ca11dd46f9b5c82daf1b19742}{Retrieve\+Roles\+By\+User\+ID} (string username)
+\begin{DoxyCompactList}\small\item\em Retrieves the roles by user identifier. \end{DoxyCompactList}\item 
+static int \hyperlink{class_data_access_1_1_user_accessor_a47c06dec23dd7b81b6dad6b1c3a55259}{Find\+User\+By\+Username\+And\+Password} (string username, string password)
+\begin{DoxyCompactList}\small\item\em Finds the user by username and password. \end{DoxyCompactList}\item 
+static int \hyperlink{class_data_access_1_1_user_accessor_acc5b572bb1f5a1073fbe5cfeb0096b65}{Set\+Password\+For\+Username} (string username, string old\+Password, string new\+Password)
+\begin{DoxyCompactList}\small\item\em Sets the password for the given username. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_user}{User} $>$ \hyperlink{class_data_access_1_1_user_accessor_a9936ef3d80655a8b9e1c63e9969a3c4d}{Fetch\+User\+List} (\hyperlink{namespace_business_objects_a640a4d136931381578aad0a180173cfc}{Active} group=Active.\+active)
+\begin{DoxyCompactList}\small\item\em Fetches a user list. \end{DoxyCompactList}\item 
+static int \hyperlink{class_data_access_1_1_user_accessor_a54f85a9514bd475a3d5342d31b10ee97}{Fetch\+User\+Count} (\hyperlink{namespace_business_objects_a640a4d136931381578aad0a180173cfc}{Active} group=Active.\+active)
+\begin{DoxyCompactList}\small\item\em Fetches the user count. \end{DoxyCompactList}\item 
+static int \hyperlink{class_data_access_1_1_user_accessor_a4718ccfb3e6b1b32557c398de4332bf8}{Insert\+User} (\hyperlink{class_business_objects_1_1_user}{User} usr)
+\begin{DoxyCompactList}\small\item\em Inserts a new user. \end{DoxyCompactList}\item 
+static int \hyperlink{class_data_access_1_1_user_accessor_a7349fc8c87333785420a2896e4c78540}{Update\+User\+Account} (\hyperlink{class_business_objects_1_1_user}{User} usr)
+\begin{DoxyCompactList}\small\item\em Updates the user account. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Data access class that handles data connections with the Users table. 
+
+
+
+Definition at line 15 of file User\+Accessor.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\index{Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}!Fetch\+User\+Count@{Fetch\+User\+Count}}
+\index{Fetch\+User\+Count@{Fetch\+User\+Count}!Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}}
+\subsubsection[{\texorpdfstring{Fetch\+User\+Count(\+Active group=\+Active.\+active)}{FetchUserCount(Active group=Active.active)}}]{\setlength{\rightskip}{0pt plus 5cm}static int Data\+Access.\+User\+Accessor.\+Fetch\+User\+Count (
+\begin{DoxyParamCaption}
+\item[{{\bf Active}}]{group = {\ttfamily Active.active}}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_user_accessor_a54f85a9514bd475a3d5342d31b10ee97}{}\label{class_data_access_1_1_user_accessor_a54f85a9514bd475a3d5342d31b10ee97}
+
+
+Fetches the user count. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em group} & The active status. Defaults to active if no value is passed.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Count of records.
+\end{DoxyReturn}
+
+
+Definition at line 252 of file User\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}!Fetch\+User\+List@{Fetch\+User\+List}}
+\index{Fetch\+User\+List@{Fetch\+User\+List}!Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}}
+\subsubsection[{\texorpdfstring{Fetch\+User\+List(\+Active group=\+Active.\+active)}{FetchUserList(Active group=Active.active)}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf User}$>$ Data\+Access.\+User\+Accessor.\+Fetch\+User\+List (
+\begin{DoxyParamCaption}
+\item[{{\bf Active}}]{group = {\ttfamily Active.active}}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_user_accessor_a9936ef3d80655a8b9e1c63e9969a3c4d}{}\label{class_data_access_1_1_user_accessor_a9936ef3d80655a8b9e1c63e9969a3c4d}
+
+
+Fetches a user list. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em group} & The group of users. Defaults to active users only.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+List of Users
+\end{DoxyReturn}
+
+
+Definition at line 195 of file User\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}!Find\+User\+By\+Username\+And\+Password@{Find\+User\+By\+Username\+And\+Password}}
+\index{Find\+User\+By\+Username\+And\+Password@{Find\+User\+By\+Username\+And\+Password}!Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}}
+\subsubsection[{\texorpdfstring{Find\+User\+By\+Username\+And\+Password(string username, string password)}{FindUserByUsernameAndPassword(string username, string password)}}]{\setlength{\rightskip}{0pt plus 5cm}static int Data\+Access.\+User\+Accessor.\+Find\+User\+By\+Username\+And\+Password (
+\begin{DoxyParamCaption}
+\item[{string}]{username, }
+\item[{string}]{password}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_user_accessor_a47c06dec23dd7b81b6dad6b1c3a55259}{}\label{class_data_access_1_1_user_accessor_a47c06dec23dd7b81b6dad6b1c3a55259}
+
+
+Finds the user by username and password. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & The username.\\
+\hline
+{\em password} & The password.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Row count to signify success or failure.
+\end{DoxyReturn}
+
+
+Definition at line 126 of file User\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}!Insert\+User@{Insert\+User}}
+\index{Insert\+User@{Insert\+User}!Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}}
+\subsubsection[{\texorpdfstring{Insert\+User(\+User usr)}{InsertUser(User usr)}}]{\setlength{\rightskip}{0pt plus 5cm}static int Data\+Access.\+User\+Accessor.\+Insert\+User (
+\begin{DoxyParamCaption}
+\item[{{\bf User}}]{usr}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_user_accessor_a4718ccfb3e6b1b32557c398de4332bf8}{}\label{class_data_access_1_1_user_accessor_a4718ccfb3e6b1b32557c398de4332bf8}
+
+
+Inserts a new user. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em usr} & The user.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Count of records affected.
+\end{DoxyReturn}
+
+
+Definition at line 281 of file User\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}!Retrieve\+Roles\+By\+User\+ID@{Retrieve\+Roles\+By\+User\+ID}}
+\index{Retrieve\+Roles\+By\+User\+ID@{Retrieve\+Roles\+By\+User\+ID}!Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+Roles\+By\+User\+I\+D(string username)}{RetrieveRolesByUserID(string username)}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf Roles}$>$ Data\+Access.\+User\+Accessor.\+Retrieve\+Roles\+By\+User\+ID (
+\begin{DoxyParamCaption}
+\item[{string}]{username}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_user_accessor_a452e243ca11dd46f9b5c82daf1b19742}{}\label{class_data_access_1_1_user_accessor_a452e243ca11dd46f9b5c82daf1b19742}
+
+
+Retrieves the roles by user identifier. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & The username.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+List of roles for the username provided.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found.\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 80 of file User\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}!Retrieve\+User\+By\+Username@{Retrieve\+User\+By\+Username}}
+\index{Retrieve\+User\+By\+Username@{Retrieve\+User\+By\+Username}!Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+User\+By\+Username(string user\+Name)}{RetrieveUserByUsername(string userName)}}]{\setlength{\rightskip}{0pt plus 5cm}static {\bf User} Data\+Access.\+User\+Accessor.\+Retrieve\+User\+By\+Username (
+\begin{DoxyParamCaption}
+\item[{string}]{user\+Name}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_user_accessor_a72f9e01c595f36043a8ba0801836ac11}{}\label{class_data_access_1_1_user_accessor_a72f9e01c595f36043a8ba0801836ac11}
+
+
+Retrieves the user by username. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em user\+Name} & The username from which to retrieve user data.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+User object from the supplied username.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found.\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 23 of file User\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}!Set\+Password\+For\+Username@{Set\+Password\+For\+Username}}
+\index{Set\+Password\+For\+Username@{Set\+Password\+For\+Username}!Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}}
+\subsubsection[{\texorpdfstring{Set\+Password\+For\+Username(string username, string old\+Password, string new\+Password)}{SetPasswordForUsername(string username, string oldPassword, string newPassword)}}]{\setlength{\rightskip}{0pt plus 5cm}static int Data\+Access.\+User\+Accessor.\+Set\+Password\+For\+Username (
+\begin{DoxyParamCaption}
+\item[{string}]{username, }
+\item[{string}]{old\+Password, }
+\item[{string}]{new\+Password}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_user_accessor_acc5b572bb1f5a1073fbe5cfeb0096b65}{}\label{class_data_access_1_1_user_accessor_acc5b572bb1f5a1073fbe5cfeb0096b65}
+
+
+Sets the password for the given username. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & The username.\\
+\hline
+{\em old\+Password} & The old password.\\
+\hline
+{\em new\+Password} & The new password.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Row count to signify success or failure.
+\end{DoxyReturn}
+
+
+Definition at line 161 of file User\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}!Update\+User\+Account@{Update\+User\+Account}}
+\index{Update\+User\+Account@{Update\+User\+Account}!Data\+Access\+::\+User\+Accessor@{Data\+Access\+::\+User\+Accessor}}
+\subsubsection[{\texorpdfstring{Update\+User\+Account(\+User usr)}{UpdateUserAccount(User usr)}}]{\setlength{\rightskip}{0pt plus 5cm}static int Data\+Access.\+User\+Accessor.\+Update\+User\+Account (
+\begin{DoxyParamCaption}
+\item[{{\bf User}}]{usr}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_user_accessor_a7349fc8c87333785420a2896e4c78540}{}\label{class_data_access_1_1_user_accessor_a7349fc8c87333785420a2896e4c78540}
+
+
+Updates the user account. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em usr} & The user.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Count of records updated.
+\end{DoxyReturn}
+
+
+Definition at line 324 of file User\+Accessor.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/nh228u08/\+Desktop/\+Final\+Project/\+Final\+Project/\+P\+C\+Builder/\+Data\+Access/User\+Accessor.\+cs\end{DoxyCompactItemize}

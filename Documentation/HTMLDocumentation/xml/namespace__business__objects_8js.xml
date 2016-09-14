@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace__business__objects_8js" kind="file" language="Javascript">
+    <compoundname>namespace_business_objects.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="namespace__business__objects_8js_1a7b6a2e1ddc5a13f181f49366d160fd3b" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var namespace_business_objects</definition>
+        <argsstring></argsstring>
+        <name>namespace_business_objects</name>
+        <initializer>=
+[
+    [ &quot;AccessToken&quot;, &quot;class_business_objects_1_1_access_token.html&quot;, &quot;class_business_objects_1_1_access_token&quot; ],
+    [ &quot;BuildProperties&quot;, &quot;class_business_objects_1_1_build_properties.html&quot;, &quot;class_business_objects_1_1_build_properties&quot; ],
+    [ &quot;CPU&quot;, &quot;class_business_objects_1_1_c_p_u.html&quot;, &quot;class_business_objects_1_1_c_p_u&quot; ],
+    [ &quot;FinalizedBuild&quot;, &quot;class_business_objects_1_1_finalized_build.html&quot;, &quot;class_business_objects_1_1_finalized_build&quot; ],
+    [ &quot;GPU&quot;, &quot;class_business_objects_1_1_g_p_u.html&quot;, &quot;class_business_objects_1_1_g_p_u&quot; ],
+    [ &quot;Motherboard&quot;, &quot;class_business_objects_1_1_motherboard.html&quot;, &quot;class_business_objects_1_1_motherboard&quot; ],
+    [ &quot;Optical&quot;, &quot;class_business_objects_1_1_optical.html&quot;, &quot;class_business_objects_1_1_optical&quot; ],
+    [ &quot;PSU&quot;, &quot;class_business_objects_1_1_p_s_u.html&quot;, &quot;class_business_objects_1_1_p_s_u&quot; ],
+    [ &quot;QuestionnaireResults&quot;, &quot;class_business_objects_1_1_questionnaire_results.html&quot;, &quot;class_business_objects_1_1_questionnaire_results&quot; ],
+    [ &quot;RAM&quot;, &quot;class_business_objects_1_1_r_a_m.html&quot;, &quot;class_business_objects_1_1_r_a_m&quot; ],
+    [ &quot;Roles&quot;, &quot;class_business_objects_1_1_roles.html&quot;, &quot;class_business_objects_1_1_roles&quot; ],
+    [ &quot;StandardizedBasic&quot;, &quot;class_business_objects_1_1_standardized_basic.html&quot;, &quot;class_business_objects_1_1_standardized_basic&quot; ],
+    [ &quot;StandardizedDevelopment&quot;, &quot;class_business_objects_1_1_standardized_development.html&quot;, &quot;class_business_objects_1_1_standardized_development&quot; ],
+    [ &quot;StandardizedGaming&quot;, &quot;class_business_objects_1_1_standardized_gaming.html&quot;, &quot;class_business_objects_1_1_standardized_gaming&quot; ],
+    [ &quot;StandardizedOffice&quot;, &quot;class_business_objects_1_1_standardized_office.html&quot;, &quot;class_business_objects_1_1_standardized_office&quot; ],
+    [ &quot;StandardizedVideoEditing&quot;, &quot;class_business_objects_1_1_standardized_video_editing.html&quot;, &quot;class_business_objects_1_1_standardized_video_editing&quot; ],
+    [ &quot;Storage&quot;, &quot;class_business_objects_1_1_storage.html&quot;, &quot;class_business_objects_1_1_storage&quot; ],
+    [ &quot;User&quot;, &quot;class_business_objects_1_1_user.html&quot;, &quot;class_business_objects_1_1_user&quot; ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_business_objects.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_business_objects.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>namespace_business_objects<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AccessToken&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_access_token.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_access_token&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BuildProperties&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_build_properties.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_build_properties&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPU&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FinalizedBuild&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPU&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Motherboard&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Optical&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_optical.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_optical&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSU&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_p_s_u.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_p_s_u&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;QuestionnaireResults&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_questionnaire_results.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_questionnaire_results&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAM&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Roles&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_roles.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_roles&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedBasic&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_basic.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_basic&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedDevelopment&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_development.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_development&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedGaming&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_gaming.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_gaming&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedOffice&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_office.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_office&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedVideoEditing&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_video_editing.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_video_editing&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Storage&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_storage.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_storage&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;User&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user&quot;</highlight><highlight class="normal"><sp/>]</highlight></codeline>
+<codeline lineno="21"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_business_objects.js"/>
+  </compounddef>
+</doxygen>

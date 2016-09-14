@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_877f12dac211ab83da95011eab8f96ed" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic</compoundname>
+    <innerdir refid="dir_da3f69579bc1308bcad8f1935928997f">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/obj</innerdir>
+    <innerdir refid="dir_2701c89fa7df664e195ce455fbe71a0c">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/Properties</innerdir>
+    <innerfile refid="_build_processor_8cs">BuildProcessor.cs</innerfile>
+    <innerfile refid="_hash_methods_8cs">HashMethods.cs</innerfile>
+    <innerfile refid="_i_build_processor_8cs">IBuildProcessor.cs</innerfile>
+    <innerfile refid="_security_manager_8cs">SecurityManager.cs</innerfile>
+    <innerfile refid="_user_manager_8cs">UserManager.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/"/>
+  </compounddef>
+</doxygen>

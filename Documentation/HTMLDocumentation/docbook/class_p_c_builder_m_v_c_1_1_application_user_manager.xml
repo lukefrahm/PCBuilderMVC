@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_application_user_manager">
+<title>PCBuilderMVC::ApplicationUserManager class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_m_v_c_1_1_application_user_manager_1af4a41b30be1457d972406354e95fb945">ApplicationUserManager</link> (
+IUserStore&lt; <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_application_user">ApplicationUser</link> &gt; store)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;ApplicationUserManager&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_p_c_builder_m_v_c_1_1_application_user_manager">ApplicationUserManager</link> <link linkend="class_p_c_builder_m_v_c_1_1_application_user_manager_1abf2e4bf064febf08f995528ce52545b5">Create</link> (
+IdentityFactoryOptions&lt; <link linkend="class_p_c_builder_m_v_c_1_1_application_user_manager">ApplicationUserManager</link> &gt; options, IOwinContext context)<para><emphasis>&lt;summary&gt;
+Creates the specified options.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>User manager for the MVC project. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>Microsoft.AspNet.Identity.UserManager&lt;PCBuilderMVC.Models.ApplicationUser&gt;</para>
+</formalpara>
+</para>
+                <para>Definition at line 17 of file IdentityConfig.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>IdentityConfig.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_application_user_manager_1af4a41b30be1457d972406354e95fb945">
+                <title>PCBuilderMVC.ApplicationUserManager.ApplicationUserManager (IUserStore&lt; ApplicationUser &gt; store)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;ApplicationUserManager&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>store</entry>
+                                <entry>
+<para>The store.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_application_user_manager_1abf2e4bf064febf08f995528ce52545b5">
+                <title>static ApplicationUserManager PCBuilderMVC.ApplicationUserManager.Create (IdentityFactoryOptions&lt; ApplicationUserManager &gt; options, IOwinContext context)</title> <emphasis>&lt;summary&gt;
+Creates the specified options.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>options</entry>
+                                <entry>
+<para>The options.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>context</entry>
+                                <entry>
+<para>The context.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para></para>
+</formalpara>
+</para>
+
+            </section>
+</section>

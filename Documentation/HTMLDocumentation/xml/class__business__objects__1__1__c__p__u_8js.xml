@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__c__p__u_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_c_p_u.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__c__p__u_8js_1a56084719170c5576d52b10cf22b84519" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_c_p_u</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_c_p_u</name>
+        <initializer>=
+[
+    [ &quot;CPU&quot;, &quot;class_business_objects_1_1_c_p_u.html#add17fa319f02b438c60fddf8e0d6a787&quot;, null ],
+    [ &quot;CPU&quot;, &quot;class_business_objects_1_1_c_p_u.html#a13061cd0fcc98d43aa1d2c2cc63a836f&quot;, null ],
+    [ &quot;BenchmarkScore&quot;, &quot;class_business_objects_1_1_c_p_u.html#a6e97a16652352aee41163bb01b3bf205&quot;, null ],
+    [ &quot;BestUse&quot;, &quot;class_business_objects_1_1_c_p_u.html#a17391b50d5f3e059feccfa16d8535388&quot;, null ],
+    [ &quot;Brand&quot;, &quot;class_business_objects_1_1_c_p_u.html#a3bd156aa06e6fabfc82b4c0ac700f669&quot;, null ],
+    [ &quot;ClockSpeed&quot;, &quot;class_business_objects_1_1_c_p_u.html#a0c502313085374d20bce7c97b2635616&quot;, null ],
+    [ &quot;Cores&quot;, &quot;class_business_objects_1_1_c_p_u.html#a6b71708968098064617860d9c37caaf3&quot;, null ],
+    [ &quot;CpuId&quot;, &quot;class_business_objects_1_1_c_p_u.html#a70a9588363dcc4cb7f13d17f5027a151&quot;, null ],
+    [ &quot;HyperThreaded&quot;, &quot;class_business_objects_1_1_c_p_u.html#af77e1c12c179b8411f5516eb62173df8&quot;, null ],
+    [ &quot;Model&quot;, &quot;class_business_objects_1_1_c_p_u.html#adf6f65c8a4722dd2b6bc9c834a0efc83&quot;, null ],
+    [ &quot;PowerRequirement&quot;, &quot;class_business_objects_1_1_c_p_u.html#acca2b421cc92cd56df0545c193f6724c&quot;, null ],
+    [ &quot;Price&quot;, &quot;class_business_objects_1_1_c_p_u.html#ac7f66e5df1a12f80d76f06fd969dc35e&quot;, null ],
+    [ &quot;ProductLineName&quot;, &quot;class_business_objects_1_1_c_p_u.html#a662d917f4e92682ed35625440e339ae9&quot;, null ],
+    [ &quot;Socket&quot;, &quot;class_business_objects_1_1_c_p_u.html#a183b5db42a6e13f85502bc1c1b5eb400&quot;, null ],
+    [ &quot;Unlocked&quot;, &quot;class_business_objects_1_1_c_p_u.html#a57c5e303abfa3d05ea6e54732184f355&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_c_p_u.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_c_p_u.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_c_p_u<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPU&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#add17fa319f02b438c60fddf8e0d6a787&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPU&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#a13061cd0fcc98d43aa1d2c2cc63a836f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BenchmarkScore&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#a6e97a16652352aee41163bb01b3bf205&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BestUse&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#a17391b50d5f3e059feccfa16d8535388&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Brand&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#a3bd156aa06e6fabfc82b4c0ac700f669&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ClockSpeed&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#a0c502313085374d20bce7c97b2635616&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Cores&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#a6b71708968098064617860d9c37caaf3&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CpuId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#a70a9588363dcc4cb7f13d17f5027a151&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;HyperThreaded&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#af77e1c12c179b8411f5516eb62173df8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Model&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#adf6f65c8a4722dd2b6bc9c834a0efc83&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PowerRequirement&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#acca2b421cc92cd56df0545c193f6724c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#ac7f66e5df1a12f80d76f06fd969dc35e&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ProductLineName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#a662d917f4e92682ed35625440e339ae9&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Socket&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#a183b5db42a6e13f85502bc1c1b5eb400&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Unlocked&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_c_p_u.html#a57c5e303abfa3d05ea6e54732184f355&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="18"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_c_p_u.js"/>
+  </compounddef>
+</doxygen>

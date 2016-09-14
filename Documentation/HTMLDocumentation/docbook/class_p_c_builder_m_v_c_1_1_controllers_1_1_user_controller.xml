@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller">
+<title>PCBuilderMVC::Controllers::UserController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a2dc3bcfa12cbd3193881110bb2bcf079">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1ab4bcb8a7721fd91cd6e769a6c5f2111a">Details</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a018c24eba9f929387f7c426c7799a1a8">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1af8027c377046c4a30aaf6b0c6d80b967">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_user">User</link> user)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a2e149503159c884e4f0cb1c6daca1279">Edit</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a84cf30a139a0cda5551411ee29654729">Edit</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_user">User</link> user)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1afeff41f0a91f9d77d4ec0e81471bd649">Delete</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a6fc23363eff6bad1a8f2f08143d89b60">DeleteConfirmed</link> (
+int id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1af8e537824aef9d778ef7158795528d66">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>User controller class to handle User views interaction </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file UserController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>UserController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a2dc3bcfa12cbd3193881110bb2bcf079">
+                <title>ActionResult PCBuilderMVC.Controllers.UserController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1ab4bcb8a7721fd91cd6e769a6c5f2111a">
+                <title>ActionResult PCBuilderMVC.Controllers.UserController.Details (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a018c24eba9f929387f7c426c7799a1a8">
+                <title>ActionResult PCBuilderMVC.Controllers.UserController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1af8027c377046c4a30aaf6b0c6d80b967">
+                <title>ActionResult PCBuilderMVC.Controllers.UserController.Create ([Bind(Include=&quot;UserId,FirstName,LastName,Address,City,StateCode,Zip,LocalPhone,EmailAddress,Username,Password,RoleName,Active&quot;)] User user)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a2e149503159c884e4f0cb1c6daca1279">
+                <title>ActionResult PCBuilderMVC.Controllers.UserController.Edit (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a84cf30a139a0cda5551411ee29654729">
+                <title>ActionResult PCBuilderMVC.Controllers.UserController.Edit ([Bind(Include=&quot;UserId,FirstName,LastName,Address,City,StateCode,Zip,LocalPhone,EmailAddress,Username,Password,RoleName,Active&quot;)] User user)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1afeff41f0a91f9d77d4ec0e81471bd649">
+                <title>ActionResult PCBuilderMVC.Controllers.UserController.Delete (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a6fc23363eff6bad1a8f2f08143d89b60">
+                <title>ActionResult PCBuilderMVC.Controllers.UserController.DeleteConfirmed (int id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1af8e537824aef9d778ef7158795528d66">
+                <title>override void PCBuilderMVC.Controllers.UserController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

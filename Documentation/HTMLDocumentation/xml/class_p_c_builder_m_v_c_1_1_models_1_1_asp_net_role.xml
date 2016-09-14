@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::AspNetRole</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role_1a06103ace45910d89ab2a844dd4ceefbe" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetRole.Id</definition>
+        <argsstring></argsstring>
+        <name>Id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetRole.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetRole.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role_1a027709b9d667d4d19f208f24e4fcdc03" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetRole.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetRole.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetRole.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role_1acee25350de7a4524f3d075d7f214ea31" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user" kindref="compound">AspNetUser</ref> &gt;</type>
+        <definition>virtual ICollection&lt;AspNetUser&gt; PCBuilderMVC.Models.AspNetRole.AspNetUsers</definition>
+        <argsstring></argsstring>
+        <name>AspNetUsers</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetRole.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetRole.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role_1aa4d38a31de3052e137c8019801d00bc4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderMVC.Models.AspNetRole.AspNetRole</definition>
+        <argsstring>()</argsstring>
+        <name>AspNetRole</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetRole.cs" line="11" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetRole.cs" bodystart="11" bodyend="14"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetRole.cs" line="10" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetRole.cs" bodystart="9" bodyend="23"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role_1aa4d38a31de3052e137c8019801d00bc4" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetRole</scope><name>AspNetRole</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role_1acee25350de7a4524f3d075d7f214ea31" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetRole</scope><name>AspNetUsers</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role_1a06103ace45910d89ab2a844dd4ceefbe" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetRole</scope><name>Id</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role_1a027709b9d667d4d19f208f24e4fcdc03" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetRole</scope><name>Name</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

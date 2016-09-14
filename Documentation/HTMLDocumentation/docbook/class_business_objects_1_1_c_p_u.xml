@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_objects_1_1_c_p_u">
+<title>BusinessObjects::CPU class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_c_p_u_1add17fa319f02b438c60fddf8e0d6a787">CPU</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;CPU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_c_p_u_1a13061cd0fcc98d43aa1d2c2cc63a836f">CPU</link> (
+int cpuId, string brand, string model, int cores, bool hyperThreaded, double clockSpeed, bool unlocked, string socket, string productLineName, int benchmarkScore, string bestUse, int powerRequirement, decimal price)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;CPU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_business_objects_1_1_c_p_u">CPU</link> object to hold necessary data on the <link linkend="class_business_objects_1_1_c_p_u">CPU</link>. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 18 of file CPU.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>CPU.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_objects_1_1_c_p_u_1add17fa319f02b438c60fddf8e0d6a787">
+                <title>BusinessObjects.CPU.CPU ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;CPU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_objects_1_1_c_p_u_1a13061cd0fcc98d43aa1d2c2cc63a836f">
+                <title>BusinessObjects.CPU.CPU (int cpuId, string brand, string model, int cores, bool hyperThreaded, double clockSpeed, bool unlocked, string socket, string productLineName, int benchmarkScore, string bestUse, int powerRequirement, decimal price)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;CPU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>cpuId</entry>
+                                <entry>
+<para>The cpu identifier.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>brand</entry>
+                                <entry>
+<para>The brand.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>model</entry>
+                                <entry>
+<para>The model.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>cores</entry>
+                                <entry>
+<para>The core count.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>hyperThreaded</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [hyper threaded].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>clockSpeed</entry>
+                                <entry>
+<para>The clock speed.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>unlocked</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [unlocked].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>socket</entry>
+                                <entry>
+<para>The socket.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>productLineName</entry>
+                                <entry>
+<para>Name of the product line.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>benchmarkScore</entry>
+                                <entry>
+<para>The benchmark score.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>bestUse</entry>
+                                <entry>
+<para>The best use case.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>powerRequirement</entry>
+                                <entry>
+<para>The power requirement.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>price</entry>
+                                <entry>
+<para>The price.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

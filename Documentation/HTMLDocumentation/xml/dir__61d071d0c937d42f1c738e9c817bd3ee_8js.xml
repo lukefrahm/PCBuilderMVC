@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir__61d071d0c937d42f1c738e9c817bd3ee_8js" kind="file" language="Javascript">
+    <compoundname>dir_61d071d0c937d42f1c738e9c817bd3ee.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="dir__61d071d0c937d42f1c738e9c817bd3ee_8js_1ac17dc002470e82ecbc2dda221fe76550" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var dir_61d071d0c937d42f1c738e9c817bd3ee</definition>
+        <argsstring></argsstring>
+        <name>dir_61d071d0c937d42f1c738e9c817bd3ee</name>
+        <initializer>=
+[
+    [ &quot;BundleConfig.cs&quot;, &quot;_bundle_config_8cs_source.html&quot;, null ],
+    [ &quot;FilterConfig.cs&quot;, &quot;_filter_config_8cs_source.html&quot;, null ],
+    [ &quot;IdentityConfig.cs&quot;, &quot;_identity_config_8cs_source.html&quot;, null ],
+    [ &quot;RouteConfig.cs&quot;, &quot;_route_config_8cs_source.html&quot;, null ],
+    [ &quot;Startup.Auth.cs&quot;, &quot;_startup_8_auth_8cs_source.html&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_61d071d0c937d42f1c738e9c817bd3ee.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_61d071d0c937d42f1c738e9c817bd3ee.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>dir_61d071d0c937d42f1c738e9c817bd3ee<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BundleConfig.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_bundle_config_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FilterConfig.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_filter_config_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;IdentityConfig.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_identity_config_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RouteConfig.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_route_config_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Startup.Auth.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_startup_8_auth_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_61d071d0c937d42f1c738e9c817bd3ee.js"/>
+  </compounddef>
+</doxygen>

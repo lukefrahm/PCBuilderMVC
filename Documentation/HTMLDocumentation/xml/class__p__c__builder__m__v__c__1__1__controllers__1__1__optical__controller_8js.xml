@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__controllers__1__1__optical__controller_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__controllers__1__1__optical__controller_8js_1ad6d2afca90955b72a1a546662c5dd4a9" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller</name>
+        <initializer>=
+[
+    [ &quot;Create&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#af5abe48aa5f880e392a1578c43e533a7&quot;, null ],
+    [ &quot;Create&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a003bcc62793607ef4d4a79a7e821abcc&quot;, null ],
+    [ &quot;Delete&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a3ec1c51763dc146925d897e15fb3f33f&quot;, null ],
+    [ &quot;DeleteConfirmed&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#aa88c8083a1bb937c87dc99359495b4d3&quot;, null ],
+    [ &quot;Details&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a451e9a21abefe7878228c4af97e42fb4&quot;, null ],
+    [ &quot;Dispose&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a25e4700610f3e58e07a3ef2cfbe12330&quot;, null ],
+    [ &quot;Edit&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#ad97768ce3483ae9d4407f55ac1825221&quot;, null ],
+    [ &quot;Edit&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a8a2ad0474ec18caed739167e1b535630&quot;, null ],
+    [ &quot;Index&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a19d91c5c0eb4c6db44a9b52e49caa15c&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Create&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#af5abe48aa5f880e392a1578c43e533a7&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Create&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a003bcc62793607ef4d4a79a7e821abcc&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Delete&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a3ec1c51763dc146925d897e15fb3f33f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;DeleteConfirmed&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#aa88c8083a1bb937c87dc99359495b4d3&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Details&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a451e9a21abefe7878228c4af97e42fb4&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Dispose&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a25e4700610f3e58e07a3ef2cfbe12330&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Edit&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#ad97768ce3483ae9d4407f55ac1825221&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Edit&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a8a2ad0474ec18caed739167e1b535630&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Index&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html#a19d91c5c0eb4c6db44a9b52e49caa15c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="12"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.js"/>
+  </compounddef>
+</doxygen>

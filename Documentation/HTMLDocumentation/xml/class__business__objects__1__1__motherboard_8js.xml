@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__motherboard_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_motherboard.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__motherboard_8js_1a391279d90df422feed31b0c31a8061c8" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_motherboard</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_motherboard</name>
+        <initializer>=
+[
+    [ &quot;Motherboard&quot;, &quot;class_business_objects_1_1_motherboard.html#a91ff736d1cb114aa298e22ae44c90634&quot;, null ],
+    [ &quot;Motherboard&quot;, &quot;class_business_objects_1_1_motherboard.html#a21fe91580de645025fb2c84a93b75562&quot;, null ],
+    [ &quot;Brand&quot;, &quot;class_business_objects_1_1_motherboard.html#a34cc10a562353bb82f3f6528be144da9&quot;, null ],
+    [ &quot;Chipset&quot;, &quot;class_business_objects_1_1_motherboard.html#a6ba9688200e845a7ef333153e9748472&quot;, null ],
+    [ &quot;FanHeaders&quot;, &quot;class_business_objects_1_1_motherboard.html#ad36bdcfa47ffe53db2e93df5859a9487&quot;, null ],
+    [ &quot;FormFactor&quot;, &quot;class_business_objects_1_1_motherboard.html#a15ae02ec02733e0ab8eb32898f2033fb&quot;, null ],
+    [ &quot;M2Slots&quot;, &quot;class_business_objects_1_1_motherboard.html#a4f901c9c84f963c08688aff3cf7fe93b&quot;, null ],
+    [ &quot;MaxRam&quot;, &quot;class_business_objects_1_1_motherboard.html#acde0211a2fe00d19df74729dfb1b9d2b&quot;, null ],
+    [ &quot;Model&quot;, &quot;class_business_objects_1_1_motherboard.html#a415fdbe84c4cac80483cff86ca51be5c&quot;, null ],
+    [ &quot;MotherboardId&quot;, &quot;class_business_objects_1_1_motherboard.html#abc246b98bc21e635d8f3ef3f4f3e37ae&quot;, null ],
+    [ &quot;Pci&quot;, &quot;class_business_objects_1_1_motherboard.html#a5cdad498da1e01b77758d17971000cae&quot;, null ],
+    [ &quot;Pcie1&quot;, &quot;class_business_objects_1_1_motherboard.html#ab8ae24339c4e627c68b07779a4c58c4c&quot;, null ],
+    [ &quot;Pcie16&quot;, &quot;class_business_objects_1_1_motherboard.html#a478fbef2354824c5bb6327c206f2bea3&quot;, null ],
+    [ &quot;Pcie4&quot;, &quot;class_business_objects_1_1_motherboard.html#ae5be97e8e6b82e33029eb6f64d79d8d0&quot;, null ],
+    [ &quot;Pcie8&quot;, &quot;class_business_objects_1_1_motherboard.html#a089664e4fffbbcae87b09546ffff43df&quot;, null ],
+    [ &quot;PowerPhases&quot;, &quot;class_business_objects_1_1_motherboard.html#ab41dd48b1d010ad3c131be9657fee162&quot;, null ],
+    [ &quot;Price&quot;, &quot;class_business_objects_1_1_motherboard.html#a65aa9ca8830c2e474712f9b888cc821a&quot;, null ],
+    [ &quot;RamType&quot;, &quot;class_business_objects_1_1_motherboard.html#af56b8d6d22417d9563c7f5edaf7f23ec&quot;, null ],
+    [ &quot;SataPorts&quot;, &quot;class_business_objects_1_1_motherboard.html#a97e5cf39f0b52b057a83cffa5f8f94d3&quot;, null ],
+    [ &quot;Socket&quot;, &quot;class_business_objects_1_1_motherboard.html#a285dfe9ebb19760379cd41bd0d7485b7&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_motherboard.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_motherboard.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_motherboard<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Motherboard&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a91ff736d1cb114aa298e22ae44c90634&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Motherboard&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a21fe91580de645025fb2c84a93b75562&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Brand&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a34cc10a562353bb82f3f6528be144da9&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Chipset&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a6ba9688200e845a7ef333153e9748472&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FanHeaders&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#ad36bdcfa47ffe53db2e93df5859a9487&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FormFactor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a15ae02ec02733e0ab8eb32898f2033fb&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;M2Slots&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a4f901c9c84f963c08688aff3cf7fe93b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MaxRam&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#acde0211a2fe00d19df74729dfb1b9d2b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Model&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a415fdbe84c4cac80483cff86ca51be5c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MotherboardId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#abc246b98bc21e635d8f3ef3f4f3e37ae&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Pci&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a5cdad498da1e01b77758d17971000cae&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Pcie1&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#ab8ae24339c4e627c68b07779a4c58c4c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Pcie16&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a478fbef2354824c5bb6327c206f2bea3&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Pcie4&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#ae5be97e8e6b82e33029eb6f64d79d8d0&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Pcie8&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a089664e4fffbbcae87b09546ffff43df&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PowerPhases&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#ab41dd48b1d010ad3c131be9657fee162&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a65aa9ca8830c2e474712f9b888cc821a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamType&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#af56b8d6d22417d9563c7f5edaf7f23ec&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;SataPorts&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a97e5cf39f0b52b057a83cffa5f8f94d3&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Socket&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_motherboard.html#a285dfe9ebb19760379cd41bd0d7485b7&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="23"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_motherboard.js"/>
+  </compounddef>
+</doxygen>

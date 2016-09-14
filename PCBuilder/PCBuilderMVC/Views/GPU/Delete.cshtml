@@ -1,0 +1,128 @@
+﻿@model PCBuilderMVC.Models.GPU
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>GPU</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Brand)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Brand)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ClockSpeed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClockSpeed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductLineName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductLineName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BenchmarkScore)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BenchmarkScore)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BestUse)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BestUse)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GpuRamSize)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GpuRamSize)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PciPinConnector1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PciPinConnector1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PciPinConnector2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PciPinConnector2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PciPinConnector3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PciPinConnector3)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PowerRequirement)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PowerRequirement)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GpuLength)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GpuLength)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

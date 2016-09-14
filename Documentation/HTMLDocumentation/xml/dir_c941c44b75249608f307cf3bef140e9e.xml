@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_c941c44b75249608f307cf3bef140e9e" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts</compoundname>
+    <innerfile refid="packages_2_respond_81_84_82_2content_2_scripts_2respond_8js">respond.js</innerfile>
+    <innerfile refid="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js">respond.matchmedia.addListener.js</innerfile>
+    <innerfile refid="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8min_8js">respond.matchmedia.addListener.min.js</innerfile>
+    <innerfile refid="packages_2_respond_81_84_82_2content_2_scripts_2respond_8min_8js">respond.min.js</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/"/>
+  </compounddef>
+</doxygen>

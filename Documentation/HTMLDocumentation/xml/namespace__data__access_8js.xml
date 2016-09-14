@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace__data__access_8js" kind="file" language="Javascript">
+    <compoundname>namespace_data_access.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="namespace__data__access_8js_1a0bdd27f37f056ed0c302f3db8054c96f" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var namespace_data_access</definition>
+        <argsstring></argsstring>
+        <name>namespace_data_access</name>
+        <initializer>=
+[
+    [ &quot;CPUAccessor&quot;, &quot;class_data_access_1_1_c_p_u_accessor.html&quot;, null ],
+    [ &quot;GPUAccessor&quot;, &quot;class_data_access_1_1_g_p_u_accessor.html&quot;, null ],
+    [ &quot;MotherboardAccessor&quot;, &quot;class_data_access_1_1_motherboard_accessor.html&quot;, null ],
+    [ &quot;OpticalAccessor&quot;, &quot;class_data_access_1_1_optical_accessor.html&quot;, null ],
+    [ &quot;PSUAccessor&quot;, &quot;class_data_access_1_1_p_s_u_accessor.html&quot;, null ],
+    [ &quot;RAMAccessor&quot;, &quot;class_data_access_1_1_r_a_m_accessor.html&quot;, null ],
+    [ &quot;StorageAccessor&quot;, &quot;class_data_access_1_1_storage_accessor.html&quot;, null ],
+    [ &quot;UserAccessor&quot;, &quot;class_data_access_1_1_user_accessor.html&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_data_access.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_data_access.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>namespace_data_access<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPUAccessor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_data_access_1_1_c_p_u_accessor.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPUAccessor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_data_access_1_1_g_p_u_accessor.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MotherboardAccessor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_data_access_1_1_motherboard_accessor.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;OpticalAccessor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_data_access_1_1_optical_accessor.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSUAccessor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_data_access_1_1_p_s_u_accessor.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAMAccessor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_data_access_1_1_r_a_m_accessor.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StorageAccessor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_data_access_1_1_storage_accessor.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserAccessor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_data_access_1_1_user_accessor.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="11"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_data_access.js"/>
+  </compounddef>
+</doxygen>

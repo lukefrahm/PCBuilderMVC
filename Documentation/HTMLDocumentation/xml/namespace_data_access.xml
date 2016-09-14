@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace_data_access" kind="namespace" language="C#">
+    <compoundname>DataAccess</compoundname>
+    <innerclass refid="class_data_access_1_1_c_p_u_accessor" prot="public">DataAccess::CPUAccessor</innerclass>
+    <innerclass refid="class_data_access_1_1_d_b_connection" prot="package">DataAccess::DBConnection</innerclass>
+    <innerclass refid="class_data_access_1_1_g_p_u_accessor" prot="public">DataAccess::GPUAccessor</innerclass>
+    <innerclass refid="class_data_access_1_1_motherboard_accessor" prot="public">DataAccess::MotherboardAccessor</innerclass>
+    <innerclass refid="class_data_access_1_1_optical_accessor" prot="public">DataAccess::OpticalAccessor</innerclass>
+    <innerclass refid="class_data_access_1_1_p_s_u_accessor" prot="public">DataAccess::PSUAccessor</innerclass>
+    <innerclass refid="class_data_access_1_1_r_a_m_accessor" prot="public">DataAccess::RAMAccessor</innerclass>
+    <innerclass refid="class_data_access_1_1_storage_accessor" prot="public">DataAccess::StorageAccessor</innerclass>
+    <innerclass refid="class_data_access_1_1_user_accessor" prot="public">DataAccess::UserAccessor</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" line="11" column="1"/>
+  </compounddef>
+</doxygen>

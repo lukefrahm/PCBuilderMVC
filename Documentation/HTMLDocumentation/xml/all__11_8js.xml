@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="all__11_8js" kind="file" language="Javascript">
+    <compoundname>all_11.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="all__11_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;validateexistinguser&apos;,[&apos;ValidateExistingUser&apos;,[&apos;../class_business_logic_1_1_security_manager.html#a27a0b4ffd4af28d8ccdf5751b2bc0445&apos;,1,&apos;<ref refid="class_business_logic_1_1_security_manager" kindref="compound">BusinessLogic::SecurityManager</ref>&apos;]]],
+  [&apos;validatenewuser&apos;,[&apos;ValidateNewUser&apos;,[&apos;../class_business_logic_1_1_security_manager.html#a88cf89e8c9ad9e7b34a8e7525fcf5f84&apos;,1,&apos;<ref refid="class_business_logic_1_1_security_manager" kindref="compound">BusinessLogic::SecurityManager</ref>&apos;]]]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/all_11.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/all_11.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;validateexistinguser&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;ValidateExistingUser&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_logic_1_1_security_manager.html#a27a0b4ffd4af28d8ccdf5751b2bc0445&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessLogic::SecurityManager&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;validatenewuser&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;ValidateNewUser&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_logic_1_1_security_manager.html#a88cf89e8c9ad9e7b34a8e7525fcf5f84&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessLogic::SecurityManager&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="5"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/all_11.js"/>
+  </compounddef>
+</doxygen>

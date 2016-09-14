@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Controllers::GPUController</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Controller</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a2d429161edc3b0d41d4b6ffedd323386" prot="private" static="no" mutable="no">
+        <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref></type>
+        <definition>PCBuilderEntityModels PCBuilderMVC.Controllers.GPUController.db</definition>
+        <argsstring></argsstring>
+        <name>db</name>
+        <initializer>= new <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a38923ec0854ca8ca5d0247bae3068d4f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.GPUController.Index</definition>
+        <argsstring>()</argsstring>
+        <name>Index</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="22" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a78d3d59dbfde397dbddb047d0c7db090" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.GPUController.Details</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Details</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="28" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1ace84f79eaf685c05dce52af070c4b519" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.GPUController.Create</definition>
+        <argsstring>()</argsstring>
+        <name>Create</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aa34201847e1e5c053d778e2b0a38650e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.GPUController.Create</definition>
+        <argsstring>([Bind(Include=&quot;GpuId,Brand,Model,ClockSpeed,ProductLineName,BenchmarkScore,BestUse,GpuRamSize,PciPinConnector1,PciPinConnector2,PciPinConnector3,PowerRequirement,GpuLength,Price&quot;)] GPU gPU)</argsstring>
+        <name>Create</name>
+        <param>
+          <attributes>[Bind(Include=&quot;GpuId,Brand,Model,ClockSpeed,ProductLineName,BenchmarkScore,BestUse,GpuRamSize,PciPinConnector1,PciPinConnector2,PciPinConnector3,PowerRequirement,GpuLength,Price&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u" kindref="compound">GPU</ref></type>
+          <declname>gPU</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="53" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="53" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aeb7156b1f3d6bab93118cb778e75bea8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.GPUController.Edit</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Edit</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="66" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="66" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a0d21736b4431a17c038d500bf09ba00e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.GPUController.Edit</definition>
+        <argsstring>([Bind(Include=&quot;GpuId,Brand,Model,ClockSpeed,ProductLineName,BenchmarkScore,BestUse,GpuRamSize,PciPinConnector1,PciPinConnector2,PciPinConnector3,PowerRequirement,GpuLength,Price&quot;)] GPU gPU)</argsstring>
+        <name>Edit</name>
+        <param>
+          <attributes>[Bind(Include=&quot;GpuId,Brand,Model,ClockSpeed,ProductLineName,BenchmarkScore,BestUse,GpuRamSize,PciPinConnector1,PciPinConnector2,PciPinConnector3,PowerRequirement,GpuLength,Price&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u" kindref="compound">GPU</ref></type>
+          <declname>gPU</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="85" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="85" bodyend="94"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1abf8b845362784a12062436f4720b14e6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.GPUController.Delete</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Delete</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="97" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="97" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aab97b4bb193c7a42426beaa2c5ef2288" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.GPUController.DeleteConfirmed</definition>
+        <argsstring>(int id)</argsstring>
+        <name>DeleteConfirmed</name>
+        <param>
+          <type>int</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="114" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="114" bodyend="120"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a034e1443604844a81742a6c4e2dd5ccf" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void PCBuilderMVC.Controllers.GPUController.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="122" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="122" bodyend="129"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>GPU controller class to handle GPU views interaction. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>System.Web.Mvc.Controller</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="121">
+        <label>PCBuilderMVC.Controllers.GPUController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller"/>
+        <childnode refid="122" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="122">
+        <label>Controller</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="126">
+        <label>DbContext</label>
+      </node>
+      <node id="123">
+        <label>PCBuilderMVC.Controllers.GPUController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller"/>
+        <childnode refid="124" relation="public-inheritance">
+        </childnode>
+        <childnode refid="125" relation="usage">
+          <edgelabel>db</edgelabel>
+        </childnode>
+      </node>
+      <node id="125">
+        <label>PCBuilderMVC.Models.PCBuilderEntityModels</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models"/>
+        <childnode refid="126" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="124">
+        <label>Controller</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/GPUController.cs" bodystart="17" bodyend="130"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1ace84f79eaf685c05dce52af070c4b519" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::GPUController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aa34201847e1e5c053d778e2b0a38650e" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::GPUController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a2d429161edc3b0d41d4b6ffedd323386" prot="private" virt="non-virtual"><scope>PCBuilderMVC::Controllers::GPUController</scope><name>db</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1abf8b845362784a12062436f4720b14e6" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::GPUController</scope><name>Delete</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aab97b4bb193c7a42426beaa2c5ef2288" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::GPUController</scope><name>DeleteConfirmed</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a78d3d59dbfde397dbddb047d0c7db090" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::GPUController</scope><name>Details</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a034e1443604844a81742a6c4e2dd5ccf" prot="protected" virt="non-virtual"><scope>PCBuilderMVC::Controllers::GPUController</scope><name>Dispose</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aeb7156b1f3d6bab93118cb778e75bea8" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::GPUController</scope><name>Edit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a0d21736b4431a17c038d500bf09ba00e" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::GPUController</scope><name>Edit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a38923ec0854ca8ca5d0247bae3068d4f" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::GPUController</scope><name>Index</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

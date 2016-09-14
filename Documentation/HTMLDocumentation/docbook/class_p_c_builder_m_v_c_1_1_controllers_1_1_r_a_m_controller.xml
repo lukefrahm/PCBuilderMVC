@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller">
+<title>PCBuilderMVC::Controllers::RAMController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1ab5f0288624ca2c326259e9224b2dfdf3">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a565ca84426d8a94125ff0ba785b41141">Details</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a893128c612df2fafac1d8562317965f0">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1af78cd8b7deadb2481e69f886a6b7ef8d">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m">RAM</link> rAM)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a78e10f8249868635dcfa1f0683330b44">Edit</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1ae754b5e8f84669b8c05909c0571e7e10">Edit</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m">RAM</link> rAM)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a2f5ad983c778bfa1bf98f733fc28bc9e">Delete</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a2d3ebd51384824c662b8f0a3b32db293">DeleteConfirmed</link> (
+int id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a8c08e16079a01fff70e528def1005323">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>RAM controller class to handle RAM views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file RAMController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>RAMController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1ab5f0288624ca2c326259e9224b2dfdf3">
+                <title>ActionResult PCBuilderMVC.Controllers.RAMController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a565ca84426d8a94125ff0ba785b41141">
+                <title>ActionResult PCBuilderMVC.Controllers.RAMController.Details (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a893128c612df2fafac1d8562317965f0">
+                <title>ActionResult PCBuilderMVC.Controllers.RAMController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1af78cd8b7deadb2481e69f886a6b7ef8d">
+                <title>ActionResult PCBuilderMVC.Controllers.RAMController.Create ([Bind(Include=&quot;RamId,Brand,Model,RamSize,RamGeneration,RamSpeed,RamTimings,BestUse,Price&quot;)] RAM rAM)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a78e10f8249868635dcfa1f0683330b44">
+                <title>ActionResult PCBuilderMVC.Controllers.RAMController.Edit (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1ae754b5e8f84669b8c05909c0571e7e10">
+                <title>ActionResult PCBuilderMVC.Controllers.RAMController.Edit ([Bind(Include=&quot;RamId,Brand,Model,RamSize,RamGeneration,RamSpeed,RamTimings,BestUse,Price&quot;)] RAM rAM)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a2f5ad983c778bfa1bf98f733fc28bc9e">
+                <title>ActionResult PCBuilderMVC.Controllers.RAMController.Delete (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a2d3ebd51384824c662b8f0a3b32db293">
+                <title>ActionResult PCBuilderMVC.Controllers.RAMController.DeleteConfirmed (int id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller_1a8c08e16079a01fff70e528def1005323">
+                <title>override void PCBuilderMVC.Controllers.RAMController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

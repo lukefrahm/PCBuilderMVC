@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_d86de650e6efa81a604365ade8314221" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers</compoundname>
+    <innerfile refid="_account_controller_8cs">AccountController.cs</innerfile>
+    <innerfile refid="_administration_controller_8cs">AdministrationController.cs</innerfile>
+    <innerfile refid="_c_p_u_controller_8cs">CPUController.cs</innerfile>
+    <innerfile refid="_finalized_build_controller_8cs">FinalizedBuildController.cs</innerfile>
+    <innerfile refid="_g_p_u_controller_8cs">GPUController.cs</innerfile>
+    <innerfile refid="_home_controller_8cs">HomeController.cs</innerfile>
+    <innerfile refid="_motherboard_controller_8cs">MotherboardController.cs</innerfile>
+    <innerfile refid="_optical_controller_8cs">OpticalController.cs</innerfile>
+    <innerfile refid="_p_s_u_controller_8cs">PSUController.cs</innerfile>
+    <innerfile refid="_questionnaire_controller_8cs">QuestionnaireController.cs</innerfile>
+    <innerfile refid="_r_a_m_controller_8cs">RAMController.cs</innerfile>
+    <innerfile refid="_role_controller_8cs">RoleController.cs</innerfile>
+    <innerfile refid="_storage_controller_8cs">StorageController.cs</innerfile>
+    <innerfile refid="_user_controller_8cs">UserController.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/"/>
+  </compounddef>
+</doxygen>

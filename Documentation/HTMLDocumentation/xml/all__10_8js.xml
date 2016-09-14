@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="all__10_8js" kind="file" language="Javascript">
+    <compoundname>all_10.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="all__10_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;updateuseraccount&apos;,[&apos;UpdateUserAccount&apos;,[&apos;../class_data_access_1_1_user_accessor.html#a7349fc8c87333785420a2896e4c78540&apos;,1,&apos;<ref refid="class_data_access_1_1_user_accessor" kindref="compound">DataAccess::UserAccessor</ref>&apos;]]],
+  [&apos;updateuserinformation&apos;,[&apos;UpdateUserInformation&apos;,[&apos;../class_business_logic_1_1_user_manager.html#a58674010581be08d264cb486810c9de8&apos;,1,&apos;<ref refid="class_business_logic_1_1_user_manager" kindref="compound">BusinessLogic::UserManager</ref>&apos;]]],
+  [&apos;user&apos;,[&apos;User&apos;,[&apos;../class_business_objects_1_1_user.html#a8fa01831c4b8e4e9d0a9fb6e93b5e2f9&apos;,1,&apos;<ref refid="class_business_objects_1_1_user_1a8fa01831c4b8e4e9d0a9fb6e93b5e2f9" kindref="member">BusinessObjects.User.User</ref>()&apos;],[&apos;../class_business_objects_1_1_user.html#a6a7967d96c26864fb41b03069500eb46&apos;,1,&apos;<ref refid="class_business_objects_1_1_user_1a8fa01831c4b8e4e9d0a9fb6e93b5e2f9" kindref="member">BusinessObjects.User.User</ref>(int userID, string firstName, string lastName, string address, string city, string state, string zip, string localPhone, string emailAddress, string userName, string password, bool active, string role)&apos;]]],
+  [&apos;user&apos;,[&apos;User&apos;,[&apos;../class_business_objects_1_1_user.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;user&apos;,[&apos;User&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_user.html&apos;,1,&apos;PCBuilderMVC::Models&apos;]]],
+  [&apos;useraccessor&apos;,[&apos;UserAccessor&apos;,[&apos;../class_data_access_1_1_user_accessor.html&apos;,1,&apos;DataAccess&apos;]]],
+  [&apos;usercontroller&apos;,[&apos;UserController&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html&apos;,1,&apos;PCBuilderMVC::Controllers&apos;]]],
+  [&apos;userentities&apos;,[&apos;UserEntities&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html&apos;,1,&apos;PCBuilderMVC::Models&apos;]]],
+  [&apos;usermanager&apos;,[&apos;UserManager&apos;,[&apos;../class_business_logic_1_1_user_manager.html&apos;,1,&apos;BusinessLogic&apos;]]]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/all_10.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/all_10.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;updateuseraccount&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;UpdateUserAccount&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_data_access_1_1_user_accessor.html#a7349fc8c87333785420a2896e4c78540&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;DataAccess::UserAccessor&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;updateuserinformation&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;UpdateUserInformation&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_logic_1_1_user_manager.html#a58674010581be08d264cb486810c9de8&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessLogic::UserManager&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;user&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;User&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_user.html#a8fa01831c4b8e4e9d0a9fb6e93b5e2f9&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects.User.User()&apos;</highlight><highlight class="normal">],[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_user.html#a6a7967d96c26864fb41b03069500eb46&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects.User.User(int<sp/>userID,<sp/>string<sp/>firstName,<sp/>string<sp/>lastName,<sp/>string<sp/>address,<sp/>string<sp/>city,<sp/>string<sp/>state,<sp/>string<sp/>zip,<sp/>string<sp/>localPhone,<sp/>string<sp/>emailAddress,<sp/>string<sp/>userName,<sp/>string<sp/>password,<sp/>bool<sp/>active,<sp/>string<sp/>role)&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;user&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;User&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_user.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;user&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;User&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_user.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Models&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;useraccessor&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;UserAccessor&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_data_access_1_1_user_accessor.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;DataAccess&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;usercontroller&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;UserController&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Controllers&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;userentities&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;UserEntities&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Models&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;usermanager&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;UserManager&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_logic_1_1_user_manager.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessLogic&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="12"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/all_10.js"/>
+  </compounddef>
+</doxygen>

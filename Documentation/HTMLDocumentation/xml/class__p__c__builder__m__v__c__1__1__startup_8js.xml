@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__startup_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_startup.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__startup_8js_1acc8f4386ad8c0569a911c3de55ce5498" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_startup</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_startup</name>
+        <initializer>=
+[
+    [ &quot;Configuration&quot;, &quot;class_p_c_builder_m_v_c_1_1_startup.html#a2d4fede3c2151fced1c6ac02dbd12cdd&quot;, null ],
+    [ &quot;ConfigureAuth&quot;, &quot;class_p_c_builder_m_v_c_1_1_startup.html#a0815b20f969548d7c06f8b286977f14c&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_startup.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_startup.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_startup<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Configuration&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_startup.html#a2d4fede3c2151fced1c6ac02dbd12cdd&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ConfigureAuth&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_startup.html#a0815b20f969548d7c06f8b286977f14c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="5"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_startup.js"/>
+  </compounddef>
+</doxygen>

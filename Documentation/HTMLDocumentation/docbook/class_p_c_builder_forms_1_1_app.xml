@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_forms_1_1_app">
+<title>PCBuilderForms::App class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_app_1af10a7f8ea27debb593e600d4b7e0550e">InitializeComponent</link> (
+)<para><emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_app_1af10a7f8ea27debb593e600d4b7e0550e">InitializeComponent</link> (
+)<para><emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static void <link linkend="class_p_c_builder_forms_1_1_app_1a8e0e2ce98707651cc8d9f09d9866f51a">Main</link> (
+)<para><emphasis>&lt;summary&gt;
+Application Entry Point.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static void <link linkend="class_p_c_builder_forms_1_1_app_1a8e0e2ce98707651cc8d9f09d9866f51a">Main</link> (
+)<para><emphasis>&lt;summary&gt;
+Application Entry Point.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Interaction logic for App.xaml </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><link linkend="class_p_c_builder_forms_1_1_app">App</link> </para>
+                <para>Definition at line 15 of file App.xaml.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>App.xaml.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_p_c_builder_forms_1_1_app_1af10a7f8ea27debb593e600d4b7e0550e">
+                <title>void PCBuilderForms.App.InitializeComponent ()</title> <emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_app_1af10a7f8ea27debb593e600d4b7e0550e">
+                <title>void PCBuilderForms.App.InitializeComponent ()</title> <emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_app_1a8e0e2ce98707651cc8d9f09d9866f51a">
+                <title>static void PCBuilderForms.App.Main ()</title> <emphasis>&lt;summary&gt;
+Application Entry Point.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_app_1a8e0e2ce98707651cc8d9f09d9866f51a">
+                <title>static void PCBuilderForms.App.Main ()</title> <emphasis>&lt;summary&gt;
+Application Entry Point.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+</section>

@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller">
+<title>PCBuilderMVC::Controllers::MotherboardController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1aa2a0f0e9dcb1ed08d282201866a6be89">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1a727538002744452af952b885559e9d8b">Details</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1abf7fa94ab1c69180e7976fb1cbf346bc">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1a027a5f5735442481b44fd9b9bcde781e">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard">Motherboard</link> motherboard)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1adb4e93d677b42cbdfbb18eaecb4d86e2">Edit</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1a05911fe623774ee2dcbd9bf1079aaf2e">Edit</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard">Motherboard</link> motherboard)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1a03255789bef1157226db1f72785b2973">Delete</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1af944aebfcedf214c0182632f0082457b">DeleteConfirmed</link> (
+int id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1a1eedae183eaf739df0fda184eefb0233">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Motherboard controller class to handle Motherboard views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file MotherboardController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>MotherboardController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1aa2a0f0e9dcb1ed08d282201866a6be89">
+                <title>ActionResult PCBuilderMVC.Controllers.MotherboardController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1a727538002744452af952b885559e9d8b">
+                <title>ActionResult PCBuilderMVC.Controllers.MotherboardController.Details (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1abf7fa94ab1c69180e7976fb1cbf346bc">
+                <title>ActionResult PCBuilderMVC.Controllers.MotherboardController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1a027a5f5735442481b44fd9b9bcde781e">
+                <title>ActionResult PCBuilderMVC.Controllers.MotherboardController.Create ([Bind(Include=&quot;MotherboardId,Brand,Model,Socket,Chipset,MaxRam,RamType,FormFactor,SataPorts,M2Slots,PowerPhases,FanHeaders,Pcie16,Pcie8,Pcie4,Pcie1,Pci,Price&quot;)] Motherboard motherboard)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1adb4e93d677b42cbdfbb18eaecb4d86e2">
+                <title>ActionResult PCBuilderMVC.Controllers.MotherboardController.Edit (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1a05911fe623774ee2dcbd9bf1079aaf2e">
+                <title>ActionResult PCBuilderMVC.Controllers.MotherboardController.Edit ([Bind(Include=&quot;MotherboardId,Brand,Model,Socket,Chipset,MaxRam,RamType,FormFactor,SataPorts,M2Slots,PowerPhases,FanHeaders,Pcie16,Pcie8,Pcie4,Pcie1,Pci,Price&quot;)] Motherboard motherboard)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1a03255789bef1157226db1f72785b2973">
+                <title>ActionResult PCBuilderMVC.Controllers.MotherboardController.Delete (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1af944aebfcedf214c0182632f0082457b">
+                <title>ActionResult PCBuilderMVC.Controllers.MotherboardController.DeleteConfirmed (int id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller_1a1eedae183eaf739df0fda184eefb0233">
+                <title>override void PCBuilderMVC.Controllers.MotherboardController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

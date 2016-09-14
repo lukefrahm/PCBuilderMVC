@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace_p_c_builder_m_v_c" kind="namespace" language="C#">
+    <compoundname>PCBuilderMVC</compoundname>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_application_user_manager" prot="public">PCBuilderMVC::ApplicationUserManager</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_bundle_config" prot="public">PCBuilderMVC::BundleConfig</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_email_service" prot="public">PCBuilderMVC::EmailService</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_filter_config" prot="public">PCBuilderMVC::FilterConfig</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_mvc_application" prot="public">PCBuilderMVC::MvcApplication</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_route_config" prot="public">PCBuilderMVC::RouteConfig</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_sms_service" prot="public">PCBuilderMVC::SmsService</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_startup" prot="public">PCBuilderMVC::Startup</innerclass>
+    <innernamespace refid="namespace_p_c_builder_m_v_c_1_1_controllers">PCBuilderMVC::Controllers</innernamespace>
+    <innernamespace refid="namespace_p_c_builder_m_v_c_1_1_migrations">PCBuilderMVC::Migrations</innernamespace>
+    <innernamespace refid="namespace_p_c_builder_m_v_c_1_1_models">PCBuilderMVC::Models</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/BundleConfig.cs" line="5" column="1"/>
+  </compounddef>
+</doxygen>

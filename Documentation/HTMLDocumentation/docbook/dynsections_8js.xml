@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="dynsections_8js">
+    <title>dynsections.js File Reference</title>
+        <section>
+            <title>Functions</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="dynsections_8js_1a1922c462474df7dfd18741c961d59a25">toggleVisibility</link> (
+linkObj )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="dynsections_8js_1a8f7493ad859d4fbf2523917511ee7177">updateStripes</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="dynsections_8js_1a19f577cc1ba571396a85bb1f48bf4df2">toggleLevel</link> (
+level )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="dynsections_8js_1af244da4527af2d845dca04f5656376cd">toggleFolder</link> (
+id )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="dynsections_8js_1ac057b640b17ff32af11ced151c9305b4">toggleInherit</link> (
+id )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dynsections.js</para>
+    </simplesect>
+</section>

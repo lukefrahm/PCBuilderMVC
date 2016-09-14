@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="interface_business_logic_1_1_i_build_processor">
+<title>BusinessLogic::IBuildProcessor interface Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para><link linkend="class_business_objects_1_1_finalized_build">FinalizedBuild</link> <link linkend="interface_business_logic_1_1_i_build_processor_1a2e4fceb9979edca1ba6a37a45eb21608">DataBuilder</link> (
+<link linkend="class_business_objects_1_1_questionnaire_results">QuestionnaireResults</link> qr)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+            <section xml:id="interface_business_logic_1_1_i_build_processor_1a2e4fceb9979edca1ba6a37a45eb21608">
+                <title>FinalizedBuild BusinessLogic.IBuildProcessor.DataBuilder (QuestionnaireResults qr)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

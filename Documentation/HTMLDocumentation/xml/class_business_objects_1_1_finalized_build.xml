@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_finalized_build" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::FinalizedBuild</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_business_objects_1_1_finalized_build_1ae99616079a7d77c7b200e56ed5f79bfb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref></type>
+        <definition>CPU BusinessObjects.FinalizedBuild.cpu</definition>
+        <argsstring></argsstring>
+        <name>cpu</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_finalized_build_1ac6b02cd77a904d513acdb3325d85834f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref></type>
+        <definition>GPU BusinessObjects.FinalizedBuild.gpu</definition>
+        <argsstring></argsstring>
+        <name>gpu</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_finalized_build_1a06906090f97bc2be76860e2f7923ed51" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref></type>
+        <definition>Motherboard BusinessObjects.FinalizedBuild.motherboard</definition>
+        <argsstring></argsstring>
+        <name>motherboard</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_finalized_build_1af31b3d75c327650de30a205dad72cd48" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref></type>
+        <definition>Optical BusinessObjects.FinalizedBuild.optical</definition>
+        <argsstring></argsstring>
+        <name>optical</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_finalized_build_1adb806fcb56478097c2d20713a68cbb9b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref></type>
+        <definition>PSU BusinessObjects.FinalizedBuild.psu</definition>
+        <argsstring></argsstring>
+        <name>psu</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_finalized_build_1aa42a33c04fa96a9a031f7548d7b985be" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref></type>
+        <definition>RAM BusinessObjects.FinalizedBuild.ram</definition>
+        <argsstring></argsstring>
+        <name>ram</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_finalized_build_1ad75506558cd55bf2dd96e8cfa6cb59b9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref></type>
+        <definition>Storage BusinessObjects.FinalizedBuild.storage</definition>
+        <argsstring></argsstring>
+        <name>storage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_finalized_build_1a1ed63e51a762aefe3c317f3ecdaa76bc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.FinalizedBuild.message</definition>
+        <argsstring></argsstring>
+        <name>message</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_objects_1_1_finalized_build_1a5e7af45a663b29b74366c76d4f9acdbc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.FinalizedBuild.FinalizedBuild</definition>
+        <argsstring>()</argsstring>
+        <name>FinalizedBuild</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_finalized_build" kindref="compound">FinalizedBuild</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para>Message is defaulted to an empty string. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" bodystart="29" bodyend="32"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_business_objects_1_1_finalized_build" kindref="compound">FinalizedBuild</ref> object to hold necessary data on the final build after processing </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" line="13" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/FinalizedBuild.cs" bodystart="12" bodyend="33"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_finalized_build_1ae99616079a7d77c7b200e56ed5f79bfb" prot="public" virt="non-virtual"><scope>BusinessObjects::FinalizedBuild</scope><name>cpu</name></member>
+      <member refid="class_business_objects_1_1_finalized_build_1a5e7af45a663b29b74366c76d4f9acdbc" prot="public" virt="non-virtual"><scope>BusinessObjects::FinalizedBuild</scope><name>FinalizedBuild</name></member>
+      <member refid="class_business_objects_1_1_finalized_build_1ac6b02cd77a904d513acdb3325d85834f" prot="public" virt="non-virtual"><scope>BusinessObjects::FinalizedBuild</scope><name>gpu</name></member>
+      <member refid="class_business_objects_1_1_finalized_build_1a1ed63e51a762aefe3c317f3ecdaa76bc" prot="public" virt="non-virtual"><scope>BusinessObjects::FinalizedBuild</scope><name>message</name></member>
+      <member refid="class_business_objects_1_1_finalized_build_1a06906090f97bc2be76860e2f7923ed51" prot="public" virt="non-virtual"><scope>BusinessObjects::FinalizedBuild</scope><name>motherboard</name></member>
+      <member refid="class_business_objects_1_1_finalized_build_1af31b3d75c327650de30a205dad72cd48" prot="public" virt="non-virtual"><scope>BusinessObjects::FinalizedBuild</scope><name>optical</name></member>
+      <member refid="class_business_objects_1_1_finalized_build_1adb806fcb56478097c2d20713a68cbb9b" prot="public" virt="non-virtual"><scope>BusinessObjects::FinalizedBuild</scope><name>psu</name></member>
+      <member refid="class_business_objects_1_1_finalized_build_1aa42a33c04fa96a9a031f7548d7b985be" prot="public" virt="non-virtual"><scope>BusinessObjects::FinalizedBuild</scope><name>ram</name></member>
+      <member refid="class_business_objects_1_1_finalized_build_1ad75506558cd55bf2dd96e8cfa6cb59b9" prot="public" virt="non-virtual"><scope>BusinessObjects::FinalizedBuild</scope><name>storage</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

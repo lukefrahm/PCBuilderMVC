@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Controllers::PSUController</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Controller</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1aab5ac6d5e0f7842d4b6c6a05e8ffc692" prot="private" static="no" mutable="no">
+        <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref></type>
+        <definition>PCBuilderEntityModels PCBuilderMVC.Controllers.PSUController.db</definition>
+        <argsstring></argsstring>
+        <name>db</name>
+        <initializer>= new <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a091077c612db8f41b3fdc91d8f40ee1a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.PSUController.Index</definition>
+        <argsstring>()</argsstring>
+        <name>Index</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="22" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1aa11ba9390a2ade5a7780fde7184ad605" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.PSUController.Details</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Details</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="28" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1aab12c9297ccd422406759d10486b4089" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.PSUController.Create</definition>
+        <argsstring>()</argsstring>
+        <name>Create</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a3f8a86f6901b123fd7f481a9d69f4e85" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.PSUController.Create</definition>
+        <argsstring>([Bind(Include=&quot;PsuId,Brand,Model,Wattage,Efficiency,Price&quot;)] PSU pSU)</argsstring>
+        <name>Create</name>
+        <param>
+          <attributes>[Bind(Include=&quot;PsuId,Brand,Model,Wattage,Efficiency,Price&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_s_u" kindref="compound">PSU</ref></type>
+          <declname>pSU</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="53" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="53" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a0cd44180c3a4e4571745bcc26f4f125a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.PSUController.Edit</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Edit</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="66" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="66" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1ad171810d48df24733a5314645121e61b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.PSUController.Edit</definition>
+        <argsstring>([Bind(Include=&quot;PsuId,Brand,Model,Wattage,Efficiency,Price&quot;)] PSU pSU)</argsstring>
+        <name>Edit</name>
+        <param>
+          <attributes>[Bind(Include=&quot;PsuId,Brand,Model,Wattage,Efficiency,Price&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_s_u" kindref="compound">PSU</ref></type>
+          <declname>pSU</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="85" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="85" bodyend="94"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a50c3976316e118165f74e9f9e89dec75" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.PSUController.Delete</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Delete</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="97" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="97" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1ac313c3b328777eb91f58d7fa8dbb6d16" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.PSUController.DeleteConfirmed</definition>
+        <argsstring>(int id)</argsstring>
+        <name>DeleteConfirmed</name>
+        <param>
+          <type>int</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="114" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="114" bodyend="120"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a6c6ac75cfb1d74033266cdb58f28053b" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void PCBuilderMVC.Controllers.PSUController.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="122" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="122" bodyend="129"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>PSU controller class to handle PSU views interaction. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>System.Web.Mvc.Controller</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="202">
+        <label>PCBuilderMVC.Controllers.PSUController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller"/>
+        <childnode refid="203" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="203">
+        <label>Controller</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="207">
+        <label>DbContext</label>
+      </node>
+      <node id="204">
+        <label>PCBuilderMVC.Controllers.PSUController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller"/>
+        <childnode refid="205" relation="public-inheritance">
+        </childnode>
+        <childnode refid="206" relation="usage">
+          <edgelabel>db</edgelabel>
+        </childnode>
+      </node>
+      <node id="206">
+        <label>PCBuilderMVC.Models.PCBuilderEntityModels</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models"/>
+        <childnode refid="207" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="205">
+        <label>Controller</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/PSUController.cs" bodystart="17" bodyend="130"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1aab12c9297ccd422406759d10486b4089" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::PSUController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a3f8a86f6901b123fd7f481a9d69f4e85" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::PSUController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1aab5ac6d5e0f7842d4b6c6a05e8ffc692" prot="private" virt="non-virtual"><scope>PCBuilderMVC::Controllers::PSUController</scope><name>db</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a50c3976316e118165f74e9f9e89dec75" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::PSUController</scope><name>Delete</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1ac313c3b328777eb91f58d7fa8dbb6d16" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::PSUController</scope><name>DeleteConfirmed</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1aa11ba9390a2ade5a7780fde7184ad605" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::PSUController</scope><name>Details</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a6c6ac75cfb1d74033266cdb58f28053b" prot="protected" virt="non-virtual"><scope>PCBuilderMVC::Controllers::PSUController</scope><name>Dispose</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a0cd44180c3a4e4571745bcc26f4f125a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::PSUController</scope><name>Edit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1ad171810d48df24733a5314645121e61b" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::PSUController</scope><name>Edit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller_1a091077c612db8f41b3fdc91d8f40ee1a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::PSUController</scope><name>Index</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

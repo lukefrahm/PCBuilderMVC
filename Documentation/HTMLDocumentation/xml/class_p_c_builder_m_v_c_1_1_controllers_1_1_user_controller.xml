@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Controllers::UserController</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Controller</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a7dd8061d33d8b9a9ca57bf574302a53f" prot="private" static="no" mutable="no">
+        <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref></type>
+        <definition>PCBuilderEntityModels PCBuilderMVC.Controllers.UserController.db</definition>
+        <argsstring></argsstring>
+        <name>db</name>
+        <initializer>= new <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a2dc3bcfa12cbd3193881110bb2bcf079" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.UserController.Index</definition>
+        <argsstring>()</argsstring>
+        <name>Index</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="22" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1ab4bcb8a7721fd91cd6e769a6c5f2111a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.UserController.Details</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Details</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="28" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a018c24eba9f929387f7c426c7799a1a8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.UserController.Create</definition>
+        <argsstring>()</argsstring>
+        <name>Create</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1af8027c377046c4a30aaf6b0c6d80b967" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.UserController.Create</definition>
+        <argsstring>([Bind(Include=&quot;UserId,FirstName,LastName,Address,City,StateCode,Zip,LocalPhone,EmailAddress,Username,Password,RoleName,Active&quot;)] User user)</argsstring>
+        <name>Create</name>
+        <param>
+          <attributes>[Bind(Include=&quot;UserId,FirstName,LastName,Address,City,StateCode,Zip,LocalPhone,EmailAddress,Username,Password,RoleName,Active&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_user" kindref="compound">User</ref></type>
+          <declname>user</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="53" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="53" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a2e149503159c884e4f0cb1c6daca1279" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.UserController.Edit</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Edit</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="66" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="66" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a84cf30a139a0cda5551411ee29654729" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.UserController.Edit</definition>
+        <argsstring>([Bind(Include=&quot;UserId,FirstName,LastName,Address,City,StateCode,Zip,LocalPhone,EmailAddress,Username,Password,RoleName,Active&quot;)] User user)</argsstring>
+        <name>Edit</name>
+        <param>
+          <attributes>[Bind(Include=&quot;UserId,FirstName,LastName,Address,City,StateCode,Zip,LocalPhone,EmailAddress,Username,Password,RoleName,Active&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_user" kindref="compound">User</ref></type>
+          <declname>user</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="85" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="85" bodyend="94"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1afeff41f0a91f9d77d4ec0e81471bd649" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.UserController.Delete</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Delete</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="97" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="97" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a6fc23363eff6bad1a8f2f08143d89b60" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.UserController.DeleteConfirmed</definition>
+        <argsstring>(int id)</argsstring>
+        <name>DeleteConfirmed</name>
+        <param>
+          <type>int</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="114" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="114" bodyend="120"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1af8e537824aef9d778ef7158795528d66" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void PCBuilderMVC.Controllers.UserController.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="122" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="122" bodyend="129"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>User controller class to handle User views interaction </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>System.Web.Mvc.Controller</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="334">
+        <label>Controller</label>
+      </node>
+      <node id="333">
+        <label>PCBuilderMVC.Controllers.UserController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller"/>
+        <childnode refid="334" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="338">
+        <label>DbContext</label>
+      </node>
+      <node id="337">
+        <label>PCBuilderMVC.Models.PCBuilderEntityModels</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models"/>
+        <childnode refid="338" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="336">
+        <label>Controller</label>
+      </node>
+      <node id="335">
+        <label>PCBuilderMVC.Controllers.UserController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller"/>
+        <childnode refid="336" relation="public-inheritance">
+        </childnode>
+        <childnode refid="337" relation="usage">
+          <edgelabel>db</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/UserController.cs" bodystart="17" bodyend="130"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a018c24eba9f929387f7c426c7799a1a8" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::UserController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1af8027c377046c4a30aaf6b0c6d80b967" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::UserController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a7dd8061d33d8b9a9ca57bf574302a53f" prot="private" virt="non-virtual"><scope>PCBuilderMVC::Controllers::UserController</scope><name>db</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1afeff41f0a91f9d77d4ec0e81471bd649" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::UserController</scope><name>Delete</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a6fc23363eff6bad1a8f2f08143d89b60" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::UserController</scope><name>DeleteConfirmed</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1ab4bcb8a7721fd91cd6e769a6c5f2111a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::UserController</scope><name>Details</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1af8e537824aef9d778ef7158795528d66" prot="protected" virt="non-virtual"><scope>PCBuilderMVC::Controllers::UserController</scope><name>Dispose</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a2e149503159c884e4f0cb1c6daca1279" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::UserController</scope><name>Edit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a84cf30a139a0cda5551411ee29654729" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::UserController</scope><name>Edit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller_1a2dc3bcfa12cbd3193881110bb2bcf079" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::UserController</scope><name>Index</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_objects_1_1_optical">
+<title>BusinessObjects::Optical class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_optical_1a81db21dd419123fe11893f988facd077">Optical</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Optical&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_optical_1a85e001030041386047f105975754144d">Optical</link> (
+int opticalId, string brand, string model, string opticalType, decimal price)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Optical&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_business_objects_1_1_optical">Optical</link> object to hold necessary data on the optical drive </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 18 of file Optical.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>Optical.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_objects_1_1_optical_1a81db21dd419123fe11893f988facd077">
+                <title>BusinessObjects.Optical.Optical ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Optical&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_objects_1_1_optical_1a85e001030041386047f105975754144d">
+                <title>BusinessObjects.Optical.Optical (int opticalId, string brand, string model, string opticalType, decimal price)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Optical&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>opticalId</entry>
+                                <entry>
+<para>The optical identifier.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>brand</entry>
+                                <entry>
+<para>The brand.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>model</entry>
+                                <entry>
+<para>The model.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>opticalType</entry>
+                                <entry>
+<para>Type of the optical drive.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>price</entry>
+                                <entry>
+<para>The price.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

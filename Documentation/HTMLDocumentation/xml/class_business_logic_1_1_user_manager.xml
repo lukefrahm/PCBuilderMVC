@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_logic_1_1_user_manager" kind="class" language="C#" prot="public">
+    <compoundname>BusinessLogic::UserManager</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_logic_1_1_user_manager_1a3056179e2041b2022e1a28356188c288" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_user" kindref="compound">User</ref> &gt;</type>
+        <definition>List&lt;User&gt; BusinessLogic.UserManager.GetUserList</definition>
+        <argsstring>(Active group)</argsstring>
+        <name>GetUserList</name>
+        <param>
+          <type><ref refid="namespace_business_objects_1a640a4d136931381578aad0a180173cfc" kindref="member">Active</ref></type>
+          <declname>group</declname>
+        </param>
+        <briefdescription>
+<para>Gets the user list for all active users. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>group</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The group.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>List of Users.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>No records found.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/UserManager.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/UserManager.cs" bodystart="24" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_user_manager_1a65be32ae93f260d00fc7d259470d8869" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int BusinessLogic.UserManager.GetUserCount</definition>
+        <argsstring>(Active group=Active.active)</argsstring>
+        <name>GetUserCount</name>
+        <param>
+          <type><ref refid="namespace_business_objects_1a640a4d136931381578aad0a180173cfc" kindref="member">Active</ref></type>
+          <declname>group</declname>
+          <defval>Active.active</defval>
+        </param>
+        <briefdescription>
+<para>Gets the user count for all active users. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>group</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The active status. Defaults to active if no value is passed.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of active users.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/UserManager.cs" line="50" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/UserManager.cs" bodystart="50" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_user_manager_1ab868aeac2dd021d3d230cceb099422c8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool BusinessLogic.UserManager.AddNewUser</definition>
+        <argsstring>(User usr)</argsstring>
+        <name>AddNewUser</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_user" kindref="compound">User</ref></type>
+          <declname>usr</declname>
+        </param>
+        <briefdescription>
+<para>Adds a new user. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>usr</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The user to be added.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Boolean result of the insert.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/UserManager.cs" line="67" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/UserManager.cs" bodystart="67" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_user_manager_1a58674010581be08d264cb486810c9de8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool BusinessLogic.UserManager.UpdateUserInformation</definition>
+        <argsstring>(User usr)</argsstring>
+        <name>UpdateUserInformation</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_user" kindref="compound">User</ref></type>
+          <declname>usr</declname>
+        </param>
+        <briefdescription>
+<para>Updates the user information. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>usr</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The user to be updated.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Boolean result of the update.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Invalid userID or First name is too long. Maximum 50 characters. or Last name is too long.&apos; Maximum 50 characters. or Address is too long.&apos; Maximum 50 characters. or City name is too long.&apos; Maximum 50 characters. or User name is too long.&apos; Maximum 50 characters. or Email address is too long. Maximun 100 characters. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/UserManager.cs" line="104" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/UserManager.cs" bodystart="104" bodyend="149"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>User manager with the job of talking to the database for user fields. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/UserManager.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/UserManager.cs" bodystart="16" bodyend="150"/>
+    <listofallmembers>
+      <member refid="class_business_logic_1_1_user_manager_1ab868aeac2dd021d3d230cceb099422c8" prot="public" virt="non-virtual"><scope>BusinessLogic::UserManager</scope><name>AddNewUser</name></member>
+      <member refid="class_business_logic_1_1_user_manager_1a65be32ae93f260d00fc7d259470d8869" prot="public" virt="non-virtual"><scope>BusinessLogic::UserManager</scope><name>GetUserCount</name></member>
+      <member refid="class_business_logic_1_1_user_manager_1a3056179e2041b2022e1a28356188c288" prot="public" virt="non-virtual"><scope>BusinessLogic::UserManager</scope><name>GetUserList</name></member>
+      <member refid="class_business_logic_1_1_user_manager_1a58674010581be08d264cb486810c9de8" prot="public" virt="non-virtual"><scope>BusinessLogic::UserManager</scope><name>UpdateUserInformation</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

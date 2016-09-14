@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__external__login__confirmation__view__model_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__external__login__confirmation__view__model_8js_1ab6c9522f0815f77b0bf6d379d3f6d895" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model</name>
+        <initializer>=
+[
+    [ &quot;Email&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model.html#af8009228d4a54939027c2a6a983b5050&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Email&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model.html#af8009228d4a54939027c2a6a983b5050&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="4"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model.js"/>
+  </compounddef>
+</doxygen>

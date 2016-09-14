@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_data_access_1_1_g_p_u_accessor">
+<title>DataAccess::GPUAccessor class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_business_objects_1_1_g_p_u">GPU</link> <link linkend="class_data_access_1_1_g_p_u_accessor_1acd3cccc36aed6c7c9fd3af8077fb3ec7">RetrieveGPUByName</link> (
+string name)<para><emphasis>&lt;summary&gt;
+Retrieves a GPU by name.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_g_p_u">GPU</link> &gt; <link linkend="class_data_access_1_1_g_p_u_accessor_1a7203a061e7e659546c2c0240944c595b">RetrieveGPUsByRamSize</link> (
+int ramSize)<para><emphasis>&lt;summary&gt;
+Retrieves lsit of GPUs by RAM size.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_g_p_u_accessor_1a7fba4be184695de0c77385bc74ee50f0">InsertGpu</link> (
+<link linkend="class_business_objects_1_1_g_p_u">GPU</link> gpu)<para><emphasis>&lt;summary&gt;
+Inserts a new GPU.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_g_p_u">GPU</link> &gt; <link linkend="class_data_access_1_1_g_p_u_accessor_1ad0e40a593f48af857d32b9386ee02cd6">RetrieveAllGPU</link> (
+)<para><emphasis>&lt;summary&gt;
+Retrieves all GPUs.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>GPU accessor to communicate with database on GPU objects. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 16 of file GPUAccessor.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>GPUAccessor.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_data_access_1_1_g_p_u_accessor_1acd3cccc36aed6c7c9fd3af8077fb3ec7">
+                <title>static GPU DataAccess.GPUAccessor.RetrieveGPUByName (string name)</title> <emphasis>&lt;summary&gt;
+Retrieves a GPU by name.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>name</entry>
+                                <entry>
+<para>The name.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>A GPU object.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_g_p_u_accessor_1a7203a061e7e659546c2c0240944c595b">
+                <title>static List&lt;GPU&gt; DataAccess.GPUAccessor.RetrieveGPUsByRamSize (int ramSize)</title> <emphasis>&lt;summary&gt;
+Retrieves lsit of GPUs by RAM size.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>ramSize</entry>
+                                <entry>
+<para>Size of the ram.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>List of GPU objects.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_g_p_u_accessor_1a7fba4be184695de0c77385bc74ee50f0">
+                <title>static int DataAccess.GPUAccessor.InsertGpu (GPU gpu)</title> <emphasis>&lt;summary&gt;
+Inserts a new GPU.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>gpu</entry>
+                                <entry>
+<para>The gpu.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Count of rows affected.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_g_p_u_accessor_1ad0e40a593f48af857d32b9386ee02cd6">
+                <title>static List&lt;GPU&gt; DataAccess.GPUAccessor.RetrieveAllGPU ()</title> <emphasis>&lt;summary&gt;
+Retrieves all GPUs.
+&lt;/summary&gt;</emphasis>
+                
+<para><formalpara><title>Returns: </title>
+
+<para>List of GPU objects.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

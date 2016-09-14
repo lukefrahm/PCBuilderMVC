@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_data_access_1_1_p_s_u_accessor" kind="class" language="C#" prot="public">
+    <compoundname>DataAccess::PSUAccessor</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_data_access_1_1_p_s_u_accessor_1a18a99912fcddb6255d3b36d74cdb4e57" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref></type>
+        <definition>static PSU DataAccess.PSUAccessor.RetrievePSUByName</definition>
+        <argsstring>(string name)</argsstring>
+        <name>RetrievePSUByName</name>
+        <param>
+          <type>string</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a PSU by name. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>PSU object.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/PSUAccessor.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/PSUAccessor.cs" bodystart="23" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_p_s_u_accessor_1a83eb22b79d6bd8ab03b2bcf0ce8fe5ea" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref> &gt;</type>
+        <definition>static List&lt;PSU&gt; DataAccess.PSUAccessor.RetrievePSUsByWattage</definition>
+        <argsstring>(string wattage)</argsstring>
+        <name>RetrievePSUsByWattage</name>
+        <param>
+          <type>string</type>
+          <declname>wattage</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves PSUs by wattage. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>wattage</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The wattage.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Lsit of PSUs.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/PSUAccessor.cs" line="73" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/PSUAccessor.cs" bodystart="73" bodyend="116"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_p_s_u_accessor_1a3285bd4b20ff99e005ef98f496f8d2dd" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.PSUAccessor.InsertPSU</definition>
+        <argsstring>(PSU psu)</argsstring>
+        <name>InsertPSU</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref></type>
+          <declname>psu</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a new PSU. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>psu</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The psu.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of rows affected.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/PSUAccessor.cs" line="123" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/PSUAccessor.cs" bodystart="123" bodyend="154"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_p_s_u_accessor_1a6f1192a9cf546dab42dab3d31c7c27e8" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref> &gt;</type>
+        <definition>static List&lt;PSU&gt; DataAccess.PSUAccessor.RetrieveAllPSU</definition>
+        <argsstring>()</argsstring>
+        <name>RetrieveAllPSU</name>
+        <briefdescription>
+<para>Retrieves all PSUs. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>List of PSU</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/PSUAccessor.cs" line="161" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/PSUAccessor.cs" bodystart="161" bodyend="202"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>PSU accessor to communicate with database on PSU objects. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/PSUAccessor.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/PSUAccessor.cs" bodystart="15" bodyend="203"/>
+    <listofallmembers>
+      <member refid="class_data_access_1_1_p_s_u_accessor_1a3285bd4b20ff99e005ef98f496f8d2dd" prot="public" virt="non-virtual"><scope>DataAccess::PSUAccessor</scope><name>InsertPSU</name></member>
+      <member refid="class_data_access_1_1_p_s_u_accessor_1a6f1192a9cf546dab42dab3d31c7c27e8" prot="public" virt="non-virtual"><scope>DataAccess::PSUAccessor</scope><name>RetrieveAllPSU</name></member>
+      <member refid="class_data_access_1_1_p_s_u_accessor_1a18a99912fcddb6255d3b36d74cdb4e57" prot="public" virt="non-virtual"><scope>DataAccess::PSUAccessor</scope><name>RetrievePSUByName</name></member>
+      <member refid="class_data_access_1_1_p_s_u_accessor_1a83eb22b79d6bd8ab03b2bcf0ce8fe5ea" prot="public" virt="non-virtual"><scope>DataAccess::PSUAccessor</scope><name>RetrievePSUsByWattage</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

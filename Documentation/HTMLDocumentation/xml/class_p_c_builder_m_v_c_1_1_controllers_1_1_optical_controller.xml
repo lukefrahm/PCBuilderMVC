@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Controllers::OpticalController</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Controller</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a5391c12ed8f836eac784c9247511a411" prot="private" static="no" mutable="no">
+        <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref></type>
+        <definition>PCBuilderEntityModels PCBuilderMVC.Controllers.OpticalController.db</definition>
+        <argsstring></argsstring>
+        <name>db</name>
+        <initializer>= new <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kindref="compound">PCBuilderEntityModels</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a19d91c5c0eb4c6db44a9b52e49caa15c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.OpticalController.Index</definition>
+        <argsstring>()</argsstring>
+        <name>Index</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="22" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a451e9a21abefe7878228c4af97e42fb4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.OpticalController.Details</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Details</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="28" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1af5abe48aa5f880e392a1578c43e533a7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.OpticalController.Create</definition>
+        <argsstring>()</argsstring>
+        <name>Create</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a003bcc62793607ef4d4a79a7e821abcc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.OpticalController.Create</definition>
+        <argsstring>([Bind(Include=&quot;OpticalId,Brand,Model,OpticalType,Price&quot;)] Optical optical)</argsstring>
+        <name>Create</name>
+        <param>
+          <attributes>[Bind(Include=&quot;OpticalId,Brand,Model,OpticalType,Price&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_optical" kindref="compound">Optical</ref></type>
+          <declname>optical</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="53" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="53" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1ad97768ce3483ae9d4407f55ac1825221" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.OpticalController.Edit</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Edit</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="66" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="66" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a8a2ad0474ec18caed739167e1b535630" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.OpticalController.Edit</definition>
+        <argsstring>([Bind(Include=&quot;OpticalId,Brand,Model,OpticalType,Price&quot;)] Optical optical)</argsstring>
+        <name>Edit</name>
+        <param>
+          <attributes>[Bind(Include=&quot;OpticalId,Brand,Model,OpticalType,Price&quot;)]</attributes>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_optical" kindref="compound">Optical</ref></type>
+          <declname>optical</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="85" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="85" bodyend="94"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a3ec1c51763dc146925d897e15fb3f33f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.OpticalController.Delete</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Delete</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="97" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="97" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1aa88c8083a1bb937c87dc99359495b4d3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.OpticalController.DeleteConfirmed</definition>
+        <argsstring>(int id)</argsstring>
+        <name>DeleteConfirmed</name>
+        <param>
+          <type>int</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="114" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="114" bodyend="120"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a25e4700610f3e58e07a3ef2cfbe12330" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void PCBuilderMVC.Controllers.OpticalController.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="122" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="122" bodyend="129"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Optical drive controller class to handle Optical views interaction. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>System.Web.Mvc.Controller</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="186">
+        <label>PCBuilderMVC.Controllers.OpticalController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller"/>
+        <childnode refid="187" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="187">
+        <label>Controller</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="191">
+        <label>DbContext</label>
+      </node>
+      <node id="188">
+        <label>PCBuilderMVC.Controllers.OpticalController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller"/>
+        <childnode refid="189" relation="public-inheritance">
+        </childnode>
+        <childnode refid="190" relation="usage">
+          <edgelabel>db</edgelabel>
+        </childnode>
+      </node>
+      <node id="190">
+        <label>PCBuilderMVC.Models.PCBuilderEntityModels</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models"/>
+        <childnode refid="191" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="189">
+        <label>Controller</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/OpticalController.cs" bodystart="17" bodyend="130"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1af5abe48aa5f880e392a1578c43e533a7" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::OpticalController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a003bcc62793607ef4d4a79a7e821abcc" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::OpticalController</scope><name>Create</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a5391c12ed8f836eac784c9247511a411" prot="private" virt="non-virtual"><scope>PCBuilderMVC::Controllers::OpticalController</scope><name>db</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a3ec1c51763dc146925d897e15fb3f33f" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::OpticalController</scope><name>Delete</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1aa88c8083a1bb937c87dc99359495b4d3" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::OpticalController</scope><name>DeleteConfirmed</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a451e9a21abefe7878228c4af97e42fb4" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::OpticalController</scope><name>Details</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a25e4700610f3e58e07a3ef2cfbe12330" prot="protected" virt="non-virtual"><scope>PCBuilderMVC::Controllers::OpticalController</scope><name>Dispose</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1ad97768ce3483ae9d4407f55ac1825221" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::OpticalController</scope><name>Edit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a8a2ad0474ec18caed739167e1b535630" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::OpticalController</scope><name>Edit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller_1a19d91c5c0eb4c6db44a9b52e49caa15c" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::OpticalController</scope><name>Index</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_data_access_1_1_c_p_u_accessor" kind="class" language="C#" prot="public">
+    <compoundname>DataAccess::CPUAccessor</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_data_access_1_1_c_p_u_accessor_1a92d43c1a282b8bbaf39e48514f9a54e7" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref></type>
+        <definition>static CPU DataAccess.CPUAccessor.RetrieveCPUByName</definition>
+        <argsstring>(string name)</argsstring>
+        <name>RetrieveCPUByName</name>
+        <param>
+          <type>string</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a CPU by name. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>CPU object.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" bodystart="23" bodyend="72"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_c_p_u_accessor_1a07c977d60ddb3c98a6de06c2b74f3129" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref> &gt;</type>
+        <definition>static List&lt;CPU&gt; DataAccess.CPUAccessor.RetrieveCPUsByCoreCount</definition>
+        <argsstring>(int cores)</argsstring>
+        <name>RetrieveCPUsByCoreCount</name>
+        <param>
+          <type>int</type>
+          <declname>cores</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves CPUs by core count. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>cores</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The cores.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>List of CPU objects.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" line="80" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" bodystart="80" bodyend="130"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_c_p_u_accessor_1a3bdc9307783a16d68413e856e2be24ee" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.CPUAccessor.InsertCpu</definition>
+        <argsstring>(CPU cpu)</argsstring>
+        <name>InsertCpu</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref></type>
+          <declname>cpu</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a new CPU. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>cpu</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The cpu.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of rows affected.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" line="137" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" bodystart="137" bodyend="175"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_c_p_u_accessor_1af33b1affd73312b1cad5637dd2f66aec" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref> &gt;</type>
+        <definition>static List&lt;CPU&gt; DataAccess.CPUAccessor.RetrieveAllCPU</definition>
+        <argsstring>()</argsstring>
+        <name>RetrieveAllCPU</name>
+        <briefdescription>
+<para>Retrieves all CPUs. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Lsit of CPU objects.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" line="182" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" bodystart="182" bodyend="230"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>CPU accessor to communicate with database on CPU objects. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/CPUAccessor.cs" bodystart="15" bodyend="231"/>
+    <listofallmembers>
+      <member refid="class_data_access_1_1_c_p_u_accessor_1a3bdc9307783a16d68413e856e2be24ee" prot="public" virt="non-virtual"><scope>DataAccess::CPUAccessor</scope><name>InsertCpu</name></member>
+      <member refid="class_data_access_1_1_c_p_u_accessor_1af33b1affd73312b1cad5637dd2f66aec" prot="public" virt="non-virtual"><scope>DataAccess::CPUAccessor</scope><name>RetrieveAllCPU</name></member>
+      <member refid="class_data_access_1_1_c_p_u_accessor_1a92d43c1a282b8bbaf39e48514f9a54e7" prot="public" virt="non-virtual"><scope>DataAccess::CPUAccessor</scope><name>RetrieveCPUByName</name></member>
+      <member refid="class_data_access_1_1_c_p_u_accessor_1a07c977d60ddb3c98a6de06c2b74f3129" prot="public" virt="non-virtual"><scope>DataAccess::CPUAccessor</scope><name>RetrieveCPUsByCoreCount</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

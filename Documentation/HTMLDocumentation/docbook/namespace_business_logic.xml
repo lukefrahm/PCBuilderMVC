@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="namespace_business_logic">
+<title>BusinessLogic</title>
+        <section>
+            <title> Classes </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_logic_1_1_build_processor">BusinessLogic::BuildProcessor</link></para>
+<para><emphasis>&lt;summary&gt;
+Clas tasked with processing of questionnaire data to build a system.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_logic_1_1_hash_methods">BusinessLogic::HashMethods</link></para>
+<para><emphasis>&lt;summary&gt;
+Hash method class containing the Sha256 hashing method.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="interface_business_logic_1_1_i_build_processor">BusinessLogic::IBuildProcessor</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_logic_1_1_security_manager">BusinessLogic::SecurityManager</link></para>
+<para><emphasis>&lt;summary&gt;
+Class tasked with maintaining application security when handling user information.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_logic_1_1_user_manager">BusinessLogic::UserManager</link></para>
+<para><emphasis>&lt;summary&gt;
+User manager with the job of talking to the database for user fields.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+</section>

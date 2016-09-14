@@ -1,0 +1,569 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js" kind="file" language="Javascript">
+    <compoundname>respond.matchmedia.addListener.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1a7fb6409e50be4828fc4d8f4417be88df" prot="public" static="no" mutable="no">
+        <type>function</type>
+        <definition>function w</definition>
+        <argsstring></argsstring>
+        <name>w</name>
+        <initializer>{
+  &quot;use strict&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>matchMedia() polyfill - Test a CSS media type/query in JS. Authors &amp; copyright (c) 2012: Scott Jehl, Paul Irish, Nicholas Zakas. Dual MIT/BSD license</para><para>NOTE: If you&apos;re already including a window.matchMedia polyfill via Modernizr or otherwise, you don&apos;t need this part</para><para>matchMedia() polyfill addListener/removeListener extension. Author &amp; copyright (c) 2012: Scott Jehl. Dual MIT/BSD license</para><para>Respond.js v1.4.0: min/max-width media query polyfill. (c) Scott Jehl. MIT Lic. j.mp/respondjs </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="3" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="3" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1adc9a210911ea7d907dc1d986b0c061e0" prot="public" static="no" mutable="no">
+        <type>w</type>
+        <definition>w matchMedia</definition>
+        <argsstring></argsstring>
+        <name>matchMedia</name>
+        <initializer>= w.matchMedia || function(doc, undefined) {
+    var bool, docElem = doc.documentElement, refNode = docElem.firstElementChild || docElem.firstChild, fakeBody = doc.createElement(&quot;body&quot;), div = doc.createElement(&quot;div&quot;);
+    div.id = &quot;mq-test-1&quot;;
+    div.style.cssText = &quot;position:absolute;top:-100em&quot;;
+    fakeBody.style.background = &quot;none&quot;;
+    fakeBody.appendChild(div);
+    return function(q) {
+      div.innerHTML = &apos;&amp;shy;&lt;style media=&quot;&apos; + q + &apos;&quot;&gt; #mq-test-1 { width: 42px; }&lt;/style&gt;&apos;;
+      docElem.insertBefore(fakeBody, refNode);
+      bool = div.offsetWidth === 42;
+      docElem.removeChild(fakeBody);
+      return {
+        matches: bool,
+        media: q
+      };
+    };
+  }(w.document)</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="5" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1a05c09a5e9d53fa7adf0a7936038c2fa3" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>this</definition>
+        <argsstring></argsstring>
+        <name>this</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1a4df4d3eb8f41b2ae411bc5db97a3c59e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var localMatchMedia</definition>
+        <argsstring></argsstring>
+        <name>localMatchMedia</name>
+        <initializer>= w.matchMedia</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1a67547f22b078415d7bf8073ad542095f" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var hasMediaQueries</definition>
+        <argsstring></argsstring>
+        <name>hasMediaQueries</name>
+        <initializer>= localMatchMedia(&quot;only all&quot;).matches</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1a5f5c78598bbc02dfbc676212acd1d175" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var isListening</definition>
+        <argsstring></argsstring>
+        <name>isListening</name>
+        <initializer>= false</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1a39f5626116dc5f91fe612d4578de7084" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var timeoutID</definition>
+        <argsstring></argsstring>
+        <name>timeoutID</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1ab3b1a8805318e1871b8984a63d16c3eb" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var queries</definition>
+        <argsstring></argsstring>
+        <name>queries</name>
+        <initializer>= []</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1a9193af2dcce07ef8b57c0ee66d5500e6" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var handleChange</definition>
+        <argsstring></argsstring>
+        <name>handleChange</name>
+        <initializer>= function(evt) {
+    w.clearTimeout(timeoutID);
+    timeoutID = w.setTimeout(function() {
+      for (var i = 0, il = queries.length; i &lt; il; i++) {
+        var mql = queries[i].mql, listeners = queries[i].listeners || [], matches = localMatchMedia(mql.media).matches;
+        if (matches !== mql.matches) {
+          mql.matches = matches;
+          for (var j = 0, jl = listeners.length; j &lt; jl; j++) {
+            listeners[j].call(w, mql);
+          }
+        }
+      }
+    }, 30);
+  }</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1abf4c7ee8caa940be2c6bdf6b73c3f4e1" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>w respond</definition>
+        <argsstring></argsstring>
+        <name>respond</name>
+        <initializer>= {}</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="76" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="76" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1a98917bda956f6c824861730a3974eedc" prot="public" static="no" mutable="no">
+        <type>respond</type>
+        <definition>respond update</definition>
+        <argsstring></argsstring>
+        <name>update</name>
+        <initializer>= function() {}</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="78" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1abea246851d111d42c5a42e0f5114e776" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var requestQueue</definition>
+        <argsstring></argsstring>
+        <name>requestQueue</name>
+        <initializer>= []</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="79" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1abb9d4af3951f734d95ca1254919ef370" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var xmlHttp</definition>
+        <argsstring></argsstring>
+        <name>xmlHttp</name>
+        <initializer>= function() {
+    var xmlhttpmethod = false;
+    try {
+      xmlhttpmethod = new w.XMLHttpRequest();
+    } catch (e) {
+      xmlhttpmethod = new w.ActiveXObject(&quot;Microsoft.XMLHTTP&quot;);
+    }
+    return function() {
+      return xmlhttpmethod;
+    };
+  }()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="79" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1aabb4a841db9544b7f80dbf19a23bf6b9" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>respond ajax</definition>
+        <argsstring></argsstring>
+        <name>ajax</name>
+        <initializer>= function(url, callback) {
+    var req = xmlHttp();
+    if (!req) {
+      return;
+    }
+    req.open(&quot;GET&quot;, url, true);
+    req.onreadystatechange = function() {
+      if (req.readyState !== 4 || req.status !== 200 &amp;&amp; req.status !== 304) {
+        return;
+      }
+      callback(req.responseText);
+    };
+    if (req.readyState === 4) {
+      return;
+    }
+    req.send(null);
+  }</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="89" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1ac31b6e62c4a1c6baa4fe3d6507686018" prot="public" static="no" mutable="no">
+        <type>respond</type>
+        <definition>respond queue</definition>
+        <argsstring></argsstring>
+        <name>queue</name>
+        <initializer>= requestQueue</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="107" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="107" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="packages_2_respond_81_84_82_2content_2_scripts_2respond_8matchmedia_8add_listener_8js_1ae6070f470f397ffdecf84e5967fe13bd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>if</definition>
+        <argsstring>(w.matchMedia &amp;&amp;w.matchMedia(&quot;all&quot;).addListener)</argsstring>
+        <name>if</name>
+        <param>
+          <type>w.matchMedia &amp;&amp;w.matchMedia(&quot;all&quot;).</type>
+          <declname>addListener</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js" bodystart="27" bodyend="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"></codeline>
+<codeline lineno="3"><highlight class="normal">(</highlight><highlight class="keyword">function</highlight><highlight class="normal">(w)<sp/>{</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/></highlight><highlight class="stringliteral">&quot;use<sp/>strict&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/>w.matchMedia<sp/>=<sp/>w.matchMedia<sp/>||<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(doc,<sp/>undefined)<sp/>{</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>var<sp/>bool,<sp/>docElem<sp/>=<sp/>doc.documentElement,<sp/>refNode<sp/>=<sp/>docElem.firstElementChild<sp/>||<sp/>docElem.firstChild,<sp/>fakeBody<sp/>=<sp/>doc.createElement(</highlight><highlight class="stringliteral">&quot;body&quot;</highlight><highlight class="normal">),<sp/>div<sp/>=<sp/>doc.createElement(</highlight><highlight class="stringliteral">&quot;div&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>div.id<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;mq-test-1&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>div.style.cssText<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;position:absolute;top:-100em&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>fakeBody.style.background<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;none&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>fakeBody.appendChild(div);</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(q)<sp/>{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>div.innerHTML<sp/>=<sp/></highlight><highlight class="stringliteral">&apos;&amp;shy;&lt;style<sp/>media=&quot;&apos;</highlight><highlight class="normal"><sp/>+<sp/>q<sp/>+<sp/></highlight><highlight class="stringliteral">&apos;&quot;&gt;<sp/>#mq-test-1<sp/>{<sp/>width:<sp/>42px;<sp/>}&lt;/style&gt;&apos;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>docElem.insertBefore(fakeBody,<sp/>refNode);</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>=<sp/>div.offsetWidth<sp/>===<sp/>42;</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>docElem.removeChild(fakeBody);</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>matches:<sp/>bool,</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>media:<sp/>q</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/>}(w.document);</highlight></codeline>
+<codeline lineno="22"><highlight class="normal">})(</highlight><highlight class="keyword">this</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight></codeline>
+<codeline lineno="25"><highlight class="normal">(</highlight><highlight class="keyword">function</highlight><highlight class="normal">(w)<sp/>{</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/></highlight><highlight class="stringliteral">&quot;use<sp/>strict&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(w.matchMedia<sp/>&amp;&amp;<sp/>w.matchMedia(</highlight><highlight class="stringliteral">&quot;all&quot;</highlight><highlight class="normal">).addListener)<sp/>{</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/>}</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/>var<sp/>localMatchMedia<sp/>=<sp/>w.matchMedia,<sp/>hasMediaQueries<sp/>=<sp/>localMatchMedia(</highlight><highlight class="stringliteral">&quot;only<sp/>all&quot;</highlight><highlight class="normal">).matches,<sp/>isListening<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>timeoutID<sp/>=<sp/>0,<sp/>queries<sp/>=<sp/>[],<sp/>handleChange<sp/>=<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(evt)<sp/>{</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/>w.clearTimeout(timeoutID);</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/>timeoutID<sp/>=<sp/>w.setTimeout(</highlight><highlight class="keyword">function</highlight><highlight class="normal">()<sp/>{</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(var<sp/>i<sp/>=<sp/>0,<sp/>il<sp/>=<sp/>queries.length;<sp/>i<sp/>&lt;<sp/>il;<sp/>i++)<sp/>{</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>mql<sp/>=<sp/>queries[i].mql,<sp/>listeners<sp/>=<sp/>queries[i].listeners<sp/>||<sp/>[],<sp/>matches<sp/>=<sp/>localMatchMedia(mql.media).matches;</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(matches<sp/>!==<sp/>mql.matches)<sp/>{</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mql.matches<sp/>=<sp/>matches;</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>for<sp/>(var<sp/>j<sp/>=<sp/>0,<sp/>jl<sp/>=<sp/>listeners.length;<sp/>j<sp/>&lt;<sp/>jl;<sp/>j++)<sp/>{</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>listeners[j].call(w,<sp/>mql);</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/>},<sp/>30);</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/>};</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/>w.matchMedia<sp/>=<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(media)<sp/>{</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/>var<sp/>mql<sp/>=<sp/>localMatchMedia(media),<sp/>listeners<sp/>=<sp/>[],<sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/>mql.addListener<sp/>=<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(listener)<sp/>{</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(!hasMediaQueries)<sp/>{</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(!isListening)<sp/>{</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>isListening<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>w.addEventListener(</highlight><highlight class="stringliteral">&quot;resize&quot;</highlight><highlight class="normal">,<sp/>handleChange,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(index<sp/>===<sp/>0)<sp/>{</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>index<sp/>=<sp/>queries.push({</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mql:<sp/>mql,</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>listeners:<sp/>listeners</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>});</highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="60"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>listeners.push(listener);</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline lineno="62"><highlight class="normal"><sp/><sp/><sp/><sp/>mql.removeListener<sp/>=<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(listener)<sp/>{</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(var<sp/>i<sp/>=<sp/>0,<sp/>il<sp/>=<sp/>listeners.length;<sp/>i<sp/>&lt;<sp/>il;<sp/>i++)<sp/>{</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(listeners[i]<sp/>===<sp/>listener)<sp/>{</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>listeners.splice(i,<sp/>1);</highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="68"><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mql;</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"><sp/><sp/>};</highlight></codeline>
+<codeline lineno="71"><highlight class="normal">})(</highlight><highlight class="keyword">this</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="72"><highlight class="normal"></highlight></codeline>
+<codeline lineno="74"><highlight class="normal">(</highlight><highlight class="keyword">function</highlight><highlight class="normal">(w)<sp/>{</highlight></codeline>
+<codeline lineno="75"><highlight class="normal"><sp/><sp/></highlight><highlight class="stringliteral">&quot;use<sp/>strict&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"><sp/><sp/>var<sp/>respond<sp/>=<sp/>{};</highlight></codeline>
+<codeline lineno="77"><highlight class="normal"><sp/><sp/>w.respond<sp/>=<sp/>respond;</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/>respond.update<sp/>=<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">()<sp/>{};</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"><sp/><sp/>var<sp/>requestQueue<sp/>=<sp/>[],<sp/>xmlHttp<sp/>=<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">()<sp/>{</highlight></codeline>
+<codeline lineno="80"><highlight class="normal"><sp/><sp/><sp/><sp/>var<sp/>xmlhttpmethod<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">try</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>xmlhttpmethod<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>w.XMLHttpRequest();</highlight></codeline>
+<codeline lineno="83"><highlight class="normal"><sp/><sp/><sp/><sp/>}<sp/></highlight><highlight class="keywordflow">catch</highlight><highlight class="normal"><sp/>(e)<sp/>{</highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>xmlhttpmethod<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>w.ActiveXObject(</highlight><highlight class="stringliteral">&quot;Microsoft.XMLHTTP&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="86"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">()<sp/>{</highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>xmlhttpmethod;</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline lineno="89"><highlight class="normal"><sp/><sp/>}(),<sp/>ajax<sp/>=<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(url,<sp/>callback)<sp/>{</highlight></codeline>
+<codeline lineno="90"><highlight class="normal"><sp/><sp/><sp/><sp/>var<sp/>req<sp/>=<sp/>xmlHttp();</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(!req)<sp/>{</highlight></codeline>
+<codeline lineno="92"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="93"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="94"><highlight class="normal"><sp/><sp/><sp/><sp/>req.open(</highlight><highlight class="stringliteral">&quot;GET&quot;</highlight><highlight class="normal">,<sp/>url,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="95"><highlight class="normal"><sp/><sp/><sp/><sp/>req.onreadystatechange<sp/>=<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">()<sp/>{</highlight></codeline>
+<codeline lineno="96"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(req.readyState<sp/>!==<sp/>4<sp/>||<sp/>req.status<sp/>!==<sp/>200<sp/>&amp;&amp;<sp/>req.status<sp/>!==<sp/>304)<sp/>{</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="98"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="99"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>callback(req.responseText);</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline lineno="101"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(req.readyState<sp/>===<sp/>4)<sp/>{</highlight></codeline>
+<codeline lineno="102"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="103"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="104"><highlight class="normal"><sp/><sp/><sp/><sp/>req.send(null);</highlight></codeline>
+<codeline lineno="105"><highlight class="normal"><sp/><sp/>};</highlight></codeline>
+<codeline lineno="106"><highlight class="normal"><sp/><sp/>respond.ajax<sp/>=<sp/>ajax;</highlight></codeline>
+<codeline lineno="107"><highlight class="normal"><sp/><sp/>respond.queue<sp/>=<sp/>requestQueue;</highlight></codeline>
+<codeline lineno="108"><highlight class="normal"><sp/><sp/>respond.regex<sp/>=<sp/>{</highlight></codeline>
+<codeline lineno="109"><highlight class="normal"><sp/><sp/><sp/><sp/>media:<sp/>/@media[^\{]+\{([^\{\}]*\{[^\}\{]*\})+/gi,</highlight></codeline>
+<codeline lineno="110"><highlight class="normal"><sp/><sp/><sp/><sp/>keyframes:<sp/>/@(?:\-(?:o|moz|webkit)\-)?keyframes[^\{]+\{(?:[^\{\}]*\{[^\}\{]*\})+[^\}]*\}/gi,</highlight></codeline>
+<codeline lineno="111"><highlight class="normal"><sp/><sp/><sp/><sp/>urls:<sp/>/(url\()[</highlight><highlight class="stringliteral">&apos;&quot;]?([^\/\)&apos;</highlight><highlight class="stringliteral">&quot;][^:\)&apos;&quot;</highlight><highlight class="normal">]+)[</highlight><highlight class="stringliteral">&apos;&quot;]?(\))/g,</highlight></codeline>
+<codeline lineno="112"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>findStyles:<sp/>/@media<sp/>*([^\{]+)\{([\S\s]+?)$/,</highlight></codeline>
+<codeline lineno="113"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>only:<sp/>/(only\s+)?([a-zA-Z]+)\s?/,</highlight></codeline>
+<codeline lineno="114"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>minw:<sp/>/\([\s]*min\-width\s*:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/,</highlight></codeline>
+<codeline lineno="115"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>maxw:<sp/>/\([\s]*max\-width\s*:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/</highlight></codeline>
+<codeline lineno="116"><highlight class="stringliteral"><sp/><sp/>};</highlight></codeline>
+<codeline lineno="117"><highlight class="stringliteral"><sp/><sp/>respond.mediaQueriesSupported<sp/>=<sp/>w.matchMedia<sp/>&amp;&amp;<sp/>w.matchMedia(&quot;only<sp/>all&quot;)<sp/>!==<sp/>null<sp/>&amp;&amp;<sp/>w.matchMedia(&quot;only<sp/>all&quot;).matches;</highlight></codeline>
+<codeline lineno="118"><highlight class="stringliteral"><sp/><sp/>if<sp/>(respond.mediaQueriesSupported)<sp/>{</highlight></codeline>
+<codeline lineno="119"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>return;</highlight></codeline>
+<codeline lineno="120"><highlight class="stringliteral"><sp/><sp/>}</highlight></codeline>
+<codeline lineno="121"><highlight class="stringliteral"><sp/><sp/>var<sp/>doc<sp/>=<sp/>w.document,<sp/>docElem<sp/>=<sp/>doc.documentElement,<sp/>mediastyles<sp/>=<sp/>[],<sp/>rules<sp/>=<sp/>[],<sp/>appendedEls<sp/>=<sp/>[],<sp/>parsedSheets<sp/>=<sp/>{},<sp/>resizeThrottle<sp/>=<sp/>30,<sp/>head<sp/>=<sp/>doc.getElementsByTagName(&quot;head&quot;)[0]<sp/>||<sp/>docElem,<sp/>base<sp/>=<sp/>doc.getElementsByTagName(&quot;base&quot;)[0],<sp/>links<sp/>=<sp/>head.getElementsByTagName(&quot;link&quot;),<sp/>lastCall,<sp/>resizeDefer,<sp/>eminpx,<sp/>getEmValue<sp/>=<sp/>function()<sp/>{</highlight></codeline>
+<codeline lineno="122"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>var<sp/>ret,<sp/>div<sp/>=<sp/>doc.createElement(&quot;div&quot;),<sp/>body<sp/>=<sp/>doc.body,<sp/>originalHTMLFontSize<sp/>=<sp/>docElem.style.fontSize,<sp/>originalBodyFontSize<sp/>=<sp/>body<sp/>&amp;&amp;<sp/>body.style.fontSize,<sp/>fakeUsed<sp/>=<sp/>false;</highlight></codeline>
+<codeline lineno="123"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>div.style.cssText<sp/>=<sp/>&quot;position:absolute;font-size:1em;width:1em&quot;;</highlight></codeline>
+<codeline lineno="124"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>if<sp/>(!body)<sp/>{</highlight></codeline>
+<codeline lineno="125"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>body<sp/>=<sp/>fakeUsed<sp/>=<sp/>doc.createElement(&quot;body&quot;);</highlight></codeline>
+<codeline lineno="126"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>body.style.background<sp/>=<sp/>&quot;none&quot;;</highlight></codeline>
+<codeline lineno="127"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="128"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>docElem.style.fontSize<sp/>=<sp/>&quot;100%&quot;;</highlight></codeline>
+<codeline lineno="129"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>body.style.fontSize<sp/>=<sp/>&quot;100%&quot;;</highlight></codeline>
+<codeline lineno="130"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>body.appendChild(div);</highlight></codeline>
+<codeline lineno="131"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>if<sp/>(fakeUsed)<sp/>{</highlight></codeline>
+<codeline lineno="132"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>docElem.insertBefore(body,<sp/>docElem.firstChild);</highlight></codeline>
+<codeline lineno="133"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="134"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>ret<sp/>=<sp/>div.offsetWidth;</highlight></codeline>
+<codeline lineno="135"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>if<sp/>(fakeUsed)<sp/>{</highlight></codeline>
+<codeline lineno="136"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>docElem.removeChild(body);</highlight></codeline>
+<codeline lineno="137"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}<sp/>else<sp/>{</highlight></codeline>
+<codeline lineno="138"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>body.removeChild(div);</highlight></codeline>
+<codeline lineno="139"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="140"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>docElem.style.fontSize<sp/>=<sp/>originalHTMLFontSize;</highlight></codeline>
+<codeline lineno="141"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>if<sp/>(originalBodyFontSize)<sp/>{</highlight></codeline>
+<codeline lineno="142"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>body.style.fontSize<sp/>=<sp/>originalBodyFontSize;</highlight></codeline>
+<codeline lineno="143"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="144"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>ret<sp/>=<sp/>eminpx<sp/>=<sp/>parseFloat(ret);</highlight></codeline>
+<codeline lineno="145"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>return<sp/>ret;</highlight></codeline>
+<codeline lineno="146"><highlight class="stringliteral"><sp/><sp/>},<sp/>applyMedia<sp/>=<sp/>function(fromResize)<sp/>{</highlight></codeline>
+<codeline lineno="147"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>var<sp/>name<sp/>=<sp/>&quot;clientWidth&quot;,<sp/>docElemProp<sp/>=<sp/>docElem[name],<sp/>currWidth<sp/>=<sp/>doc.compatMode<sp/>===<sp/>&quot;CSS1Compat&quot;<sp/>&amp;&amp;<sp/>docElemProp<sp/>||<sp/>doc.body[name]<sp/>||<sp/>docElemProp,<sp/>styleBlocks<sp/>=<sp/>{},<sp/>lastLink<sp/>=<sp/>links[links.length<sp/>-<sp/>1],<sp/>now<sp/>=<sp/>new<sp/>Date().getTime();</highlight></codeline>
+<codeline lineno="148"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>if<sp/>(fromResize<sp/>&amp;&amp;<sp/>lastCall<sp/>&amp;&amp;<sp/>now<sp/>-<sp/>lastCall<sp/>&lt;<sp/>resizeThrottle)<sp/>{</highlight></codeline>
+<codeline lineno="149"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>w.clearTimeout(resizeDefer);</highlight></codeline>
+<codeline lineno="150"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>resizeDefer<sp/>=<sp/>w.setTimeout(applyMedia,<sp/>resizeThrottle);</highlight></codeline>
+<codeline lineno="151"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>return;</highlight></codeline>
+<codeline lineno="152"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}<sp/>else<sp/>{</highlight></codeline>
+<codeline lineno="153"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>lastCall<sp/>=<sp/>now;</highlight></codeline>
+<codeline lineno="154"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="155"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>for<sp/>(var<sp/>i<sp/>in<sp/>mediastyles)<sp/>{</highlight></codeline>
+<codeline lineno="156"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(mediastyles.hasOwnProperty(i))<sp/>{</highlight></codeline>
+<codeline lineno="157"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>thisstyle<sp/>=<sp/>mediastyles[i],<sp/>min<sp/>=<sp/>thisstyle.minw,<sp/>max<sp/>=<sp/>thisstyle.maxw,<sp/>minnull<sp/>=<sp/>min<sp/>===<sp/>null,<sp/>maxnull<sp/>=<sp/>max<sp/>===<sp/>null,<sp/>em<sp/>=<sp/>&quot;em&quot;;</highlight></codeline>
+<codeline lineno="158"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(!!min)<sp/>{</highlight></codeline>
+<codeline lineno="159"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>min<sp/>=<sp/>parseFloat(min)<sp/>*<sp/>(min.indexOf(em)<sp/>&gt;<sp/>-1<sp/>?<sp/>eminpx<sp/>||<sp/>getEmValue()<sp/>:<sp/>1);</highlight></codeline>
+<codeline lineno="160"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="161"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(!!max)<sp/>{</highlight></codeline>
+<codeline lineno="162"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>max<sp/>=<sp/>parseFloat(max)<sp/>*<sp/>(max.indexOf(em)<sp/>&gt;<sp/>-1<sp/>?<sp/>eminpx<sp/>||<sp/>getEmValue()<sp/>:<sp/>1);</highlight></codeline>
+<codeline lineno="163"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="164"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(!thisstyle.hasquery<sp/>||<sp/>(!minnull<sp/>||<sp/>!maxnull)<sp/>&amp;&amp;<sp/>(minnull<sp/>||<sp/>currWidth<sp/>&gt;=<sp/>min)<sp/>&amp;&amp;<sp/>(maxnull<sp/>||<sp/>currWidth<sp/>&lt;=<sp/>max))<sp/>{</highlight></codeline>
+<codeline lineno="165"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(!styleBlocks[thisstyle.media])<sp/>{</highlight></codeline>
+<codeline lineno="166"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>styleBlocks[thisstyle.media]<sp/>=<sp/>[];</highlight></codeline>
+<codeline lineno="167"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="168"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>styleBlocks[thisstyle.media].push(rules[thisstyle.rules]);</highlight></codeline>
+<codeline lineno="169"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="170"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="171"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="172"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>for<sp/>(var<sp/>j<sp/>in<sp/>appendedEls)<sp/>{</highlight></codeline>
+<codeline lineno="173"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(appendedEls.hasOwnProperty(j))<sp/>{</highlight></codeline>
+<codeline lineno="174"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(appendedEls[j]<sp/>&amp;&amp;<sp/>appendedEls[j].parentNode<sp/>===<sp/>head)<sp/>{</highlight></codeline>
+<codeline lineno="175"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>head.removeChild(appendedEls[j]);</highlight></codeline>
+<codeline lineno="176"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="177"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="178"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="179"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>appendedEls.length<sp/>=<sp/>0;</highlight></codeline>
+<codeline lineno="180"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>for<sp/>(var<sp/>k<sp/>in<sp/>styleBlocks)<sp/>{</highlight></codeline>
+<codeline lineno="181"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(styleBlocks.hasOwnProperty(k))<sp/>{</highlight></codeline>
+<codeline lineno="182"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>ss<sp/>=<sp/>doc.createElement(&quot;style&quot;),<sp/>css<sp/>=<sp/>styleBlocks[k].join(&quot;\n&quot;);</highlight></codeline>
+<codeline lineno="183"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ss.type<sp/>=<sp/>&quot;text/css&quot;;</highlight></codeline>
+<codeline lineno="184"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ss.media<sp/>=<sp/>k;</highlight></codeline>
+<codeline lineno="185"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>head.insertBefore(ss,<sp/>lastLink.nextSibling);</highlight></codeline>
+<codeline lineno="186"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(ss.styleSheet)<sp/>{</highlight></codeline>
+<codeline lineno="187"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ss.styleSheet.cssText<sp/>=<sp/>css;</highlight></codeline>
+<codeline lineno="188"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}<sp/>else<sp/>{</highlight></codeline>
+<codeline lineno="189"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ss.appendChild(doc.createTextNode(css));</highlight></codeline>
+<codeline lineno="190"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="191"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>appendedEls.push(ss);</highlight></codeline>
+<codeline lineno="192"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="193"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="194"><highlight class="stringliteral"><sp/><sp/>},<sp/>translate<sp/>=<sp/>function(styles,<sp/>href,<sp/>media)<sp/>{</highlight></codeline>
+<codeline lineno="195"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>var<sp/>qs<sp/>=<sp/>styles.replace(respond.regex.keyframes,<sp/>&quot;&quot;).match(respond.regex.media),<sp/>ql<sp/>=<sp/>qs<sp/>&amp;&amp;<sp/>qs.length<sp/>||<sp/>0;</highlight></codeline>
+<codeline lineno="196"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>href<sp/>=<sp/>href.substring(0,<sp/>href.lastIndexOf(&quot;/&quot;));</highlight></codeline>
+<codeline lineno="197"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>var<sp/>repUrls<sp/>=<sp/>function(css)<sp/>{</highlight></codeline>
+<codeline lineno="198"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>return<sp/>css.replace(respond.regex.urls,<sp/>&quot;$1&quot;<sp/>+<sp/>href<sp/>+<sp/>&quot;$2$3&quot;);</highlight></codeline>
+<codeline lineno="199"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>},<sp/>useMedia<sp/>=<sp/>!ql<sp/>&amp;&amp;<sp/>media;</highlight></codeline>
+<codeline lineno="200"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>if<sp/>(href.length)<sp/>{</highlight></codeline>
+<codeline lineno="201"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>href<sp/>+=<sp/>&quot;/&quot;;</highlight></codeline>
+<codeline lineno="202"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="203"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>if<sp/>(useMedia)<sp/>{</highlight></codeline>
+<codeline lineno="204"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>ql<sp/>=<sp/>1;</highlight></codeline>
+<codeline lineno="205"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="206"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>for<sp/>(var<sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>ql;<sp/>i++)<sp/>{</highlight></codeline>
+<codeline lineno="207"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>fullq,<sp/>thisq,<sp/>eachq,<sp/>eql;</highlight></codeline>
+<codeline lineno="208"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(useMedia)<sp/>{</highlight></codeline>
+<codeline lineno="209"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>fullq<sp/>=<sp/>media;</highlight></codeline>
+<codeline lineno="210"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>rules.push(repUrls(styles));</highlight></codeline>
+<codeline lineno="211"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>}<sp/>else<sp/>{</highlight></codeline>
+<codeline lineno="212"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>fullq<sp/>=<sp/>qs[i].match(respond.regex.findStyles)<sp/>&amp;&amp;<sp/>RegExp.$1;</highlight></codeline>
+<codeline lineno="213"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>rules.push(RegExp.$2<sp/>&amp;&amp;<sp/>repUrls(RegExp.$2));</highlight></codeline>
+<codeline lineno="214"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="215"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>eachq<sp/>=<sp/>fullq.split(&quot;,&quot;);</highlight></codeline>
+<codeline lineno="216"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>eql<sp/>=<sp/>eachq.length;</highlight></codeline>
+<codeline lineno="217"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>for<sp/>(var<sp/>j<sp/>=<sp/>0;<sp/>j<sp/>&lt;<sp/>eql;<sp/>j++)<sp/>{</highlight></codeline>
+<codeline lineno="218"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>thisq<sp/>=<sp/>eachq[j];</highlight></codeline>
+<codeline lineno="219"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mediastyles.push({</highlight></codeline>
+<codeline lineno="220"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>media:<sp/>thisq.split(&quot;(&quot;)[0].match(respond.regex.only)<sp/>&amp;&amp;<sp/>RegExp.$2<sp/>||<sp/>&quot;all&quot;,</highlight></codeline>
+<codeline lineno="221"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>rules:<sp/>rules.length<sp/>-<sp/>1,</highlight></codeline>
+<codeline lineno="222"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>hasquery:<sp/>thisq.indexOf(&quot;(&quot;)<sp/>&gt;<sp/>-1,</highlight></codeline>
+<codeline lineno="223"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>minw:<sp/>thisq.match(respond.regex.minw)<sp/>&amp;&amp;<sp/>parseFloat(RegExp.$1)<sp/>+<sp/>(RegExp.$2<sp/>||<sp/>&quot;&quot;),</highlight></codeline>
+<codeline lineno="224"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>maxw:<sp/>thisq.match(respond.regex.maxw)<sp/>&amp;&amp;<sp/>parseFloat(RegExp.$1)<sp/>+<sp/>(RegExp.$2<sp/>||<sp/>&quot;&quot;)</highlight></codeline>
+<codeline lineno="225"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>});</highlight></codeline>
+<codeline lineno="226"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="227"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="228"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>applyMedia();</highlight></codeline>
+<codeline lineno="229"><highlight class="stringliteral"><sp/><sp/>},<sp/>makeRequests<sp/>=<sp/>function()<sp/>{</highlight></codeline>
+<codeline lineno="230"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>if<sp/>(requestQueue.length)<sp/>{</highlight></codeline>
+<codeline lineno="231"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>thisRequest<sp/>=<sp/>requestQueue.shift();</highlight></codeline>
+<codeline lineno="232"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>ajax(thisRequest.href,<sp/>function(styles)<sp/>{</highlight></codeline>
+<codeline lineno="233"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>translate(styles,<sp/>thisRequest.href,<sp/>thisRequest.media);</highlight></codeline>
+<codeline lineno="234"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>parsedSheets[thisRequest.href]<sp/>=<sp/>true;</highlight></codeline>
+<codeline lineno="235"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>w.setTimeout(function()<sp/>{</highlight></codeline>
+<codeline lineno="236"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>makeRequests();</highlight></codeline>
+<codeline lineno="237"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>},<sp/>0);</highlight></codeline>
+<codeline lineno="238"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>});</highlight></codeline>
+<codeline lineno="239"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="240"><highlight class="stringliteral"><sp/><sp/>},<sp/>ripCSS<sp/>=<sp/>function()<sp/>{</highlight></codeline>
+<codeline lineno="241"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>for<sp/>(var<sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>links.length;<sp/>i++)<sp/>{</highlight></codeline>
+<codeline lineno="242"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>sheet<sp/>=<sp/>links[i],<sp/>href<sp/>=<sp/>sheet.href,<sp/>media<sp/>=<sp/>sheet.media,<sp/>isCSS<sp/>=<sp/>sheet.rel<sp/>&amp;&amp;<sp/>sheet.rel.toLowerCase()<sp/>===<sp/>&quot;stylesheet&quot;;</highlight></codeline>
+<codeline lineno="243"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(!!href<sp/>&amp;&amp;<sp/>isCSS<sp/>&amp;&amp;<sp/>!parsedSheets[href])<sp/>{</highlight></codeline>
+<codeline lineno="244"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(sheet.styleSheet<sp/>&amp;&amp;<sp/>sheet.styleSheet.rawCssText)<sp/>{</highlight></codeline>
+<codeline lineno="245"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>translate(sheet.styleSheet.rawCssText,<sp/>href,<sp/>media);</highlight></codeline>
+<codeline lineno="246"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>parsedSheets[href]<sp/>=<sp/>true;</highlight></codeline>
+<codeline lineno="247"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}<sp/>else<sp/>{</highlight></codeline>
+<codeline lineno="248"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(!/^([a-zA-Z:]*\/\/)/.test(href)<sp/>&amp;&amp;<sp/>!base<sp/>||<sp/>href.replace(RegExp.$1,<sp/>&quot;&quot;).split(&quot;/&quot;)[0]<sp/>===<sp/>w.location.host)<sp/>{</highlight></codeline>
+<codeline lineno="249"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>if<sp/>(href.substring(0,<sp/>2)<sp/>===<sp/>&quot;//&quot;)<sp/>{</highlight></codeline>
+<codeline lineno="250"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>href<sp/>=<sp/>w.location.protocol<sp/>+<sp/>href;</highlight></codeline>
+<codeline lineno="251"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="252"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>requestQueue.push({</highlight></codeline>
+<codeline lineno="253"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>href:<sp/>href,</highlight></codeline>
+<codeline lineno="254"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>media:<sp/>media</highlight></codeline>
+<codeline lineno="255"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>});</highlight></codeline>
+<codeline lineno="256"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="257"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="258"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="259"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="260"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>makeRequests();</highlight></codeline>
+<codeline lineno="261"><highlight class="stringliteral"><sp/><sp/>};</highlight></codeline>
+<codeline lineno="262"><highlight class="stringliteral"><sp/><sp/>ripCSS();</highlight></codeline>
+<codeline lineno="263"><highlight class="stringliteral"><sp/><sp/>respond.update<sp/>=<sp/>ripCSS;</highlight></codeline>
+<codeline lineno="264"><highlight class="stringliteral"><sp/><sp/>respond.getEmValue<sp/>=<sp/>getEmValue;</highlight></codeline>
+<codeline lineno="265"><highlight class="stringliteral"><sp/><sp/>function<sp/>callMedia()<sp/>{</highlight></codeline>
+<codeline lineno="266"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>applyMedia(true);</highlight></codeline>
+<codeline lineno="267"><highlight class="stringliteral"><sp/><sp/>}</highlight></codeline>
+<codeline lineno="268"><highlight class="stringliteral"><sp/><sp/>if<sp/>(w.addEventListener)<sp/>{</highlight></codeline>
+<codeline lineno="269"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>w.addEventListener(&quot;resize&quot;,<sp/>callMedia,<sp/>false);</highlight></codeline>
+<codeline lineno="270"><highlight class="stringliteral"><sp/><sp/>}<sp/>else<sp/>if<sp/>(w.attachEvent)<sp/>{</highlight></codeline>
+<codeline lineno="271"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>w.attachEvent(&quot;onresize&quot;,<sp/>callMedia);</highlight></codeline>
+<codeline lineno="272"><highlight class="stringliteral"><sp/><sp/>}</highlight></codeline>
+<codeline lineno="273"><highlight class="stringliteral">})(this);</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2/content/Scripts/respond.matchmedia.addListener.js"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="files_8js" kind="file" language="Javascript">
+    <compoundname>files.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="files_8js_1a0742cac2750bccc2d88ac080fb9daa22" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var files</definition>
+        <argsstring></argsstring>
+        <name>files</name>
+        <initializer>=
+[
+    [ &quot;PCBuilder&quot;, &quot;dir_02f36f3b86765877a2d088e30ad961f1.html&quot;, &quot;dir_02f36f3b86765877a2d088e30ad961f1&quot; ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/files.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/files.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>files<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PCBuilder&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;dir_02f36f3b86765877a2d088e30ad961f1.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;dir_02f36f3b86765877a2d088e30ad961f1&quot;</highlight><highlight class="normal"><sp/>]</highlight></codeline>
+<codeline lineno="4"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/files.js"/>
+  </compounddef>
+</doxygen>

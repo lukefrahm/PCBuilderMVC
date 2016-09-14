@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__motherboard_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__motherboard_8js_1a097bb20313cd17f4ca3d6ac88f6d5dc1" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_motherboard</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_motherboard</name>
+        <initializer>=
+[
+    [ &quot;Brand&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a45b69456d5d3fb16a0714bd0097f48eb&quot;, null ],
+    [ &quot;Chipset&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a965931a786ee5851dfc785af9a24758b&quot;, null ],
+    [ &quot;FanHeaders&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a75ae40158f3d558cb32db2ea1d6393b5&quot;, null ],
+    [ &quot;FormFactor&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a410560eef623e4a1ac230d821cc5d072&quot;, null ],
+    [ &quot;M2Slots&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#ac88c0c446e9daf8aca9934ca032fb2ba&quot;, null ],
+    [ &quot;MaxRam&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#ad41711e748f857b8ffa76e1dc503b102&quot;, null ],
+    [ &quot;Model&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a8726c74436e9d6e99b3f57c4641e6bdf&quot;, null ],
+    [ &quot;MotherboardId&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#adc616659ca7e2381b59c71e282f32b0c&quot;, null ],
+    [ &quot;Pci&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a46ddeb94a1f5c767106ab10abef5977a&quot;, null ],
+    [ &quot;Pcie1&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a099818136af0a7b41a83857de04d4356&quot;, null ],
+    [ &quot;Pcie4&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a9eaebf0ccba2a9a479dd5d8c2987d43a&quot;, null ],
+    [ &quot;Pcie8&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a4a083ef2b68cd380c35ed521dce60774&quot;, null ],
+    [ &quot;PowerPhases&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a031591b73fd5df48be5fadf0557f52eb&quot;, null ],
+    [ &quot;Price&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a0586a52b1a3f77980186217e9e8a8b4d&quot;, null ],
+    [ &quot;RamType&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#afb2a80f80dc4e1a866f3d84ad522f85b&quot;, null ],
+    [ &quot;SataPorts&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a738dba6282460d5ebbd52461d59454b8&quot;, null ],
+    [ &quot;Socket&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#aa6d3f08365a197f5c1ea6e32e70d91db&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_motherboard<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Brand&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a45b69456d5d3fb16a0714bd0097f48eb&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Chipset&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a965931a786ee5851dfc785af9a24758b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FanHeaders&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a75ae40158f3d558cb32db2ea1d6393b5&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FormFactor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a410560eef623e4a1ac230d821cc5d072&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;M2Slots&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#ac88c0c446e9daf8aca9934ca032fb2ba&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MaxRam&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#ad41711e748f857b8ffa76e1dc503b102&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Model&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a8726c74436e9d6e99b3f57c4641e6bdf&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MotherboardId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#adc616659ca7e2381b59c71e282f32b0c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Pci&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a46ddeb94a1f5c767106ab10abef5977a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Pcie1&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a099818136af0a7b41a83857de04d4356&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Pcie4&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a9eaebf0ccba2a9a479dd5d8c2987d43a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Pcie8&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a4a083ef2b68cd380c35ed521dce60774&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PowerPhases&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a031591b73fd5df48be5fadf0557f52eb&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a0586a52b1a3f77980186217e9e8a8b4d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamType&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#afb2a80f80dc4e1a866f3d84ad522f85b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;SataPorts&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#a738dba6282460d5ebbd52461d59454b8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Socket&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.html#aa6d3f08365a197f5c1ea6e32e70d91db&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="20"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_motherboard.js"/>
+  </compounddef>
+</doxygen>

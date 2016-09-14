@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Controllers::HomeController</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Controller</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1a801d32817dc4293c2f8e33c691ada19f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.HomeController.Index</definition>
+        <argsstring>()</argsstring>
+        <name>Index</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/HomeController.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/HomeController.cs" bodystart="15" bodyend="18"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1a8890fc72d17ba59929e1dea4020a93a8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.HomeController.About</definition>
+        <argsstring>()</argsstring>
+        <name>About</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/HomeController.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/HomeController.cs" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1aede11cb947edcbe91f408801ad549d89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ActionResult</type>
+        <definition>ActionResult PCBuilderMVC.Controllers.HomeController.Contact</definition>
+        <argsstring>()</argsstring>
+        <name>Contact</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/HomeController.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/HomeController.cs" bodystart="27" bodyend="32"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Home controller class to handle Home views interaction. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>System.Web.Mvc.Controller</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="129">
+        <label>PCBuilderMVC.Controllers.HomeController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller"/>
+        <childnode refid="130" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="130">
+        <label>Controller</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="131">
+        <label>PCBuilderMVC.Controllers.HomeController</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller"/>
+        <childnode refid="132" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="132">
+        <label>Controller</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/HomeController.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/HomeController.cs" bodystart="13" bodyend="33"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1a8890fc72d17ba59929e1dea4020a93a8" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::HomeController</scope><name>About</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1aede11cb947edcbe91f408801ad549d89" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::HomeController</scope><name>Contact</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller_1a801d32817dc4293c2f8e33c691ada19f" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::HomeController</scope><name>Index</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

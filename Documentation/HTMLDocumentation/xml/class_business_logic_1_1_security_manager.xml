@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_logic_1_1_security_manager" kind="class" language="C#" prot="public">
+    <compoundname>BusinessLogic::SecurityManager</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_business_logic_1_1_security_manager_1ae23ca68a4b39e825dd84c625507c3bab" prot="private" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int BusinessLogic.SecurityManager.MIN_USERNAME</definition>
+        <argsstring></argsstring>
+        <name>MIN_USERNAME</name>
+        <initializer>= 5</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/SecurityManager.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/SecurityManager.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_security_manager_1a5e99763198398db090c6211c5158acd4" prot="private" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int BusinessLogic.SecurityManager.MIN_PASSWORD</definition>
+        <argsstring></argsstring>
+        <name>MIN_PASSWORD</name>
+        <initializer>= 5</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/SecurityManager.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/SecurityManager.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_business_logic_1_1_security_manager_1a27a0b4ffd4af28d8ccdf5751b2bc0445" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_access_token" kindref="compound">AccessToken</ref></type>
+        <definition>static AccessToken BusinessLogic.SecurityManager.ValidateExistingUser</definition>
+        <argsstring>(string username, string password)</argsstring>
+        <name>ValidateExistingUser</name>
+        <param>
+          <type>string</type>
+          <declname>username</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>password</declname>
+        </param>
+        <briefdescription>
+<para>Validates an existing user. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>username</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The username.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>password</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The password.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>AccessToken used to keep validated information for processing.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Password and username must be between 5 and 50 characters. or Data not found. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/SecurityManager.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/SecurityManager.cs" bodystart="30" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_security_manager_1a88cf89e8c9ad9e7b34a8e7525fcf5f84" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_access_token" kindref="compound">AccessToken</ref></type>
+        <definition>static AccessToken BusinessLogic.SecurityManager.ValidateNewUser</definition>
+        <argsstring>(User usr)</argsstring>
+        <name>ValidateNewUser</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_user" kindref="compound">User</ref></type>
+          <declname>usr</declname>
+        </param>
+        <briefdescription>
+<para>Validates a new user. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>usr</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The user.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>AccessToken used to keep validated information for processing.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>User already exists!</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/SecurityManager.cs" line="66" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/SecurityManager.cs" bodystart="66" bodyend="81"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Class tasked with maintaining application security when handling user information. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/SecurityManager.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/SecurityManager.cs" bodystart="14" bodyend="83"/>
+    <listofallmembers>
+      <member refid="class_business_logic_1_1_security_manager_1a5e99763198398db090c6211c5158acd4" prot="private" virt="non-virtual"><scope>BusinessLogic::SecurityManager</scope><name>MIN_PASSWORD</name></member>
+      <member refid="class_business_logic_1_1_security_manager_1ae23ca68a4b39e825dd84c625507c3bab" prot="private" virt="non-virtual"><scope>BusinessLogic::SecurityManager</scope><name>MIN_USERNAME</name></member>
+      <member refid="class_business_logic_1_1_security_manager_1a27a0b4ffd4af28d8ccdf5751b2bc0445" prot="public" virt="non-virtual"><scope>BusinessLogic::SecurityManager</scope><name>ValidateExistingUser</name></member>
+      <member refid="class_business_logic_1_1_security_manager_1a88cf89e8c9ad9e7b34a8e7525fcf5f84" prot="public" virt="non-virtual"><scope>BusinessLogic::SecurityManager</scope><name>ValidateNewUser</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

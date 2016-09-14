@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="navtreedata_8js">
+    <title>navtreedata.js File Reference</title>
+        <section>
+            <title>Variables</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="navtreedata_8js_1afc3e53a71ba26a8215797019b9b1451b">NAVTREE</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="navtreedata_8js_1a51b2088f00a4f2f20d495e65be359cd8">NAVTREEINDEX</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="navtreedata_8js_1ab31fdb4752a1ada1b708d49d7482f948">SYNCONMSG</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="navtreedata_8js_1a8b93d8f469f8aeb3a0c17b922a2d32ed">SYNCOFFMSG</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/navtreedata.js</para>
+    </simplesect>
+</section>

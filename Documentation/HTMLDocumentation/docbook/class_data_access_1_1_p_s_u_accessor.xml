@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_data_access_1_1_p_s_u_accessor">
+<title>DataAccess::PSUAccessor class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_business_objects_1_1_p_s_u">PSU</link> <link linkend="class_data_access_1_1_p_s_u_accessor_1a18a99912fcddb6255d3b36d74cdb4e57">RetrievePSUByName</link> (
+string name)<para><emphasis>&lt;summary&gt;
+Retrieves a PSU by name.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_p_s_u">PSU</link> &gt; <link linkend="class_data_access_1_1_p_s_u_accessor_1a83eb22b79d6bd8ab03b2bcf0ce8fe5ea">RetrievePSUsByWattage</link> (
+string wattage)<para><emphasis>&lt;summary&gt;
+Retrieves PSUs by wattage.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_p_s_u_accessor_1a3285bd4b20ff99e005ef98f496f8d2dd">InsertPSU</link> (
+<link linkend="class_business_objects_1_1_p_s_u">PSU</link> psu)<para><emphasis>&lt;summary&gt;
+Inserts a new PSU.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_p_s_u">PSU</link> &gt; <link linkend="class_data_access_1_1_p_s_u_accessor_1a6f1192a9cf546dab42dab3d31c7c27e8">RetrieveAllPSU</link> (
+)<para><emphasis>&lt;summary&gt;
+Retrieves all PSUs.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>PSU accessor to communicate with database on PSU objects. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 16 of file PSUAccessor.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>PSUAccessor.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_data_access_1_1_p_s_u_accessor_1a18a99912fcddb6255d3b36d74cdb4e57">
+                <title>static PSU DataAccess.PSUAccessor.RetrievePSUByName (string name)</title> <emphasis>&lt;summary&gt;
+Retrieves a PSU by name.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>name</entry>
+                                <entry>
+<para>The name.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>PSU object.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_p_s_u_accessor_1a83eb22b79d6bd8ab03b2bcf0ce8fe5ea">
+                <title>static List&lt;PSU&gt; DataAccess.PSUAccessor.RetrievePSUsByWattage (string wattage)</title> <emphasis>&lt;summary&gt;
+Retrieves PSUs by wattage.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>wattage</entry>
+                                <entry>
+<para>The wattage.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Lsit of PSUs.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_p_s_u_accessor_1a3285bd4b20ff99e005ef98f496f8d2dd">
+                <title>static int DataAccess.PSUAccessor.InsertPSU (PSU psu)</title> <emphasis>&lt;summary&gt;
+Inserts a new PSU.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>psu</entry>
+                                <entry>
+<para>The psu.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Count of rows affected.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_p_s_u_accessor_1a6f1192a9cf546dab42dab3d31c7c27e8">
+                <title>static List&lt;PSU&gt; DataAccess.PSUAccessor.RetrieveAllPSU ()</title> <emphasis>&lt;summary&gt;
+Retrieves all PSUs.
+&lt;/summary&gt;</emphasis>
+                
+<para><formalpara><title>Returns: </title>
+
+<para>List of PSU</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

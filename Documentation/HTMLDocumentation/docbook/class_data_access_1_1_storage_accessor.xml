@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_data_access_1_1_storage_accessor">
+<title>DataAccess::StorageAccessor class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_business_objects_1_1_storage">Storage</link> <link linkend="class_data_access_1_1_storage_accessor_1abb7e1e5d633910b7003fd0f7c2b99825">RetrieveStorageByName</link> (
+string name)<para><emphasis>&lt;summary&gt;
+Retrieves storage components by name.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_storage">Storage</link> &gt; <link linkend="class_data_access_1_1_storage_accessor_1ae946acb35222d3b911c8f38938ef5c7d">RetrieveStorageBySize</link> (
+int size)<para><emphasis>&lt;summary&gt;
+Retrieves list of storage objects by storage size.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_storage">Storage</link> &gt; <link linkend="class_data_access_1_1_storage_accessor_1a9a989363273f5b9395817912303858db">RetrieveStorageByType</link> (
+string type)<para><emphasis>&lt;summary&gt;
+Retrieves a lsit of storage objects by type.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_storage_accessor_1a637e56c95349a4ec29fdf8046bf2e61c">InsertStorage</link> (
+<link linkend="class_business_objects_1_1_storage">Storage</link> storage)<para><emphasis>&lt;summary&gt;
+Inserts a new storage object.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_storage">Storage</link> &gt; <link linkend="class_data_access_1_1_storage_accessor_1ae14e363a18a78cebd20e2c0731e6236d">RetrieveAllStorage</link> (
+)<para><emphasis>&lt;summary&gt;
+Retrieves all storage objects.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Storage accessor to communicate with database on storage objects. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 16 of file StorageAccessor.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>StorageAccessor.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_data_access_1_1_storage_accessor_1abb7e1e5d633910b7003fd0f7c2b99825">
+                <title>static Storage DataAccess.StorageAccessor.RetrieveStorageByName (string name)</title> <emphasis>&lt;summary&gt;
+Retrieves storage components by name.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>name</entry>
+                                <entry>
+<para>The name.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Storage object.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_storage_accessor_1ae946acb35222d3b911c8f38938ef5c7d">
+                <title>static List&lt;Storage&gt; DataAccess.StorageAccessor.RetrieveStorageBySize (int size)</title> <emphasis>&lt;summary&gt;
+Retrieves list of storage objects by storage size.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>size</entry>
+                                <entry>
+<para>The size.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>List of storage objects.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_storage_accessor_1a9a989363273f5b9395817912303858db">
+                <title>static List&lt;Storage&gt; DataAccess.StorageAccessor.RetrieveStorageByType (string type)</title> <emphasis>&lt;summary&gt;
+Retrieves a lsit of storage objects by type.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>type</entry>
+                                <entry>
+<para>The type.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Lsit of storage objects.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_storage_accessor_1a637e56c95349a4ec29fdf8046bf2e61c">
+                <title>static int DataAccess.StorageAccessor.InsertStorage (Storage storage)</title> <emphasis>&lt;summary&gt;
+Inserts a new storage object.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>storage</entry>
+                                <entry>
+<para>The storage.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Count of rows affected.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_storage_accessor_1ae14e363a18a78cebd20e2c0731e6236d">
+                <title>static List&lt;Storage&gt; DataAccess.StorageAccessor.RetrieveAllStorage ()</title> <emphasis>&lt;summary&gt;
+Retrieves all storage objects.
+&lt;/summary&gt;</emphasis>
+                
+<para><formalpara><title>Returns: </title>
+
+<para>Lsit of storage objects.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

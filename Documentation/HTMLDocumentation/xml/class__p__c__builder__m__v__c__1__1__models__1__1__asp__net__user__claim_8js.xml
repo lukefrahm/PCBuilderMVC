@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__asp__net__user__claim_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__asp__net__user__claim_8js_1ab6f0b5dddcbbbf761b4680eed25ae1e8" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim</name>
+        <initializer>=
+[
+    [ &quot;AspNetUser&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.html#a451f06776aeaf224a70eec4c81e559cf&quot;, null ],
+    [ &quot;ClaimType&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.html#afc87beebef4b5a3706aa950e9334312c&quot;, null ],
+    [ &quot;ClaimValue&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.html#a2ddb20d0ae673265de4cfbd8f9d6b6d8&quot;, null ],
+    [ &quot;Id&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.html#abe6064a4d509498a4bff5e0b3004e8fb&quot;, null ],
+    [ &quot;UserId&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.html#a967797d567964ee4f5835d17afac9087&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetUser&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.html#a451f06776aeaf224a70eec4c81e559cf&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ClaimType&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.html#afc87beebef4b5a3706aa950e9334312c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ClaimValue&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.html#a2ddb20d0ae673265de4cfbd8f9d6b6d8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Id&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.html#abe6064a4d509498a4bff5e0b3004e8fb&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.html#a967797d567964ee4f5835d17afac9087&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim.js"/>
+  </compounddef>
+</doxygen>

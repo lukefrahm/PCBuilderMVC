@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="functions__0_8js" kind="file" language="Javascript">
+    <compoundname>functions_0.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="functions__0_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;accesstoken&apos;,[&apos;AccessToken&apos;,[&apos;../class_business_objects_1_1_access_token.html#a0db5c344cbe742041a0200d686df4dfe&apos;,1,&apos;<ref refid="class_business_objects_1_1_access_token" kindref="compound">BusinessObjects::AccessToken</ref>&apos;]]],
+  [&apos;addnewuser&apos;,[&apos;AddNewUser&apos;,[&apos;../class_business_logic_1_1_user_manager.html#ab868aeac2dd021d3d230cceb099422c8&apos;,1,&apos;<ref refid="class_business_logic_1_1_user_manager" kindref="compound">BusinessLogic::UserManager</ref>&apos;]]],
+  [&apos;applicationusermanager&apos;,[&apos;ApplicationUserManager&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_application_user_manager.html#af4a41b30be1457d972406354e95fb945&apos;,1,&apos;<ref refid="class_p_c_builder_m_v_c_1_1_application_user_manager" kindref="compound">PCBuilderMVC::ApplicationUserManager</ref>&apos;]]]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/functions_0.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/functions_0.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;accesstoken&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;AccessToken&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_access_token.html#a0db5c344cbe742041a0200d686df4dfe&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects::AccessToken&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;addnewuser&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;AddNewUser&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_logic_1_1_user_manager.html#ab868aeac2dd021d3d230cceb099422c8&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessLogic::UserManager&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;applicationusermanager&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;ApplicationUserManager&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_application_user_manager.html#af4a41b30be1457d972406354e95fb945&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::ApplicationUserManager&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="6"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/functions_0.js"/>
+  </compounddef>
+</doxygen>

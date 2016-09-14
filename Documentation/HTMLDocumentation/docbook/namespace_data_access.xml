@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="namespace_data_access">
+<title>DataAccess</title>
+        <section>
+            <title> Classes </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_data_access_1_1_c_p_u_accessor">DataAccess::CPUAccessor</link></para>
+<para><emphasis>&lt;summary&gt;
+CPU accessor to communicate with database on CPU objects.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_data_access_1_1_d_b_connection">DataAccess::DBConnection</link></para>
+<para><emphasis>&lt;summary&gt;
+Database connector string class.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_data_access_1_1_g_p_u_accessor">DataAccess::GPUAccessor</link></para>
+<para><emphasis>&lt;summary&gt;
+GPU accessor to communicate with database on GPU objects.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_data_access_1_1_motherboard_accessor">DataAccess::MotherboardAccessor</link></para>
+<para><emphasis>&lt;summary&gt;
+Motherboard accessor to communicate with database on Motherboard objects.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_data_access_1_1_optical_accessor">DataAccess::OpticalAccessor</link></para>
+<para><emphasis>&lt;summary&gt;
+Optical accessor to communicate with database on Optical drive objects.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_data_access_1_1_p_s_u_accessor">DataAccess::PSUAccessor</link></para>
+<para><emphasis>&lt;summary&gt;
+PSU accessor to communicate with database on PSU objects.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_data_access_1_1_r_a_m_accessor">DataAccess::RAMAccessor</link></para>
+<para><emphasis>&lt;summary&gt;
+RAM accessor to communicate with database on RAM objects.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_data_access_1_1_storage_accessor">DataAccess::StorageAccessor</link></para>
+<para><emphasis>&lt;summary&gt;
+Storage accessor to communicate with database on storage objects.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_data_access_1_1_user_accessor">DataAccess::UserAccessor</link></para>
+<para><emphasis>&lt;summary&gt;
+Data access class that handles data connections with the Users table.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+</section>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model">
+<title>PCBuilderMVC::Models::FinalizedBuildViewModel class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model_1a2a66b39bc37ebd650493fa5a65c7994e">FinalizedBuildViewModel</link> (
+int id, <link linkend="class_business_objects_1_1_finalized_build">BusinessObjects.FinalizedBuild</link> fb)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;FinalizedBuildViewModel&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model_1aa7d758a194c30a0b798fb3e457e3f04e">FinalizedBuildViewModel</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Finalized build view model class. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 13 of file FinalizedBuildViewModel.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>FinalizedBuildViewModel.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model_1a2a66b39bc37ebd650493fa5a65c7994e">
+                <title>PCBuilderMVC.Models.FinalizedBuildViewModel.FinalizedBuildViewModel (int id, BusinessObjects.FinalizedBuild fb)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;FinalizedBuildViewModel&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>id</entry>
+                                <entry>
+<para>The identifier.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>fb</entry>
+                                <entry>
+<para>The fb.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+<para>This constructor serves the purpose of casting FinalizedBuild to <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model">FinalizedBuildViewModel</link> </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model_1aa7d758a194c30a0b798fb3e457e3f04e">
+                <title>PCBuilderMVC.Models.FinalizedBuildViewModel.FinalizedBuildViewModel ()</title> <emphasis></emphasis>
+                
+            </section>
+</section>

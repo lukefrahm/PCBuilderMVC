@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_logic_1_1_security_manager">
+<title>BusinessLogic::SecurityManager class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>const int MIN_USERNAME</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>const int MIN_PASSWORD</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_business_objects_1_1_access_token">AccessToken</link> <link linkend="class_business_logic_1_1_security_manager_1a27a0b4ffd4af28d8ccdf5751b2bc0445">ValidateExistingUser</link> (
+string username, string password)<para><emphasis>&lt;summary&gt;
+Validates an existing user.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_business_objects_1_1_access_token">AccessToken</link> <link linkend="class_business_logic_1_1_security_manager_1a88cf89e8c9ad9e7b34a8e7525fcf5f84">ValidateNewUser</link> (
+<link linkend="class_business_objects_1_1_user">User</link> usr)<para><emphasis>&lt;summary&gt;
+Validates a new user.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Class tasked with maintaining application security when handling user information. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 15 of file SecurityManager.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>SecurityManager.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_business_logic_1_1_security_manager_1a27a0b4ffd4af28d8ccdf5751b2bc0445">
+                <title>static AccessToken BusinessLogic.SecurityManager.ValidateExistingUser (string username, string password)</title> <emphasis>&lt;summary&gt;
+Validates an existing user.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>username</entry>
+                                <entry>
+<para>The username.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>password</entry>
+                                <entry>
+<para>The password.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>AccessToken used to keep validated information for processing.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Password and username must be between 5 and 50 characters. or Data not found. </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_security_manager_1a88cf89e8c9ad9e7b34a8e7525fcf5f84">
+                <title>static AccessToken BusinessLogic.SecurityManager.ValidateNewUser (User usr)</title> <emphasis>&lt;summary&gt;
+Validates a new user.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>usr</entry>
+                                <entry>
+<para>The user.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>AccessToken used to keep validated information for processing.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>User already exists!</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

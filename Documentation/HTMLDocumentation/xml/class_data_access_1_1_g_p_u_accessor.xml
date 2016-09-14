@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_data_access_1_1_g_p_u_accessor" kind="class" language="C#" prot="public">
+    <compoundname>DataAccess::GPUAccessor</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_data_access_1_1_g_p_u_accessor_1acd3cccc36aed6c7c9fd3af8077fb3ec7" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref></type>
+        <definition>static GPU DataAccess.GPUAccessor.RetrieveGPUByName</definition>
+        <argsstring>(string name)</argsstring>
+        <name>RetrieveGPUByName</name>
+        <param>
+          <type>string</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a GPU by name. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>A GPU object.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/GPUAccessor.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/GPUAccessor.cs" bodystart="23" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_g_p_u_accessor_1a7203a061e7e659546c2c0240944c595b" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref> &gt;</type>
+        <definition>static List&lt;GPU&gt; DataAccess.GPUAccessor.RetrieveGPUsByRamSize</definition>
+        <argsstring>(int ramSize)</argsstring>
+        <name>RetrieveGPUsByRamSize</name>
+        <param>
+          <type>int</type>
+          <declname>ramSize</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves lsit of GPUs by RAM size. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>ramSize</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Size of the ram.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>List of GPU objects.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/GPUAccessor.cs" line="81" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/GPUAccessor.cs" bodystart="81" bodyend="132"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_g_p_u_accessor_1a7fba4be184695de0c77385bc74ee50f0" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.GPUAccessor.InsertGpu</definition>
+        <argsstring>(GPU gpu)</argsstring>
+        <name>InsertGpu</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref></type>
+          <declname>gpu</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a new GPU. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>gpu</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The gpu.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of rows affected.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/GPUAccessor.cs" line="139" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/GPUAccessor.cs" bodystart="139" bodyend="178"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_g_p_u_accessor_1ad0e40a593f48af857d32b9386ee02cd6" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref> &gt;</type>
+        <definition>static List&lt;GPU&gt; DataAccess.GPUAccessor.RetrieveAllGPU</definition>
+        <argsstring>()</argsstring>
+        <name>RetrieveAllGPU</name>
+        <briefdescription>
+<para>Retrieves all GPUs. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>List of GPU objects.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/GPUAccessor.cs" line="185" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/GPUAccessor.cs" bodystart="185" bodyend="234"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>GPU accessor to communicate with database on GPU objects. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/GPUAccessor.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/GPUAccessor.cs" bodystart="15" bodyend="235"/>
+    <listofallmembers>
+      <member refid="class_data_access_1_1_g_p_u_accessor_1a7fba4be184695de0c77385bc74ee50f0" prot="public" virt="non-virtual"><scope>DataAccess::GPUAccessor</scope><name>InsertGpu</name></member>
+      <member refid="class_data_access_1_1_g_p_u_accessor_1ad0e40a593f48af857d32b9386ee02cd6" prot="public" virt="non-virtual"><scope>DataAccess::GPUAccessor</scope><name>RetrieveAllGPU</name></member>
+      <member refid="class_data_access_1_1_g_p_u_accessor_1acd3cccc36aed6c7c9fd3af8077fb3ec7" prot="public" virt="non-virtual"><scope>DataAccess::GPUAccessor</scope><name>RetrieveGPUByName</name></member>
+      <member refid="class_data_access_1_1_g_p_u_accessor_1a7203a061e7e659546c2c0240944c595b" prot="public" virt="non-virtual"><scope>DataAccess::GPUAccessor</scope><name>RetrieveGPUsByRamSize</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

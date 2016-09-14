@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__finalized__build__view__model_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__finalized__build__view__model_8js_1ae7b9fae4d88429f637910736ad022633" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model</name>
+        <initializer>=
+[
+    [ &quot;FinalizedBuildViewModel&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a2a66b39bc37ebd650493fa5a65c7994e&quot;, null ],
+    [ &quot;FinalizedBuildViewModel&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#aa7d758a194c30a0b798fb3e457e3f04e&quot;, null ],
+    [ &quot;cpu&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#aa7d884dfe24e6bc042f2c0553bfce985&quot;, null ],
+    [ &quot;FinalizedBuildID&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a1bbfda95f83c4234640986e9385b2af1&quot;, null ],
+    [ &quot;gpu&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a46dbbfefa1922bf08858bd90d2041182&quot;, null ],
+    [ &quot;message&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a0b9be8e5c91c6c0203d20cb0a5e0e5e9&quot;, null ],
+    [ &quot;motherboard&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#aadf53b6998eb5d45cec159918cbd0705&quot;, null ],
+    [ &quot;optical&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a1fde0b21cb9456e461b278732c4c22f3&quot;, null ],
+    [ &quot;price&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#aeac1173b02c5fde051f6902931b98635&quot;, null ],
+    [ &quot;psu&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a75590a3997c9cfee09a320d021c89602&quot;, null ],
+    [ &quot;ram&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#acebfbdfe40d252640101bcdc347f778c&quot;, null ],
+    [ &quot;storage&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#af69a3753363097ef99289069b4c3f76d&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FinalizedBuildViewModel&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a2a66b39bc37ebd650493fa5a65c7994e&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FinalizedBuildViewModel&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#aa7d758a194c30a0b798fb3e457e3f04e&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;cpu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#aa7d884dfe24e6bc042f2c0553bfce985&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FinalizedBuildID&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a1bbfda95f83c4234640986e9385b2af1&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;gpu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a46dbbfefa1922bf08858bd90d2041182&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;message&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a0b9be8e5c91c6c0203d20cb0a5e0e5e9&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;motherboard&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#aadf53b6998eb5d45cec159918cbd0705&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;optical&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a1fde0b21cb9456e461b278732c4c22f3&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#aeac1173b02c5fde051f6902931b98635&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;psu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#a75590a3997c9cfee09a320d021c89602&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ram&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#acebfbdfe40d252640101bcdc347f778c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;storage&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.html#af69a3753363097ef99289069b4c3f76d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="15"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model.js"/>
+  </compounddef>
+</doxygen>

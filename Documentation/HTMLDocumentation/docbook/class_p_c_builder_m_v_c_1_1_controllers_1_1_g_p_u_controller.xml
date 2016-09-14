@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller">
+<title>PCBuilderMVC::Controllers::GPUController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a38923ec0854ca8ca5d0247bae3068d4f">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a78d3d59dbfde397dbddb047d0c7db090">Details</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1ace84f79eaf685c05dce52af070c4b519">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aa34201847e1e5c053d778e2b0a38650e">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u">GPU</link> gPU)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aeb7156b1f3d6bab93118cb778e75bea8">Edit</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a0d21736b4431a17c038d500bf09ba00e">Edit</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u">GPU</link> gPU)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1abf8b845362784a12062436f4720b14e6">Delete</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aab97b4bb193c7a42426beaa2c5ef2288">DeleteConfirmed</link> (
+int id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a034e1443604844a81742a6c4e2dd5ccf">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>GPU controller class to handle GPU views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file GPUController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>GPUController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a38923ec0854ca8ca5d0247bae3068d4f">
+                <title>ActionResult PCBuilderMVC.Controllers.GPUController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a78d3d59dbfde397dbddb047d0c7db090">
+                <title>ActionResult PCBuilderMVC.Controllers.GPUController.Details (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1ace84f79eaf685c05dce52af070c4b519">
+                <title>ActionResult PCBuilderMVC.Controllers.GPUController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aa34201847e1e5c053d778e2b0a38650e">
+                <title>ActionResult PCBuilderMVC.Controllers.GPUController.Create ([Bind(Include=&quot;GpuId,Brand,Model,ClockSpeed,ProductLineName,BenchmarkScore,BestUse,GpuRamSize,PciPinConnector1,PciPinConnector2,PciPinConnector3,PowerRequirement,GpuLength,Price&quot;)] GPU gPU)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aeb7156b1f3d6bab93118cb778e75bea8">
+                <title>ActionResult PCBuilderMVC.Controllers.GPUController.Edit (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a0d21736b4431a17c038d500bf09ba00e">
+                <title>ActionResult PCBuilderMVC.Controllers.GPUController.Edit ([Bind(Include=&quot;GpuId,Brand,Model,ClockSpeed,ProductLineName,BenchmarkScore,BestUse,GpuRamSize,PciPinConnector1,PciPinConnector2,PciPinConnector3,PowerRequirement,GpuLength,Price&quot;)] GPU gPU)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1abf8b845362784a12062436f4720b14e6">
+                <title>ActionResult PCBuilderMVC.Controllers.GPUController.Delete (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1aab97b4bb193c7a42426beaa2c5ef2288">
+                <title>ActionResult PCBuilderMVC.Controllers.GPUController.DeleteConfirmed (int id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller_1a034e1443604844a81742a6c4e2dd5ccf">
+                <title>override void PCBuilderMVC.Controllers.GPUController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

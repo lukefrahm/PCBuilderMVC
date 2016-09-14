@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_external_login_list_view_model" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::ExternalLoginListViewModel</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_external_login_list_view_model_1a04ad600ba1d7a65605acf6303c2b5189" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.ExternalLoginListViewModel.Action</definition>
+        <argsstring></argsstring>
+        <name>Action</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AccountViewModels.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AccountViewModels.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_external_login_list_view_model_1ac764151b2b62a55514ffa72879488568" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.ExternalLoginListViewModel.ReturnUrl</definition>
+        <argsstring></argsstring>
+        <name>ReturnUrl</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AccountViewModels.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AccountViewModels.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>External login list view model class. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AccountViewModels.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AccountViewModels.cs" bodystart="19" bodyend="23"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_external_login_list_view_model_1a04ad600ba1d7a65605acf6303c2b5189" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::ExternalLoginListViewModel</scope><name>Action</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_external_login_list_view_model_1ac764151b2b62a55514ffa72879488568" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::ExternalLoginListViewModel</scope><name>ReturnUrl</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

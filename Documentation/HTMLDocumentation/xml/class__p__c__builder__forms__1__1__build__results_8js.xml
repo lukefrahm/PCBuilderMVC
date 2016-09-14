@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__forms__1__1__build__results_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_forms_1_1_build_results.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__forms__1__1__build__results_8js_1a5a566aac46564a0bd8e6dfb3a0d76fca" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_forms_1_1_build_results</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_forms_1_1_build_results</name>
+        <initializer>=
+[
+    [ &quot;InitializeComponent&quot;, &quot;class_p_c_builder_forms_1_1_build_results.html#a9c575c605cc69bafccc43687729b9f4c&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_forms_1_1_build_results.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_forms_1_1_build_results.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_forms_1_1_build_results<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;InitializeComponent&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_forms_1_1_build_results.html#a9c575c605cc69bafccc43687729b9f4c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="4"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_forms_1_1_build_results.js"/>
+  </compounddef>
+</doxygen>

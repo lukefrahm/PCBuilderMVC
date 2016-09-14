@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__user__entities_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__user__entities_8js_1a7f9f8c4be87a6aed3855253ff49bb2c2" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_user_entities</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_user_entities</name>
+        <initializer>=
+[
+    [ &quot;UserEntities&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#ac10d86b7a584c3a8d3ff5d706409683f&quot;, null ],
+    [ &quot;OnModelCreating&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#a4e4635cfa93a11fe54575099f2394030&quot;, null ],
+    [ &quot;AspNetRoles&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#a97ad62df5e44eb5d06b4faef97066545&quot;, null ],
+    [ &quot;AspNetUserClaims&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#adce18308000a7a93875ade45b503e94e&quot;, null ],
+    [ &quot;AspNetUserLogins&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#ad930890fad3392c62f1915b2baea7f67&quot;, null ],
+    [ &quot;AspNetUsers&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#a0bdbcfd5cd36963f3b56d2a28eee0b59&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_user_entities<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserEntities&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#ac10d86b7a584c3a8d3ff5d706409683f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;OnModelCreating&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#a4e4635cfa93a11fe54575099f2394030&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetRoles&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#a97ad62df5e44eb5d06b4faef97066545&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetUserClaims&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#adce18308000a7a93875ade45b503e94e&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetUserLogins&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#ad930890fad3392c62f1915b2baea7f67&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetUsers&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.html#a0bdbcfd5cd36963f3b56d2a28eee0b59&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="9"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_user_entities.js"/>
+  </compounddef>
+</doxygen>

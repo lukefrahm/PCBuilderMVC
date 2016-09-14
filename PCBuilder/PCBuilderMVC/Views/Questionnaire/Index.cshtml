@@ -1,0 +1,183 @@
+﻿@model IEnumerable<PCBuilderMVC.Models.QuestionnaireViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SldPerformance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChkUseBasic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChkUseVideoEdit)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChkUseGaming)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChkUseDevelopment)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChkUseOfficeModerate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadResolution720)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadResolution1080)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadResolution4k)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SldNumMonitors)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SldStorageSize)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadSSD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadHDD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadRAMRecommended)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadRAMSelectManual)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SldRamSize)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SldNumCores)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadCaseSizeFull)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadCaseSizeMid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadCaseSizeMicro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadCaseSizeMini)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadCaseSizeConsole)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadBRBurner)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadBRReader)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadDVDBurner)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RadOpticalNone)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SldPerformance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChkUseBasic)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChkUseVideoEdit)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChkUseGaming)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChkUseDevelopment)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChkUseOfficeModerate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadResolution720)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadResolution1080)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadResolution4k)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SldNumMonitors)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SldStorageSize)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadSSD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadHDD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadRAMRecommended)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadRAMSelectManual)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SldRamSize)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SldNumCores)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadCaseSizeFull)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadCaseSizeMid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadCaseSizeMicro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadCaseSizeMini)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadCaseSizeConsole)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadBRBurner)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadBRReader)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadDVDBurner)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RadOpticalNone)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.QuestionnaireID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.QuestionnaireID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.QuestionnaireID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1">
+<title>PCBuilderMVC::Migrations::dbupdate1 class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>readonly ResourceManager Resources</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1_1a1f02ce7d271ad7cdae7162c82dd946fb">Up</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1_1ac88cfe63fdfe3dc33eaabe795ac754d3">Down</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1_1a1f02ce7d271ad7cdae7162c82dd946fb">
+                <title>override void PCBuilderMVC.Migrations.dbupdate1.Up ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1_1ac88cfe63fdfe3dc33eaabe795ac754d3">
+                <title>override void PCBuilderMVC.Migrations.dbupdate1.Down ()</title> <emphasis></emphasis>
+                
+            </section>
+</section>

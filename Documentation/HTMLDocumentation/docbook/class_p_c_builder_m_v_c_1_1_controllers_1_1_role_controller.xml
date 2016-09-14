@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller">
+<title>PCBuilderMVC::Controllers::RoleController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a539d1b8b95c8cce64e2e6191070ab4f1">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a622d75d4760677d73ecef02d8b7e4112">Details</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1ac7d1a9619975e3e734535a104731fab4">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a380152084b9a7911121f64f4c7890c53">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_role">Role</link> role)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1acfe183da8623b0e5ceaa1e345b78c83f">Edit</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a7726bbef911a2d11d6dd051a1ad336be">Edit</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_role">Role</link> role)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a9b8397f06d1f42fa5aca85d14d9ac8cf">Delete</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a9f7f7bd802c01e7fd33c2d5b14b7ca3e">DeleteConfirmed</link> (
+int id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a6c4e2e6ec3e29a8c899cd71da1450150">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Role controller class to handle Role views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file RoleController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>RoleController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a539d1b8b95c8cce64e2e6191070ab4f1">
+                <title>ActionResult PCBuilderMVC.Controllers.RoleController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a622d75d4760677d73ecef02d8b7e4112">
+                <title>ActionResult PCBuilderMVC.Controllers.RoleController.Details (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1ac7d1a9619975e3e734535a104731fab4">
+                <title>ActionResult PCBuilderMVC.Controllers.RoleController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a380152084b9a7911121f64f4c7890c53">
+                <title>ActionResult PCBuilderMVC.Controllers.RoleController.Create ([Bind(Include=&quot;RoleId,RoleName,RoleDescription&quot;)] Role role)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1acfe183da8623b0e5ceaa1e345b78c83f">
+                <title>ActionResult PCBuilderMVC.Controllers.RoleController.Edit (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a7726bbef911a2d11d6dd051a1ad336be">
+                <title>ActionResult PCBuilderMVC.Controllers.RoleController.Edit ([Bind(Include=&quot;RoleId,RoleName,RoleDescription&quot;)] Role role)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a9b8397f06d1f42fa5aca85d14d9ac8cf">
+                <title>ActionResult PCBuilderMVC.Controllers.RoleController.Delete (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a9f7f7bd802c01e7fd33c2d5b14b7ca3e">
+                <title>ActionResult PCBuilderMVC.Controllers.RoleController.DeleteConfirmed (int id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller_1a6c4e2e6ec3e29a8c899cd71da1450150">
+                <title>override void PCBuilderMVC.Controllers.RoleController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

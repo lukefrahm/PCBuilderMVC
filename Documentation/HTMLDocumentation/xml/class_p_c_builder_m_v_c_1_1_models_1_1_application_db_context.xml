@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::ApplicationDbContext</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IdentityDbContext&lt; ApplicationUser &gt;</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1abe6c40c6be3a6fd178405e5dcc7a5b7f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>System.Data.Entity.DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u" kindref="compound">PCBuilderMVC.Models.CPU</ref> &gt;</type>
+        <definition>System.Data.Entity.DbSet&lt;PCBuilderMVC.Models.CPU&gt; PCBuilderMVC.Models.ApplicationDbContext.CPUs</definition>
+        <argsstring></argsstring>
+        <name>CPUs</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" line="40" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1a3999bd7ef81ac8511b08b2b067744c1a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>System.Data.Entity.DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role" kindref="compound">PCBuilderMVC.Models.AspNetRole</ref> &gt;</type>
+        <definition>System.Data.Entity.DbSet&lt;PCBuilderMVC.Models.AspNetRole&gt; PCBuilderMVC.Models.ApplicationDbContext.AspNetRoles</definition>
+        <argsstring></argsstring>
+        <name>AspNetRoles</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" line="42" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1acc03c97fcfb51332c54f89ecd3bd0aba" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderMVC.Models.ApplicationDbContext.ApplicationDbContext</definition>
+        <argsstring>()</argsstring>
+        <name>ApplicationDbContext</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" bodystart="30" bodyend="33"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1a87e83c7a94db34abb35a1e6d7df4c6e3" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context" kindref="compound">ApplicationDbContext</ref></type>
+        <definition>static ApplicationDbContext PCBuilderMVC.Models.ApplicationDbContext.Create</definition>
+        <argsstring>()</argsstring>
+        <name>Create</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" line="35" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" bodystart="35" bodyend="38"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Database connection for <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_user" kindref="compound">User</ref> model. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>Microsoft.AspNet.Identity.EntityFramework.IdentityDbContext&lt;PCBuilderMVC.Models.ApplicationUser&gt;</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="20">
+        <label>PCBuilderMVC.Models.ApplicationDbContext</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context"/>
+        <childnode refid="21" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="21">
+        <label>IdentityDbContext&lt; ApplicationUser &gt;</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="22">
+        <label>PCBuilderMVC.Models.ApplicationDbContext</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context"/>
+        <childnode refid="23" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="23">
+        <label>IdentityDbContext&lt; ApplicationUser &gt;</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" bodystart="28" bodyend="43"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1acc03c97fcfb51332c54f89ecd3bd0aba" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::ApplicationDbContext</scope><name>ApplicationDbContext</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1a3999bd7ef81ac8511b08b2b067744c1a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::ApplicationDbContext</scope><name>AspNetRoles</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1abe6c40c6be3a6fd178405e5dcc7a5b7f" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::ApplicationDbContext</scope><name>CPUs</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1a87e83c7a94db34abb35a1e6d7df4c6e3" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::ApplicationDbContext</scope><name>Create</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

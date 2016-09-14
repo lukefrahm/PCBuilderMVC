@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace_p_c_builder_m_v_c_1_1_migrations" kind="namespace" language="C#">
+    <compoundname>PCBuilderMVC::Migrations</compoundname>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_migrations_1_1_configuration" prot="package">PCBuilderMVC::Migrations::Configuration</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1" prot="public">PCBuilderMVC::Migrations::dbupdate1</innerclass>
+    <innerclass refid="class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create" prot="public">PCBuilderMVC::Migrations::InitialCreate</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Migrations/201605040324555_InitialCreate.cs" line="2" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace__p__c__builder__m__v__c__1__1__migrations_8js" kind="file" language="Javascript">
+    <compoundname>namespace_p_c_builder_m_v_c_1_1_migrations.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="namespace__p__c__builder__m__v__c__1__1__migrations_8js_1af5eab9c77986526269a3d46e456d9c97" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var namespace_p_c_builder_m_v_c_1_1_migrations</definition>
+        <argsstring></argsstring>
+        <name>namespace_p_c_builder_m_v_c_1_1_migrations</name>
+        <initializer>=
+[
+    [ &quot;dbupdate1&quot;, &quot;class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1&quot; ],
+    [ &quot;InitialCreate&quot;, &quot;class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create&quot; ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_p_c_builder_m_v_c_1_1_migrations.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_p_c_builder_m_v_c_1_1_migrations.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>namespace_p_c_builder_m_v_c_1_1_migrations<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;dbupdate1&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_migrations_1_1dbupdate1&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;InitialCreate&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_migrations_1_1_initial_create&quot;</highlight><highlight class="normal"><sp/>]</highlight></codeline>
+<codeline lineno="5"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_p_c_builder_m_v_c_1_1_migrations.js"/>
+  </compounddef>
+</doxygen>

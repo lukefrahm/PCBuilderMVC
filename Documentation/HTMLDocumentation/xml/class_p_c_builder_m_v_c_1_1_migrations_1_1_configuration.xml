@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_migrations_1_1_configuration" kind="class" language="C#" prot="package">
+    <compoundname>PCBuilderMVC::Migrations::Configuration</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">DbMigrationsConfiguration&lt; PCBuilderMVC.Models.ApplicationDbContext &gt;</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_migrations_1_1_configuration_1ae3fb6e22c8772f67c7b8f6a61f444146" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderMVC.Migrations.Configuration.Configuration</definition>
+        <argsstring>()</argsstring>
+        <name>Configuration</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Migrations/Configuration.cs" line="10" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Migrations/Configuration.cs" bodystart="10" bodyend="14"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_migrations_1_1_configuration_1ad669e0355cf96be7e84635283b055309" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void PCBuilderMVC.Migrations.Configuration.Seed</definition>
+        <argsstring>(PCBuilderMVC.Models.ApplicationDbContext context)</argsstring>
+        <name>Seed</name>
+        <param>
+          <type><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context" kindref="compound">PCBuilderMVC.Models.ApplicationDbContext</ref></type>
+          <declname>context</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Migrations/Configuration.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Migrations/Configuration.cs" bodystart="16" bodyend="30"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="69">
+        <label>PCBuilderMVC.Migrations.Configuration</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_migrations_1_1_configuration"/>
+        <childnode refid="70" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="70">
+        <label>DbMigrationsConfiguration&lt; PCBuilderMVC.Models.ApplicationDbContext &gt;</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="71">
+        <label>PCBuilderMVC.Migrations.Configuration</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_migrations_1_1_configuration"/>
+        <childnode refid="72" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="72">
+        <label>DbMigrationsConfiguration&lt; PCBuilderMVC.Models.ApplicationDbContext &gt;</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Migrations/Configuration.cs" line="9" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Migrations/Configuration.cs" bodystart="8" bodyend="31"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_migrations_1_1_configuration_1ae3fb6e22c8772f67c7b8f6a61f444146" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Migrations::Configuration</scope><name>Configuration</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_migrations_1_1_configuration_1ad669e0355cf96be7e84635283b055309" prot="protected" virt="non-virtual"><scope>PCBuilderMVC::Migrations::Configuration</scope><name>Seed</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

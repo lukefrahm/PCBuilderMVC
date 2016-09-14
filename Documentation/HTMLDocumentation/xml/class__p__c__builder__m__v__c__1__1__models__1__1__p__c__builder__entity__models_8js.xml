@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__p__c__builder__entity__models_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__p__c__builder__entity__models_8js_1ae1206a195a96c92298e535ea6c463152" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models</name>
+        <initializer>=
+[
+    [ &quot;PCBuilderEntityModels&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#aa51e5f178a4fbb142efa7c8383d29190&quot;, null ],
+    [ &quot;OnModelCreating&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a6f1980dd854d63223c69a6b1fd948f74&quot;, null ],
+    [ &quot;AspNetRoles&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a89e01a79119dd60e1149e6be03f6cf81&quot;, null ],
+    [ &quot;AspNetUsers&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a4b38df58c1b0bb6500f88dbbd6b5e2d0&quot;, null ],
+    [ &quot;CPUs&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a9412e2ad51d1271e2e22a72452fd2b89&quot;, null ],
+    [ &quot;FinalizedBuildViewModels&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a6cb50b4dd2ce526459e7dc52381fc627&quot;, null ],
+    [ &quot;GPUs&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#aaa8038351676c90b1cf5adde3466d9d3&quot;, null ],
+    [ &quot;Motherboards&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a8d4169fcc124efe24a0e41c727d0497e&quot;, null ],
+    [ &quot;Opticals&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#ac0a93bd467639e52e02051e12bfa44e5&quot;, null ],
+    [ &quot;PSUs&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a0a5f731f0bcf9b1cdfb6865ecde4c08b&quot;, null ],
+    [ &quot;QuestionnaireViewModels&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#ada46bb5ef5120abffefa3ce38be5843a&quot;, null ],
+    [ &quot;RAMs&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#aa58a925658f5db1a2451cdb6a0d57949&quot;, null ],
+    [ &quot;Roles&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#ab650b1da81b3077e41abe4ef3e0777cb&quot;, null ],
+    [ &quot;Storages&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a79853744639305e4b275548629834558&quot;, null ],
+    [ &quot;Users&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a78925feeeef3b89318953daddeedc6ab&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PCBuilderEntityModels&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#aa51e5f178a4fbb142efa7c8383d29190&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;OnModelCreating&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a6f1980dd854d63223c69a6b1fd948f74&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetRoles&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a89e01a79119dd60e1149e6be03f6cf81&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AspNetUsers&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a4b38df58c1b0bb6500f88dbbd6b5e2d0&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPUs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a9412e2ad51d1271e2e22a72452fd2b89&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FinalizedBuildViewModels&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a6cb50b4dd2ce526459e7dc52381fc627&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPUs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#aaa8038351676c90b1cf5adde3466d9d3&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Motherboards&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a8d4169fcc124efe24a0e41c727d0497e&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Opticals&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#ac0a93bd467639e52e02051e12bfa44e5&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSUs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a0a5f731f0bcf9b1cdfb6865ecde4c08b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;QuestionnaireViewModels&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#ada46bb5ef5120abffefa3ce38be5843a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAMs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#aa58a925658f5db1a2451cdb6a0d57949&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Roles&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#ab650b1da81b3077e41abe4ef3e0777cb&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Storages&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a79853744639305e4b275548629834558&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Users&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.html#a78925feeeef3b89318953daddeedc6ab&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="18"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models.js"/>
+  </compounddef>
+</doxygen>

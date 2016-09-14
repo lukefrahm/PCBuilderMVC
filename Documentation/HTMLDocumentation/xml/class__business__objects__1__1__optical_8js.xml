@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__optical_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_optical.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__optical_8js_1a03252bdc09cccd632fb7911ff377febb" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_optical</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_optical</name>
+        <initializer>=
+[
+    [ &quot;Optical&quot;, &quot;class_business_objects_1_1_optical.html#a81db21dd419123fe11893f988facd077&quot;, null ],
+    [ &quot;Optical&quot;, &quot;class_business_objects_1_1_optical.html#a85e001030041386047f105975754144d&quot;, null ],
+    [ &quot;Brand&quot;, &quot;class_business_objects_1_1_optical.html#a39ba9566ba93a2d8e31ed1bfda850608&quot;, null ],
+    [ &quot;Model&quot;, &quot;class_business_objects_1_1_optical.html#ad4f96eedb36b6e8d0bb0a757d8c2f162&quot;, null ],
+    [ &quot;OpticalId&quot;, &quot;class_business_objects_1_1_optical.html#adfb18e4b3a7a16fc1cad290e29a706a0&quot;, null ],
+    [ &quot;OpticalType&quot;, &quot;class_business_objects_1_1_optical.html#afecc0495ac20fffeb10d11edcff6c3b6&quot;, null ],
+    [ &quot;Price&quot;, &quot;class_business_objects_1_1_optical.html#a3913208c58242f22d7aaa48fd0d3a54d&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_optical.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_optical.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_optical<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Optical&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_optical.html#a81db21dd419123fe11893f988facd077&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Optical&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_optical.html#a85e001030041386047f105975754144d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Brand&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_optical.html#a39ba9566ba93a2d8e31ed1bfda850608&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Model&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_optical.html#ad4f96eedb36b6e8d0bb0a757d8c2f162&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;OpticalId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_optical.html#adfb18e4b3a7a16fc1cad290e29a706a0&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;OpticalType&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_optical.html#afecc0495ac20fffeb10d11edcff6c3b6&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_optical.html#a3913208c58242f22d7aaa48fd0d3a54d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="10"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_optical.js"/>
+  </compounddef>
+</doxygen>

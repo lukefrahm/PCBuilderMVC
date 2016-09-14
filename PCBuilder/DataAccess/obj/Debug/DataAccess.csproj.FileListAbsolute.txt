@@ -1,0 +1,28 @@
+F:\net Programming 2\FinalProject\PCBuilder\DataAccess\bin\Debug\DataAccess.dll
+F:\net Programming 2\FinalProject\PCBuilder\DataAccess\bin\Debug\DataAccess.pdb
+F:\net Programming 2\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\net Programming 2\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.dll
+F:\net Programming 2\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.pdb
+F:\net Programming 2\FinalProject\PCBuilder\DataAccess\bin\Debug\BusinessObjects.dll
+F:\net Programming 2\FinalProject\PCBuilder\DataAccess\bin\Debug\BusinessObjects.pdb
+F:\FinalProject\PCBuilder\DataAccess\bin\Debug\DataAccess.dll
+F:\FinalProject\PCBuilder\DataAccess\bin\Debug\DataAccess.pdb
+F:\FinalProject\PCBuilder\DataAccess\bin\Debug\BusinessObjects.dll
+F:\FinalProject\PCBuilder\DataAccess\bin\Debug\BusinessObjects.pdb
+F:\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.dll
+F:\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.pdb
+E:\NET 3\FinalProject\PCBuilder\DataAccess\bin\Debug\DataAccess.dll
+E:\NET 3\FinalProject\PCBuilder\DataAccess\bin\Debug\DataAccess.pdb
+E:\NET 3\FinalProject\PCBuilder\DataAccess\bin\Debug\BusinessObjects.dll
+E:\NET 3\FinalProject\PCBuilder\DataAccess\bin\Debug\BusinessObjects.pdb
+E:\NET 3\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\NET 3\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.dll
+E:\NET 3\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.pdb
+E:\FinalProject\PCBuilder\DataAccess\bin\Debug\DataAccess.dll
+E:\FinalProject\PCBuilder\DataAccess\bin\Debug\DataAccess.pdb
+E:\FinalProject\PCBuilder\DataAccess\bin\Debug\BusinessObjects.dll
+E:\FinalProject\PCBuilder\DataAccess\bin\Debug\BusinessObjects.pdb
+E:\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.dll
+E:\FinalProject\PCBuilder\DataAccess\obj\Debug\DataAccess.pdb

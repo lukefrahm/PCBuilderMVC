@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_standardized_office" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::StandardizedOffice</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_office_1a876e1cef05ce7970cea72c3024e741a9" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref></type>
+        <definition>CPU BusinessObjects.StandardizedOffice.cpu</definition>
+        <argsstring></argsstring>
+        <name>cpu</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_office_1a8c1ba029d6692555303c6b10f554d99e" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref></type>
+        <definition>GPU BusinessObjects.StandardizedOffice.gpu</definition>
+        <argsstring></argsstring>
+        <name>gpu</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_office_1ad8acd1cf58d29f974d2a15ad307f5df6" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref></type>
+        <definition>Motherboard BusinessObjects.StandardizedOffice.motherboard</definition>
+        <argsstring></argsstring>
+        <name>motherboard</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_office_1a646489f3cc42a5da7bbe2046974c9503" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref></type>
+        <definition>Optical BusinessObjects.StandardizedOffice.optical</definition>
+        <argsstring></argsstring>
+        <name>optical</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_office_1af2b97a03ea3591cfcb8504582dd4b212" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref></type>
+        <definition>PSU BusinessObjects.StandardizedOffice.psu</definition>
+        <argsstring></argsstring>
+        <name>psu</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_office_1aa24c6fe7f07e06dca1f0db7b75df63dc" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref></type>
+        <definition>RAM BusinessObjects.StandardizedOffice.ram</definition>
+        <argsstring></argsstring>
+        <name>ram</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_office_1a3887a99840e85d5691b1c1715592bcd6" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref></type>
+        <definition>Storage BusinessObjects.StandardizedOffice.storage</definition>
+        <argsstring></argsstring>
+        <name>storage</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_objects_1_1_standardized_office_1a275dde86acedc53982daf7aef92e934a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.StandardizedOffice.StandardizedOffice</definition>
+        <argsstring>()</argsstring>
+        <name>StandardizedOffice</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_standardized_office" kindref="compound">StandardizedOffice</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para>Default values are entered into the object at time of instantiation. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" bodystart="31" bodyend="60"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Build object to hold necessary data on a Office Use build. </para>    </briefdescription>
+    <detaileddescription>
+<para>This is used as a contingency build if user requests are far too outlandish to create an acceptable build. </para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="299">
+        <label>BusinessObjects.Optical</label>
+        <link refid="class_business_objects_1_1_optical"/>
+      </node>
+      <node id="297">
+        <label>BusinessObjects.PSU</label>
+        <link refid="class_business_objects_1_1_p_s_u"/>
+      </node>
+      <node id="295">
+        <label>BusinessObjects.StandardizedOffice</label>
+        <link refid="class_business_objects_1_1_standardized_office"/>
+        <childnode refid="296" relation="usage">
+          <edgelabel>gpu</edgelabel>
+        </childnode>
+        <childnode refid="297" relation="usage">
+          <edgelabel>psu</edgelabel>
+        </childnode>
+        <childnode refid="298" relation="usage">
+          <edgelabel>storage</edgelabel>
+        </childnode>
+        <childnode refid="299" relation="usage">
+          <edgelabel>optical</edgelabel>
+        </childnode>
+        <childnode refid="300" relation="usage">
+          <edgelabel>cpu</edgelabel>
+        </childnode>
+        <childnode refid="301" relation="usage">
+          <edgelabel>ram</edgelabel>
+        </childnode>
+        <childnode refid="302" relation="usage">
+          <edgelabel>motherboard</edgelabel>
+        </childnode>
+      </node>
+      <node id="301">
+        <label>BusinessObjects.RAM</label>
+        <link refid="class_business_objects_1_1_r_a_m"/>
+      </node>
+      <node id="298">
+        <label>BusinessObjects.Storage</label>
+        <link refid="class_business_objects_1_1_storage"/>
+      </node>
+      <node id="302">
+        <label>BusinessObjects.Motherboard</label>
+        <link refid="class_business_objects_1_1_motherboard"/>
+      </node>
+      <node id="296">
+        <label>BusinessObjects.GPU</label>
+        <link refid="class_business_objects_1_1_g_p_u"/>
+      </node>
+      <node id="300">
+        <label>BusinessObjects.CPU</label>
+        <link refid="class_business_objects_1_1_c_p_u"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedOffice.cs" bodystart="15" bodyend="61"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_standardized_office_1a876e1cef05ce7970cea72c3024e741a9" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedOffice</scope><name>cpu</name></member>
+      <member refid="class_business_objects_1_1_standardized_office_1a8c1ba029d6692555303c6b10f554d99e" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedOffice</scope><name>gpu</name></member>
+      <member refid="class_business_objects_1_1_standardized_office_1ad8acd1cf58d29f974d2a15ad307f5df6" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedOffice</scope><name>motherboard</name></member>
+      <member refid="class_business_objects_1_1_standardized_office_1a646489f3cc42a5da7bbe2046974c9503" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedOffice</scope><name>optical</name></member>
+      <member refid="class_business_objects_1_1_standardized_office_1af2b97a03ea3591cfcb8504582dd4b212" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedOffice</scope><name>psu</name></member>
+      <member refid="class_business_objects_1_1_standardized_office_1aa24c6fe7f07e06dca1f0db7b75df63dc" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedOffice</scope><name>ram</name></member>
+      <member refid="class_business_objects_1_1_standardized_office_1a275dde86acedc53982daf7aef92e934a" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedOffice</scope><name>StandardizedOffice</name></member>
+      <member refid="class_business_objects_1_1_standardized_office_1a3887a99840e85d5691b1c1715592bcd6" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedOffice</scope><name>storage</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

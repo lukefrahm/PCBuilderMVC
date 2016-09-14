@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespaces__2_8js" kind="file" language="Javascript">
+    <compoundname>namespaces_2.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="namespaces__2_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;controllers&apos;,[&apos;Controllers&apos;,[&apos;../namespace_p_c_builder_m_v_c_1_1_controllers.html&apos;,1,&apos;PCBuilderMVC&apos;]]],
+  [&apos;migrations&apos;,[&apos;Migrations&apos;,[&apos;../namespace_p_c_builder_m_v_c_1_1_migrations.html&apos;,1,&apos;PCBuilderMVC&apos;]]],
+  [&apos;models&apos;,[&apos;Models&apos;,[&apos;../namespace_p_c_builder_m_v_c_1_1_models.html&apos;,1,&apos;PCBuilderMVC&apos;]]],
+  [&apos;pcbuilderforms&apos;,[&apos;PCBuilderForms&apos;,[&apos;../namespace_p_c_builder_forms.html&apos;,1,&apos;&apos;]]],
+  [&apos;pcbuildermvc&apos;,[&apos;PCBuilderMVC&apos;,[&apos;../namespace_p_c_builder_m_v_c.html&apos;,1,&apos;&apos;]]],
+  [&apos;properties&apos;,[&apos;Properties&apos;,[&apos;../namespace_p_c_builder_forms_1_1_properties.html&apos;,1,&apos;PCBuilderForms&apos;]]]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/namespaces_2.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/namespaces_2.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;controllers&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Controllers&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../namespace_p_c_builder_m_v_c_1_1_controllers.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;migrations&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Migrations&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../namespace_p_c_builder_m_v_c_1_1_migrations.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;models&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Models&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../namespace_p_c_builder_m_v_c_1_1_models.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;pcbuilderforms&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;PCBuilderForms&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../namespace_p_c_builder_forms.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;pcbuildermvc&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;PCBuilderMVC&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../namespace_p_c_builder_m_v_c.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;properties&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Properties&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../namespace_p_c_builder_forms_1_1_properties.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderForms&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="9"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/namespaces_2.js"/>
+  </compounddef>
+</doxygen>

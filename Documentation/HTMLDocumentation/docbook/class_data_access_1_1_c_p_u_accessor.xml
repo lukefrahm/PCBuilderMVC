@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_data_access_1_1_c_p_u_accessor">
+<title>DataAccess::CPUAccessor class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_business_objects_1_1_c_p_u">CPU</link> <link linkend="class_data_access_1_1_c_p_u_accessor_1a92d43c1a282b8bbaf39e48514f9a54e7">RetrieveCPUByName</link> (
+string name)<para><emphasis>&lt;summary&gt;
+Retrieves a CPU by name.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_c_p_u">CPU</link> &gt; <link linkend="class_data_access_1_1_c_p_u_accessor_1a07c977d60ddb3c98a6de06c2b74f3129">RetrieveCPUsByCoreCount</link> (
+int cores)<para><emphasis>&lt;summary&gt;
+Retrieves CPUs by core count.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_c_p_u_accessor_1a3bdc9307783a16d68413e856e2be24ee">InsertCpu</link> (
+<link linkend="class_business_objects_1_1_c_p_u">CPU</link> cpu)<para><emphasis>&lt;summary&gt;
+Inserts a new CPU.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_c_p_u">CPU</link> &gt; <link linkend="class_data_access_1_1_c_p_u_accessor_1af33b1affd73312b1cad5637dd2f66aec">RetrieveAllCPU</link> (
+)<para><emphasis>&lt;summary&gt;
+Retrieves all CPUs.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>CPU accessor to communicate with database on CPU objects. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 16 of file CPUAccessor.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>CPUAccessor.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_data_access_1_1_c_p_u_accessor_1a92d43c1a282b8bbaf39e48514f9a54e7">
+                <title>static CPU DataAccess.CPUAccessor.RetrieveCPUByName (string name)</title> <emphasis>&lt;summary&gt;
+Retrieves a CPU by name.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>name</entry>
+                                <entry>
+<para>The name.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>CPU object.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_c_p_u_accessor_1a07c977d60ddb3c98a6de06c2b74f3129">
+                <title>static List&lt;CPU&gt; DataAccess.CPUAccessor.RetrieveCPUsByCoreCount (int cores)</title> <emphasis>&lt;summary&gt;
+Retrieves CPUs by core count.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>cores</entry>
+                                <entry>
+<para>The cores.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>List of CPU objects.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_c_p_u_accessor_1a3bdc9307783a16d68413e856e2be24ee">
+                <title>static int DataAccess.CPUAccessor.InsertCpu (CPU cpu)</title> <emphasis>&lt;summary&gt;
+Inserts a new CPU.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>cpu</entry>
+                                <entry>
+<para>The cpu.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Count of rows affected.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_c_p_u_accessor_1af33b1affd73312b1cad5637dd2f66aec">
+                <title>static List&lt;CPU&gt; DataAccess.CPUAccessor.RetrieveAllCPU ()</title> <emphasis>&lt;summary&gt;
+Retrieves all CPUs.
+&lt;/summary&gt;</emphasis>
+                
+<para><formalpara><title>Returns: </title>
+
+<para>Lsit of CPU objects.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

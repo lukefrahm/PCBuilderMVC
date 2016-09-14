@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_application_user_manager" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::ApplicationUserManager</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">UserManager&lt; ApplicationUser &gt;</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_application_user_manager_1af4a41b30be1457d972406354e95fb945" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderMVC.ApplicationUserManager.ApplicationUserManager</definition>
+        <argsstring>(IUserStore&lt; ApplicationUser &gt; store)</argsstring>
+        <name>ApplicationUserManager</name>
+        <param>
+          <type>IUserStore&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+          <declname>store</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_p_c_builder_m_v_c_1_1_application_user_manager" kindref="compound">ApplicationUserManager</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>store</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The store.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" bodystart="22" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_application_user_manager_1abf2e4bf064febf08f995528ce52545b5" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_p_c_builder_m_v_c_1_1_application_user_manager" kindref="compound">ApplicationUserManager</ref></type>
+        <definition>static ApplicationUserManager PCBuilderMVC.ApplicationUserManager.Create</definition>
+        <argsstring>(IdentityFactoryOptions&lt; ApplicationUserManager &gt; options, IOwinContext context)</argsstring>
+        <name>Create</name>
+        <param>
+          <type>IdentityFactoryOptions&lt; <ref refid="class_p_c_builder_m_v_c_1_1_application_user_manager" kindref="compound">ApplicationUserManager</ref> &gt;</type>
+          <declname>options</declname>
+        </param>
+        <param>
+          <type>IOwinContext</type>
+          <declname>context</declname>
+        </param>
+        <briefdescription>
+<para>Creates the specified options. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>options</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The options.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>context</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The context.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" line="33" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" bodystart="33" bodyend="70"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>User manager for the MVC project. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>Microsoft.AspNet.Identity.UserManager&lt;PCBuilderMVC.Models.ApplicationUser&gt;</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="28">
+        <label>PCBuilderMVC.ApplicationUserManager</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_application_user_manager"/>
+        <childnode refid="29" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="29">
+        <label>UserManager&lt; ApplicationUser &gt;</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="30">
+        <label>PCBuilderMVC.ApplicationUserManager</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_application_user_manager"/>
+        <childnode refid="31" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="31">
+        <label>UserManager&lt; ApplicationUser &gt;</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" bodystart="16" bodyend="71"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_application_user_manager_1af4a41b30be1457d972406354e95fb945" prot="public" virt="non-virtual"><scope>PCBuilderMVC::ApplicationUserManager</scope><name>ApplicationUserManager</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_application_user_manager_1abf2e4bf064febf08f995528ce52545b5" prot="public" virt="non-virtual"><scope>PCBuilderMVC::ApplicationUserManager</scope><name>Create</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

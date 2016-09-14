@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="all__6_8js" kind="file" language="Javascript">
+    <compoundname>all_6.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="all__6_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;getusercount&apos;,[&apos;GetUserCount&apos;,[&apos;../class_business_logic_1_1_user_manager.html#a65be32ae93f260d00fc7d259470d8869&apos;,1,&apos;<ref refid="class_business_logic_1_1_user_manager" kindref="compound">BusinessLogic::UserManager</ref>&apos;]]],
+  [&apos;getuserlist&apos;,[&apos;GetUserList&apos;,[&apos;../class_business_logic_1_1_user_manager.html#a3056179e2041b2022e1a28356188c288&apos;,1,&apos;<ref refid="class_business_logic_1_1_user_manager" kindref="compound">BusinessLogic::UserManager</ref>&apos;]]],
+  [&apos;gpu&apos;,[&apos;GPU&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html&apos;,1,&apos;PCBuilderMVC::Models&apos;]]],
+  [&apos;gpu&apos;,[&apos;GPU&apos;,[&apos;../class_business_objects_1_1_g_p_u.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;gpu&apos;,[&apos;GPU&apos;,[&apos;../class_business_objects_1_1_g_p_u.html#ab773228207f38d564b424c819a4fc9c8&apos;,1,&apos;<ref refid="class_business_objects_1_1_g_p_u_1ab773228207f38d564b424c819a4fc9c8" kindref="member">BusinessObjects.GPU.GPU</ref>()&apos;],[&apos;../class_business_objects_1_1_g_p_u.html#a444248551f8e905f4e5cbfa1e6f9b90a&apos;,1,&apos;<ref refid="class_business_objects_1_1_g_p_u_1ab773228207f38d564b424c819a4fc9c8" kindref="member">BusinessObjects.GPU.GPU</ref>(int gpuId, string brand, string model, double clockSpeed, string productLineName, int benchmarkScore, string bestUse, int gpuRamSize, int pciPinConnector1, int pciPinConnector2, int pciPinConnector3, int powerRequirement, char gpuLength, decimal price)&apos;]]],
+  [&apos;gpuaccessor&apos;,[&apos;GPUAccessor&apos;,[&apos;../class_data_access_1_1_g_p_u_accessor.html&apos;,1,&apos;DataAccess&apos;]]],
+  [&apos;gpucontroller&apos;,[&apos;GPUController&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller.html&apos;,1,&apos;PCBuilderMVC::Controllers&apos;]]]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/all_6.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/all_6.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;getusercount&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;GetUserCount&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_logic_1_1_user_manager.html#a65be32ae93f260d00fc7d259470d8869&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessLogic::UserManager&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;getuserlist&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;GetUserList&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_logic_1_1_user_manager.html#a3056179e2041b2022e1a28356188c288&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessLogic::UserManager&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;gpu&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;GPU&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Models&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;gpu&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;GPU&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_g_p_u.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;gpu&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;GPU&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_g_p_u.html#ab773228207f38d564b424c819a4fc9c8&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects.GPU.GPU()&apos;</highlight><highlight class="normal">],[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_g_p_u.html#a444248551f8e905f4e5cbfa1e6f9b90a&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects.GPU.GPU(int<sp/>gpuId,<sp/>string<sp/>brand,<sp/>string<sp/>model,<sp/>double<sp/>clockSpeed,<sp/>string<sp/>productLineName,<sp/>int<sp/>benchmarkScore,<sp/>string<sp/>bestUse,<sp/>int<sp/>gpuRamSize,<sp/>int<sp/>pciPinConnector1,<sp/>int<sp/>pciPinConnector2,<sp/>int<sp/>pciPinConnector3,<sp/>int<sp/>powerRequirement,<sp/>char<sp/>gpuLength,<sp/>decimal<sp/>price)&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;gpuaccessor&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;GPUAccessor&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_data_access_1_1_g_p_u_accessor.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;DataAccess&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;gpucontroller&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;GPUController&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Controllers&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="10"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/all_6.js"/>
+  </compounddef>
+</doxygen>

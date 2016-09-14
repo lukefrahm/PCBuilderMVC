@@ -1,0 +1,129 @@
+﻿@model IEnumerable<PCBuilderMVC.Models.Motherboard>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Socket)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Chipset)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MaxRam)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RamType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FormFactor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SataPorts)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.M2Slots)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PowerPhases)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FanHeaders)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pcie16)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pcie8)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pcie4)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pcie1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pci)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Brand)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Socket)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Chipset)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaxRam)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RamType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FormFactor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SataPorts)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.M2Slots)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PowerPhases)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FanHeaders)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pcie16)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pcie8)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pcie4)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pcie1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pci)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MotherboardId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MotherboardId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MotherboardId })
+        </td>
+    </tr>
+}
+
+</table>

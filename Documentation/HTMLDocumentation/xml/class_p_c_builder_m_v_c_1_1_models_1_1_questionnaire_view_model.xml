@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::QuestionnaireViewModel</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a2ca6d2fc71c00f9a77f162cbe7c084d0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.QuestionnaireViewModel.QuestionnaireID</definition>
+        <argsstring></argsstring>
+        <name>QuestionnaireID</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a4bedcd064364f202d8a2d5d9ec4ad6a6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double PCBuilderMVC.Models.QuestionnaireViewModel.SldPerformance</definition>
+        <argsstring></argsstring>
+        <name>SldPerformance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1affb40ef1694e3b61546bb35cfeb6ed0c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.ChkUseBasic</definition>
+        <argsstring></argsstring>
+        <name>ChkUseBasic</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a5a157217cc776e9c17be75f4dcdb8915" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.ChkUseVideoEdit</definition>
+        <argsstring></argsstring>
+        <name>ChkUseVideoEdit</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a74f78c83a3dbf044be5c80e671db02ee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.ChkUseGaming</definition>
+        <argsstring></argsstring>
+        <name>ChkUseGaming</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1afa7d31ee7dcd56d2b7f3af974d13aa6c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.ChkUseDevelopment</definition>
+        <argsstring></argsstring>
+        <name>ChkUseDevelopment</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a46418236ff45261aaea18f0de4864b58" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.ChkUseOfficeModerate</definition>
+        <argsstring></argsstring>
+        <name>ChkUseOfficeModerate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a17693cd771556575474d4c48dcfee451" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadResolution720</definition>
+        <argsstring></argsstring>
+        <name>RadResolution720</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ac327459cd6eb65e0d66d11f56ad74468" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadResolution1080</definition>
+        <argsstring></argsstring>
+        <name>RadResolution1080</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="33" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ae3ab4a567c9dddc2b4fe61646d88aa69" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadResolution4k</definition>
+        <argsstring></argsstring>
+        <name>RadResolution4k</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="35" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a82fcc4bfbd85ad43a803284a5e750073" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double PCBuilderMVC.Models.QuestionnaireViewModel.SldNumMonitors</definition>
+        <argsstring></argsstring>
+        <name>SldNumMonitors</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="38" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a06e4aec643119d0086c9914702e27b6b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double PCBuilderMVC.Models.QuestionnaireViewModel.SldStorageSize</definition>
+        <argsstring></argsstring>
+        <name>SldStorageSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="41" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ae9df1707550a49953f683306a42957bf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadSSD</definition>
+        <argsstring></argsstring>
+        <name>RadSSD</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ad826c381449e829360f4c8da58dcb71b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadHDD</definition>
+        <argsstring></argsstring>
+        <name>RadHDD</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="45" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a1487a6a0bdd5b559bd6a9da22a86f511" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadRAMRecommended</definition>
+        <argsstring></argsstring>
+        <name>RadRAMRecommended</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="47" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a397f9c6f5f7cab2f1c8189f48e0268f6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadRAMSelectManual</definition>
+        <argsstring></argsstring>
+        <name>RadRAMSelectManual</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="49" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a50764409cb3868440a2307b1f7fd9cc5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double PCBuilderMVC.Models.QuestionnaireViewModel.SldRamSize</definition>
+        <argsstring></argsstring>
+        <name>SldRamSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="52" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ab0435aa502937dcb6d844a1119130caa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double PCBuilderMVC.Models.QuestionnaireViewModel.SldNumCores</definition>
+        <argsstring></argsstring>
+        <name>SldNumCores</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="55" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a6438be7b30ffcd5ab438bc0924483954" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadCaseSizeFull</definition>
+        <argsstring></argsstring>
+        <name>RadCaseSizeFull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="57" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1afe07cae3aef0618c540bd72ea0f15629" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadCaseSizeMid</definition>
+        <argsstring></argsstring>
+        <name>RadCaseSizeMid</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="59" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a9169ecb8e0fca99b61a77cfd54c014d4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadCaseSizeMicro</definition>
+        <argsstring></argsstring>
+        <name>RadCaseSizeMicro</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="61" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a6278957c903b9d623a7a302990598eae" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadCaseSizeMini</definition>
+        <argsstring></argsstring>
+        <name>RadCaseSizeMini</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="63" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1afcda97a0d2e050f266f1fd4a946e8ad3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadCaseSizeConsole</definition>
+        <argsstring></argsstring>
+        <name>RadCaseSizeConsole</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="65" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ac2a515a19d207e3d1666bfebe953a967" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadBRBurner</definition>
+        <argsstring></argsstring>
+        <name>RadBRBurner</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="67" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a6324f7e025eec3b14c30810b6596ef75" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadBRReader</definition>
+        <argsstring></argsstring>
+        <name>RadBRReader</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="69" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a42ac2abc179dba71b68df2c885ec749e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadDVDBurner</definition>
+        <argsstring></argsstring>
+        <name>RadDVDBurner</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="71" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a42f2bebe0e28900096f66be47bd558fc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.QuestionnaireViewModel.RadOpticalNone</definition>
+        <argsstring></argsstring>
+        <name>RadOpticalNone</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="73" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="73" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Questionnaire view model class. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/QuestionnaireViewModel.cs" bodystart="13" bodyend="74"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1affb40ef1694e3b61546bb35cfeb6ed0c" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>ChkUseBasic</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1afa7d31ee7dcd56d2b7f3af974d13aa6c" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>ChkUseDevelopment</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a74f78c83a3dbf044be5c80e671db02ee" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>ChkUseGaming</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a46418236ff45261aaea18f0de4864b58" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>ChkUseOfficeModerate</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a5a157217cc776e9c17be75f4dcdb8915" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>ChkUseVideoEdit</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a2ca6d2fc71c00f9a77f162cbe7c084d0" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>QuestionnaireID</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ac2a515a19d207e3d1666bfebe953a967" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadBRBurner</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a6324f7e025eec3b14c30810b6596ef75" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadBRReader</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1afcda97a0d2e050f266f1fd4a946e8ad3" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadCaseSizeConsole</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a6438be7b30ffcd5ab438bc0924483954" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadCaseSizeFull</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a9169ecb8e0fca99b61a77cfd54c014d4" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadCaseSizeMicro</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1afe07cae3aef0618c540bd72ea0f15629" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadCaseSizeMid</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a6278957c903b9d623a7a302990598eae" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadCaseSizeMini</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a42ac2abc179dba71b68df2c885ec749e" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadDVDBurner</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ad826c381449e829360f4c8da58dcb71b" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadHDD</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a42f2bebe0e28900096f66be47bd558fc" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadOpticalNone</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a1487a6a0bdd5b559bd6a9da22a86f511" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadRAMRecommended</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a397f9c6f5f7cab2f1c8189f48e0268f6" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadRAMSelectManual</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ac327459cd6eb65e0d66d11f56ad74468" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadResolution1080</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ae3ab4a567c9dddc2b4fe61646d88aa69" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadResolution4k</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a17693cd771556575474d4c48dcfee451" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadResolution720</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ae9df1707550a49953f683306a42957bf" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>RadSSD</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1ab0435aa502937dcb6d844a1119130caa" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>SldNumCores</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a82fcc4bfbd85ad43a803284a5e750073" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>SldNumMonitors</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a4bedcd064364f202d8a2d5d9ec4ad6a6" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>SldPerformance</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a50764409cb3868440a2307b1f7fd9cc5" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>SldRamSize</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model_1a06e4aec643119d0086c9914702e27b6b" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::QuestionnaireViewModel</scope><name>SldStorageSize</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_startup">
+<title>PCBuilderMVC::Startup class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_m_v_c_1_1_startup_1a0815b20f969548d7c06f8b286977f14c">ConfigureAuth</link> (
+IAppBuilder app)<para><emphasis>&lt;summary&gt;
+Configures the authentication.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_m_v_c_1_1_startup_1a2d4fede3c2151fced1c6ac02dbd12cdd">Configuration</link> (
+IAppBuilder app)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>The startup class for MVC. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><link linkend="class_p_c_builder_m_v_c_1_1_startup">Startup</link> configuration class. </para>
+                <para>Definition at line 18 of file Startup.Auth.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>Startup.Auth.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_startup_1a0815b20f969548d7c06f8b286977f14c">
+                <title>void PCBuilderMVC.Startup.ConfigureAuth (IAppBuilder app)</title> <emphasis>&lt;summary&gt;
+Configures the authentication.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>app</entry>
+                                <entry>
+<para>The application.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_startup_1a2d4fede3c2151fced1c6ac02dbd12cdd">
+                <title>void PCBuilderMVC.Startup.Configuration (IAppBuilder app)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

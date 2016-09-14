@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__asp__net__user_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__asp__net__user_8js_1a447101f6e0f7e84a2f170af2620fe565" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user</name>
+        <initializer>=
+[
+    [ &quot;AccessFailedCount&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#acbe8b92a84b0a9483fd62a43aa81e7ea&quot;, null ],
+    [ &quot;Email&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a4cc78fad14702a22cdac76ec509a0027&quot;, null ],
+    [ &quot;EmailConfirmed&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a25e057f79a8f118f0f3aedbd4f814100&quot;, null ],
+    [ &quot;Id&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a90fbe4981800475e56eaa613862f24e1&quot;, null ],
+    [ &quot;LockoutEnabled&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a205da1a1c47d449f791a9f05fbc8044e&quot;, null ],
+    [ &quot;LockoutEndDateUtc&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#aa8e0aaa81edecad42a0d095964e23858&quot;, null ],
+    [ &quot;PasswordHash&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a8c7f19af5fd87f87a9de0bbf0cad70b4&quot;, null ],
+    [ &quot;PhoneNumber&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#ac7c0f6805d8b63e8abd8f65974a61e6a&quot;, null ],
+    [ &quot;PhoneNumberConfirmed&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a568b46a09dfeed9358947aa86918b436&quot;, null ],
+    [ &quot;SecurityStamp&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a4ce9973b3197d4df7afceb114de1ed02&quot;, null ],
+    [ &quot;TwoFactorEnabled&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a110b3fe4ae21ec55c2de2f0a9060a45f&quot;, null ],
+    [ &quot;UserName&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a4938afd6ca34794d77b6c5b7d7bea67a&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AccessFailedCount&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#acbe8b92a84b0a9483fd62a43aa81e7ea&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Email&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a4cc78fad14702a22cdac76ec509a0027&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;EmailConfirmed&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a25e057f79a8f118f0f3aedbd4f814100&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Id&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a90fbe4981800475e56eaa613862f24e1&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;LockoutEnabled&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a205da1a1c47d449f791a9f05fbc8044e&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;LockoutEndDateUtc&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#aa8e0aaa81edecad42a0d095964e23858&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PasswordHash&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a8c7f19af5fd87f87a9de0bbf0cad70b4&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PhoneNumber&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#ac7c0f6805d8b63e8abd8f65974a61e6a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PhoneNumberConfirmed&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a568b46a09dfeed9358947aa86918b436&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;SecurityStamp&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a4ce9973b3197d4df7afceb114de1ed02&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;TwoFactorEnabled&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a110b3fe4ae21ec55c2de2f0a9060a45f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.html#a4938afd6ca34794d77b6c5b7d7bea67a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="15"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user.js"/>
+  </compounddef>
+</doxygen>

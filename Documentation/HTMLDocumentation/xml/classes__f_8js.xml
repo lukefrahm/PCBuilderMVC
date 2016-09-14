@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="classes__f_8js" kind="file" language="Javascript">
+    <compoundname>classes_f.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="classes__f_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;securitymanager&apos;,[&apos;SecurityManager&apos;,[&apos;../class_business_logic_1_1_security_manager.html&apos;,1,&apos;BusinessLogic&apos;]]],
+  [&apos;smsservice&apos;,[&apos;SmsService&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_sms_service.html&apos;,1,&apos;PCBuilderMVC&apos;]]],
+  [&apos;standardizedbasic&apos;,[&apos;StandardizedBasic&apos;,[&apos;../class_business_objects_1_1_standardized_basic.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;standardizeddevelopment&apos;,[&apos;StandardizedDevelopment&apos;,[&apos;../class_business_objects_1_1_standardized_development.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;standardizedgaming&apos;,[&apos;StandardizedGaming&apos;,[&apos;../class_business_objects_1_1_standardized_gaming.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;standardizedoffice&apos;,[&apos;StandardizedOffice&apos;,[&apos;../class_business_objects_1_1_standardized_office.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;standardizedvideoediting&apos;,[&apos;StandardizedVideoEditing&apos;,[&apos;../class_business_objects_1_1_standardized_video_editing.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;startup&apos;,[&apos;Startup&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_startup.html&apos;,1,&apos;PCBuilderMVC&apos;]]],
+  [&apos;storage&apos;,[&apos;Storage&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_storage.html&apos;,1,&apos;PCBuilderMVC::Models&apos;]]],
+  [&apos;storage&apos;,[&apos;Storage&apos;,[&apos;../class_business_objects_1_1_storage.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;storageaccessor&apos;,[&apos;StorageAccessor&apos;,[&apos;../class_data_access_1_1_storage_accessor.html&apos;,1,&apos;DataAccess&apos;]]],
+  [&apos;storagecontroller&apos;,[&apos;StorageController&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller.html&apos;,1,&apos;PCBuilderMVC::Controllers&apos;]]]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/classes_f.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/classes_f.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;securitymanager&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;SecurityManager&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_logic_1_1_security_manager.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessLogic&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;smsservice&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;SmsService&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_sms_service.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;standardizedbasic&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;StandardizedBasic&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_standardized_basic.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;standardizeddevelopment&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;StandardizedDevelopment&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_standardized_development.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;standardizedgaming&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;StandardizedGaming&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_standardized_gaming.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;standardizedoffice&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;StandardizedOffice&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_standardized_office.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;standardizedvideoediting&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;StandardizedVideoEditing&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_standardized_video_editing.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;startup&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Startup&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_startup.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;storage&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Storage&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_models_1_1_storage.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Models&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;storage&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Storage&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_storage.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;storageaccessor&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;StorageAccessor&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_data_access_1_1_storage_accessor.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;DataAccess&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;storagecontroller&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;StorageController&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Controllers&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="15"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/classes_f.js"/>
+  </compounddef>
+</doxygen>

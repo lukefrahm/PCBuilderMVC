@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_p_c_builder_m_v_c_2_scripts_2jquery_8validate_8unobtrusive_8js">
+    <title>jquery.validate.unobtrusive.js File Reference</title>
+        <section>
+            <title>Functions</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="_p_c_builder_m_v_c_2_scripts_2jquery_8validate_8unobtrusive_8js_1a8ec801e1076fb7c968ab5814031eeb4a">setValidationValues</link> (
+options , ruleName , value )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="_p_c_builder_m_v_c_2_scripts_2jquery_8validate_8unobtrusive_8js_1ae8b65fcf53d868b5efa72181c8fe5288">splitAndTrim</link> (
+value )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="_p_c_builder_m_v_c_2_scripts_2jquery_8validate_8unobtrusive_8js_1a98cdc4f24ad7542eb2cfc2d5a5710b07">escapeAttributeValue</link> (
+value )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/jquery.validate.unobtrusive.js</para>
+    </simplesect>
+</section>

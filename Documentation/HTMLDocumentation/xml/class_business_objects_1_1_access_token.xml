@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_access_token" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::AccessToken</compoundname>
+    <basecompoundref refid="class_business_objects_1_1_user" prot="public" virt="non-virtual">BusinessObjects.User</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_business_objects_1_1_access_token_1a5d5c41760baf531cf54bc15680357c6c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="yes" protectedsettable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_roles" kindref="compound">Roles</ref> &gt;</type>
+        <definition>List&lt;Roles&gt; BusinessObjects.AccessToken.Roles</definition>
+        <argsstring></argsstring>
+        <name>Roles</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/AccessToken.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/AccessToken.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_objects_1_1_access_token_1a0db5c344cbe742041a0200d686df4dfe" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.AccessToken.AccessToken</definition>
+        <argsstring>(User user, List&lt; Roles &gt; roles)</argsstring>
+        <name>AccessToken</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_user" kindref="compound">User</ref></type>
+          <declname>user</declname>
+        </param>
+        <param>
+          <type>List&lt; <ref refid="class_business_objects_1_1_roles" kindref="compound">Roles</ref> &gt;</type>
+          <declname>roles</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_access_token" kindref="compound">AccessToken</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>user</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The user.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>roles</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The roles assigned to the user.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Invalid <ref refid="class_business_objects_1_1_user" kindref="compound">User</ref>.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/AccessToken.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/AccessToken.cs" bodystart="23" bodyend="38"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_business_objects_1_1_access_token" kindref="compound">AccessToken</ref> object to hold necessary data on the user&apos;s authentication and role status. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_business_objects_1_1_user" kindref="compound">BusinessObjects.User</ref></para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>User</label>
+        <link refid="class_business_objects_1_1_user"/>
+      </node>
+      <node id="0">
+        <label>BusinessObjects.AccessToken</label>
+        <link refid="class_business_objects_1_1_access_token"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>User</label>
+        <link refid="class_business_objects_1_1_user"/>
+      </node>
+      <node id="2">
+        <label>BusinessObjects.AccessToken</label>
+        <link refid="class_business_objects_1_1_access_token"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/AccessToken.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/AccessToken.cs" bodystart="13" bodyend="39"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_access_token_1a0db5c344cbe742041a0200d686df4dfe" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>AccessToken</name></member>
+      <member refid="class_business_objects_1_1_user_1aa87073276abad34a1a39176a19fcabc3" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>Active</name></member>
+      <member refid="class_business_objects_1_1_user_1a17dfee1c4b7764be920621670ac50453" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>Address</name></member>
+      <member refid="class_business_objects_1_1_user_1a659b7c0249dc08fc62020a5a861cb428" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>City</name></member>
+      <member refid="class_business_objects_1_1_user_1a41f5ad9be3a1dbc01343ffaf71315580" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>EmailAddress</name></member>
+      <member refid="class_business_objects_1_1_user_1a8206fa75c9fa7057103011bf5379ffc5" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>FirstName</name></member>
+      <member refid="class_business_objects_1_1_user_1af5ae131f690a317df575f57e445a7493" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>LastName</name></member>
+      <member refid="class_business_objects_1_1_user_1af8541ccaa5d8ea7bd9a9b2ef4be98628" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>LocalPhone</name></member>
+      <member refid="class_business_objects_1_1_user_1abec2ef8d60373887ab9d14219edb41e2" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>Password</name></member>
+      <member refid="class_business_objects_1_1_user_1a6e004323033c69f0d9bfd1d5daf7317f" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>Role</name></member>
+      <member refid="class_business_objects_1_1_access_token_1a5d5c41760baf531cf54bc15680357c6c" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>Roles</name></member>
+      <member refid="class_business_objects_1_1_user_1aaa0f17d23d58f8ad772ab57415737950" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>State</name></member>
+      <member refid="class_business_objects_1_1_user_1a8fa01831c4b8e4e9d0a9fb6e93b5e2f9" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>User</name></member>
+      <member refid="class_business_objects_1_1_user_1a6a7967d96c26864fb41b03069500eb46" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>User</name></member>
+      <member refid="class_business_objects_1_1_user_1a0d59552a8aa6580afe57ab02c3c58f9d" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>UserID</name></member>
+      <member refid="class_business_objects_1_1_user_1a3b67463b53401175403f5d992aa0412c" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>UserName</name></member>
+      <member refid="class_business_objects_1_1_user_1aff33b3f3de04d0bca2d45846e82795a3" prot="public" virt="non-virtual"><scope>BusinessObjects::AccessToken</scope><name>Zip</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

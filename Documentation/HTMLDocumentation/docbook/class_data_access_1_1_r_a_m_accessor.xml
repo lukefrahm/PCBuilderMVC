@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_data_access_1_1_r_a_m_accessor">
+<title>DataAccess::RAMAccessor class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_business_objects_1_1_r_a_m">RAM</link> <link linkend="class_data_access_1_1_r_a_m_accessor_1a903aeb4e4272d308ea264e966e5094fd">RetrieveRAMByName</link> (
+string name)<para><emphasis>&lt;summary&gt;
+Retrieves RAM objects by name.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_r_a_m">RAM</link> &gt; <link linkend="class_data_access_1_1_r_a_m_accessor_1a7c82934381a0762e5a6701f395304047">RetrieveRAMsByRamSize</link> (
+int size)<para><emphasis>&lt;summary&gt;
+Retrieves a lsit of RAM by size..
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_r_a_m_accessor_1ae5528c3e8a6b429cc9dcdd93bdea0455">InsertRam</link> (
+<link linkend="class_business_objects_1_1_r_a_m">RAM</link> ram)<para><emphasis>&lt;summary&gt;
+Inserts a new RAM object.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_r_a_m">RAM</link> &gt; <link linkend="class_data_access_1_1_r_a_m_accessor_1a46250ae0e09eac9ad659efd9969bdbd3">RetrieveAllRAM</link> (
+)<para><emphasis>&lt;summary&gt;
+Retrieves all ram.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>RAM accessor to communicate with database on RAM objects. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 16 of file RAMAccessor.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>RAMAccessor.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_data_access_1_1_r_a_m_accessor_1a903aeb4e4272d308ea264e966e5094fd">
+                <title>static RAM DataAccess.RAMAccessor.RetrieveRAMByName (string name)</title> <emphasis>&lt;summary&gt;
+Retrieves RAM objects by name.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>name</entry>
+                                <entry>
+<para>The name.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>RAM object.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_r_a_m_accessor_1a7c82934381a0762e5a6701f395304047">
+                <title>static List&lt;RAM&gt; DataAccess.RAMAccessor.RetrieveRAMsByRamSize (int size)</title> <emphasis>&lt;summary&gt;
+Retrieves a lsit of RAM by size..
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>size</entry>
+                                <entry>
+<para>The size.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Lsit of RAM.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_r_a_m_accessor_1ae5528c3e8a6b429cc9dcdd93bdea0455">
+                <title>static int DataAccess.RAMAccessor.InsertRam (RAM ram)</title> <emphasis>&lt;summary&gt;
+Inserts a new RAM object.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>ram</entry>
+                                <entry>
+<para>The ram.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Count of records affected.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_r_a_m_accessor_1a46250ae0e09eac9ad659efd9969bdbd3">
+                <title>static List&lt;RAM&gt; DataAccess.RAMAccessor.RetrieveAllRAM ()</title> <emphasis>&lt;summary&gt;
+Retrieves all ram.
+&lt;/summary&gt;</emphasis>
+                
+<para><formalpara><title>Returns: </title>
+
+<para>List of RAM.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

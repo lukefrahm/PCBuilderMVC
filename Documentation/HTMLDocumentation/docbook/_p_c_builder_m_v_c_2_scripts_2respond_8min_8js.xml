@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js">
+    <title>respond.min.js File Reference</title>
+        <section>
+            <title>Variables</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a05c09a5e9d53fa7adf0a7936038c2fa3">this</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1aa4d4888597588a84fd5b1184d00c91f3">a</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1abce695e0af988ece0826d9ad59b8160d">c</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>a <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a9997c75bd5f535000b1f1694f2d910ee">respond</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>a c <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a142fa848153aad029e08d479f6362d80">update</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1aeb337d295abaddb5ec3cb34cc2e2bbc9">d</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1ab5902775854a8b8440bcd25e0fe1c120">e</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a9cf09a2972472098a4c689fd988f4dfc">f</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>findStyles <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1aaba83fbacc88fb0b95d31f2ee02788bf">__pad0__</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>findStyles <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a2174be31dfda10d6840a95fec477b47a">only</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>findStyles <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a7a158773f9e9369674e843a8212e5e49">minw</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>findStyles <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a5149f9215d2d057c5f0988a9ce22ce62">maxw</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>findStyles c <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a267099c57bfab51002b6bea08fe197b5">mediaQueriesSupported</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>c c <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a9327e80981b3e6a408cb1dc1857cf769">getEmValue</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Functions</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1afaeef3a1a07af568051b656bbbffec25">!function</link> (
+a )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a7c192e47b11481e4717b9f1e04eb4420">b</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1afa3ec8a9778bbe50f214115a86f67d42">if</link> (
+c. ajax, c. queue)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="_p_c_builder_m_v_c_2_scripts_2respond_8min_8js_1a53cb90387f7423f6a0fb9ece3493d9f8">x</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.min.js</para>
+    </simplesect>
+</section>

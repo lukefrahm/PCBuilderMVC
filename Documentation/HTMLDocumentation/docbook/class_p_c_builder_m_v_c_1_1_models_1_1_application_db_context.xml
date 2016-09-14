@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context">
+<title>PCBuilderMVC::Models::ApplicationDbContext class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1acc03c97fcfb51332c54f89ecd3bd0aba">ApplicationDbContext</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context">ApplicationDbContext</link> <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1a87e83c7a94db34abb35a1e6d7df4c6e3">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Database connection for <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_user">User</link> model. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>Microsoft.AspNet.Identity.EntityFramework.IdentityDbContext&lt;PCBuilderMVC.Models.ApplicationUser&gt;</para>
+</formalpara>
+</para>
+                <para>Definition at line 29 of file IdentityModels.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>IdentityModels.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1acc03c97fcfb51332c54f89ecd3bd0aba">
+                <title>PCBuilderMVC.Models.ApplicationDbContext.ApplicationDbContext ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_application_db_context_1a87e83c7a94db34abb35a1e6d7df4c6e3">
+                <title>static ApplicationDbContext PCBuilderMVC.Models.ApplicationDbContext.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+</section>

@@ -1,0 +1,109 @@
+﻿<Window x:Class="PCBuilderForms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:rv="clr-namespace:Microsoft.Reporting.WinForms;assembly=Microsoft.ReportViewer.WinForms"
+        Title="MainWindow" Height="330" Width="525" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="162*"/>
+            <ColumnDefinition Width="355*"/>
+        </Grid.ColumnDefinitions>
+        <DockPanel LastChildFill="True" Grid.ColumnSpan="2">
+            <Menu DockPanel.Dock="Top" Height="Auto">
+                <MenuItem Header="_File">
+                    <MenuItem Name="mnuExit" Header="E_xit" Click="mnuExit_Click" />
+                </MenuItem>
+            </Menu>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Name="lblLoginMessage" Grid.Column="0" HorizontalAlignment="Right" Content="You are not currently logged in"/>
+                    <Button Name="btnLogin" Grid.Column="1" Content="Log In" Padding="10 0 10 0" Margin="10 0 2 0" Click="btnLogin_Click" Height="26" VerticalAlignment="Top" />
+                </Grid>
+                <TabControl Grid.Row="1">
+                    <TabItem x:Name="tabBuildAPC" Header="Build A PC">
+                        <Grid>
+                            <Label Content="Click below to create a PC!"/>
+                            <Label Content="Note: The builds presented by this application are estimates of costs only. Prices can and will" Margin="0,30,0,0" />
+                            <Label Content="fluctuate, sometimes by quite a bit. This application is designed to help build an appropriate" Margin="0,45,0,0" />
+                            <Label Content="computer tailored to your personal needs." Margin="0,60,0,0" />
+                            <Button Name="btnQuestionnaire" Content="Build a PC!" Click="btnQuestionnaire_Click" Height="25" Width="100" Margin="0,75,0,0" />
+                        </Grid>
+                    </TabItem>
+                    <TabItem x:Name="tabBuildOutput" Header="PC Builder Results" IsEnabled="False">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="85"/>
+                                <ColumnDefinition Width="345*"/>
+                                <ColumnDefinition Width="345*"/>
+                                <ColumnDefinition Width="345*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Content="COMPONENT:" Margin="0,0,0,0" HorizontalAlignment="Center"/>
+                            <Label Content="CPU:" Margin="0,20,0,0"/>
+                            <Label Content="GPU:" Margin="0,40,0,0"/>
+                            <Label Content="Motherboard:" Margin="0,60,0,0"/>
+                            <Label Content="Optical Drive:" Margin="0,80,0,0"/>
+                            <Label Content="PSU:" Margin="0,100,0,0"/>
+                            <Label Content="RAM:" Margin="0,120,0,0"/>
+                            <Label Content="Storage:" Margin="0,140,0,0"/>
+                            <Label Content="TOTAL PRICE:" Margin="0,160,0,0" Grid.ColumnSpan="3" HorizontalAlignment="Center"/>
+
+                            <Label Content="MANUFACTURER:" Margin="0,0,0,0" Grid.Column="1" HorizontalAlignment="Center"/>
+                            <Label Name="lblCpuBrand" Content="" Margin="0,20,0,0" Grid.Column="1"/>
+                            <Label Name="lblGpuBrand" Content="" Margin="0,40,0,0" Grid.Column="1"/>
+                            <Label Name="lblMotherboardBrand" Content="" Margin="0,60,0,0" Grid.Column="1"/>
+                            <Label Name="lblOpticalBrand" Content="" Margin="0,80,0,0" Grid.Column="1"/>
+                            <Label Name="lblPsuBrand" Content="" Margin="0,100,0,0" Grid.Column="1"/>
+                            <Label Name="lblRamBrand" Content="" Margin="0,120,0,0" Grid.Column="1"/>
+                            <Label Name="lblStorageBrand" Content="" Margin="0,140,0,0" Grid.Column="1"/>
+
+                            <Label Content="MODEL:" Margin="0,0,0,0" Grid.Column="2" HorizontalAlignment="Center"/>
+                            <Label Name="lblCpuModel" Content="" Margin="0,20,0,0" Grid.Column="2"/>
+                            <Label Name="lblGpuModel" Content="" Margin="0,40,0,0" Grid.Column="2"/>
+                            <Label Name="lblMotherboardModel" Content="" Margin="0,60,0,0" Grid.Column="2"/>
+                            <Label Name="lblOpticalModel" Content="" Margin="0,80,0,0" Grid.Column="2"/>
+                            <Label Name="lblPsuModel" Content="" Margin="0,100,0,0" Grid.Column="2"/>
+                            <Label Name="lblRamModel" Content="" Margin="0,120,0,0" Grid.Column="2"/>
+                            <Label Name="lblStorageModel" Content="" Margin="0,140,0,0" Grid.Column="2"/>
+
+                            <Label Content="PRICE:" Margin="0,0,0,0" Grid.Column="3" HorizontalAlignment="Center"/>
+                            <Label Name="lblCPUPrice" Content="" Margin="0,20,0,0" Grid.Column="3"/>
+                            <Label Name="lblGPUPrice" Content="" Margin="0,40,0,0" Grid.Column="3"/>
+                            <Label Name="lblMotherboardPrice" Content="" Margin="0,60,0,0" Grid.Column="3"/>
+                            <Label Name="lblOpticalPrice" Content="" Margin="0,80,0,0" Grid.Column="3"/>
+                            <Label Name="lblPSUPrice" Content="" Margin="0,100,0,0" Grid.Column="3"/>
+                            <Label Name="lblRAMPrice" Content="" Margin="0,120,0,0" Grid.Column="3"/>
+                            <Label Name="lblStoragePrice" Content="" Margin="0,140,0,0" Grid.Column="3"/>
+                            <Label Name="lblTotalPrice" Content="" Margin="0,160,0,0" Grid.Column="3"/>
+                        </Grid>
+                    </TabItem>
+                    <TabItem x:Name="tabAdmin" Header="Administration" IsEnabled="False">
+                        <Grid>
+                            <Label Content="Administrative tools:"/>
+                            <Button Name="btnAddUser" Content="Add User" Height="25" Width="120" Margin="10,0,377,0" />
+                            <Button Name="btnDeleteUser" Content="Delete User" Height="25" Width="120" Margin="377,0,10,0" />
+                            <Button Name="btnUpdateUser" Content="Update User" Height="25" Width="120" Margin="194,0,193,0" />
+                            <Button Name="btnAddComponent" Content="Add Component" Height="25" Width="120" Margin="194,100,193,0" />
+                            <Button Name="btnRemoveComponent" Content="Remove Component" Height="25" Width="120" Margin="10,100,377,0" />
+                        </Grid>
+                    </TabItem>
+                </TabControl>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Name="lblStatusMessage" Grid.Column="0" Content="You are not currently logged in"/>
+                </Grid>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_application_user" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::ApplicationUser</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IdentityUser</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_models_1_1_application_user_1a1958c9bf9604c202bc00ed69dd0425e4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; ClaimsIdentity &gt;</type>
+        <definition>async Task&lt;ClaimsIdentity&gt; PCBuilderMVC.Models.ApplicationUser.GenerateUserIdentityAsync</definition>
+        <argsstring>(UserManager&lt; ApplicationUser &gt; manager)</argsstring>
+        <name>GenerateUserIdentityAsync</name>
+        <param>
+          <type>UserManager&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+          <declname>manager</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" bodystart="15" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Application user model. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>Microsoft.AspNet.Identity.EntityFramework.IdentityUser</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="25">
+        <label>IdentityUser</label>
+      </node>
+      <node id="24">
+        <label>PCBuilderMVC.Models.ApplicationUser</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_user"/>
+        <childnode refid="25" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="27">
+        <label>IdentityUser</label>
+      </node>
+      <node id="26">
+        <label>PCBuilderMVC.Models.ApplicationUser</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_user"/>
+        <childnode refid="27" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/IdentityModels.cs" bodystart="13" bodyend="22"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_application_user_1a1958c9bf9604c202bc00ed69dd0425e4" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::ApplicationUser</scope><name>GenerateUserIdentityAsync</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

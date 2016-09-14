@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_c3c2cc507a9391592d659f6ac09c397c" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.2.2.3</compoundname>
+    <innerdir refid="dir_17a5b287e8525cfbda50037fae27628e">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.2.2.3/Content</innerdir>
+    <innerdir refid="dir_b35fca1c8966c2f55fcfa3760df38bab">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.2.2.3/Tools</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.2.2.3/"/>
+  </compounddef>
+</doxygen>

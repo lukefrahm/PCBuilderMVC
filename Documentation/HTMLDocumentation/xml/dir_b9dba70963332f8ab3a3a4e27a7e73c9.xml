@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_b9dba70963332f8ab3a3a4e27a7e73c9" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages</compoundname>
+    <innerdir refid="dir_1194c36832d672816adb6bd5fb52082f">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/bootstrap.3.3.6</innerdir>
+    <innerdir refid="dir_c3c2cc507a9391592d659f6ac09c397c">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.2.2.3</innerdir>
+    <innerdir refid="dir_f3eda8f2b1dfc06f4c2f57921cd23af3">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.Validation.1.15.0</innerdir>
+    <innerdir refid="dir_c6ee80b852a5552a3f930d2da77ddd5b">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3</innerdir>
+    <innerdir refid="dir_04da84c709a60a2889714073b0e9d7f6">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Modernizr.2.8.3</innerdir>
+    <innerdir refid="dir_621087c1d8fe095ad0b02e9cc1bec968">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Respond.1.4.2</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/"/>
+  </compounddef>
+</doxygen>

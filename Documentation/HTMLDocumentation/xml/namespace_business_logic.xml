@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace_business_logic" kind="namespace" language="C#">
+    <compoundname>BusinessLogic</compoundname>
+    <innerclass refid="class_business_logic_1_1_build_processor" prot="public">BusinessLogic::BuildProcessor</innerclass>
+    <innerclass refid="class_business_logic_1_1_hash_methods" prot="public">BusinessLogic::HashMethods</innerclass>
+    <innerclass refid="interface_business_logic_1_1_i_build_processor" prot="public">BusinessLogic::IBuildProcessor</innerclass>
+    <innerclass refid="class_business_logic_1_1_security_manager" prot="public">BusinessLogic::SecurityManager</innerclass>
+    <innerclass refid="class_business_logic_1_1_user_manager" prot="public">BusinessLogic::UserManager</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="10" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_c_p_u" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::CPU</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1a70a9588363dcc4cb7f13d17f5027a151" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.CPU.CpuId</definition>
+        <argsstring></argsstring>
+        <name>CpuId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1a3bd156aa06e6fabfc82b4c0ac700f669" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.CPU.Brand</definition>
+        <argsstring></argsstring>
+        <name>Brand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1adf6f65c8a4722dd2b6bc9c834a0efc83" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.CPU.Model</definition>
+        <argsstring></argsstring>
+        <name>Model</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1a6b71708968098064617860d9c37caaf3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.CPU.Cores</definition>
+        <argsstring></argsstring>
+        <name>Cores</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1af77e1c12c179b8411f5516eb62173df8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.CPU.HyperThreaded</definition>
+        <argsstring></argsstring>
+        <name>HyperThreaded</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1a0c502313085374d20bce7c97b2635616" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.CPU.ClockSpeed</definition>
+        <argsstring></argsstring>
+        <name>ClockSpeed</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1a57c5e303abfa3d05ea6e54732184f355" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.CPU.Unlocked</definition>
+        <argsstring></argsstring>
+        <name>Unlocked</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1a183b5db42a6e13f85502bc1c1b5eb400" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.CPU.Socket</definition>
+        <argsstring></argsstring>
+        <name>Socket</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="26" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1a662d917f4e92682ed35625440e339ae9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.CPU.ProductLineName</definition>
+        <argsstring></argsstring>
+        <name>ProductLineName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1a6e97a16652352aee41163bb01b3bf205" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.CPU.BenchmarkScore</definition>
+        <argsstring></argsstring>
+        <name>BenchmarkScore</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1a17391b50d5f3e059feccfa16d8535388" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.CPU.BestUse</definition>
+        <argsstring></argsstring>
+        <name>BestUse</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1acca2b421cc92cd56df0545c193f6724c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.CPU.PowerRequirement</definition>
+        <argsstring></argsstring>
+        <name>PowerRequirement</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_c_p_u_1ac7f66e5df1a12f80d76f06fd969dc35e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal BusinessObjects.CPU.Price</definition>
+        <argsstring></argsstring>
+        <name>Price</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_objects_1_1_c_p_u_1add17fa319f02b438c60fddf8e0d6a787" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.CPU.CPU</definition>
+        <argsstring>()</argsstring>
+        <name>CPU</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="36" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="36" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_objects_1_1_c_p_u_1a13061cd0fcc98d43aa1d2c2cc63a836f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.CPU.CPU</definition>
+        <argsstring>(int cpuId, string brand, string model, int cores, bool hyperThreaded, double clockSpeed, bool unlocked, string socket, string productLineName, int benchmarkScore, string bestUse, int powerRequirement, decimal price)</argsstring>
+        <name>CPU</name>
+        <param>
+          <type>int</type>
+          <declname>cpuId</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>brand</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>model</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>cores</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>hyperThreaded</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>clockSpeed</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>unlocked</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>socket</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>productLineName</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>benchmarkScore</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>bestUse</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>powerRequirement</declname>
+        </param>
+        <param>
+          <type>decimal</type>
+          <declname>price</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>cpuId</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The cpu identifier.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>brand</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The brand.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>model</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The model.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>cores</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The core count.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>hyperThreaded</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [hyper threaded].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>clockSpeed</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The clock speed.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>unlocked</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [unlocked].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>socket</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The socket.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>productLineName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Name of the product line.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>benchmarkScore</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The benchmark score.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>bestUse</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The best use case.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>powerRequirement</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The power requirement.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>price</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="54" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="54" bodyend="81"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref> object to hold necessary data on the <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref>. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/CPU.cs" bodystart="17" bodyend="82"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_c_p_u_1a6e97a16652352aee41163bb01b3bf205" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>BenchmarkScore</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1a17391b50d5f3e059feccfa16d8535388" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>BestUse</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1a3bd156aa06e6fabfc82b4c0ac700f669" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>Brand</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1a0c502313085374d20bce7c97b2635616" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>ClockSpeed</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1a6b71708968098064617860d9c37caaf3" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>Cores</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1add17fa319f02b438c60fddf8e0d6a787" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>CPU</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1a13061cd0fcc98d43aa1d2c2cc63a836f" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>CPU</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1a70a9588363dcc4cb7f13d17f5027a151" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>CpuId</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1af77e1c12c179b8411f5516eb62173df8" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>HyperThreaded</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1adf6f65c8a4722dd2b6bc9c834a0efc83" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>Model</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1acca2b421cc92cd56df0545c193f6724c" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>PowerRequirement</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1ac7f66e5df1a12f80d76f06fd969dc35e" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>Price</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1a662d917f4e92682ed35625440e339ae9" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>ProductLineName</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1a183b5db42a6e13f85502bc1c1b5eb400" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>Socket</name></member>
+      <member refid="class_business_objects_1_1_c_p_u_1a57c5e303abfa3d05ea6e54732184f355" prot="public" virt="non-virtual"><scope>BusinessObjects::CPU</scope><name>Unlocked</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

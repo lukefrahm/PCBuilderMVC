@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_roles" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::Roles</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_business_objects_1_1_roles_1ac3d92844ec99b3c5d19117a5d110c1fd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.Roles.Role</definition>
+        <argsstring></argsstring>
+        <name>Role</name>
+        <briefdescription>
+<para>Gets or sets the role. </para>        </briefdescription>
+        <detaileddescription>
+<para>The role. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Roles.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Roles.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Role class that holds a role property. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Roles.cs" line="13" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Roles.cs" bodystart="12" bodyend="21"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_roles_1ac3d92844ec99b3c5d19117a5d110c1fd" prot="public" virt="non-virtual"><scope>BusinessObjects::Roles</scope><name>Role</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__finalized__build_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_finalized_build.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__finalized__build_8js_1a7ee66b4a5b1ce783bba7beba79e8ab10" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_finalized_build</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_finalized_build</name>
+        <initializer>=
+[
+    [ &quot;FinalizedBuild&quot;, &quot;class_business_objects_1_1_finalized_build.html#a5e7af45a663b29b74366c76d4f9acdbc&quot;, null ],
+    [ &quot;cpu&quot;, &quot;class_business_objects_1_1_finalized_build.html#ae99616079a7d77c7b200e56ed5f79bfb&quot;, null ],
+    [ &quot;gpu&quot;, &quot;class_business_objects_1_1_finalized_build.html#ac6b02cd77a904d513acdb3325d85834f&quot;, null ],
+    [ &quot;message&quot;, &quot;class_business_objects_1_1_finalized_build.html#a1ed63e51a762aefe3c317f3ecdaa76bc&quot;, null ],
+    [ &quot;motherboard&quot;, &quot;class_business_objects_1_1_finalized_build.html#a06906090f97bc2be76860e2f7923ed51&quot;, null ],
+    [ &quot;optical&quot;, &quot;class_business_objects_1_1_finalized_build.html#af31b3d75c327650de30a205dad72cd48&quot;, null ],
+    [ &quot;psu&quot;, &quot;class_business_objects_1_1_finalized_build.html#adb806fcb56478097c2d20713a68cbb9b&quot;, null ],
+    [ &quot;ram&quot;, &quot;class_business_objects_1_1_finalized_build.html#aa42a33c04fa96a9a031f7548d7b985be&quot;, null ],
+    [ &quot;storage&quot;, &quot;class_business_objects_1_1_finalized_build.html#ad75506558cd55bf2dd96e8cfa6cb59b9&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_finalized_build.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_finalized_build.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_finalized_build<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FinalizedBuild&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build.html#a5e7af45a663b29b74366c76d4f9acdbc&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;cpu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build.html#ae99616079a7d77c7b200e56ed5f79bfb&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;gpu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build.html#ac6b02cd77a904d513acdb3325d85834f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;message&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build.html#a1ed63e51a762aefe3c317f3ecdaa76bc&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;motherboard&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build.html#a06906090f97bc2be76860e2f7923ed51&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;optical&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build.html#af31b3d75c327650de30a205dad72cd48&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;psu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build.html#adb806fcb56478097c2d20713a68cbb9b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ram&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build.html#aa42a33c04fa96a9a031f7548d7b985be&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;storage&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_finalized_build.html#ad75506558cd55bf2dd96e8cfa6cb59b9&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="12"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_finalized_build.js"/>
+  </compounddef>
+</doxygen>

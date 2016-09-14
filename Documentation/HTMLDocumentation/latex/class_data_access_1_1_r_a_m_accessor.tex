@@ -1,0 +1,137 @@
+\hypertarget{class_data_access_1_1_r_a_m_accessor}{}\section{Data\+Access.\+R\+A\+M\+Accessor Class Reference}
+\label{class_data_access_1_1_r_a_m_accessor}\index{Data\+Access.\+R\+A\+M\+Accessor@{Data\+Access.\+R\+A\+M\+Accessor}}
+
+
+R\+AM accessor to communicate with database on R\+AM objects.  
+
+
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \hyperlink{class_business_objects_1_1_r_a_m}{R\+AM} \hyperlink{class_data_access_1_1_r_a_m_accessor_a903aeb4e4272d308ea264e966e5094fd}{Retrieve\+R\+A\+M\+By\+Name} (string name)
+\begin{DoxyCompactList}\small\item\em Retrieves R\+AM objects by name. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_r_a_m}{R\+AM} $>$ \hyperlink{class_data_access_1_1_r_a_m_accessor_a7c82934381a0762e5a6701f395304047}{Retrieve\+R\+A\+Ms\+By\+Ram\+Size} (int size)
+\begin{DoxyCompactList}\small\item\em Retrieves a lsit of R\+AM by size.. \end{DoxyCompactList}\item 
+static int \hyperlink{class_data_access_1_1_r_a_m_accessor_ae5528c3e8a6b429cc9dcdd93bdea0455}{Insert\+Ram} (\hyperlink{class_business_objects_1_1_r_a_m}{R\+AM} ram)
+\begin{DoxyCompactList}\small\item\em Inserts a new R\+AM object. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_r_a_m}{R\+AM} $>$ \hyperlink{class_data_access_1_1_r_a_m_accessor_a46250ae0e09eac9ad659efd9969bdbd3}{Retrieve\+All\+R\+AM} ()
+\begin{DoxyCompactList}\small\item\em Retrieves all ram. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+R\+AM accessor to communicate with database on R\+AM objects. 
+
+
+
+Definition at line 15 of file R\+A\+M\+Accessor.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\index{Data\+Access\+::\+R\+A\+M\+Accessor@{Data\+Access\+::\+R\+A\+M\+Accessor}!Insert\+Ram@{Insert\+Ram}}
+\index{Insert\+Ram@{Insert\+Ram}!Data\+Access\+::\+R\+A\+M\+Accessor@{Data\+Access\+::\+R\+A\+M\+Accessor}}
+\subsubsection[{\texorpdfstring{Insert\+Ram(\+R\+A\+M ram)}{InsertRam(RAM ram)}}]{\setlength{\rightskip}{0pt plus 5cm}static int Data\+Access.\+R\+A\+M\+Accessor.\+Insert\+Ram (
+\begin{DoxyParamCaption}
+\item[{{\bf R\+AM}}]{ram}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_r_a_m_accessor_ae5528c3e8a6b429cc9dcdd93bdea0455}{}\label{class_data_access_1_1_r_a_m_accessor_ae5528c3e8a6b429cc9dcdd93bdea0455}
+
+
+Inserts a new R\+AM object. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em ram} & The ram.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Count of records affected.
+\end{DoxyReturn}
+
+
+Definition at line 129 of file R\+A\+M\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+R\+A\+M\+Accessor@{Data\+Access\+::\+R\+A\+M\+Accessor}!Retrieve\+All\+R\+AM@{Retrieve\+All\+R\+AM}}
+\index{Retrieve\+All\+R\+AM@{Retrieve\+All\+R\+AM}!Data\+Access\+::\+R\+A\+M\+Accessor@{Data\+Access\+::\+R\+A\+M\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+All\+R\+A\+M()}{RetrieveAllRAM()}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf R\+AM}$>$ Data\+Access.\+R\+A\+M\+Accessor.\+Retrieve\+All\+R\+AM (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_r_a_m_accessor_a46250ae0e09eac9ad659efd9969bdbd3}{}\label{class_data_access_1_1_r_a_m_accessor_a46250ae0e09eac9ad659efd9969bdbd3}
+
+
+Retrieves all ram. 
+
+\begin{DoxyReturn}{Returns}
+List of R\+AM.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found.\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 170 of file R\+A\+M\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+R\+A\+M\+Accessor@{Data\+Access\+::\+R\+A\+M\+Accessor}!Retrieve\+R\+A\+M\+By\+Name@{Retrieve\+R\+A\+M\+By\+Name}}
+\index{Retrieve\+R\+A\+M\+By\+Name@{Retrieve\+R\+A\+M\+By\+Name}!Data\+Access\+::\+R\+A\+M\+Accessor@{Data\+Access\+::\+R\+A\+M\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+R\+A\+M\+By\+Name(string name)}{RetrieveRAMByName(string name)}}]{\setlength{\rightskip}{0pt plus 5cm}static {\bf R\+AM} Data\+Access.\+R\+A\+M\+Accessor.\+Retrieve\+R\+A\+M\+By\+Name (
+\begin{DoxyParamCaption}
+\item[{string}]{name}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_r_a_m_accessor_a903aeb4e4272d308ea264e966e5094fd}{}\label{class_data_access_1_1_r_a_m_accessor_a903aeb4e4272d308ea264e966e5094fd}
+
+
+Retrieves R\+AM objects by name. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & The name.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+R\+AM object.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 23 of file R\+A\+M\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+R\+A\+M\+Accessor@{Data\+Access\+::\+R\+A\+M\+Accessor}!Retrieve\+R\+A\+Ms\+By\+Ram\+Size@{Retrieve\+R\+A\+Ms\+By\+Ram\+Size}}
+\index{Retrieve\+R\+A\+Ms\+By\+Ram\+Size@{Retrieve\+R\+A\+Ms\+By\+Ram\+Size}!Data\+Access\+::\+R\+A\+M\+Accessor@{Data\+Access\+::\+R\+A\+M\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+R\+A\+Ms\+By\+Ram\+Size(int size)}{RetrieveRAMsByRamSize(int size)}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf R\+AM}$>$ Data\+Access.\+R\+A\+M\+Accessor.\+Retrieve\+R\+A\+Ms\+By\+Ram\+Size (
+\begin{DoxyParamCaption}
+\item[{int}]{size}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_r_a_m_accessor_a7c82934381a0762e5a6701f395304047}{}\label{class_data_access_1_1_r_a_m_accessor_a7c82934381a0762e5a6701f395304047}
+
+
+Retrieves a lsit of R\+AM by size.. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em size} & The size.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Lsit of R\+AM.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 76 of file R\+A\+M\+Accessor.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/nh228u08/\+Desktop/\+Final\+Project/\+Final\+Project/\+P\+C\+Builder/\+Data\+Access/R\+A\+M\+Accessor.\+cs\end{DoxyCompactItemize}

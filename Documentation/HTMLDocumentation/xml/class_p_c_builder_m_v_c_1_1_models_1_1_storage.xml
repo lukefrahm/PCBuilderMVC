@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_storage" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::Storage</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a3cc8dc183a416bd6f252aa4cd15db0e0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Storage.StorageId</definition>
+        <argsstring></argsstring>
+        <name>StorageId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a49ebbbd5fb7b705bc2a4503ac33f3c7d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Storage.Brand</definition>
+        <argsstring></argsstring>
+        <name>Brand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1aec673b76572617deb16dfb6752004928" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Storage.Model</definition>
+        <argsstring></argsstring>
+        <name>Model</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a3d1b7129b9e0c68c5e91e8055df26351" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Storage.StorageSize</definition>
+        <argsstring></argsstring>
+        <name>StorageSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1aee536ea2fd0c7014a62787e4b5352f40" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Storage.StorageType</definition>
+        <argsstring></argsstring>
+        <name>StorageType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a7927325e6f2f464997df7b04788c4394" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Storage.BenchmarkScore</definition>
+        <argsstring></argsstring>
+        <name>BenchmarkScore</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a66ab1caf6e81cea34154f0f6074c8cbe" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Storage.StorageSequentialRead</definition>
+        <argsstring></argsstring>
+        <name>StorageSequentialRead</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="33" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a5dfe0284cd01b4548f240298478a754c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Storage.StorageSequentialWrite</definition>
+        <argsstring></argsstring>
+        <name>StorageSequentialWrite</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="35" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1aa097ba2657bf393c664f862e2c278f96" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Storage.StorageRandomRead</definition>
+        <argsstring></argsstring>
+        <name>StorageRandomRead</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="37" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1ab0945b4749ea867f08cee8892ca95ed2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.Storage.StorageRandomWrite</definition>
+        <argsstring></argsstring>
+        <name>StorageRandomWrite</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="39" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a1ed2c9dd74b62b8f5f4dc131d64ae5a6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.Storage.BestUse</definition>
+        <argsstring></argsstring>
+        <name>BestUse</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a8efbc41dd54fe3d3c1eab85bc5884fcd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal PCBuilderMVC.Models.Storage.Price</definition>
+        <argsstring></argsstring>
+        <name>Price</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="45" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage" kindref="compound">Storage</ref> view model class. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Storage.cs" bodystart="13" bodyend="46"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a7927325e6f2f464997df7b04788c4394" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>BenchmarkScore</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a1ed2c9dd74b62b8f5f4dc131d64ae5a6" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>BestUse</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a49ebbbd5fb7b705bc2a4503ac33f3c7d" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>Brand</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1aec673b76572617deb16dfb6752004928" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>Model</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a8efbc41dd54fe3d3c1eab85bc5884fcd" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>Price</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a3cc8dc183a416bd6f252aa4cd15db0e0" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>StorageId</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1aa097ba2657bf393c664f862e2c278f96" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>StorageRandomRead</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1ab0945b4749ea867f08cee8892ca95ed2" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>StorageRandomWrite</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a66ab1caf6e81cea34154f0f6074c8cbe" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>StorageSequentialRead</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a5dfe0284cd01b4548f240298478a754c" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>StorageSequentialWrite</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1a3d1b7129b9e0c68c5e91e8055df26351" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>StorageSize</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage_1aee536ea2fd0c7014a62787e4b5352f40" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::Storage</scope><name>StorageType</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

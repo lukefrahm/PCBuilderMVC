@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_data_access_1_1_r_a_m_accessor" kind="class" language="C#" prot="public">
+    <compoundname>DataAccess::RAMAccessor</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_data_access_1_1_r_a_m_accessor_1a903aeb4e4272d308ea264e966e5094fd" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref></type>
+        <definition>static RAM DataAccess.RAMAccessor.RetrieveRAMByName</definition>
+        <argsstring>(string name)</argsstring>
+        <name>RetrieveRAMByName</name>
+        <param>
+          <type>string</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves RAM objects by name. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>RAM object.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/RAMAccessor.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/RAMAccessor.cs" bodystart="23" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_r_a_m_accessor_1a7c82934381a0762e5a6701f395304047" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref> &gt;</type>
+        <definition>static List&lt;RAM&gt; DataAccess.RAMAccessor.RetrieveRAMsByRamSize</definition>
+        <argsstring>(int size)</argsstring>
+        <name>RetrieveRAMsByRamSize</name>
+        <param>
+          <type>int</type>
+          <declname>size</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a lsit of RAM by size.. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>size</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The size.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Lsit of RAM.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/RAMAccessor.cs" line="76" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/RAMAccessor.cs" bodystart="76" bodyend="122"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_r_a_m_accessor_1ae5528c3e8a6b429cc9dcdd93bdea0455" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.RAMAccessor.InsertRam</definition>
+        <argsstring>(RAM ram)</argsstring>
+        <name>InsertRam</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref></type>
+          <declname>ram</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a new RAM object. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>ram</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The ram.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of records affected.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/RAMAccessor.cs" line="129" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/RAMAccessor.cs" bodystart="129" bodyend="163"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_r_a_m_accessor_1a46250ae0e09eac9ad659efd9969bdbd3" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref> &gt;</type>
+        <definition>static List&lt;RAM&gt; DataAccess.RAMAccessor.RetrieveAllRAM</definition>
+        <argsstring>()</argsstring>
+        <name>RetrieveAllRAM</name>
+        <briefdescription>
+<para>Retrieves all ram. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>List of RAM.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/RAMAccessor.cs" line="170" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/RAMAccessor.cs" bodystart="170" bodyend="214"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>RAM accessor to communicate with database on RAM objects. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/RAMAccessor.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/RAMAccessor.cs" bodystart="15" bodyend="215"/>
+    <listofallmembers>
+      <member refid="class_data_access_1_1_r_a_m_accessor_1ae5528c3e8a6b429cc9dcdd93bdea0455" prot="public" virt="non-virtual"><scope>DataAccess::RAMAccessor</scope><name>InsertRam</name></member>
+      <member refid="class_data_access_1_1_r_a_m_accessor_1a46250ae0e09eac9ad659efd9969bdbd3" prot="public" virt="non-virtual"><scope>DataAccess::RAMAccessor</scope><name>RetrieveAllRAM</name></member>
+      <member refid="class_data_access_1_1_r_a_m_accessor_1a903aeb4e4272d308ea264e966e5094fd" prot="public" virt="non-virtual"><scope>DataAccess::RAMAccessor</scope><name>RetrieveRAMByName</name></member>
+      <member refid="class_data_access_1_1_r_a_m_accessor_1a7c82934381a0762e5a6701f395304047" prot="public" virt="non-virtual"><scope>DataAccess::RAMAccessor</scope><name>RetrieveRAMsByRamSize</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

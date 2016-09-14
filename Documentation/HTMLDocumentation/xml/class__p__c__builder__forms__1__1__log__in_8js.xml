@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__forms__1__1__log__in_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_forms_1_1_log_in.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__forms__1__1__log__in_8js_1a0b8d694a85d480b12e95086a806a955b" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_forms_1_1_log_in</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_forms_1_1_log_in</name>
+        <initializer>=
+[
+    [ &quot;LogIn&quot;, &quot;class_p_c_builder_forms_1_1_log_in.html#a6a3ae2b82b608bdcdd99070a94e3a7c0&quot;, null ],
+    [ &quot;InitializeComponent&quot;, &quot;class_p_c_builder_forms_1_1_log_in.html#ae0b7f84ba6cfe669a10e079fda5ab05d&quot;, null ],
+    [ &quot;InitializeComponent&quot;, &quot;class_p_c_builder_forms_1_1_log_in.html#ae0b7f84ba6cfe669a10e079fda5ab05d&quot;, null ],
+    [ &quot;_accessToken&quot;, &quot;class_p_c_builder_forms_1_1_log_in.html#a14d70ed974c56e1a0b92cc3c7b9f23da&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_forms_1_1_log_in.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_forms_1_1_log_in.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_forms_1_1_log_in<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;LogIn&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_forms_1_1_log_in.html#a6a3ae2b82b608bdcdd99070a94e3a7c0&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;InitializeComponent&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_forms_1_1_log_in.html#ae0b7f84ba6cfe669a10e079fda5ab05d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;InitializeComponent&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_forms_1_1_log_in.html#ae0b7f84ba6cfe669a10e079fda5ab05d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;_accessToken&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_forms_1_1_log_in.html#a14d70ed974c56e1a0b92cc3c7b9f23da&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="7"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_forms_1_1_log_in.js"/>
+  </compounddef>
+</doxygen>

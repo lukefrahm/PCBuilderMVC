@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_data_access_1_1_motherboard_accessor" kind="class" language="C#" prot="public">
+    <compoundname>DataAccess::MotherboardAccessor</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_data_access_1_1_motherboard_accessor_1ad37526e07fc9b4e31ebe7c00948a0ce6" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref></type>
+        <definition>static Motherboard DataAccess.MotherboardAccessor.RetrieveMotherboardByName</definition>
+        <argsstring>(string name)</argsstring>
+        <name>RetrieveMotherboardByName</name>
+        <param>
+          <type>string</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a motherboard by name. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Motherboard object.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/MotherboardAccessor.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/MotherboardAccessor.cs" bodystart="23" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_motherboard_accessor_1af11568bcfecf3d6d5223838a5e449f7a" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref> &gt;</type>
+        <definition>static List&lt;Motherboard&gt; DataAccess.MotherboardAccessor.RetrieveMotherboardsBySocket</definition>
+        <argsstring>(string socket)</argsstring>
+        <name>RetrieveMotherboardsBySocket</name>
+        <param>
+          <type>string</type>
+          <declname>socket</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves list of motherboards by socket. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>socket</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The socket.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>List of motherboards</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/MotherboardAccessor.cs" line="85" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/MotherboardAccessor.cs" bodystart="85" bodyend="140"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_motherboard_accessor_1a6209b0ce1d698b60cb47acb27d7ab18f" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.MotherboardAccessor.InsertMotherboard</definition>
+        <argsstring>(Motherboard motherboard)</argsstring>
+        <name>InsertMotherboard</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref></type>
+          <declname>motherboard</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a new motherboard. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>motherboard</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The motherboard.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of rows affected.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/MotherboardAccessor.cs" line="147" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/MotherboardAccessor.cs" bodystart="147" bodyend="190"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_motherboard_accessor_1a52361abf7892868739ce5a3a7107e00f" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref> &gt;</type>
+        <definition>static List&lt;Motherboard&gt; DataAccess.MotherboardAccessor.RetrieveAllMotherboards</definition>
+        <argsstring>()</argsstring>
+        <name>RetrieveAllMotherboards</name>
+        <briefdescription>
+<para>Retrieves all motherboards. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>List of motherboards</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/MotherboardAccessor.cs" line="197" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/MotherboardAccessor.cs" bodystart="197" bodyend="250"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Motherboard accessor to communicate with database on Motherboard objects. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/MotherboardAccessor.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/MotherboardAccessor.cs" bodystart="15" bodyend="251"/>
+    <listofallmembers>
+      <member refid="class_data_access_1_1_motherboard_accessor_1a6209b0ce1d698b60cb47acb27d7ab18f" prot="public" virt="non-virtual"><scope>DataAccess::MotherboardAccessor</scope><name>InsertMotherboard</name></member>
+      <member refid="class_data_access_1_1_motherboard_accessor_1a52361abf7892868739ce5a3a7107e00f" prot="public" virt="non-virtual"><scope>DataAccess::MotherboardAccessor</scope><name>RetrieveAllMotherboards</name></member>
+      <member refid="class_data_access_1_1_motherboard_accessor_1ad37526e07fc9b4e31ebe7c00948a0ce6" prot="public" virt="non-virtual"><scope>DataAccess::MotherboardAccessor</scope><name>RetrieveMotherboardByName</name></member>
+      <member refid="class_data_access_1_1_motherboard_accessor_1af11568bcfecf3d6d5223838a5e449f7a" prot="public" virt="non-virtual"><scope>DataAccess::MotherboardAccessor</scope><name>RetrieveMotherboardsBySocket</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

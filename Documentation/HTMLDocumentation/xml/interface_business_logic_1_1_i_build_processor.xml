@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="interface_business_logic_1_1_i_build_processor" kind="interface" language="C#" prot="public">
+    <compoundname>BusinessLogic::IBuildProcessor</compoundname>
+    <derivedcompoundref refid="class_business_logic_1_1_build_processor" prot="public" virt="non-virtual">BusinessLogic.BuildProcessor</derivedcompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="interface_business_logic_1_1_i_build_processor_1a2e4fceb9979edca1ba6a37a45eb21608" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_finalized_build" kindref="compound">FinalizedBuild</ref></type>
+        <definition>FinalizedBuild BusinessLogic.IBuildProcessor.DataBuilder</definition>
+        <argsstring>(QuestionnaireResults qr)</argsstring>
+        <name>DataBuilder</name>
+        <reimplementedby refid="class_business_logic_1_1_build_processor_1a7466ec3a31a7752924ca815e1d8bd5fe">DataBuilder</reimplementedby>
+        <param>
+          <type><ref refid="class_business_objects_1_1_questionnaire_results" kindref="compound">QuestionnaireResults</ref></type>
+          <declname>qr</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/IBuildProcessor.cs" line="7" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="133">
+        <label>BusinessLogic.IBuildProcessor</label>
+        <link refid="interface_business_logic_1_1_i_build_processor"/>
+      </node>
+      <node id="134">
+        <label>BusinessLogic.BuildProcessor</label>
+        <link refid="class_business_logic_1_1_build_processor"/>
+        <childnode refid="133" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/IBuildProcessor.cs" line="6" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/IBuildProcessor.cs" bodystart="5" bodyend="8"/>
+    <listofallmembers>
+      <member refid="interface_business_logic_1_1_i_build_processor_1a2e4fceb9979edca1ba6a37a45eb21608" prot="public" virt="non-virtual"><scope>BusinessLogic::IBuildProcessor</scope><name>DataBuilder</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

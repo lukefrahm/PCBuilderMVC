@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_data_access_1_1_motherboard_accessor">
+<title>DataAccess::MotherboardAccessor class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_business_objects_1_1_motherboard">Motherboard</link> <link linkend="class_data_access_1_1_motherboard_accessor_1ad37526e07fc9b4e31ebe7c00948a0ce6">RetrieveMotherboardByName</link> (
+string name)<para><emphasis>&lt;summary&gt;
+Retrieves a motherboard by name.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_motherboard">Motherboard</link> &gt; <link linkend="class_data_access_1_1_motherboard_accessor_1af11568bcfecf3d6d5223838a5e449f7a">RetrieveMotherboardsBySocket</link> (
+string socket)<para><emphasis>&lt;summary&gt;
+Retrieves list of motherboards by socket.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_motherboard_accessor_1a6209b0ce1d698b60cb47acb27d7ab18f">InsertMotherboard</link> (
+<link linkend="class_business_objects_1_1_motherboard">Motherboard</link> motherboard)<para><emphasis>&lt;summary&gt;
+Inserts a new motherboard.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_motherboard">Motherboard</link> &gt; <link linkend="class_data_access_1_1_motherboard_accessor_1a52361abf7892868739ce5a3a7107e00f">RetrieveAllMotherboards</link> (
+)<para><emphasis>&lt;summary&gt;
+Retrieves all motherboards.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Motherboard accessor to communicate with database on Motherboard objects. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 16 of file MotherboardAccessor.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>MotherboardAccessor.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_data_access_1_1_motherboard_accessor_1ad37526e07fc9b4e31ebe7c00948a0ce6">
+                <title>static Motherboard DataAccess.MotherboardAccessor.RetrieveMotherboardByName (string name)</title> <emphasis>&lt;summary&gt;
+Retrieves a motherboard by name.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>name</entry>
+                                <entry>
+<para>The name.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Motherboard object.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_motherboard_accessor_1af11568bcfecf3d6d5223838a5e449f7a">
+                <title>static List&lt;Motherboard&gt; DataAccess.MotherboardAccessor.RetrieveMotherboardsBySocket (string socket)</title> <emphasis>&lt;summary&gt;
+Retrieves list of motherboards by socket.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>socket</entry>
+                                <entry>
+<para>The socket.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>List of motherboards</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_motherboard_accessor_1a6209b0ce1d698b60cb47acb27d7ab18f">
+                <title>static int DataAccess.MotherboardAccessor.InsertMotherboard (Motherboard motherboard)</title> <emphasis>&lt;summary&gt;
+Inserts a new motherboard.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>motherboard</entry>
+                                <entry>
+<para>The motherboard.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Count of rows affected.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_motherboard_accessor_1a52361abf7892868739ce5a3a7107e00f">
+                <title>static List&lt;Motherboard&gt; DataAccess.MotherboardAccessor.RetrieveAllMotherboards ()</title> <emphasis>&lt;summary&gt;
+Retrieves all motherboards.
+&lt;/summary&gt;</emphasis>
+                
+<para><formalpara><title>Returns: </title>
+
+<para>List of motherboards</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

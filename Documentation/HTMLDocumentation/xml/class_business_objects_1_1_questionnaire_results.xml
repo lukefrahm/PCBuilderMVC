@@ -1,0 +1,752 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_questionnaire_results" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::QuestionnaireResults</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a6688ec1ee3a89d76362da1d7e33dc636" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.QuestionnaireResults.SldPerformance</definition>
+        <argsstring></argsstring>
+        <name>SldPerformance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a50640a66fd5f77082f79e232802a1ae3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.ChkUseBasic</definition>
+        <argsstring></argsstring>
+        <name>ChkUseBasic</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a3472f3dc9e3ec8945b73689117b858a2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.ChkUseVideoEdit</definition>
+        <argsstring></argsstring>
+        <name>ChkUseVideoEdit</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a9360e56e1763fbada54d68f242f30f4c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.ChkUseGaming</definition>
+        <argsstring></argsstring>
+        <name>ChkUseGaming</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a71afc6ff6bcbdb3b9d76d619ed9541fa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.ChkUseDevelopment</definition>
+        <argsstring></argsstring>
+        <name>ChkUseDevelopment</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a21e6a21a9a616e09aab5791057112134" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.ChkUseOfficeModerate</definition>
+        <argsstring></argsstring>
+        <name>ChkUseOfficeModerate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1adeab2153f8914940987b223f5f811528" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadResolution720</definition>
+        <argsstring></argsstring>
+        <name>RadResolution720</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1abb4c8f0b8211e04cf531250ec38ee62f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadResolution1080</definition>
+        <argsstring></argsstring>
+        <name>RadResolution1080</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a7c1dc977debf113464c187214c845f8f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadResolution4k</definition>
+        <argsstring></argsstring>
+        <name>RadResolution4k</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a4c610e48509b371e5f01e1a4c4ff1683" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.QuestionnaireResults.SldNumMonitors</definition>
+        <argsstring></argsstring>
+        <name>SldNumMonitors</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a68bcd9b948f53e77d39139186713cc76" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.QuestionnaireResults.SldStorageSize</definition>
+        <argsstring></argsstring>
+        <name>SldStorageSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a890ac64f9c15f722da18f1f6bcfd6b0e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadSSD</definition>
+        <argsstring></argsstring>
+        <name>RadSSD</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a06bc50c35e67bc67e9c3c23a1100ebb7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadHDD</definition>
+        <argsstring></argsstring>
+        <name>RadHDD</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="26" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1afe96042f71c11f5ee4ca7ec244c2409e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadRAMRecommended</definition>
+        <argsstring></argsstring>
+        <name>RadRAMRecommended</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1aa3e2bd6866f780403f73ec8b22423f3c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadRAMSelectManual</definition>
+        <argsstring></argsstring>
+        <name>RadRAMSelectManual</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1aec7b8daa00d82bf5f663ff16514632e8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.QuestionnaireResults.SldRamSize</definition>
+        <argsstring></argsstring>
+        <name>SldRamSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a4f6bf0eab85a5de37272fdaa5ee88a2d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.QuestionnaireResults.SldNumCores</definition>
+        <argsstring></argsstring>
+        <name>SldNumCores</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a4f6326f593c14c604d17ab5bf32c7852" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadCaseSizeFull</definition>
+        <argsstring></argsstring>
+        <name>RadCaseSizeFull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a1751262792cbf7af2bba4eeb0374beb1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadCaseSizeMid</definition>
+        <argsstring></argsstring>
+        <name>RadCaseSizeMid</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="32" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1aa7a66145185fccfe3e3f866a98731e1d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadCaseSizeMicro</definition>
+        <argsstring></argsstring>
+        <name>RadCaseSizeMicro</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="33" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a03b9e37e1956c8fc16fcd3f2a09b7d18" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadCaseSizeMini</definition>
+        <argsstring></argsstring>
+        <name>RadCaseSizeMini</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="34" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1afd85fb6e5032b15b69c7d34e273b1cb5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadCaseSizeConsole</definition>
+        <argsstring></argsstring>
+        <name>RadCaseSizeConsole</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="35" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a075a999b033c7882ad0a772697226ac8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadBRBurner</definition>
+        <argsstring></argsstring>
+        <name>RadBRBurner</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="36" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a5fc55207b21809a5de88c5ed40b129b1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadBRReader</definition>
+        <argsstring></argsstring>
+        <name>RadBRReader</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="37" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1adf5761dc39e29b2daaaa641434c26660" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadDVDBurner</definition>
+        <argsstring></argsstring>
+        <name>RadDVDBurner</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="38" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a03fa0f3e5208aba58ee830a018e7ff71" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool BusinessObjects.QuestionnaireResults.RadOpticalNone</definition>
+        <argsstring></argsstring>
+        <name>RadOpticalNone</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="39" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a3c7123ce4d53eecaec1d0a3f4fa227b2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.QuestionnaireResults.Pcie4</definition>
+        <argsstring></argsstring>
+        <name>Pcie4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="41" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a021dfe3cc80f8453d339afb181933986" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.QuestionnaireResults.Pcie1</definition>
+        <argsstring></argsstring>
+        <name>Pcie1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="42" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a1c6ac7afd7c6bc53afcd8344511cf5c7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.QuestionnaireResults.Pci</definition>
+        <argsstring></argsstring>
+        <name>Pci</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_questionnaire_results_1a448147d724915996a458af2909e0f298" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>double</type>
+        <definition>double BusinessObjects.QuestionnaireResults.Price</definition>
+        <argsstring></argsstring>
+        <name>Price</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="44" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="44" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_objects_1_1_questionnaire_results_1af03bf5cea4bc3c29bb2a4b111b6e6a2c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.QuestionnaireResults.QuestionnaireResults</definition>
+        <argsstring>()</argsstring>
+        <name>QuestionnaireResults</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_questionnaire_results" kindref="compound">QuestionnaireResults</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="49" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="49" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_objects_1_1_questionnaire_results_1a4e99b6de8ad5c240763baa74ebae2ca4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.QuestionnaireResults.QuestionnaireResults</definition>
+        <argsstring>(double sldPerformance, bool chkUseBasic, bool chkUseDevelopment, bool chkUseGaming, bool chkUseOfficeModerate, bool chkUseVideoEdit, bool radResolution720, bool radResolution1080, bool radResolution4k, double sldNumMonitors, double sldStorageSize, bool radSSD, bool radHDD, bool radRAMRecommended, bool radRAMSelectManual, double sldRamSize, double sldNumCores, bool radCaseSizeFull, bool radCaseSizeMid, bool radCaseSizeMicro, bool radCaseSizeMini, bool radCaseSizeConsole, bool radBRBurner, bool radBRReader, bool radDVDBurner, bool radOpticalNone)</argsstring>
+        <name>QuestionnaireResults</name>
+        <param>
+          <type>double</type>
+          <declname>sldPerformance</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>chkUseBasic</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>chkUseDevelopment</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>chkUseGaming</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>chkUseOfficeModerate</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>chkUseVideoEdit</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radResolution720</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radResolution1080</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radResolution4k</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>sldNumMonitors</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>sldStorageSize</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radSSD</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radHDD</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radRAMRecommended</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radRAMSelectManual</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>sldRamSize</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>sldNumCores</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radCaseSizeFull</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radCaseSizeMid</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radCaseSizeMicro</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radCaseSizeMini</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radCaseSizeConsole</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radBRBurner</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radBRReader</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radDVDBurner</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>radOpticalNone</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_questionnaire_results" kindref="compound">QuestionnaireResults</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sldPerformance</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The slider for performance.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>chkUseBasic</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput> [Check use basic].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>chkUseDevelopment</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput> [Check use development].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>chkUseGaming</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput> [Check use gaming].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>chkUseOfficeModerate</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput> [Check use office moderate].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>chkUseVideoEdit</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput> [Check use video editing].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radResolution720</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput> [Monitor resolution 720].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radResolution1080</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput> [Monitor resolution 1080].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radResolution4k</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput> [Monitor resolution 4k].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>sldNumMonitors</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The slider for number of monitors.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>sldStorageSize</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Size of the storage.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radSSD</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [use SSD].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radHDD</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [use HDD].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radRAMRecommended</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [Use recommended <ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref> size].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radRAMSelectManual</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [Use manual Ram size].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>sldRamSize</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Size of the ram.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>sldNumCores</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of cores.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radCaseSizeFull</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [full size case].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radCaseSizeMid</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [mid size case].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radCaseSizeMicro</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [micro-ATX case].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radCaseSizeMini</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [mini-ITX case].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radCaseSizeConsole</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [HTPC/Console case].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radBRBurner</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [BluRay burner].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radBRReader</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [BluRay reader].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radDVDBurner</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [DVD burner].</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>radOpticalNone</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [No optical drive].</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="80" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="80" bodyend="133"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_business_objects_1_1_questionnaire_results" kindref="compound">QuestionnaireResults</ref> object to hold necessary data on the questionnaire form after submission. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" line="13" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/QuestionnaireResults.cs" bodystart="12" bodyend="134"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a50640a66fd5f77082f79e232802a1ae3" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>ChkUseBasic</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a71afc6ff6bcbdb3b9d76d619ed9541fa" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>ChkUseDevelopment</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a9360e56e1763fbada54d68f242f30f4c" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>ChkUseGaming</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a21e6a21a9a616e09aab5791057112134" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>ChkUseOfficeModerate</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a3472f3dc9e3ec8945b73689117b858a2" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>ChkUseVideoEdit</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a1c6ac7afd7c6bc53afcd8344511cf5c7" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>Pci</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a021dfe3cc80f8453d339afb181933986" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>Pcie1</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a3c7123ce4d53eecaec1d0a3f4fa227b2" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>Pcie4</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a448147d724915996a458af2909e0f298" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>Price</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1af03bf5cea4bc3c29bb2a4b111b6e6a2c" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>QuestionnaireResults</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a4e99b6de8ad5c240763baa74ebae2ca4" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>QuestionnaireResults</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a075a999b033c7882ad0a772697226ac8" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadBRBurner</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a5fc55207b21809a5de88c5ed40b129b1" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadBRReader</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1afd85fb6e5032b15b69c7d34e273b1cb5" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadCaseSizeConsole</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a4f6326f593c14c604d17ab5bf32c7852" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadCaseSizeFull</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1aa7a66145185fccfe3e3f866a98731e1d" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadCaseSizeMicro</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a1751262792cbf7af2bba4eeb0374beb1" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadCaseSizeMid</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a03b9e37e1956c8fc16fcd3f2a09b7d18" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadCaseSizeMini</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1adf5761dc39e29b2daaaa641434c26660" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadDVDBurner</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a06bc50c35e67bc67e9c3c23a1100ebb7" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadHDD</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a03fa0f3e5208aba58ee830a018e7ff71" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadOpticalNone</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1afe96042f71c11f5ee4ca7ec244c2409e" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadRAMRecommended</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1aa3e2bd6866f780403f73ec8b22423f3c" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadRAMSelectManual</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1abb4c8f0b8211e04cf531250ec38ee62f" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadResolution1080</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a7c1dc977debf113464c187214c845f8f" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadResolution4k</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1adeab2153f8914940987b223f5f811528" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadResolution720</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a890ac64f9c15f722da18f1f6bcfd6b0e" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>RadSSD</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a4f6bf0eab85a5de37272fdaa5ee88a2d" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>SldNumCores</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a4c610e48509b371e5f01e1a4c4ff1683" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>SldNumMonitors</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a6688ec1ee3a89d76362da1d7e33dc636" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>SldPerformance</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1aec7b8daa00d82bf5f663ff16514632e8" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>SldRamSize</name></member>
+      <member refid="class_business_objects_1_1_questionnaire_results_1a68bcd9b948f53e77d39139186713cc76" prot="public" virt="non-virtual"><scope>BusinessObjects::QuestionnaireResults</scope><name>SldStorageSize</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

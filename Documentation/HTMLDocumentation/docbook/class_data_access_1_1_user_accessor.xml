@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_data_access_1_1_user_accessor">
+<title>DataAccess::UserAccessor class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static <link linkend="class_business_objects_1_1_user">User</link> <link linkend="class_data_access_1_1_user_accessor_1a72f9e01c595f36043a8ba0801836ac11">RetrieveUserByUsername</link> (
+string userName)<para><emphasis>&lt;summary&gt;
+Retrieves the user by username.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_roles">Roles</link> &gt; <link linkend="class_data_access_1_1_user_accessor_1a452e243ca11dd46f9b5c82daf1b19742">RetrieveRolesByUserID</link> (
+string username)<para><emphasis>&lt;summary&gt;
+Retrieves the roles by user identifier.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_user_accessor_1a47c06dec23dd7b81b6dad6b1c3a55259">FindUserByUsernameAndPassword</link> (
+string username, string password)<para><emphasis>&lt;summary&gt;
+Finds the user by username and password.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_user_accessor_1acc5b572bb1f5a1073fbe5cfeb0096b65">SetPasswordForUsername</link> (
+string username, string oldPassword, string newPassword)<para><emphasis>&lt;summary&gt;
+Sets the password for the given username.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static List&lt; <link linkend="class_business_objects_1_1_user">User</link> &gt; <link linkend="class_data_access_1_1_user_accessor_1a9936ef3d80655a8b9e1c63e9969a3c4d">FetchUserList</link> (
+<link linkend="namespace_business_objects_1a640a4d136931381578aad0a180173cfc">Active</link> group)<para><emphasis>&lt;summary&gt;
+Fetches a user list.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_user_accessor_1a54f85a9514bd475a3d5342d31b10ee97">FetchUserCount</link> (
+<link linkend="namespace_business_objects_1a640a4d136931381578aad0a180173cfc">Active</link> group)<para><emphasis>&lt;summary&gt;
+Fetches the user count.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_user_accessor_1a4718ccfb3e6b1b32557c398de4332bf8">InsertUser</link> (
+<link linkend="class_business_objects_1_1_user">User</link> usr)<para><emphasis>&lt;summary&gt;
+Inserts a new user.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static int <link linkend="class_data_access_1_1_user_accessor_1a7349fc8c87333785420a2896e4c78540">UpdateUserAccount</link> (
+<link linkend="class_business_objects_1_1_user">User</link> usr)<para><emphasis>&lt;summary&gt;
+Updates the user account.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Data access class that handles data connections with the Users table. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 16 of file UserAccessor.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>UserAccessor.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_data_access_1_1_user_accessor_1a72f9e01c595f36043a8ba0801836ac11">
+                <title>static User DataAccess.UserAccessor.RetrieveUserByUsername (string userName)</title> <emphasis>&lt;summary&gt;
+Retrieves the user by username.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>userName</entry>
+                                <entry>
+<para>The username from which to retrieve user data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>User object from the supplied username.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_user_accessor_1a452e243ca11dd46f9b5c82daf1b19742">
+                <title>static List&lt;Roles&gt; DataAccess.UserAccessor.RetrieveRolesByUserID (string username)</title> <emphasis>&lt;summary&gt;
+Retrieves the roles by user identifier.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>username</entry>
+                                <entry>
+<para>The username.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>List of roles for the username provided.</para>
+</formalpara>
+
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Data not found.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_user_accessor_1a47c06dec23dd7b81b6dad6b1c3a55259">
+                <title>static int DataAccess.UserAccessor.FindUserByUsernameAndPassword (string username, string password)</title> <emphasis>&lt;summary&gt;
+Finds the user by username and password.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>username</entry>
+                                <entry>
+<para>The username.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>password</entry>
+                                <entry>
+<para>The password.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Row count to signify success or failure.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_user_accessor_1acc5b572bb1f5a1073fbe5cfeb0096b65">
+                <title>static int DataAccess.UserAccessor.SetPasswordForUsername (string username, string oldPassword, string newPassword)</title> <emphasis>&lt;summary&gt;
+Sets the password for the given username.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>username</entry>
+                                <entry>
+<para>The username.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>oldPassword</entry>
+                                <entry>
+<para>The old password.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>newPassword</entry>
+                                <entry>
+<para>The new password.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Row count to signify success or failure.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_user_accessor_1a9936ef3d80655a8b9e1c63e9969a3c4d">
+                <title>static List&lt;User&gt; DataAccess.UserAccessor.FetchUserList (Active group=Active.active)</title> <emphasis>&lt;summary&gt;
+Fetches a user list.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>group</entry>
+                                <entry>
+<para>The group of users. Defaults to active users only.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>List of Users</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_user_accessor_1a54f85a9514bd475a3d5342d31b10ee97">
+                <title>static int DataAccess.UserAccessor.FetchUserCount (Active group=Active.active)</title> <emphasis>&lt;summary&gt;
+Fetches the user count.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>group</entry>
+                                <entry>
+<para>The active status. Defaults to active if no value is passed.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Count of records.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_user_accessor_1a4718ccfb3e6b1b32557c398de4332bf8">
+                <title>static int DataAccess.UserAccessor.InsertUser (User usr)</title> <emphasis>&lt;summary&gt;
+Inserts a new user.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>usr</entry>
+                                <entry>
+<para>The user.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Count of records affected.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_data_access_1_1_user_accessor_1a7349fc8c87333785420a2896e4c78540">
+                <title>static int DataAccess.UserAccessor.UpdateUserAccount (User usr)</title> <emphasis>&lt;summary&gt;
+Updates the user account.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>usr</entry>
+                                <entry>
+<para>The user.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Count of records updated.</para>
+</formalpara>
+</para>
+
+            </section>
+</section>

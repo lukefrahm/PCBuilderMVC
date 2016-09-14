@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__forms__1__1__main__window_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_forms_1_1_main_window.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__forms__1__1__main__window_8js_1a5a5434b13988abfd6a660380e33dbdb7" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_forms_1_1_main_window</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_forms_1_1_main_window</name>
+        <initializer>=
+[
+    [ &quot;MainWindow&quot;, &quot;class_p_c_builder_forms_1_1_main_window.html#a6201f6763f4ee3b2188d9ec18a9fa881&quot;, null ],
+    [ &quot;InitializeComponent&quot;, &quot;class_p_c_builder_forms_1_1_main_window.html#af61d622148f662bb5060f1523fae41ae&quot;, null ],
+    [ &quot;InitializeComponent&quot;, &quot;class_p_c_builder_forms_1_1_main_window.html#af61d622148f662bb5060f1523fae41ae&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_forms_1_1_main_window.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_forms_1_1_main_window.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_forms_1_1_main_window<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MainWindow&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_forms_1_1_main_window.html#a6201f6763f4ee3b2188d9ec18a9fa881&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;InitializeComponent&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_forms_1_1_main_window.html#af61d622148f662bb5060f1523fae41ae&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;InitializeComponent&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_forms_1_1_main_window.html#af61d622148f662bb5060f1523fae41ae&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="6"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_forms_1_1_main_window.js"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::UserEntities</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">DbContext</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1a97ad62df5e44eb5d06b4faef97066545" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role" kindref="compound">AspNetRole</ref> &gt;</type>
+        <definition>virtual DbSet&lt;AspNetRole&gt; PCBuilderMVC.Models.UserEntities.AspNetRoles</definition>
+        <argsstring></argsstring>
+        <name>AspNetRoles</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1adce18308000a7a93875ade45b503e94e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_claim" kindref="compound">AspNetUserClaim</ref> &gt;</type>
+        <definition>virtual DbSet&lt;AspNetUserClaim&gt; PCBuilderMVC.Models.UserEntities.AspNetUserClaims</definition>
+        <argsstring></argsstring>
+        <name>AspNetUserClaims</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1ad930890fad3392c62f1915b2baea7f67" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_login" kindref="compound">AspNetUserLogin</ref> &gt;</type>
+        <definition>virtual DbSet&lt;AspNetUserLogin&gt; PCBuilderMVC.Models.UserEntities.AspNetUserLogins</definition>
+        <argsstring></argsstring>
+        <name>AspNetUserLogins</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1a0bdbcfd5cd36963f3b56d2a28eee0b59" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user" kindref="compound">AspNetUser</ref> &gt;</type>
+        <definition>virtual DbSet&lt;AspNetUser&gt; PCBuilderMVC.Models.UserEntities.AspNetUsers</definition>
+        <argsstring></argsstring>
+        <name>AspNetUsers</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1ac10d86b7a584c3a8d3ff5d706409683f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderMVC.Models.UserEntities.UserEntities</definition>
+        <argsstring>()</argsstring>
+        <name>UserEntities</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" bodystart="18" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1a4e4635cfa93a11fe54575099f2394030" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void PCBuilderMVC.Models.UserEntities.OnModelCreating</definition>
+        <argsstring>(DbModelBuilder modelBuilder)</argsstring>
+        <name>OnModelCreating</name>
+        <param>
+          <type>DbModelBuilder</type>
+          <declname>modelBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="339">
+        <label>PCBuilderMVC.Models.UserEntities</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities"/>
+        <childnode refid="340" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="340">
+        <label>DbContext</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="341">
+        <label>PCBuilderMVC.Models.UserEntities</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities"/>
+        <childnode refid="342" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="342">
+        <label>DbContext</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/Users.Context.cs" bodystart="16" bodyend="32"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1a97ad62df5e44eb5d06b4faef97066545" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::UserEntities</scope><name>AspNetRoles</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1adce18308000a7a93875ade45b503e94e" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::UserEntities</scope><name>AspNetUserClaims</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1ad930890fad3392c62f1915b2baea7f67" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::UserEntities</scope><name>AspNetUserLogins</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1a0bdbcfd5cd36963f3b56d2a28eee0b59" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::UserEntities</scope><name>AspNetUsers</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1a4e4635cfa93a11fe54575099f2394030" prot="protected" virt="non-virtual"><scope>PCBuilderMVC::Models::UserEntities</scope><name>OnModelCreating</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1ac10d86b7a584c3a8d3ff5d706409683f" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::UserEntities</scope><name>UserEntities</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_forms_1_1_main_window">
+<title>PCBuilderForms::MainWindow class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>AccessToken _accessToken</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>bool _contentLoaded</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.MenuItem mnuExit</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblLoginMessage</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnLogin</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TabItem tabBuildAPC</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnQuestionnaire</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TabItem tabBuildOutput</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblCpuBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblGpuBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblMotherboardBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblOpticalBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblPsuBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblRamBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStorageBrand</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblCpuModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblGpuModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblMotherboardModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblOpticalModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblPsuModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblRamModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStorageModel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblCPUPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblGPUPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblMotherboardPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblOpticalPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblPSUPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblRAMPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStoragePrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblTotalPrice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TabItem tabAdmin</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnAddUser</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnDeleteUser</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnUpdateUser</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnAddComponent</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnRemoveComponent</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblStatusMessage</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_forms_1_1_main_window_1a6201f6763f4ee3b2188d9ec18a9fa881">MainWindow</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;MainWindow&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_main_window_1af61d622148f662bb5060f1523fae41ae">InitializeComponent</link> (
+)<para><emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_main_window_1af61d622148f662bb5060f1523fae41ae">InitializeComponent</link> (
+)<para><emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_main_window_1a9b54f303aa5413af93c5565e64a62712">btnLogin_Click</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Click event of the btnLogin control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_main_window_1a1e5ca63166c0a4fd384e436ba3ff262a">btnQuestionnaire_Click</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Click event of the btnQuestionnaire control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_main_window_1a239a3300ed5f9483736a1281c65078d6">Populator</link> (
+<link linkend="class_business_objects_1_1_questionnaire_results">QuestionnaireResults</link> qr, <link linkend="class_business_objects_1_1_finalized_build">FinalizedBuild</link> fb)<para><emphasis>&lt;summary&gt;
+Populators the specified labels based on questionnaire and build results.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_main_window_1a69ec1e9eb373538650099946307dfd77">mnuExit_Click</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Click event of the mnuExit control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void System.Windows.Markup.IComponentConnector. <link linkend="class_p_c_builder_forms_1_1_main_window_1ab17677546c3e5a4c380ddcdff1d9aab1">Connect</link> (
+int connectionId, object target)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void System.Windows.Markup.IComponentConnector. <link linkend="class_p_c_builder_forms_1_1_main_window_1ab17677546c3e5a4c380ddcdff1d9aab1">Connect</link> (
+int connectionId, object target)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Interaction logic for MainWindow.xaml </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><link linkend="class_p_c_builder_forms_1_1_main_window">MainWindow</link> </para>
+                <para>Definition at line 23 of file MainWindow.xaml.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>MainWindow.xaml.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_forms_1_1_main_window_1a6201f6763f4ee3b2188d9ec18a9fa881">
+                <title>PCBuilderForms.MainWindow.MainWindow ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;MainWindow&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_main_window_1af61d622148f662bb5060f1523fae41ae">
+                <title>void PCBuilderForms.MainWindow.InitializeComponent ()</title> <emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_main_window_1af61d622148f662bb5060f1523fae41ae">
+                <title>void PCBuilderForms.MainWindow.InitializeComponent ()</title> <emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_main_window_1a9b54f303aa5413af93c5565e64a62712">
+                <title>void PCBuilderForms.MainWindow.btnLogin_Click (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Click event of the btnLogin control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_main_window_1a1e5ca63166c0a4fd384e436ba3ff262a">
+                <title>void PCBuilderForms.MainWindow.btnQuestionnaire_Click (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Click event of the btnQuestionnaire control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_main_window_1a239a3300ed5f9483736a1281c65078d6">
+                <title>void PCBuilderForms.MainWindow.Populator (QuestionnaireResults qr, FinalizedBuild fb)</title> <emphasis>&lt;summary&gt;
+Populators the specified labels based on questionnaire and build results.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>qr</entry>
+                                <entry>
+<para>The <link linkend="class_p_c_builder_forms_1_1_questionnaire">Questionnaire</link> Results.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>fb</entry>
+                                <entry>
+<para>The Finalized Build.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_main_window_1a69ec1e9eb373538650099946307dfd77">
+                <title>void PCBuilderForms.MainWindow.mnuExit_Click (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Click event of the mnuExit control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_main_window_1ab17677546c3e5a4c380ddcdff1d9aab1">
+                <title>void System.Windows.Markup.IComponentConnector. PCBuilderForms.MainWindow.Connect (int connectionId, object target)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_main_window_1ab17677546c3e5a4c380ddcdff1d9aab1">
+                <title>void System.Windows.Markup.IComponentConnector. PCBuilderForms.MainWindow.Connect (int connectionId, object target)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

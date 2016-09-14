@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_objects_1_1_storage">
+<title>BusinessObjects::Storage class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_storage_1a4695b8ceeac4b01c2f8b98ef67b01762">Storage</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Storage&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_storage_1aba48b4e57da3d6c05ec55a59987a68f6">Storage</link> (
+int storageId, string brand, string model, int storageSize, string storageType, int benchmarkScore, int storageSequentialRead, int storageSequentialWrite, int storageRandomRead, int storageRandomWrite, string bestUse, decimal price)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Storage&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_business_objects_1_1_storage">Storage</link> object to hold necessary data on the storage device. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 18 of file Storage.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>Storage.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_objects_1_1_storage_1a4695b8ceeac4b01c2f8b98ef67b01762">
+                <title>BusinessObjects.Storage.Storage ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Storage&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_objects_1_1_storage_1aba48b4e57da3d6c05ec55a59987a68f6">
+                <title>BusinessObjects.Storage.Storage (int storageId, string brand, string model, int storageSize, string storageType, int benchmarkScore, int storageSequentialRead, int storageSequentialWrite, int storageRandomRead, int storageRandomWrite, string bestUse, decimal price)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Storage&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>storageId</entry>
+                                <entry>
+<para>The storage identifier.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>brand</entry>
+                                <entry>
+<para>The brand.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>model</entry>
+                                <entry>
+<para>The model.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>storageSize</entry>
+                                <entry>
+<para>Size of the storage.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>storageType</entry>
+                                <entry>
+<para>Type of the storage.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>benchmarkScore</entry>
+                                <entry>
+<para>The benchmark score.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>storageSequentialRead</entry>
+                                <entry>
+<para>The storage sequential read.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>storageSequentialWrite</entry>
+                                <entry>
+<para>The storage sequential write.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>storageRandomRead</entry>
+                                <entry>
+<para>The storage random read.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>storageRandomWrite</entry>
+                                <entry>
+<para>The storage random write.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>bestUse</entry>
+                                <entry>
+<para>The best use case.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>price</entry>
+                                <entry>
+<para>The price.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_f4dc2fe19f68722faa12b8f069bc77fa" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects</compoundname>
+    <innerdir refid="dir_a20715e4b19859f9ad0ca77ef68cfbe7">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/obj</innerdir>
+    <innerdir refid="dir_a22ff3bfeddda3c04faae85caa1515b9">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Properties</innerdir>
+    <innerfile refid="_access_token_8cs">AccessToken.cs</innerfile>
+    <innerfile refid="_build_properties_8cs">BuildProperties.cs</innerfile>
+    <innerfile refid="_business_objects_2_c_p_u_8cs">CPU.cs</innerfile>
+    <innerfile refid="_enums_8cs">Enums.cs</innerfile>
+    <innerfile refid="_finalized_build_8cs">FinalizedBuild.cs</innerfile>
+    <innerfile refid="_business_objects_2_g_p_u_8cs">GPU.cs</innerfile>
+    <innerfile refid="_business_objects_2_motherboard_8cs">Motherboard.cs</innerfile>
+    <innerfile refid="_business_objects_2_optical_8cs">Optical.cs</innerfile>
+    <innerfile refid="_business_objects_2_p_s_u_8cs">PSU.cs</innerfile>
+    <innerfile refid="_questionnaire_results_8cs">QuestionnaireResults.cs</innerfile>
+    <innerfile refid="_business_objects_2_r_a_m_8cs">RAM.cs</innerfile>
+    <innerfile refid="_roles_8cs">Roles.cs</innerfile>
+    <innerfile refid="_standardized_basic_8cs">StandardizedBasic.cs</innerfile>
+    <innerfile refid="_standardized_development_8cs">StandardizedDevelopment.cs</innerfile>
+    <innerfile refid="_standardized_gaming_8cs">StandardizedGaming.cs</innerfile>
+    <innerfile refid="_standardized_office_8cs">StandardizedOffice.cs</innerfile>
+    <innerfile refid="_standardized_video_editing_8cs">StandardizedVideoEditing.cs</innerfile>
+    <innerfile refid="_business_objects_2_storage_8cs">Storage.cs</innerfile>
+    <innerfile refid="_business_objects_2_user_8cs">User.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/"/>
+  </compounddef>
+</doxygen>

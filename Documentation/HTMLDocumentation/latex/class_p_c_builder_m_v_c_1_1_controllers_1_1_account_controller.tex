@@ -1,0 +1,161 @@
+\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller}{}\section{P\+C\+Builder\+M\+V\+C.\+Controllers.\+Account\+Controller Class Reference}
+\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller}\index{P\+C\+Builder\+M\+V\+C.\+Controllers.\+Account\+Controller@{P\+C\+Builder\+M\+V\+C.\+Controllers.\+Account\+Controller}}
+
+
+Account controller to handle Account views interaction.  
+
+
+Inheritance diagram for P\+C\+Builder\+M\+V\+C.\+Controllers.\+Account\+Controller\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller}
+\end{center}
+\end{figure}
+\subsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \hyperlink{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result}{Challenge\+Result}
+\end{DoxyCompactItemize}
+\subsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+enum {\bfseries Manage\+Message\+Id} \{ {\bfseries Change\+Password\+Success}, 
+{\bfseries Set\+Password\+Success}, 
+{\bfseries Remove\+Login\+Success}, 
+{\bfseries Error}
+ \}\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_ad3692d193cfffaef23c5b0b72b7b69ab}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_ad3692d193cfffaef23c5b0b72b7b69ab}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+{\bfseries Account\+Controller} (\hyperlink{class_p_c_builder_m_v_c_1_1_application_user_manager}{Application\+User\+Manager} user\+Manager)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a3df29313acdd6591b5873bb9bdb67b71}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a3df29313acdd6591b5873bb9bdb67b71}
+
+\item 
+Action\+Result {\bfseries Login} (string return\+Url)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_ae380c072ed2c6c2f2aa3ec143d06069a}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_ae380c072ed2c6c2f2aa3ec143d06069a}
+
+\item 
+async Task$<$ Action\+Result $>$ {\bfseries Login} (\hyperlink{class_p_c_builder_m_v_c_1_1_models_1_1_login_view_model}{Login\+View\+Model} model, string return\+Url)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_ae54dbd2be5908155b37a0c7a76bb022d}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_ae54dbd2be5908155b37a0c7a76bb022d}
+
+\item 
+Action\+Result {\bfseries Register} ()\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a92aa1b746f1a5607e2667ce98f2efed9}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a92aa1b746f1a5607e2667ce98f2efed9}
+
+\item 
+async Task$<$ Action\+Result $>$ {\bfseries Register} (\hyperlink{class_p_c_builder_m_v_c_1_1_models_1_1_register_view_model}{Register\+View\+Model} model)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_abc856a6c8ee0bd33cff9bacee36fedfe}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_abc856a6c8ee0bd33cff9bacee36fedfe}
+
+\item 
+async Task$<$ Action\+Result $>$ {\bfseries Confirm\+Email} (string user\+Id, string code)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a6aed0b4d63a8ff3d35b1428451a15e7b}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a6aed0b4d63a8ff3d35b1428451a15e7b}
+
+\item 
+Action\+Result {\bfseries Forgot\+Password} ()\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a9123201fc1ab48128f5218abb3d859e0}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a9123201fc1ab48128f5218abb3d859e0}
+
+\item 
+async Task$<$ Action\+Result $>$ {\bfseries Forgot\+Password} (\hyperlink{class_p_c_builder_m_v_c_1_1_models_1_1_forgot_password_view_model}{Forgot\+Password\+View\+Model} model)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_ad2776ab9d0b98fe8256c12d86037ddb2}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_ad2776ab9d0b98fe8256c12d86037ddb2}
+
+\item 
+Action\+Result {\bfseries Forgot\+Password\+Confirmation} ()\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a75d016c3002e245b36c3530a92d8afad}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a75d016c3002e245b36c3530a92d8afad}
+
+\item 
+Action\+Result {\bfseries Reset\+Password} (string code)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a8cf1eea1c767332f70226c31874e1321}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a8cf1eea1c767332f70226c31874e1321}
+
+\item 
+async Task$<$ Action\+Result $>$ {\bfseries Reset\+Password} (\hyperlink{class_p_c_builder_m_v_c_1_1_models_1_1_reset_password_view_model}{Reset\+Password\+View\+Model} model)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a785e97b23ad2b5effd37c12719597b03}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a785e97b23ad2b5effd37c12719597b03}
+
+\item 
+Action\+Result {\bfseries Reset\+Password\+Confirmation} ()\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a74560e996a058eeda093d161a141c916}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a74560e996a058eeda093d161a141c916}
+
+\item 
+async Task$<$ Action\+Result $>$ {\bfseries Disassociate} (string login\+Provider, string provider\+Key)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a951282fe09539493acc5e0ac701125c5}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a951282fe09539493acc5e0ac701125c5}
+
+\item 
+Action\+Result {\bfseries Manage} (Manage\+Message\+Id?message)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a9e62c1f787a32d28bd36d95684aec9fc}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a9e62c1f787a32d28bd36d95684aec9fc}
+
+\item 
+async Task$<$ Action\+Result $>$ {\bfseries Manage} (\hyperlink{class_p_c_builder_m_v_c_1_1_models_1_1_manage_user_view_model}{Manage\+User\+View\+Model} model)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_aa54468166a91284e9ab801c6c93735be}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_aa54468166a91284e9ab801c6c93735be}
+
+\item 
+Action\+Result {\bfseries External\+Login} (string provider, string return\+Url)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a7b9f58ec5691d7e5432aa85caabdce1a}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a7b9f58ec5691d7e5432aa85caabdce1a}
+
+\item 
+async Task$<$ Action\+Result $>$ {\bfseries External\+Login\+Callback} (string return\+Url)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_aca010e9588956c6fcf9fd40992f8a9d5}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_aca010e9588956c6fcf9fd40992f8a9d5}
+
+\item 
+Action\+Result {\bfseries Link\+Login} (string provider)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_af4463ae5ae9ebdd71a7921459241af89}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_af4463ae5ae9ebdd71a7921459241af89}
+
+\item 
+async Task$<$ Action\+Result $>$ {\bfseries Link\+Login\+Callback} ()\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a5464ab822361c3aae7ea11b71afb2833}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a5464ab822361c3aae7ea11b71afb2833}
+
+\item 
+async Task$<$ Action\+Result $>$ {\bfseries External\+Login\+Confirmation} (\hyperlink{class_p_c_builder_m_v_c_1_1_models_1_1_external_login_confirmation_view_model}{External\+Login\+Confirmation\+View\+Model} model, string return\+Url)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a3e8a615f61a8cb1260ad3d1eeec2aa41}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a3e8a615f61a8cb1260ad3d1eeec2aa41}
+
+\item 
+Action\+Result {\bfseries Log\+Off} ()\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a1e8962ce6f6e6b413c0e4aa54ee8ff4e}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a1e8962ce6f6e6b413c0e4aa54ee8ff4e}
+
+\item 
+Action\+Result {\bfseries External\+Login\+Failure} ()\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a98f2769b65d47f2eecf8de39e891a477}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a98f2769b65d47f2eecf8de39e891a477}
+
+\item 
+Action\+Result {\bfseries Remove\+Account\+List} ()\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_aacd25e3088db5d4fa258f686eb71c299}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_aacd25e3088db5d4fa258f686eb71c299}
+
+\end{DoxyCompactItemize}
+\subsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+override void {\bfseries Dispose} (bool disposing)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a61fac6a43b44896e9ed7879a51a1c487}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a61fac6a43b44896e9ed7879a51a1c487}
+
+\end{DoxyCompactItemize}
+\subsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_p_c_builder_m_v_c_1_1_application_user_manager}{Application\+User\+Manager} {\bfseries User\+Manager}\hspace{0.3cm}{\ttfamily  \mbox{[}get, private set\mbox{]}}\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a7bfd8964878a6c640b079f81641ebed6}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a7bfd8964878a6c640b079f81641ebed6}
+
+\item 
+I\+Authentication\+Manager {\bfseries Authentication\+Manager}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a4fe85c110c5c3dede8d55b27fcadaa3f}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a4fe85c110c5c3dede8d55b27fcadaa3f}
+
+\end{DoxyCompactItemize}
+\subsection*{Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+async Task {\bfseries Sign\+In\+Async} (\hyperlink{class_p_c_builder_m_v_c_1_1_models_1_1_application_user}{Application\+User} user, bool is\+Persistent)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_afb3adb4d6e2dd57c0551e4853abd26fe}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_afb3adb4d6e2dd57c0551e4853abd26fe}
+
+\item 
+void {\bfseries Add\+Errors} (Identity\+Result result)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a6ebea49c8114af9e18f742c7f57ce7a6}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a6ebea49c8114af9e18f742c7f57ce7a6}
+
+\item 
+bool {\bfseries Has\+Password} ()\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a0520a211ff47b1b31296215a75b2edd8}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a0520a211ff47b1b31296215a75b2edd8}
+
+\item 
+void {\bfseries Send\+Email} (string email, string callback\+Url, string subject, string message)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a21e5ebc02425bba4b3d2eef5bc47447a}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a21e5ebc02425bba4b3d2eef5bc47447a}
+
+\item 
+Action\+Result {\bfseries Redirect\+To\+Local} (string return\+Url)\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a68ee6edabbc6c6090bd29c59797e0e0c}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a68ee6edabbc6c6090bd29c59797e0e0c}
+
+\end{DoxyCompactItemize}
+\subsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_p_c_builder_m_v_c_1_1_application_user_manager}{Application\+User\+Manager} {\bfseries \+\_\+user\+Manager}\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_ac6da80aa091b402afa58aaad261523b8}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_ac6da80aa091b402afa58aaad261523b8}
+
+\item 
+const string {\bfseries Xsrf\+Key} = \char`\"{}Xsrf\+Id\char`\"{}\hypertarget{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a618e736b98df1dc62c90859c37b19312}{}\label{class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_a618e736b98df1dc62c90859c37b19312}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Account controller to handle Account views interaction. 
+
+\begin{DoxySeeAlso}{See also}
+System.\+Web.\+Mvc.\+Controller
+
+
+\end{DoxySeeAlso}
+
+
+Definition at line 22 of file Account\+Controller.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/nh228u08/\+Desktop/\+Final\+Project/\+Final\+Project/\+P\+C\+Builder/\+P\+C\+Builder\+M\+V\+C/\+Controllers/Account\+Controller.\+cs\end{DoxyCompactItemize}

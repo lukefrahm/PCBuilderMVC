@@ -1,0 +1,897 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_logic_1_1_build_processor" kind="class" language="C#" prot="public">
+    <compoundname>BusinessLogic::BuildProcessor</compoundname>
+    <basecompoundref refid="interface_business_logic_1_1_i_build_processor" prot="public" virt="non-virtual">BusinessLogic.IBuildProcessor</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a31e8da8761b5685ab0c25c40019f0764" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_questionnaire_results" kindref="compound">QuestionnaireResults</ref></type>
+        <definition>QuestionnaireResults BusinessLogic.BuildProcessor.userNeeds</definition>
+        <argsstring></argsstring>
+        <name>userNeeds</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_questionnaire_results" kindref="compound">QuestionnaireResults</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1ab744ddd81ec4a34f0392af4c559eff47" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_build_properties" kindref="compound">BuildProperties</ref></type>
+        <definition>BuildProperties BusinessLogic.BuildProcessor.bp</definition>
+        <argsstring></argsstring>
+        <name>bp</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_build_properties" kindref="compound">BuildProperties</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a427ec4e6cc78a30ecee4ca94a4427cdb" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_finalized_build" kindref="compound">FinalizedBuild</ref></type>
+        <definition>FinalizedBuild BusinessLogic.BuildProcessor.fb</definition>
+        <argsstring></argsstring>
+        <name>fb</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_finalized_build" kindref="compound">FinalizedBuild</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a7466ca238311159f16e9eb8661fa99bc" prot="private" static="no" mutable="no">
+        <type>const decimal</type>
+        <definition>const decimal BusinessLogic.BuildProcessor.baseDelta</definition>
+        <argsstring></argsstring>
+        <name>baseDelta</name>
+        <initializer>= 0M</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1af1ad16921df1a5ce1eab8c607ba5fca4" prot="private" static="no" mutable="no">
+        <type>decimal</type>
+        <definition>decimal BusinessLogic.BuildProcessor.budget</definition>
+        <argsstring></argsstring>
+        <name>budget</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a6af40fa6fc37eccdc6e3286b03c7dcd2" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string BusinessLogic.BuildProcessor.opticalType</definition>
+        <argsstring></argsstring>
+        <name>opticalType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1adae821c7ea289141aef0a8cf78ad7f40" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref> &gt;</type>
+        <definition>List&lt;CPU&gt; BusinessLogic.BuildProcessor.allCPU</definition>
+        <argsstring></argsstring>
+        <name>allCPU</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a7dfcf48e00c6ea79790e7ce9d7503147" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref> &gt;</type>
+        <definition>List&lt;GPU&gt; BusinessLogic.BuildProcessor.allGPU</definition>
+        <argsstring></argsstring>
+        <name>allGPU</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="26" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a5687ac445787bb6f6cdfc6bf0e39296f" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref> &gt;</type>
+        <definition>List&lt;Motherboard&gt; BusinessLogic.BuildProcessor.allMotherboards</definition>
+        <argsstring></argsstring>
+        <name>allMotherboards</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a357ab412eedca92d661b256099170bf9" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref> &gt;</type>
+        <definition>List&lt;RAM&gt; BusinessLogic.BuildProcessor.allRAM</definition>
+        <argsstring></argsstring>
+        <name>allRAM</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a4b1eaf8478bdaa2a6ce5656286c076d9" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref> &gt;</type>
+        <definition>List&lt;Storage&gt; BusinessLogic.BuildProcessor.allStorage</definition>
+        <argsstring></argsstring>
+        <name>allStorage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1aeb1bcd7c5f31090e401a66ca0a5a8774" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref> &gt;</type>
+        <definition>List&lt;PSU&gt; BusinessLogic.BuildProcessor.allPSU</definition>
+        <argsstring></argsstring>
+        <name>allPSU</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a80a6534a685e310877f79f23e6b68225" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref> &gt;</type>
+        <definition>List&lt;Optical&gt; BusinessLogic.BuildProcessor.opticalByType</definition>
+        <argsstring></argsstring>
+        <name>opticalByType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a1fe14814390cf9a15dc4435b4e1c82b7" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref> &gt;</type>
+        <definition>List&lt;CPU&gt; BusinessLogic.BuildProcessor.preliminaryCPU</definition>
+        <argsstring></argsstring>
+        <name>preliminaryCPU</name>
+        <initializer>= new List&lt;<ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="33" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1ac0cc52090eca8883aaf5e4e131132dd8" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref> &gt;</type>
+        <definition>List&lt;GPU&gt; BusinessLogic.BuildProcessor.preliminaryGPU</definition>
+        <argsstring></argsstring>
+        <name>preliminaryGPU</name>
+        <initializer>= new List&lt;<ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="34" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1ad32e0709a7660d47c8aaa9610c270efe" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref> &gt;</type>
+        <definition>List&lt;Motherboard&gt; BusinessLogic.BuildProcessor.preliminaryMotherboards</definition>
+        <argsstring></argsstring>
+        <name>preliminaryMotherboards</name>
+        <initializer>= new List&lt;<ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="35" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a7d306da9a0e14537b644bd1b455e2b4c" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref> &gt;</type>
+        <definition>List&lt;RAM&gt; BusinessLogic.BuildProcessor.preliminaryRAM</definition>
+        <argsstring></argsstring>
+        <name>preliminaryRAM</name>
+        <initializer>= new List&lt;<ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="36" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1ac1b65e705f9bab09b2bbaffe6aa56b08" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref> &gt;</type>
+        <definition>List&lt;Storage&gt; BusinessLogic.BuildProcessor.preliminaryStorage</definition>
+        <argsstring></argsstring>
+        <name>preliminaryStorage</name>
+        <initializer>= new List&lt;<ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="37" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a450fd81c9210fe84c16f34ac26d9995c" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref> &gt;</type>
+        <definition>List&lt;PSU&gt; BusinessLogic.BuildProcessor.preliminaryPSU</definition>
+        <argsstring></argsstring>
+        <name>preliminaryPSU</name>
+        <initializer>= new List&lt;<ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="38" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a2c842d5e2a425dfab029e084857783bb" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref></type>
+        <definition>CPU BusinessLogic.BuildProcessor.CPUChoice</definition>
+        <argsstring></argsstring>
+        <name>CPUChoice</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="40" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1abd02f717d13b938b7d615962b35a0fe1" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref></type>
+        <definition>GPU BusinessLogic.BuildProcessor.GPUChoice</definition>
+        <argsstring></argsstring>
+        <name>GPUChoice</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="41" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a4d1aaf88ed0a083847f1dd1f9a7c1143" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref></type>
+        <definition>Motherboard BusinessLogic.BuildProcessor.motherboardChoice</definition>
+        <argsstring></argsstring>
+        <name>motherboardChoice</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="42" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1ab1bfcbae80f18cc7b46906c06d2315eb" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref></type>
+        <definition>RAM BusinessLogic.BuildProcessor.RAMChoice</definition>
+        <argsstring></argsstring>
+        <name>RAMChoice</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a3c757b2ba0280a37e48a7172078da541" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref></type>
+        <definition>RAM BusinessLogic.BuildProcessor.RAMPreliminary</definition>
+        <argsstring></argsstring>
+        <name>RAMPreliminary</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="43" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a787043eb1b824d8ca99f451f90c3b05d" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref></type>
+        <definition>Storage BusinessLogic.BuildProcessor.storageChoice</definition>
+        <argsstring></argsstring>
+        <name>storageChoice</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="44" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="44" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a132211a2121f81b04173466a6ddcbb55" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref></type>
+        <definition>PSU BusinessLogic.BuildProcessor.PSUChoice</definition>
+        <argsstring></argsstring>
+        <name>PSUChoice</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="45" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_logic_1_1_build_processor_1a9b9203f51653d018460765d3ac578327" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref></type>
+        <definition>Optical BusinessLogic.BuildProcessor.opticalChoice</definition>
+        <argsstring></argsstring>
+        <name>opticalChoice</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="46" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a7466ec3a31a7752924ca815e1d8bd5fe" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_finalized_build" kindref="compound">FinalizedBuild</ref></type>
+        <definition>FinalizedBuild BusinessLogic.BuildProcessor.DataBuilder</definition>
+        <argsstring>(QuestionnaireResults qr)</argsstring>
+        <name>DataBuilder</name>
+        <reimplements refid="interface_business_logic_1_1_i_build_processor_1a2e4fceb9979edca1ba6a37a45eb21608">DataBuilder</reimplements>
+        <param>
+          <type><ref refid="class_business_objects_1_1_questionnaire_results" kindref="compound">QuestionnaireResults</ref></type>
+          <declname>qr</declname>
+        </param>
+        <briefdescription>
+<para>Public base method that calls needed methods to complete build. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>qr</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The questionnaire data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>FinalizedBuild with all build components.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="54" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="54" bodyend="80"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1ad19fb4a3d40031b59c04aa2c9f563ee9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.FinalErrorCheck</definition>
+        <argsstring>()</argsstring>
+        <name>FinalErrorCheck</name>
+        <briefdescription>
+<para>Validates the build before returning to ensure all components are correct. </para>        </briefdescription>
+        <detaileddescription>
+<para>This method calls the ContingencyBuilder and passes the results of the tests. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="88" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="88" bodyend="111"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a7b2999f8f325a3eac8d7ac3e2467360e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.FinalOptical</definition>
+        <argsstring>()</argsstring>
+        <name>FinalOptical</name>
+        <briefdescription>
+<para>Selects the final choice for the optical drive. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="116" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="116" bodyend="129"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a736030c17f756a67be21d12063588514" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.ContingencyBuilder</definition>
+        <argsstring>(bool majorFault, bool needsGPU, bool needsOptical)</argsstring>
+        <name>ContingencyBuilder</name>
+        <param>
+          <type>bool</type>
+          <declname>majorFault</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>needsGPU</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>needsOptical</declname>
+        </param>
+        <briefdescription>
+<para>Takes fault results from FinalErrorCheck and processes for problems. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>majorFault</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput>, [major fault]. Represents a significant problem with the build.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>needsGPU</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput> [needs gpu]. Represents the build does not have a processor capable of on-die graphics. A GPU must be selected.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>needsOptical</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>if set to <computeroutput>true</computeroutput> [needs optical]. Represents a fault of not being able to pull an applicable optical drive.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="137" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="137" bodyend="214"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a48241b1584e37cbfeac0cf69fa573740" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.CreateFinalizedBuild</definition>
+        <argsstring>()</argsstring>
+        <name>CreateFinalizedBuild</name>
+        <briefdescription>
+<para>Creates the finalized build from all final choice methods. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="219" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="219" bodyend="228"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a6d400fb8ccd35e9f769c8090fc1ad6d9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.CPUChoicesByUserNeeds</definition>
+        <argsstring>(decimal delta)</argsstring>
+        <name>CPUChoicesByUserNeeds</name>
+        <param>
+          <type>decimal</type>
+          <declname>delta</declname>
+        </param>
+        <briefdescription>
+<para>Chooses potential CPUs by user needs. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>delta</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="234" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="234" bodyend="248"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a4ab80278d65763824f1bfa573738f5f0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.FinalCPU</definition>
+        <argsstring>()</argsstring>
+        <name>FinalCPU</name>
+        <briefdescription>
+<para>Selects the final choice for the CPU. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="253" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="253" bodyend="264"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a4d2c79f0219c32564dc53fbbeeb05a73" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.GPUChoicesByUserNeeds</definition>
+        <argsstring>(decimal delta)</argsstring>
+        <name>GPUChoicesByUserNeeds</name>
+        <param>
+          <type>decimal</type>
+          <declname>delta</declname>
+        </param>
+        <briefdescription>
+<para>Chooses potential GPUs by user needs. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>delta</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="270" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="270" bodyend="287"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a2ff04ad18300ae7465005574d0e48772" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.FinalGPU</definition>
+        <argsstring>()</argsstring>
+        <name>FinalGPU</name>
+        <briefdescription>
+<para>Selects the final choice for the GPU. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="292" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="292" bodyend="306"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a8a8561de9ecd2966034c7a6a69611333" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.MotherboardChoicesByUserNeeds</definition>
+        <argsstring>(decimal delta)</argsstring>
+        <name>MotherboardChoicesByUserNeeds</name>
+        <param>
+          <type>decimal</type>
+          <declname>delta</declname>
+        </param>
+        <briefdescription>
+<para>Chooses potential motherboards by user needs. </para>        </briefdescription>
+        <detaileddescription>
+<para>This must be called after the FinalCPU method. Not doing so will cause incompatibilities between the CPU and motherboard. </para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>delta</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="315" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="315" bodyend="335"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a36b321cf0c93184ab607d7e07993c505" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.FinalMotherboard</definition>
+        <argsstring>()</argsstring>
+        <name>FinalMotherboard</name>
+        <briefdescription>
+<para>Selects the final choice for the motherboard. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="340" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="340" bodyend="378"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a081f81558d48b97bb26290255aaf57eb" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.RAMChoicesByUserNeeds</definition>
+        <argsstring>(decimal delta)</argsstring>
+        <name>RAMChoicesByUserNeeds</name>
+        <param>
+          <type>decimal</type>
+          <declname>delta</declname>
+        </param>
+        <briefdescription>
+<para>Chooses portential RAM modules by user needs. </para>        </briefdescription>
+        <detaileddescription>
+<para>This must be called after the FinalMotherboard method. Not doing so will cause incompatibilities bwtween the motherboard and RAM. </para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>delta</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="387" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="387" bodyend="448"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a0db9fed50e7a97ad28e59808242126a2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.FinalRAM</definition>
+        <argsstring>()</argsstring>
+        <name>FinalRAM</name>
+        <briefdescription>
+<para>Selects the final choice for the RAM </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="453" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="453" bodyend="480"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a6548ea5bfcc8e7f9977c7fa7bd5c75a9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.StorageChoicesByUserNeeds</definition>
+        <argsstring>(decimal delta)</argsstring>
+        <name>StorageChoicesByUserNeeds</name>
+        <param>
+          <type>decimal</type>
+          <declname>delta</declname>
+        </param>
+        <briefdescription>
+<para>Chooses potential storage candidates by user needs. </para>        </briefdescription>
+        <detaileddescription>
+<para>The method differentiates between HDD and SSD based on the user&apos;s needs. </para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>delta</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="489" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="489" bodyend="531"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a9c56c221189ed6bd17ec8ea20593a8c5" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.FinalStorage</definition>
+        <argsstring>()</argsstring>
+        <name>FinalStorage</name>
+        <briefdescription>
+<para>Selects the final choice for the storage. </para>        </briefdescription>
+        <detaileddescription>
+<para>This method takes into account the use case for the user. If the user needs high performance, an SSD is selected. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="539" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="539" bodyend="579"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a202adb3a888d805e5e71e75f67d3f086" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.PSUChoicesByUserNeeds</definition>
+        <argsstring>(decimal delta)</argsstring>
+        <name>PSUChoicesByUserNeeds</name>
+        <param>
+          <type>decimal</type>
+          <declname>delta</declname>
+        </param>
+        <briefdescription>
+<para>Chooses potential PSUsby user needs. </para>        </briefdescription>
+        <detaileddescription>
+<para>This method must be done last in the build process. Not doing so can result in an inadequate power supply being selected. </para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>delta</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="588" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="588" bodyend="608"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1aa87a3667f6b2bbc272e864c08ba42364" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.FinalPSU</definition>
+        <argsstring>()</argsstring>
+        <name>FinalPSU</name>
+        <briefdescription>
+<para>Selects the final choice for the PSU. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="613" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="613" bodyend="624"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a600e948e1baf06c06237742a99a967ff" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.BuildProportioning</definition>
+        <argsstring>()</argsstring>
+        <name>BuildProportioning</name>
+        <briefdescription>
+<para>Creates budget proportions based on standardized build needs. Different use cases require different budget allocations for different parts. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="629" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="629" bodyend="695"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_build_processor_1a54da61836d65e0e34a9e2ef76fb1a012" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BusinessLogic.BuildProcessor.CreateAllComponentLists</definition>
+        <argsstring>()</argsstring>
+        <name>CreateAllComponentLists</name>
+        <briefdescription>
+<para>Creates all component lists for each component. </para>        </briefdescription>
+        <detaileddescription>
+<para>Special attention is needed for the optical type, so the stored procedure can pull the applicable types of ddrives only.</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="702" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="702" bodyend="732"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Clas tasked with processing of questionnaire data to build a system. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="40">
+        <label>BusinessLogic.BuildProcessor</label>
+        <link refid="class_business_logic_1_1_build_processor"/>
+        <childnode refid="41" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="41">
+        <label>IBuildProcessor</label>
+        <link refid="interface_business_logic_1_1_i_build_processor"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="49">
+        <label>BusinessObjects.Optical</label>
+        <link refid="class_business_objects_1_1_optical"/>
+      </node>
+      <node id="45">
+        <label>BusinessObjects.PSU</label>
+        <link refid="class_business_objects_1_1_p_s_u"/>
+      </node>
+      <node id="52">
+        <label>BusinessObjects.RAM</label>
+        <link refid="class_business_objects_1_1_r_a_m"/>
+      </node>
+      <node id="48">
+        <label>BusinessObjects.FinalizedBuild</label>
+        <link refid="class_business_objects_1_1_finalized_build"/>
+      </node>
+      <node id="46">
+        <label>BusinessObjects.Storage</label>
+        <link refid="class_business_objects_1_1_storage"/>
+      </node>
+      <node id="53">
+        <label>BusinessObjects.Motherboard</label>
+        <link refid="class_business_objects_1_1_motherboard"/>
+      </node>
+      <node id="42">
+        <label>BusinessLogic.BuildProcessor</label>
+        <link refid="class_business_logic_1_1_build_processor"/>
+        <childnode refid="43" relation="public-inheritance">
+        </childnode>
+        <childnode refid="44" relation="usage">
+          <edgelabel>GPUChoice</edgelabel>
+        </childnode>
+        <childnode refid="45" relation="usage">
+          <edgelabel>PSUChoice</edgelabel>
+        </childnode>
+        <childnode refid="46" relation="usage">
+          <edgelabel>storageChoice</edgelabel>
+        </childnode>
+        <childnode refid="47" relation="usage">
+          <edgelabel>userNeeds</edgelabel>
+        </childnode>
+        <childnode refid="48" relation="usage">
+          <edgelabel>fb</edgelabel>
+        </childnode>
+        <childnode refid="49" relation="usage">
+          <edgelabel>opticalChoice</edgelabel>
+        </childnode>
+        <childnode refid="50" relation="usage">
+          <edgelabel>bp</edgelabel>
+        </childnode>
+        <childnode refid="51" relation="usage">
+          <edgelabel>CPUChoice</edgelabel>
+        </childnode>
+        <childnode refid="52" relation="usage">
+          <edgelabel>RAMChoice</edgelabel>
+          <edgelabel>RAMPreliminary</edgelabel>
+        </childnode>
+        <childnode refid="53" relation="usage">
+          <edgelabel>motherboardChoice</edgelabel>
+        </childnode>
+      </node>
+      <node id="50">
+        <label>BusinessObjects.BuildProperties</label>
+        <link refid="class_business_objects_1_1_build_properties"/>
+      </node>
+      <node id="47">
+        <label>BusinessObjects.QuestionnaireResults</label>
+        <link refid="class_business_objects_1_1_questionnaire_results"/>
+      </node>
+      <node id="44">
+        <label>BusinessObjects.GPU</label>
+        <link refid="class_business_objects_1_1_g_p_u"/>
+      </node>
+      <node id="43">
+        <label>IBuildProcessor</label>
+        <link refid="interface_business_logic_1_1_i_build_processor"/>
+      </node>
+      <node id="51">
+        <label>BusinessObjects.CPU</label>
+        <link refid="class_business_objects_1_1_c_p_u"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/BuildProcessor.cs" bodystart="14" bodyend="733"/>
+    <listofallmembers>
+      <member refid="class_business_logic_1_1_build_processor_1adae821c7ea289141aef0a8cf78ad7f40" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>allCPU</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a7dfcf48e00c6ea79790e7ce9d7503147" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>allGPU</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a5687ac445787bb6f6cdfc6bf0e39296f" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>allMotherboards</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1aeb1bcd7c5f31090e401a66ca0a5a8774" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>allPSU</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a357ab412eedca92d661b256099170bf9" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>allRAM</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a4b1eaf8478bdaa2a6ce5656286c076d9" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>allStorage</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a7466ca238311159f16e9eb8661fa99bc" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>baseDelta</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1ab744ddd81ec4a34f0392af4c559eff47" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>bp</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1af1ad16921df1a5ce1eab8c607ba5fca4" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>budget</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a600e948e1baf06c06237742a99a967ff" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>BuildProportioning</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a736030c17f756a67be21d12063588514" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>ContingencyBuilder</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a2c842d5e2a425dfab029e084857783bb" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>CPUChoice</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a6d400fb8ccd35e9f769c8090fc1ad6d9" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>CPUChoicesByUserNeeds</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a54da61836d65e0e34a9e2ef76fb1a012" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>CreateAllComponentLists</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a48241b1584e37cbfeac0cf69fa573740" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>CreateFinalizedBuild</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a7466ec3a31a7752924ca815e1d8bd5fe" prot="public" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>DataBuilder</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a427ec4e6cc78a30ecee4ca94a4427cdb" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>fb</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a4ab80278d65763824f1bfa573738f5f0" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>FinalCPU</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1ad19fb4a3d40031b59c04aa2c9f563ee9" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>FinalErrorCheck</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a2ff04ad18300ae7465005574d0e48772" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>FinalGPU</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a36b321cf0c93184ab607d7e07993c505" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>FinalMotherboard</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a7b2999f8f325a3eac8d7ac3e2467360e" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>FinalOptical</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1aa87a3667f6b2bbc272e864c08ba42364" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>FinalPSU</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a0db9fed50e7a97ad28e59808242126a2" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>FinalRAM</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a9c56c221189ed6bd17ec8ea20593a8c5" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>FinalStorage</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1abd02f717d13b938b7d615962b35a0fe1" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>GPUChoice</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a4d2c79f0219c32564dc53fbbeeb05a73" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>GPUChoicesByUserNeeds</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a4d1aaf88ed0a083847f1dd1f9a7c1143" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>motherboardChoice</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a8a8561de9ecd2966034c7a6a69611333" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>MotherboardChoicesByUserNeeds</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a80a6534a685e310877f79f23e6b68225" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>opticalByType</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a9b9203f51653d018460765d3ac578327" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>opticalChoice</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a6af40fa6fc37eccdc6e3286b03c7dcd2" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>opticalType</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a1fe14814390cf9a15dc4435b4e1c82b7" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>preliminaryCPU</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1ac0cc52090eca8883aaf5e4e131132dd8" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>preliminaryGPU</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1ad32e0709a7660d47c8aaa9610c270efe" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>preliminaryMotherboards</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a450fd81c9210fe84c16f34ac26d9995c" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>preliminaryPSU</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a7d306da9a0e14537b644bd1b455e2b4c" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>preliminaryRAM</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1ac1b65e705f9bab09b2bbaffe6aa56b08" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>preliminaryStorage</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a132211a2121f81b04173466a6ddcbb55" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>PSUChoice</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a202adb3a888d805e5e71e75f67d3f086" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>PSUChoicesByUserNeeds</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1ab1bfcbae80f18cc7b46906c06d2315eb" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>RAMChoice</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a081f81558d48b97bb26290255aaf57eb" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>RAMChoicesByUserNeeds</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a3c757b2ba0280a37e48a7172078da541" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>RAMPreliminary</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a787043eb1b824d8ca99f451f90c3b05d" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>storageChoice</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a6548ea5bfcc8e7f9977c7fa7bd5c75a9" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>StorageChoicesByUserNeeds</name></member>
+      <member refid="class_business_logic_1_1_build_processor_1a31e8da8761b5685ab0c25c40019f0764" prot="private" virt="non-virtual"><scope>BusinessLogic::BuildProcessor</scope><name>userNeeds</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

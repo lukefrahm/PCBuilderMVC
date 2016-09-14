@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js" kind="file" language="Javascript">
+    <compoundname>respond.matchmedia.addListener.min.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js_1a05c09a5e9d53fa7adf0a7936038c2fa3" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>this</definition>
+        <argsstring></argsstring>
+        <name>this</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" line="5" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js_1aa4d4888597588a84fd5b1184d00c91f3" prot="public" static="no" mutable="no">
+        <type>function</type>
+        <definition>function a</definition>
+        <argsstring></argsstring>
+        <name>a</name>
+        <initializer>{&quot;use strict&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" line="5" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js_1aa4026ad5544b958e54ce5e106fa1c805" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var b</definition>
+        <argsstring></argsstring>
+        <name>b</name>
+        <initializer>=a.matchMedia</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" line="5" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js_1abce695e0af988ece0826d9ad59b8160d" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var c</definition>
+        <argsstring></argsstring>
+        <name>c</name>
+        <initializer>=b(&quot;only all&quot;).matches</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" line="5" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js_1aeb337d295abaddb5ec3cb34cc2e2bbc9" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var d</definition>
+        <argsstring></argsstring>
+        <name>d</name>
+        <initializer>=!1</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" line="5" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js_1ab5902775854a8b8440bcd25e0fe1c120" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var e</definition>
+        <argsstring></argsstring>
+        <name>e</name>
+        <initializer>=0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" line="5" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js_1a9cf09a2972472098a4c689fd988f4dfc" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var f</definition>
+        <argsstring></argsstring>
+        <name>f</name>
+        <initializer>=[]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" line="5" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js_1a103df269476e78897c9c4c6cb8f4eb06" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var g</definition>
+        <argsstring></argsstring>
+        <name>g</name>
+        <initializer>=function(){a.clearTimeout(e),e=a.setTimeout(function(){for(var c=0,d=f.length;d&gt;c;c++){var e=f[c].mql,g=f[c].listeners||[],h=b(e.media).matches;if(h!==e.matches){e.matches=h;for(var i=0,j=g.length;j&gt;i;i++)g[i].call(a,e)}}},30)}</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" line="5" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js_1afaeef3a1a07af568051b656bbbffec25" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>!function</definition>
+        <argsstring>(a)</argsstring>
+        <name>!function</name>
+        <param>
+          <type>a</type>
+          <defname>a</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Respond.js v1.4.2: min/max-width media query polyfill * Copyright 2013 Scott Jehl Licensed under <ulink url="https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT">https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT</ulink> </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" line="5" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" bodystart="5" bodyend="5"/>
+      </memberdef>
+      <memberdef kind="function" id="_p_c_builder_m_v_c_2_scripts_2respond_8matchmedia_8add_listener_8min_8js_1a22429b3ac430b1bfaf66ccd3cd74a519" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>if</definition>
+        <argsstring>(a.matchMedia &amp;&amp;a.matchMedia(&quot;all&quot;).addListener) return!1</argsstring>
+        <name>if</name>
+        <param>
+          <type>a.matchMedia &amp;&amp;a.matchMedia(&quot;all&quot;).</type>
+          <declname>addListener</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js" line="5" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"></codeline>
+<codeline lineno="5"><highlight class="normal">!</highlight><highlight class="keyword">function</highlight><highlight class="normal">(a){</highlight><highlight class="stringliteral">&quot;use<sp/>strict&quot;</highlight><highlight class="normal">;a.matchMedia=a.matchMedia||</highlight><highlight class="keyword">function</highlight><highlight class="normal">(a){var<sp/>b,c=a.documentElement,d=c.firstElementChild||c.firstChild,e=a.createElement(</highlight><highlight class="stringliteral">&quot;body&quot;</highlight><highlight class="normal">),f=a.createElement(</highlight><highlight class="stringliteral">&quot;div&quot;</highlight><highlight class="normal">);</highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f.id=</highlight><highlight class="stringliteral">&quot;mq-test-1&quot;</highlight><highlight class="normal">,f.style.cssText=</highlight><highlight class="stringliteral">&quot;position:absolute;top:-100em&quot;</highlight><highlight class="normal">,e.style.background=</highlight><highlight class="stringliteral">&quot;none&quot;</highlight><highlight class="normal">,e.appendChild(f),</highlight><highlight class="keyword">function</highlight><highlight class="normal">(a){</highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f.innerHTML=</highlight><highlight class="stringliteral">&apos;&amp;shy;&lt;style<sp/>media=&quot;&apos;</highlight><highlight class="normal">+a+</highlight><highlight class="stringliteral">&apos;&quot;&gt;<sp/>#mq-test-1<sp/>{<sp/>width:<sp/>42px;<sp/>}&lt;/style&gt;&apos;</highlight><highlight class="normal">,c.insertBefore(e,d),b=42===f.offsetWidth,c.removeChild(e),{matches:b,media:a}}}(a.document)}(</highlight><highlight class="keyword">this</highlight><highlight class="normal">),</highlight><highlight class="keyword">function</highlight><highlight class="normal">(a){</highlight><highlight class="stringliteral">&quot;use<sp/>strict&quot;</highlight><highlight class="normal">;</highlight><highlight class="keywordflow">if</highlight><highlight class="normal">(a.matchMedia&amp;&amp;a.matchMedia(</highlight><highlight class="stringliteral">&quot;all&quot;</highlight><highlight class="normal">).addListener)</highlight><highlight class="keywordflow">return</highlight><highlight class="normal">!1;var<sp/>b=a.matchMedia,c=b(</highlight><highlight class="stringliteral">&quot;only<sp/>all&quot;</highlight><highlight class="normal">).matches,d=!1,e=0,f=[],g=</highlight><highlight class="keyword">function</highlight><highlight class="normal">(){a.clearTimeout(e),e=a.setTimeout(</highlight><highlight class="keyword">function</highlight><highlight class="normal">(){</highlight><highlight class="keywordflow">for</highlight><highlight class="normal">(var<sp/>c=0,d=f.length;d&gt;c;c++){var<sp/>e=f[c].mql,g=f[c].listeners||[],h=b(e.media).matches;if(h!==e.matches){e.matches=h;for(var<sp/>i=0,j=g.length;j&gt;i;i++)g[i].call(a,e)}}},30)};a.matchMedia=</highlight><highlight class="keyword">function</highlight><highlight class="normal">(e){var<sp/>h=b(e),i=[],j=0;</highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>h.addListener=</highlight><highlight class="keyword">function</highlight><highlight class="normal">(b){c&amp;&amp;(d||(d=!0,a.addEventListener(</highlight><highlight class="stringliteral">&quot;resize&quot;</highlight><highlight class="normal">,g,!0)),0===j&amp;&amp;(j=f.push({mql:h,listeners:i})),i.push(b))},h.removeListener=</highlight><highlight class="keyword">function</highlight><highlight class="normal">(a){</highlight><highlight class="keywordflow">for</highlight><highlight class="normal">(var<sp/>b=0,c=i.length;c&gt;b;b++)i[b]===a&amp;&amp;i.splice(b,1)},h}}(</highlight><highlight class="keyword">this</highlight><highlight class="normal">),</highlight><highlight class="keyword">function</highlight><highlight class="normal">(a){</highlight><highlight class="stringliteral">&quot;use<sp/>strict&quot;</highlight><highlight class="normal">;</highlight><highlight class="keyword">function</highlight><highlight class="normal"><sp/>b(){u(!0)}var<sp/>c={};a.respond=c,c.update=</highlight><highlight class="keyword">function</highlight><highlight class="normal">(){};var<sp/>d=[],e=</highlight><highlight class="keyword">function</highlight><highlight class="normal">(){var<sp/>b=!1;</highlight><highlight class="keywordflow">try</highlight><highlight class="normal">{b=</highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>a.XMLHttpRequest}</highlight><highlight class="keywordflow">catch</highlight><highlight class="normal">(c){b=</highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>a.ActiveXObject(</highlight><highlight class="stringliteral">&quot;Microsoft.XMLHTTP&quot;</highlight><highlight class="normal">)}</highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(){</highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>b}}(),f=</highlight><highlight class="keyword">function</highlight><highlight class="normal">(a,b){var<sp/>c=e();c&amp;&amp;(c.open(</highlight><highlight class="stringliteral">&quot;GET&quot;</highlight><highlight class="normal">,a,!0),c.onreadystatechange=</highlight><highlight class="keyword">function</highlight><highlight class="normal">(){4!==c.readyState||200!==c.status&amp;&amp;304!==c.status||b(c.responseText)},4!==c.readyState&amp;&amp;c.send(null))};</highlight><highlight class="keywordflow">if</highlight><highlight class="normal">(c.ajax=f,c.queue=d,c.regex={media:/@media[^\{]+\{([^\{\}]*\{[^\}\{]*\})+/gi,keyframes:/@(?:\-(?:o|moz|webkit)\-)?keyframes[^\{]+\{(?:[^\{\}]*\{[^\}\{]*\})+[^\}]*\}/gi,urls:/(url\()[</highlight><highlight class="stringliteral">&apos;&quot;]?([^\/\)&apos;</highlight><highlight class="stringliteral">&quot;][^:\)&apos;&quot;</highlight><highlight class="normal">]+)[</highlight><highlight class="stringliteral">&apos;&quot;]?(\))/g,findStyles:/@media<sp/>*([^\{]+)\{([\S\s]+?)$/,only:/(only\s+)?([a-zA-Z]+)\s?/,minw:/\([\s]*min\-width\s*:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/,maxw:/\([\s]*max\-width\s*:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/},c.mediaQueriesSupported=a.matchMedia&amp;&amp;null!==a.matchMedia(&quot;only<sp/>all&quot;)&amp;&amp;a.matchMedia(&quot;only<sp/>all&quot;).matches,!c.mediaQueriesSupported){var<sp/>g,h,i,j=a.document,k=j.documentElement,l=[],m=[],n=[],o={},p=30,q=j.getElementsByTagName(&quot;head&quot;)[0]||k,r=j.getElementsByTagName(&quot;base&quot;)[0],s=q.getElementsByTagName(&quot;link&quot;),t=function(){var<sp/>a,b=j.createElement(&quot;div&quot;),c=j.body,d=k.style.fontSize,e=c&amp;&amp;c.style.fontSize,f=!1;return<sp/>b.style.cssText=&quot;position:absolute;font-size:1em;width:1em&quot;,c||(c=f=j.createElement(&quot;body&quot;),c.style.background=&quot;none&quot;),k.style.fontSize=&quot;100%&quot;,c.style.fontSize=&quot;100%&quot;,c.appendChild(b),f&amp;&amp;k.insertBefore(c,k.firstChild),a=b.offsetWidth,f?k.removeChild(c):c.removeChild(b),k.style.fontSize=d,e&amp;&amp;(c.style.fontSize=e),a=i=parseFloat(a)},u=function(b){var<sp/>c=&quot;clientWidth&quot;,d=k[c],e=&quot;CSS1Compat&quot;===j.compatMode&amp;&amp;d||j.body[c]||d,f={},o=s[s.length-1],r=(new<sp/>Date).getTime();if(b&amp;&amp;g&amp;&amp;p&gt;r-g)return<sp/>a.clearTimeout(h),h=a.setTimeout(u,p),void<sp/>0;g=r;for(var<sp/>v<sp/>in<sp/>l)if(l.hasOwnProperty(v)){var<sp/>w=l[v],x=w.minw,y=w.maxw,z=null===x,A=null===y,B=&quot;em&quot;;x&amp;&amp;(x=parseFloat(x)*(x.indexOf(B)&gt;-1?i||t():1)),y&amp;&amp;(y=parseFloat(y)*(y.indexOf(B)&gt;-1?i||t():1)),w.hasquery&amp;&amp;(z&amp;&amp;A||!(z||e&gt;=x)||!(A||y&gt;=e))||(f[w.media]||(f[w.media]=[]),f[w.media].push(m[w.rules]))}for(var<sp/>C<sp/>in<sp/>n)n.hasOwnProperty(C)&amp;&amp;n[C]&amp;&amp;n[C].parentNode===q&amp;&amp;q.removeChild(n[C]);n.length=0;for(var<sp/>D<sp/>in<sp/>f)if(f.hasOwnProperty(D)){var<sp/>E=j.createElement(&quot;style&quot;),F=f[D].join(&quot;\n&quot;);E.type=&quot;text/css&quot;,E.media=D,q.insertBefore(E,o.nextSibling),E.styleSheet?E.styleSheet.cssText=F:E.appendChild(j.createTextNode(F)),n.push(E)}},v=function(a,b,d){var<sp/>e=a.replace(c.regex.keyframes,&quot;&quot;).match(c.regex.media),f=e&amp;&amp;e.length||0;b=b.substring(0,b.lastIndexOf(&quot;/&quot;));var<sp/>g=function(a){return<sp/>a.replace(c.regex.urls,&quot;$1&quot;+b+&quot;$2$3&quot;)},h=!f&amp;&amp;d;b.length&amp;&amp;(b+=&quot;/&quot;),h&amp;&amp;(f=1);for(var<sp/>i=0;f&gt;i;i++){var<sp/>j,k,n,o;h?(j=d,m.push(g(a))):(j=e[i].match(c.regex.findStyles)&amp;&amp;RegExp.$1,m.push(RegExp.$2&amp;&amp;g(RegExp.$2))),n=j.split(&quot;,&quot;),o=n.length;for(var<sp/>p=0;o&gt;p;p++)k=n[p],l.push({media:k.split(&quot;(&quot;)[0].match(c.regex.only)&amp;&amp;RegExp.$2||&quot;all&quot;,rules:m.length-1,hasquery:k.indexOf(&quot;(&quot;)&gt;-1,minw:k.match(c.regex.minw)&amp;&amp;parseFloat(RegExp.$1)+(RegExp.$2||&quot;&quot;),maxw:k.match(c.regex.maxw)&amp;&amp;parseFloat(RegExp.$1)+(RegExp.$2||&quot;&quot;)})}u()},w=function(){if(d.length){var<sp/>b=d.shift();f(b.href,function(c){v(c,b.href,b.media),o[b.href]=!0,a.setTimeout(function(){w()},0)})}},x=function(){for(var<sp/>b=0;b&lt;s.length;b++){var<sp/>c=s[b],e=c.href,f=c.media,g=c.rel&amp;&amp;&quot;stylesheet&quot;===c.rel.toLowerCase();e&amp;&amp;g&amp;&amp;!o[e]&amp;&amp;(c.styleSheet&amp;&amp;c.styleSheet.rawCssText?(v(c.styleSheet.rawCssText,e,f),o[e]=!0):(!/^([a-zA-Z:]*\/\/)/.test(e)&amp;&amp;!r||e.replace(RegExp.$1,&quot;&quot;).split(&quot;/&quot;)[0]===a.location.host)&amp;&amp;(&quot;//&quot;===e.substring(0,2)&amp;&amp;(e=a.location.protocol+e),d.push({href:e,media:f})))}w()};x(),c.update=x,c.getEmValue=t,a.addEventListener?a.addEventListener(&quot;resize&quot;,b,!1):a.attachEvent&amp;&amp;a.attachEvent(&quot;onresize&quot;,b)}}(this);</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/respond.matchmedia.addListener.min.js"/>
+  </compounddef>
+</doxygen>

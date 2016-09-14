@@ -1,0 +1,66 @@
+﻿<Window x:Class="PCBuilderForms.Questionnaire"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PC Builder Questionnaire" Height="780.999" Width="505" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="152*"/>
+            <ColumnDefinition Width="345*"/>
+        </Grid.ColumnDefinitions>
+        <Slider IsSnapToTickEnabled="True" TickFrequency="1" x:Name="sldPerformance" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="470" Minimum="200" Maximum="3000" ValueChanged="sldPerformance_ValueChanged" Grid.ColumnSpan="2" SmallChange="0"/>
+        <Label x:Name="lblPerformance" Content="Level of performance desired:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblAppxDollarsLabel" Content="Anticipated cost: $" HorizontalAlignment="Left" Margin="182,10,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label x:Name="lblAppxDollars" Content="{Binding ElementName=sldPerformance, Path=Value}" ContentStringFormat="{}{0:#}" HorizontalAlignment="Right" Margin="0,10,20,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label x:Name="lblUse" Content="How will you use your computer?" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <CheckBox x:Name="chkUseBasic" Content="Basic tasks (web, email, YouTube, etc.)" HorizontalAlignment="Left" Margin="10,99,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <CheckBox x:Name="chkUseVideoEdit" Content="Video editing/Rendering" HorizontalAlignment="Left" Margin="10,163,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <CheckBox x:Name="chkUseGaming" Content="Gaming" HorizontalAlignment="Left" Margin="10,147,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkUseDevelopment" Content="Software development" HorizontalAlignment="Left" Margin="10,131,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkUseOfficeModerate" Content="Office use or moderate productivity" HorizontalAlignment="Left" Margin="10,115,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="lblBudgetNotice" Text="NOTICE: The anticipated cost is a rough estimate of what most builds of your desired caliber will cost. Depending on selections picked, the actual cost may vary and is set to reflect the needed performance, while keeping cost as a guideline." HorizontalAlignment="Left" Margin="10,630,10,0" VerticalAlignment="Top" Height="79" Width="Auto" Grid.ColumnSpan="2" TextAlignment="Center" TextWrapping="Wrap"  />
+        <Button x:Name="btnAccept" Content="Accept" HorizontalAlignment="Left" Margin="101,700,0,0" VerticalAlignment="Top" Width="75" Click="btnAccept_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Left" Margin="68,700,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Click="btnReset_Click"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="187,700,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Click="btnCancel_Click"/>
+        <Slider IsSnapToTickEnabled="True" TickFrequency="1" x:Name="sldStorageSize" HorizontalAlignment="Left" Margin="10,346,0,0" VerticalAlignment="Top" Width="470" Grid.ColumnSpan="2" Minimum="64" Maximum="6144"/>
+        <Label x:Name="lblStorageSizeLabel" Content="Amount of storage desired:" HorizontalAlignment="Left" Margin="10,315,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblStorageSize" Content="{Binding ElementName=sldStorageSize, Path=Value}" ContentStringFormat="{}{0:#}" HorizontalAlignment="Right" Margin="0,315,295,0" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label x:Name="lblStorageSizeGB" Content="GB" ContentStringFormat="{}{0:#}" HorizontalAlignment="Left" Margin="185,315,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label x:Name="lblStorageType" Content="Preferred storage type:" HorizontalAlignment="Left" Margin="230,315,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <GroupBox x:Name="grpStorageType" Header="" HorizontalAlignment="Left" Margin="200,303,0,0" VerticalAlignment="Top" Height="75" Width="200" Grid.Column="1" BorderThickness="0">
+            <StackPanel Margin="0,0,0,0">
+                <RadioButton x:Name="radSSD" IsChecked="False" Content="SSD" HorizontalAlignment="Left" Margin="10,2,0,0" VerticalAlignment="Top" />
+                <RadioButton x:Name="radHDD" IsChecked="True" Content="HDD" HorizontalAlignment="Left" Margin="70,-15,0,0" VerticalAlignment="Top" />
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="grpRAMChoices" Header="Memory Choices" HorizontalAlignment="Left" Margin="10,375,0,0" VerticalAlignment="Top" Height="65" Width="470" Grid.ColumnSpan="2">
+            <StackPanel Margin="0,0,0,0">
+                <RadioButton x:Name="radRAMRecommended" IsChecked="True" Content="Use recommended RAM amount" HorizontalAlignment="Left" Margin="10,2,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radRAMSelectManual" IsChecked="False" Content="Select RAM amount manually" HorizontalAlignment="Left" Margin="10,2,0,0" VerticalAlignment="Top" Checked="radRAMSelectManual_Checked" Unchecked="radRAMSelectManual_Unchecked"/>
+            </StackPanel>
+        </GroupBox>
+        <Slider IsSnapToTickEnabled="True" TickFrequency="1" x:Name="sldRamSize" HorizontalAlignment="Left" Margin="225,410,0,0" VerticalAlignment="Top" Width="200" Grid.ColumnSpan="2" Minimum="4" Maximum="32" LargeChange="4" SmallChange="4" Visibility="Hidden" />
+        <Label x:Name="lblManualRamSelect" Content="{Binding ElementName=sldRamSize, Path=Value}" ContentStringFormat="{}{0:#}" HorizontalAlignment="Right" Margin="0,405,40,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Visibility="Hidden" />
+        <Label x:Name="lblManualRamSelectLabel" Content="GB" HorizontalAlignment="Right" Margin="0,405,20,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Visibility="Hidden" />
+        <Slider IsSnapToTickEnabled="True" TickFrequency="1" x:Name="sldNumCores" HorizontalAlignment="Left" Margin="10,478,0,0" VerticalAlignment="Top" Width="470" Grid.ColumnSpan="2" Maximum="8" Minimum="2"/>
+        <Label x:Name="lblNumCoresLabel" Content="Number of CPU cores:" HorizontalAlignment="Left" Margin="10,447,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblNumCores" Content="{Binding ElementName=sldNumCores, Path=Value}" ContentStringFormat="{}{0:#}" HorizontalAlignment="Right" Margin="0,447,0,0" VerticalAlignment="Top"/>
+        <GroupBox x:Name="grpCaseSize" Header="Preferred size of case:" HorizontalAlignment="Left" Margin="10,512,0,0" VerticalAlignment="Top" Height="105" Width="235" Grid.ColumnSpan="2">
+            <StackPanel Margin="0,0,0,0">
+                <RadioButton x:Name="radCaseSizeFull" IsChecked="True" Content="Full tower" HorizontalAlignment="Left" Margin="10,2,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radCaseSizeMid" IsChecked="False" Content="Mid tower" HorizontalAlignment="Left" Margin="10,2,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radCaseSizeMicro" IsChecked="False" Content="MicroATX" HorizontalAlignment="Left" Margin="10,0,2,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radCaseSizeMini" IsChecked="False" Content="MiniITX" HorizontalAlignment="Left" Margin="10,0,2,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radCaseSizeConsole" IsChecked="False" Content="HTPC/Console" HorizontalAlignment="Left" Margin="10,0,2,0" VerticalAlignment="Top"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="grpOptical" Header="Optical drive:" HorizontalAlignment="Left" Margin="250,512,0,0" VerticalAlignment="Top" Height="105" Width="235" Grid.ColumnSpan="2">
+            <StackPanel Margin="0,0,27,0">
+                <RadioButton x:Name="radBRBurner" IsChecked="False" Content="BluRay Burner" HorizontalAlignment="Left" Margin="10,2,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radBRReader" IsChecked="False" Content="BluRay Reader" HorizontalAlignment="Left" Margin="10,2,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radDVDBurner" IsChecked="False" Content="DVD Burner" HorizontalAlignment="Left" Margin="10,0,2,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radOpticalNone" IsChecked="True" Content="None" HorizontalAlignment="Left" Margin="10,0,2,0" VerticalAlignment="Top"/>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>
+

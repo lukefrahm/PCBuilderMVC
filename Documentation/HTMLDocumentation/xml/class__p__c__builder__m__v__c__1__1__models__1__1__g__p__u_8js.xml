@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__g__p__u_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__g__p__u_8js_1a27300a91ec97962ed8c6dcc4aa77adfa" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u</name>
+        <initializer>=
+[
+    [ &quot;BenchmarkScore&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#aa72a1ca6f5e1490774b766c8c9cc9801&quot;, null ],
+    [ &quot;BestUse&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a9de5246b116d06d7783ef5e06e2d8cc0&quot;, null ],
+    [ &quot;Brand&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a8afab1e0fe83bfe730cffbe144d11a09&quot;, null ],
+    [ &quot;ClockSpeed&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#acfe3c728a749c0433530e2667ab2fdd4&quot;, null ],
+    [ &quot;GpuId&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a94f2a1bac2d93ecbbeb724da3a08755b&quot;, null ],
+    [ &quot;GpuLength&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a584361d4507698bc9cb51fee3154102d&quot;, null ],
+    [ &quot;GpuRamSize&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a15f0b0b6bcdcdcda0541944b331cbf92&quot;, null ],
+    [ &quot;Model&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a315da092d9c9524158f89139ce027152&quot;, null ],
+    [ &quot;PciPinConnector1&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#aa3948c4837e919bd13b83c17a5e0a221&quot;, null ],
+    [ &quot;PciPinConnector2&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#ab4cd6e4b85bd065395392d870043235d&quot;, null ],
+    [ &quot;PciPinConnector3&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#ababb8f55a980a75c24e3f0a3eddb3049&quot;, null ],
+    [ &quot;PowerRequirement&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a333b107c1d0bf013dc42a41d86033f7f&quot;, null ],
+    [ &quot;Price&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#ac3a4b525102cbae0f080ce1afae79c7f&quot;, null ],
+    [ &quot;ProductLineName&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a8d5a1828631eda6bef943c87646564fd&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BenchmarkScore&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#aa72a1ca6f5e1490774b766c8c9cc9801&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BestUse&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a9de5246b116d06d7783ef5e06e2d8cc0&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Brand&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a8afab1e0fe83bfe730cffbe144d11a09&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ClockSpeed&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#acfe3c728a749c0433530e2667ab2fdd4&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GpuId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a94f2a1bac2d93ecbbeb724da3a08755b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GpuLength&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a584361d4507698bc9cb51fee3154102d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GpuRamSize&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a15f0b0b6bcdcdcda0541944b331cbf92&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Model&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a315da092d9c9524158f89139ce027152&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PciPinConnector1&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#aa3948c4837e919bd13b83c17a5e0a221&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PciPinConnector2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#ab4cd6e4b85bd065395392d870043235d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PciPinConnector3&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#ababb8f55a980a75c24e3f0a3eddb3049&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PowerRequirement&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a333b107c1d0bf013dc42a41d86033f7f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#ac3a4b525102cbae0f080ce1afae79c7f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ProductLineName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.html#a8d5a1828631eda6bef943c87646564fd&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="17"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u.js"/>
+  </compounddef>
+</doxygen>

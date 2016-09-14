@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::AspNetUser</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a90fbe4981800475e56eaa613862f24e1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUser.Id</definition>
+        <argsstring></argsstring>
+        <name>Id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="11" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a4cc78fad14702a22cdac76ec509a0027" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUser.Email</definition>
+        <argsstring></argsstring>
+        <name>Email</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a25e057f79a8f118f0f3aedbd4f814100" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.AspNetUser.EmailConfirmed</definition>
+        <argsstring></argsstring>
+        <name>EmailConfirmed</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a8c7f19af5fd87f87a9de0bbf0cad70b4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUser.PasswordHash</definition>
+        <argsstring></argsstring>
+        <name>PasswordHash</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a4ce9973b3197d4df7afceb114de1ed02" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUser.SecurityStamp</definition>
+        <argsstring></argsstring>
+        <name>SecurityStamp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1ac7c0f6805d8b63e8abd8f65974a61e6a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUser.PhoneNumber</definition>
+        <argsstring></argsstring>
+        <name>PhoneNumber</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a568b46a09dfeed9358947aa86918b436" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.AspNetUser.PhoneNumberConfirmed</definition>
+        <argsstring></argsstring>
+        <name>PhoneNumberConfirmed</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a110b3fe4ae21ec55c2de2f0a9060a45f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.AspNetUser.TwoFactorEnabled</definition>
+        <argsstring></argsstring>
+        <name>TwoFactorEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="26" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1aa8e0aaa81edecad42a0d095964e23858" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DateTime</type>
+        <definition>DateTime PCBuilderMVC.Models.AspNetUser.LockoutEndDateUtc</definition>
+        <argsstring></argsstring>
+        <name>LockoutEndDateUtc</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a205da1a1c47d449f791a9f05fbc8044e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderMVC.Models.AspNetUser.LockoutEnabled</definition>
+        <argsstring></argsstring>
+        <name>LockoutEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1acbe8b92a84b0a9483fd62a43aa81e7ea" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int PCBuilderMVC.Models.AspNetUser.AccessFailedCount</definition>
+        <argsstring></argsstring>
+        <name>AccessFailedCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="32" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a4938afd6ca34794d77b6c5b7d7bea67a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Models.AspNetUser.UserName</definition>
+        <argsstring></argsstring>
+        <name>UserName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="36" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" line="10" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/AspNetUser.cs" bodystart="9" bodyend="37"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1acbe8b92a84b0a9483fd62a43aa81e7ea" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>AccessFailedCount</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a4cc78fad14702a22cdac76ec509a0027" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>Email</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a25e057f79a8f118f0f3aedbd4f814100" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>EmailConfirmed</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a90fbe4981800475e56eaa613862f24e1" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>Id</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a205da1a1c47d449f791a9f05fbc8044e" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>LockoutEnabled</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1aa8e0aaa81edecad42a0d095964e23858" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>LockoutEndDateUtc</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a8c7f19af5fd87f87a9de0bbf0cad70b4" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>PasswordHash</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1ac7c0f6805d8b63e8abd8f65974a61e6a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>PhoneNumber</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a568b46a09dfeed9358947aa86918b436" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>PhoneNumberConfirmed</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a4ce9973b3197d4df7afceb114de1ed02" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>SecurityStamp</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a110b3fe4ae21ec55c2de2f0a9060a45f" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>TwoFactorEnabled</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user_1a4938afd6ca34794d77b6c5b7d7bea67a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::AspNetUser</scope><name>UserName</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

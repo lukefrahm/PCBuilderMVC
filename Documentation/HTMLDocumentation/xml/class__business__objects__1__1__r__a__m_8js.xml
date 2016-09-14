@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__r__a__m_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_r_a_m.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__r__a__m_8js_1affd9d0f9433f3ee02435e2d2dd693e63" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_r_a_m</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_r_a_m</name>
+        <initializer>=
+[
+    [ &quot;RAM&quot;, &quot;class_business_objects_1_1_r_a_m.html#ae7ed2981f24613ded0d4548f69c21fd2&quot;, null ],
+    [ &quot;RAM&quot;, &quot;class_business_objects_1_1_r_a_m.html#ad7c04e059617e0e6079a522b094447ee&quot;, null ],
+    [ &quot;BestUse&quot;, &quot;class_business_objects_1_1_r_a_m.html#a0e3c6d92e6c2e5f75d70edb767b2c2a8&quot;, null ],
+    [ &quot;Brand&quot;, &quot;class_business_objects_1_1_r_a_m.html#a4dfa2882b19602b838c3e9d8dc656425&quot;, null ],
+    [ &quot;Model&quot;, &quot;class_business_objects_1_1_r_a_m.html#a5257e52ca28df485444c421d090e43c1&quot;, null ],
+    [ &quot;Price&quot;, &quot;class_business_objects_1_1_r_a_m.html#a5c1cb02359b4908bf7fe45ad0cd3e3e9&quot;, null ],
+    [ &quot;RamGeneration&quot;, &quot;class_business_objects_1_1_r_a_m.html#a3da6a18cad1ac762e782d1b3d5eca3d9&quot;, null ],
+    [ &quot;RamId&quot;, &quot;class_business_objects_1_1_r_a_m.html#ad0f0e0f63d2f2a4432595cac2f1f58ca&quot;, null ],
+    [ &quot;RamSize&quot;, &quot;class_business_objects_1_1_r_a_m.html#ace2ef22fd75192449619bfb92fcf6030&quot;, null ],
+    [ &quot;RamSpeed&quot;, &quot;class_business_objects_1_1_r_a_m.html#a1949f3ef309963d68b59d12227cf2914&quot;, null ],
+    [ &quot;RamTimings&quot;, &quot;class_business_objects_1_1_r_a_m.html#a2c1451ad4b0b186ba5848c4ee1e79c44&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_r_a_m.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_r_a_m.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_r_a_m<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAM&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#ae7ed2981f24613ded0d4548f69c21fd2&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAM&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#ad7c04e059617e0e6079a522b094447ee&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BestUse&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#a0e3c6d92e6c2e5f75d70edb767b2c2a8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Brand&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#a4dfa2882b19602b838c3e9d8dc656425&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Model&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#a5257e52ca28df485444c421d090e43c1&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#a5c1cb02359b4908bf7fe45ad0cd3e3e9&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamGeneration&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#a3da6a18cad1ac762e782d1b3d5eca3d9&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#ad0f0e0f63d2f2a4432595cac2f1f58ca&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamSize&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#ace2ef22fd75192449619bfb92fcf6030&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamSpeed&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#a1949f3ef309963d68b59d12227cf2914&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamTimings&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_r_a_m.html#a2c1451ad4b0b186ba5848c4ee1e79c44&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="14"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_r_a_m.js"/>
+  </compounddef>
+</doxygen>

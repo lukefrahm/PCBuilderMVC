@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace_p_c_builder_forms" kind="namespace" language="C#">
+    <compoundname>PCBuilderForms</compoundname>
+    <innerclass refid="class_p_c_builder_forms_1_1_app" prot="public">PCBuilderForms::App</innerclass>
+    <innerclass refid="class_p_c_builder_forms_1_1_build_results" prot="public">PCBuilderForms::BuildResults</innerclass>
+    <innerclass refid="class_p_c_builder_forms_1_1_log_in" prot="public">PCBuilderForms::LogIn</innerclass>
+    <innerclass refid="class_p_c_builder_forms_1_1_main_window" prot="public">PCBuilderForms::MainWindow</innerclass>
+    <innerclass refid="class_p_c_builder_forms_1_1_questionnaire" prot="public">PCBuilderForms::Questionnaire</innerclass>
+    <innerclass refid="class_p_c_builder_forms_1_1_window1" prot="public">PCBuilderForms::Window1</innerclass>
+    <innernamespace refid="namespace_p_c_builder_forms_1_1_properties">PCBuilderForms::Properties</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/App.xaml.cs" line="10" column="1"/>
+  </compounddef>
+</doxygen>

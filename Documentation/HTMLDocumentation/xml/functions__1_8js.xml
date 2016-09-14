@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="functions__1_8js" kind="file" language="Javascript">
+    <compoundname>functions_1.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="functions__1_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;configureauth&apos;,[&apos;ConfigureAuth&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_startup.html#a0815b20f969548d7c06f8b286977f14c&apos;,1,&apos;<ref refid="class_p_c_builder_m_v_c_1_1_startup" kindref="compound">PCBuilderMVC::Startup</ref>&apos;]]],
+  [&apos;cpu&apos;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/functions_1.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/functions_1.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;configureauth&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;ConfigureAuth&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_startup.html#a0815b20f969548d7c06f8b286977f14c&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::Startup&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;cpu&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;CPU&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_c_p_u.html#add17fa319f02b438c60fddf8e0d6a787&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects.CPU.CPU()&apos;</highlight><highlight class="normal">],[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_c_p_u.html#a13061cd0fcc98d43aa1d2c2cc63a836f&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects.CPU.CPU(int<sp/>cpuId,<sp/>string<sp/>brand,<sp/>string<sp/>model,<sp/>int<sp/>cores,<sp/>bool<sp/>hyperThreaded,<sp/>double<sp/>clockSpeed,<sp/>bool<sp/>unlocked,<sp/>string<sp/>socket,<sp/>string<sp/>productLineName,<sp/>int<sp/>benchmarkScore,<sp/>string<sp/>bestUse,<sp/>int<sp/>powerRequirement,<sp/>decimal<sp/>price)&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;create&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;Create&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_application_user_manager.html#abf2e4bf064febf08f995528ce52545b5&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC::ApplicationUserManager&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="6"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/functions_1.js"/>
+  </compounddef>
+</doxygen>

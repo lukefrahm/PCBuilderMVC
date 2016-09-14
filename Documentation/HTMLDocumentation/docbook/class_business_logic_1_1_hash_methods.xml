@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_logic_1_1_hash_methods">
+<title>BusinessLogic::HashMethods class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static string <link linkend="class_business_logic_1_1_hash_methods_1a8d882378500b661e39d7201d2b89aed2">HashSha256</link> (
+this string source)<para><emphasis>&lt;summary&gt;
+Hashes the passed value.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>static bool <link linkend="class_business_logic_1_1_hash_methods_1a921c0dc701d7a46d7cbdb36e0409f025">VerifySha256Hash</link> (
+this string compareString, string hashString)<para><emphasis>&lt;summary&gt;
+Verifies the sha256 hash.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Hash method class containing the Sha256 hashing method. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 14 of file HashMethods.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>HashMethods.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_logic_1_1_hash_methods_1a8d882378500b661e39d7201d2b89aed2">
+                <title>static string BusinessLogic.HashMethods.HashSha256 (this string source)</title> <emphasis>&lt;summary&gt;
+Hashes the passed value.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>source</entry>
+                                <entry>
+<para>The value to be hashed.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>String of the hashed value.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_hash_methods_1a921c0dc701d7a46d7cbdb36e0409f025">
+                <title>static bool BusinessLogic.HashMethods.VerifySha256Hash (this string compareString, string hashString)</title> <emphasis>&lt;summary&gt;
+Verifies the sha256 hash.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>compareString</entry>
+                                <entry>
+<para>The compare string.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>hashString</entry>
+                                <entry>
+<para>The hash string.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>Boolean value of the result of the comparison.</para>
+</formalpara>
+</para>
+
+            </section>
+</section>

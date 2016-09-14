@@ -1,0 +1,137 @@
+\hypertarget{class_data_access_1_1_c_p_u_accessor}{}\section{Data\+Access.\+C\+P\+U\+Accessor Class Reference}
+\label{class_data_access_1_1_c_p_u_accessor}\index{Data\+Access.\+C\+P\+U\+Accessor@{Data\+Access.\+C\+P\+U\+Accessor}}
+
+
+C\+PU accessor to communicate with database on C\+PU objects.  
+
+
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \hyperlink{class_business_objects_1_1_c_p_u}{C\+PU} \hyperlink{class_data_access_1_1_c_p_u_accessor_a92d43c1a282b8bbaf39e48514f9a54e7}{Retrieve\+C\+P\+U\+By\+Name} (string name)
+\begin{DoxyCompactList}\small\item\em Retrieves a C\+PU by name. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_c_p_u}{C\+PU} $>$ \hyperlink{class_data_access_1_1_c_p_u_accessor_a07c977d60ddb3c98a6de06c2b74f3129}{Retrieve\+C\+P\+Us\+By\+Core\+Count} (int cores)
+\begin{DoxyCompactList}\small\item\em Retrieves C\+P\+Us by core count. \end{DoxyCompactList}\item 
+static int \hyperlink{class_data_access_1_1_c_p_u_accessor_a3bdc9307783a16d68413e856e2be24ee}{Insert\+Cpu} (\hyperlink{class_business_objects_1_1_c_p_u}{C\+PU} cpu)
+\begin{DoxyCompactList}\small\item\em Inserts a new C\+PU. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_c_p_u}{C\+PU} $>$ \hyperlink{class_data_access_1_1_c_p_u_accessor_af33b1affd73312b1cad5637dd2f66aec}{Retrieve\+All\+C\+PU} ()
+\begin{DoxyCompactList}\small\item\em Retrieves all C\+P\+Us. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+C\+PU accessor to communicate with database on C\+PU objects. 
+
+
+
+Definition at line 15 of file C\+P\+U\+Accessor.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\index{Data\+Access\+::\+C\+P\+U\+Accessor@{Data\+Access\+::\+C\+P\+U\+Accessor}!Insert\+Cpu@{Insert\+Cpu}}
+\index{Insert\+Cpu@{Insert\+Cpu}!Data\+Access\+::\+C\+P\+U\+Accessor@{Data\+Access\+::\+C\+P\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Insert\+Cpu(\+C\+P\+U cpu)}{InsertCpu(CPU cpu)}}]{\setlength{\rightskip}{0pt plus 5cm}static int Data\+Access.\+C\+P\+U\+Accessor.\+Insert\+Cpu (
+\begin{DoxyParamCaption}
+\item[{{\bf C\+PU}}]{cpu}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_c_p_u_accessor_a3bdc9307783a16d68413e856e2be24ee}{}\label{class_data_access_1_1_c_p_u_accessor_a3bdc9307783a16d68413e856e2be24ee}
+
+
+Inserts a new C\+PU. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em cpu} & The cpu.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Count of rows affected.
+\end{DoxyReturn}
+
+
+Definition at line 137 of file C\+P\+U\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+C\+P\+U\+Accessor@{Data\+Access\+::\+C\+P\+U\+Accessor}!Retrieve\+All\+C\+PU@{Retrieve\+All\+C\+PU}}
+\index{Retrieve\+All\+C\+PU@{Retrieve\+All\+C\+PU}!Data\+Access\+::\+C\+P\+U\+Accessor@{Data\+Access\+::\+C\+P\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+All\+C\+P\+U()}{RetrieveAllCPU()}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf C\+PU}$>$ Data\+Access.\+C\+P\+U\+Accessor.\+Retrieve\+All\+C\+PU (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_c_p_u_accessor_af33b1affd73312b1cad5637dd2f66aec}{}\label{class_data_access_1_1_c_p_u_accessor_af33b1affd73312b1cad5637dd2f66aec}
+
+
+Retrieves all C\+P\+Us. 
+
+\begin{DoxyReturn}{Returns}
+Lsit of C\+PU objects.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found.\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 182 of file C\+P\+U\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+C\+P\+U\+Accessor@{Data\+Access\+::\+C\+P\+U\+Accessor}!Retrieve\+C\+P\+U\+By\+Name@{Retrieve\+C\+P\+U\+By\+Name}}
+\index{Retrieve\+C\+P\+U\+By\+Name@{Retrieve\+C\+P\+U\+By\+Name}!Data\+Access\+::\+C\+P\+U\+Accessor@{Data\+Access\+::\+C\+P\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+C\+P\+U\+By\+Name(string name)}{RetrieveCPUByName(string name)}}]{\setlength{\rightskip}{0pt plus 5cm}static {\bf C\+PU} Data\+Access.\+C\+P\+U\+Accessor.\+Retrieve\+C\+P\+U\+By\+Name (
+\begin{DoxyParamCaption}
+\item[{string}]{name}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_c_p_u_accessor_a92d43c1a282b8bbaf39e48514f9a54e7}{}\label{class_data_access_1_1_c_p_u_accessor_a92d43c1a282b8bbaf39e48514f9a54e7}
+
+
+Retrieves a C\+PU by name. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & The name.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+C\+PU object.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 23 of file C\+P\+U\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+C\+P\+U\+Accessor@{Data\+Access\+::\+C\+P\+U\+Accessor}!Retrieve\+C\+P\+Us\+By\+Core\+Count@{Retrieve\+C\+P\+Us\+By\+Core\+Count}}
+\index{Retrieve\+C\+P\+Us\+By\+Core\+Count@{Retrieve\+C\+P\+Us\+By\+Core\+Count}!Data\+Access\+::\+C\+P\+U\+Accessor@{Data\+Access\+::\+C\+P\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+C\+P\+Us\+By\+Core\+Count(int cores)}{RetrieveCPUsByCoreCount(int cores)}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf C\+PU}$>$ Data\+Access.\+C\+P\+U\+Accessor.\+Retrieve\+C\+P\+Us\+By\+Core\+Count (
+\begin{DoxyParamCaption}
+\item[{int}]{cores}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_c_p_u_accessor_a07c977d60ddb3c98a6de06c2b74f3129}{}\label{class_data_access_1_1_c_p_u_accessor_a07c977d60ddb3c98a6de06c2b74f3129}
+
+
+Retrieves C\+P\+Us by core count. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em cores} & The cores.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+List of C\+PU objects.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 80 of file C\+P\+U\+Accessor.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/nh228u08/\+Desktop/\+Final\+Project/\+Final\+Project/\+P\+C\+Builder/\+Data\+Access/C\+P\+U\+Accessor.\+cs\end{DoxyCompactItemize}

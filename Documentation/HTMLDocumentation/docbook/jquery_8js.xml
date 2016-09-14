@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="jquery_8js">
+    <title>jquery.js File Reference</title>
+        <section>
+            <title>Variables</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="jquery_8js_1a1d6558865876e1c8cca029fce41a4bdb">bb</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="jquery_8js_1a38ee4c0b5f4fe2a18d0c783af540d253">L</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1ac0431efac4d7c393d1e70b86115cb93f">b</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1a4fd8ddfab07c8d7c7cae0ab0e052cad3">au</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>b fn <link linkend="jquery_8js_1aa8c6af259210b33d20642f8ee70cbfa4">css</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>b <link linkend="jquery_8js_1a88b21f8ba3af86d6981b1da520ece33b">curCSS</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="jquery_8js_1adc18d83abfd9f87d396e8fd6b6ac0fe1">Z</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1ab26645c014aa005ecedef329ecf58c99">k</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1a6ddf393cc7f9a8828e197bb0d9916c44">ap</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1ae77642f8ef73fb9c20c2a737d956acda">bs</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1af6ee77c71b2c89bdb365145ac5ad1219">bq</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1ad223f5fba68c41c1236671ac5c5b0fcb">aD</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1ac87125cdee1a5e57da4ef619af49bc7d">aZ</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1a8cc6111a5def3ea889157d13fb9a9672">aM</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1a79eb58dc6cdf0aef563d5dc1ded27df5">aQ</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="jquery_8js_1ad9d1ac02e33c4aed62ad517a7cb8b3fb">c</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Functions</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>b <link linkend="jquery_8js_1a5fb206c91c64d1be35fde236706eab86">extend</link> (
+{cssHooks:{opacity:{get:function(bw, bv){if(bv){var e=Z(bw,&quot;opacity&quot;,&quot;opacity&quot;);return e===&quot;&quot;?&quot;1&quot;:e}else{return bw.style.opacity}}}}, cssNumber:{fillOpacity:true, fontWeight:true, lineHeight:true, opacity:true, orphans:true, widows:true, zIndex:true, zoom:true}, cssProps:{&quot;float&quot;:b.support.cssFloat?&quot;cssFloat&quot;:&quot;styleFloat&quot;}, style:function(bx, bw, bD, by){if(!bx||bx.nodeType===3||bx.nodeType===8||!bx.style){return}var bB, bC, bz=b.camelCase(bw), bv=bx.style, bE=b.cssHooks[bz];bw=b.cssProps[bz]||bz;if(bD!==L){bC=typeof bD;if(bC===&quot;string&quot;&amp;&amp;(bB=I.exec(bD))){bD=(+(bB[1]+1)*+bB[2])+parseFloat(b.css(bx, bw));bC=&quot;number&quot;}if(bD==null||bC===&quot;number&quot;&amp;&amp;isNaN(bD)){return}if(bC===&quot;number&quot;&amp;&amp;!b.cssNumber[bz]){bD+=&quot;px&quot;}if(!bE||!(&quot;set&quot;in bE)||(bD=bE.set(bx, bD))!==L){try{bv[bw]=bD}catch(bA){}}}else{if(bE &amp;&amp;&quot;get&quot;in bE &amp;&amp;(bB=bE.get(bx, false, by))!==L){return bB}return bv[bw]}}, css:function(by, bx, bv){var bw, e;bx=b.camelCase(bx);e=b.cssHooks[bx];bx=b.cssProps[bx]||bx;if(bx===&quot;cssFloat&quot;){bx=&quot;float&quot;}if(e &amp;&amp;&quot;get&quot;in e &amp;&amp;(bw=e.get(by, true, bv))!==L){return bw}else{if(Z){return Z(by, bx)}}}, swap:function(bx, bw, by){var e={};for(var bv in bw){e[bv]=bx.style[bv];bx.style[bv]=bw[bv]}by.call(bx);for(bv in bw){bx.style[bv]=e[bv]}}} )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>b <link linkend="jquery_8js_1a871ff39db627c54c710a3e9909b8234c">each</link> (
+function(bv, e){b.cssHooks[e]={get:function(by, bx, bw){var bz;if(bx){if(by.offsetWidth!==0){return p(by, e, bw)}else{b.swap(by, a7, function(){bz=p(by, e, bw)})}return bz}}, set:function(bw, bx){if(bc.test(bx)){bx=parseFloat(bx);if(bx &gt;=0){return bx+&quot;px&quot;}}else{return bx}}}} )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="jquery_8js_1a9db6d45a025ad692282fe23e69eeba43">if</link> (
+!b.support. opacity)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="jquery_8js_1a2fa551895933fae935a0a6b87282241d">b</link> (
+function(){if(!b.support.reliableMarginRight){b.cssHooks.marginRight={get:function(bw, bv){var e;b.swap(bw,{display:&quot;inline-block&quot;}, function(){if(bv){e=Z(bw,&quot;margin-right&quot;,&quot;marginRight&quot;)}else{e=bw.style.marginRight}});return e}}}} )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="jquery_8js_1a30d3d2cd5b567c9f31b2aa30b9cb3bb8">if</link> (
+av.defaultView &amp;&amp;av.defaultView. getComputedStyle)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="jquery_8js_1a2c54bd8ed7482e89d19331ba61fe221c">if</link> (
+av.documentElement. currentStyle)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="jquery_8js_1a2335e57f79b6acfb6de59c235dc8a83e">p</link> (
+by , bw , bv )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="jquery_8js_1a42cbfadee2b4749e8f699ea8d745a0e4">if</link> (
+b.expr &amp;&amp;b.expr. filters)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/jquery.js</para>
+    </simplesect>
+</section>

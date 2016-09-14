@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__g__p__u_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_g_p_u.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__g__p__u_8js_1afe50a540df793f2d9f77e7a34346dea4" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_g_p_u</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_g_p_u</name>
+        <initializer>=
+[
+    [ &quot;GPU&quot;, &quot;class_business_objects_1_1_g_p_u.html#ab773228207f38d564b424c819a4fc9c8&quot;, null ],
+    [ &quot;GPU&quot;, &quot;class_business_objects_1_1_g_p_u.html#a444248551f8e905f4e5cbfa1e6f9b90a&quot;, null ],
+    [ &quot;BenchmarkScore&quot;, &quot;class_business_objects_1_1_g_p_u.html#a5e71ca43b91549127e3303966f9c1883&quot;, null ],
+    [ &quot;BestUse&quot;, &quot;class_business_objects_1_1_g_p_u.html#a8cb10d609af32f50b4efaa38fcff82da&quot;, null ],
+    [ &quot;Brand&quot;, &quot;class_business_objects_1_1_g_p_u.html#af2f55e8a9725448cead02124bbab762d&quot;, null ],
+    [ &quot;ClockSpeed&quot;, &quot;class_business_objects_1_1_g_p_u.html#a1b68b71a45aad6cdea19b43d6043c69b&quot;, null ],
+    [ &quot;GpuId&quot;, &quot;class_business_objects_1_1_g_p_u.html#afeb1e8b9b58e0400721046e676cc3614&quot;, null ],
+    [ &quot;GpuLength&quot;, &quot;class_business_objects_1_1_g_p_u.html#ab5a737850479b96f7530d4c852acc4b8&quot;, null ],
+    [ &quot;GpuRamSize&quot;, &quot;class_business_objects_1_1_g_p_u.html#ab38f21d1da4e4b6d16bc00e1a3077c38&quot;, null ],
+    [ &quot;Model&quot;, &quot;class_business_objects_1_1_g_p_u.html#aa9e024751d02378f97e24e80cb8dfc22&quot;, null ],
+    [ &quot;PciPinConnector1&quot;, &quot;class_business_objects_1_1_g_p_u.html#a2d08d354f962c6c77cd9e29e623f776f&quot;, null ],
+    [ &quot;PciPinConnector2&quot;, &quot;class_business_objects_1_1_g_p_u.html#a29b8be931b594510733fb12ebafda81b&quot;, null ],
+    [ &quot;PciPinConnector3&quot;, &quot;class_business_objects_1_1_g_p_u.html#a3c73e1c2905ca5c93207dc84537c71bc&quot;, null ],
+    [ &quot;PowerRequirement&quot;, &quot;class_business_objects_1_1_g_p_u.html#a28e5f1a2955634bdb563d5ae5904d9ce&quot;, null ],
+    [ &quot;Price&quot;, &quot;class_business_objects_1_1_g_p_u.html#a2640d3a1607005bb9c89a39218aa3e39&quot;, null ],
+    [ &quot;ProductLineName&quot;, &quot;class_business_objects_1_1_g_p_u.html#a30166940091fc02016e2c16b942b8f81&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_g_p_u.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_g_p_u.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_g_p_u<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPU&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#ab773228207f38d564b424c819a4fc9c8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPU&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#a444248551f8e905f4e5cbfa1e6f9b90a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BenchmarkScore&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#a5e71ca43b91549127e3303966f9c1883&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BestUse&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#a8cb10d609af32f50b4efaa38fcff82da&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Brand&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#af2f55e8a9725448cead02124bbab762d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ClockSpeed&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#a1b68b71a45aad6cdea19b43d6043c69b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GpuId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#afeb1e8b9b58e0400721046e676cc3614&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GpuLength&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#ab5a737850479b96f7530d4c852acc4b8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GpuRamSize&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#ab38f21d1da4e4b6d16bc00e1a3077c38&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Model&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#aa9e024751d02378f97e24e80cb8dfc22&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PciPinConnector1&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#a2d08d354f962c6c77cd9e29e623f776f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PciPinConnector2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#a29b8be931b594510733fb12ebafda81b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PciPinConnector3&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#a3c73e1c2905ca5c93207dc84537c71bc&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PowerRequirement&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#a28e5f1a2955634bdb563d5ae5904d9ce&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#a2640d3a1607005bb9c89a39218aa3e39&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ProductLineName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_g_p_u.html#a30166940091fc02016e2c16b942b8f81&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="19"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_g_p_u.js"/>
+  </compounddef>
+</doxygen>

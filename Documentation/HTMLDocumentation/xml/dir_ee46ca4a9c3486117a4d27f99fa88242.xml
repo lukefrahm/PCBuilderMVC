@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_ee46ca4a9c3486117a4d27f99fa88242" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Migrations</compoundname>
+    <innerfile refid="201605040324555___initial_create_8cs">201605040324555_InitialCreate.cs</innerfile>
+    <innerfile refid="201605040324555___initial_create_8_designer_8cs">201605040324555_InitialCreate.Designer.cs</innerfile>
+    <innerfile refid="201605042345510__dbupdate1_8cs">201605042345510_dbupdate1.cs</innerfile>
+    <innerfile refid="201605042345510__dbupdate1_8_designer_8cs">201605042345510_dbupdate1.Designer.cs</innerfile>
+    <innerfile refid="_configuration_8cs">Configuration.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Migrations/"/>
+  </compounddef>
+</doxygen>

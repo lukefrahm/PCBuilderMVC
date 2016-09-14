@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__controllers__1__1__user__controller_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__controllers__1__1__user__controller_8js_1aef86912146a446ad79da7ecbd5446319" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller</name>
+        <initializer>=
+[
+    [ &quot;Create&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#a018c24eba9f929387f7c426c7799a1a8&quot;, null ],
+    [ &quot;Create&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#af8027c377046c4a30aaf6b0c6d80b967&quot;, null ],
+    [ &quot;Delete&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#afeff41f0a91f9d77d4ec0e81471bd649&quot;, null ],
+    [ &quot;DeleteConfirmed&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#a6fc23363eff6bad1a8f2f08143d89b60&quot;, null ],
+    [ &quot;Details&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#ab4bcb8a7721fd91cd6e769a6c5f2111a&quot;, null ],
+    [ &quot;Dispose&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#af8e537824aef9d778ef7158795528d66&quot;, null ],
+    [ &quot;Edit&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#a2e149503159c884e4f0cb1c6daca1279&quot;, null ],
+    [ &quot;Edit&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#a84cf30a139a0cda5551411ee29654729&quot;, null ],
+    [ &quot;Index&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#a2dc3bcfa12cbd3193881110bb2bcf079&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Create&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#a018c24eba9f929387f7c426c7799a1a8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Create&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#af8027c377046c4a30aaf6b0c6d80b967&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Delete&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#afeff41f0a91f9d77d4ec0e81471bd649&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;DeleteConfirmed&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#a6fc23363eff6bad1a8f2f08143d89b60&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Details&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#ab4bcb8a7721fd91cd6e769a6c5f2111a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Dispose&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#af8e537824aef9d778ef7158795528d66&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Edit&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#a2e149503159c884e4f0cb1c6daca1279&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Edit&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#a84cf30a139a0cda5551411ee29654729&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Index&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html#a2dc3bcfa12cbd3193881110bb2bcf079&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="12"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.js"/>
+  </compounddef>
+</doxygen>

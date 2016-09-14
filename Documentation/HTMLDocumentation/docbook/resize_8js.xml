@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="resize_8js">
+    <title>resize.js File Reference</title>
+        <section>
+            <title>Variables</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="resize_8js_1ab3321080c64c8797ebbcd6e30982c62c">cookie_namespace</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="resize_8js_1a9a7b07fe0df5af5957564912e842c0a4">sidenav</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="resize_8js_1a711d37a3374012d4f6060fffe0abea55">navtree</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="resize_8js_1abaa405b2de1fea05ef421122098b4750">content</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="resize_8js_1af920c2a7d4f4b5a962fe8e11257f871d">header</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Functions</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="resize_8js_1a578d54a5ebd9224fad0213048e7a49a7">readCookie</link> (
+cookie )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="resize_8js_1ad0822459a7d442b8c5e4db795d0aabb4">writeCookie</link> (
+cookie , val , expiration )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="resize_8js_1a99942f5b5c75445364f2437051090367">resizeWidth</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="resize_8js_1a517273f9259c941fd618dda7a901e6c2">restoreWidth</link> (
+navWidth )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="resize_8js_1a4bd3414bc1780222b192bcf33b645804">resizeHeight</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="resize_8js_1a4d56aa7aa73d0ddf385565075fdfe271">initResizable</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js</para>
+    </simplesect>
+</section>

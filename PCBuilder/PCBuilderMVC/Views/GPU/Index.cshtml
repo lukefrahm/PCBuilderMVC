@@ -1,0 +1,105 @@
+﻿@model IEnumerable<PCBuilderMVC.Models.GPU>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ClockSpeed)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductLineName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BenchmarkScore)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BestUse)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GpuRamSize)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PciPinConnector1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PciPinConnector2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PciPinConnector3)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PowerRequirement)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GpuLength)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Brand)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ClockSpeed)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductLineName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BenchmarkScore)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BestUse)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GpuRamSize)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PciPinConnector1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PciPinConnector2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PciPinConnector3)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PowerRequirement)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GpuLength)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.GpuId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.GpuId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.GpuId })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller">
+<title>PCBuilderMVC::Controllers::StorageController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a545a7718bc091a62a8616bc775db274b">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a4d127ebd20dad7db886ca02ebdf3de79">Details</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a066b849b419e238c561a2bfd1941d66f">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a2db58dc1d934110e60e558e4ee38fa21">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_storage">Storage</link> storage)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1ac2c5d09f67d8b57ee5fcb692c641b81a">Edit</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a9997b8e8da2922dcc862fb7af42bd3b6">Edit</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_storage">Storage</link> storage)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a61ceedb8611f731f1ce504a3eef2501c">Delete</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a18152d71e23f19834e73f8cc958a6f57">DeleteConfirmed</link> (
+int id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a0c273911b28a7a4d9368775d9a7cc007">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Storage controller class to handle Storage views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file StorageController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>StorageController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a545a7718bc091a62a8616bc775db274b">
+                <title>ActionResult PCBuilderMVC.Controllers.StorageController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a4d127ebd20dad7db886ca02ebdf3de79">
+                <title>ActionResult PCBuilderMVC.Controllers.StorageController.Details (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a066b849b419e238c561a2bfd1941d66f">
+                <title>ActionResult PCBuilderMVC.Controllers.StorageController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a2db58dc1d934110e60e558e4ee38fa21">
+                <title>ActionResult PCBuilderMVC.Controllers.StorageController.Create ([Bind(Include=&quot;StorageId,Brand,Model,StorageSize,StorageType,BenchmarkScore,StorageSequentialRead,StorageSequentialWrite,StorageRandomRead,StorageRandomWrite,BestUse,Price&quot;)] Storage storage)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1ac2c5d09f67d8b57ee5fcb692c641b81a">
+                <title>ActionResult PCBuilderMVC.Controllers.StorageController.Edit (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a9997b8e8da2922dcc862fb7af42bd3b6">
+                <title>ActionResult PCBuilderMVC.Controllers.StorageController.Edit ([Bind(Include=&quot;StorageId,Brand,Model,StorageSize,StorageType,BenchmarkScore,StorageSequentialRead,StorageSequentialWrite,StorageRandomRead,StorageRandomWrite,BestUse,Price&quot;)] Storage storage)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a61ceedb8611f731f1ce504a3eef2501c">
+                <title>ActionResult PCBuilderMVC.Controllers.StorageController.Delete (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a18152d71e23f19834e73f8cc958a6f57">
+                <title>ActionResult PCBuilderMVC.Controllers.StorageController.DeleteConfirmed (int id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller_1a0c273911b28a7a4d9368775d9a7cc007">
+                <title>override void PCBuilderMVC.Controllers.StorageController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

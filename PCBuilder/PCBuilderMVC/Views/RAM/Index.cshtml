@@ -1,0 +1,75 @@
+﻿@model IEnumerable<PCBuilderMVC.Models.RAM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RamSize)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RamGeneration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RamSpeed)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RamTimings)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BestUse)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Brand)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RamSize)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RamGeneration)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RamSpeed)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RamTimings)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BestUse)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.RamId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.RamId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.RamId })
+        </td>
+    </tr>
+}
+
+</table>

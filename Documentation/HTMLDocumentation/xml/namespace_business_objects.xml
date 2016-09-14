@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace_business_objects" kind="namespace" language="C#">
+    <compoundname>BusinessObjects</compoundname>
+    <innerclass refid="class_business_objects_1_1_access_token" prot="public">BusinessObjects::AccessToken</innerclass>
+    <innerclass refid="class_business_objects_1_1_build_properties" prot="public">BusinessObjects::BuildProperties</innerclass>
+    <innerclass refid="class_business_objects_1_1_c_p_u" prot="public">BusinessObjects::CPU</innerclass>
+    <innerclass refid="class_business_objects_1_1_finalized_build" prot="public">BusinessObjects::FinalizedBuild</innerclass>
+    <innerclass refid="class_business_objects_1_1_g_p_u" prot="public">BusinessObjects::GPU</innerclass>
+    <innerclass refid="class_business_objects_1_1_motherboard" prot="public">BusinessObjects::Motherboard</innerclass>
+    <innerclass refid="class_business_objects_1_1_optical" prot="public">BusinessObjects::Optical</innerclass>
+    <innerclass refid="class_business_objects_1_1_p_s_u" prot="public">BusinessObjects::PSU</innerclass>
+    <innerclass refid="class_business_objects_1_1_questionnaire_results" prot="public">BusinessObjects::QuestionnaireResults</innerclass>
+    <innerclass refid="class_business_objects_1_1_r_a_m" prot="public">BusinessObjects::RAM</innerclass>
+    <innerclass refid="class_business_objects_1_1_roles" prot="public">BusinessObjects::Roles</innerclass>
+    <innerclass refid="class_business_objects_1_1_standardized_basic" prot="public">BusinessObjects::StandardizedBasic</innerclass>
+    <innerclass refid="class_business_objects_1_1_standardized_development" prot="public">BusinessObjects::StandardizedDevelopment</innerclass>
+    <innerclass refid="class_business_objects_1_1_standardized_gaming" prot="public">BusinessObjects::StandardizedGaming</innerclass>
+    <innerclass refid="class_business_objects_1_1_standardized_office" prot="public">BusinessObjects::StandardizedOffice</innerclass>
+    <innerclass refid="class_business_objects_1_1_standardized_video_editing" prot="public">BusinessObjects::StandardizedVideoEditing</innerclass>
+    <innerclass refid="class_business_objects_1_1_storage" prot="public">BusinessObjects::Storage</innerclass>
+    <innerclass refid="class_business_objects_1_1_user" prot="public">BusinessObjects::User</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_business_objects_1a640a4d136931381578aad0a180173cfc" prot="public" static="no">
+        <name>Active</name>
+        <enumvalue id="namespace_business_objects_1a640a4d136931381578aad0a180173cfcac76a5e84e4bdee527e274ea30c680d79" prot="public">
+          <name>active</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_business_objects_1a640a4d136931381578aad0a180173cfca19d3894f53ce79c3f836f26cf8a3be3b" prot="public">
+          <name>inactive</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_business_objects_1a640a4d136931381578aad0a180173cfcaa181a603769c1f98ad927e7367c7aa51" prot="public">
+          <name>all</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Enum for active status. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Enums.cs" line="7" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Enums.cs" bodystart="6" bodyend="11"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/AccessToken.cs" line="8" column="1"/>
+  </compounddef>
+</doxygen>

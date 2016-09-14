@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace__p__c__builder__m__v__c_8js" kind="file" language="Javascript">
+    <compoundname>namespace_p_c_builder_m_v_c.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="namespace__p__c__builder__m__v__c_8js_1a807a83346d5dd5f1b5e22d954efccfff" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var namespace_p_c_builder_m_v_c</definition>
+        <argsstring></argsstring>
+        <name>namespace_p_c_builder_m_v_c</name>
+        <initializer>=
+[
+    [ &quot;Controllers&quot;, &quot;namespace_p_c_builder_m_v_c_1_1_controllers.html&quot;, &quot;namespace_p_c_builder_m_v_c_1_1_controllers&quot; ],
+    [ &quot;Migrations&quot;, &quot;namespace_p_c_builder_m_v_c_1_1_migrations.html&quot;, &quot;namespace_p_c_builder_m_v_c_1_1_migrations&quot; ],
+    [ &quot;Models&quot;, &quot;namespace_p_c_builder_m_v_c_1_1_models.html&quot;, &quot;namespace_p_c_builder_m_v_c_1_1_models&quot; ],
+    [ &quot;ApplicationUserManager&quot;, &quot;class_p_c_builder_m_v_c_1_1_application_user_manager.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_application_user_manager&quot; ],
+    [ &quot;BundleConfig&quot;, &quot;class_p_c_builder_m_v_c_1_1_bundle_config.html&quot;, null ],
+    [ &quot;EmailService&quot;, &quot;class_p_c_builder_m_v_c_1_1_email_service.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_email_service&quot; ],
+    [ &quot;FilterConfig&quot;, &quot;class_p_c_builder_m_v_c_1_1_filter_config.html&quot;, null ],
+    [ &quot;MvcApplication&quot;, &quot;class_p_c_builder_m_v_c_1_1_mvc_application.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_mvc_application&quot; ],
+    [ &quot;RouteConfig&quot;, &quot;class_p_c_builder_m_v_c_1_1_route_config.html&quot;, null ],
+    [ &quot;SmsService&quot;, &quot;class_p_c_builder_m_v_c_1_1_sms_service.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_sms_service&quot; ],
+    [ &quot;Startup&quot;, &quot;class_p_c_builder_m_v_c_1_1_startup.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_startup&quot; ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_p_c_builder_m_v_c.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_p_c_builder_m_v_c.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>namespace_p_c_builder_m_v_c<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Controllers&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;namespace_p_c_builder_m_v_c_1_1_controllers.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;namespace_p_c_builder_m_v_c_1_1_controllers&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Migrations&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;namespace_p_c_builder_m_v_c_1_1_migrations.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;namespace_p_c_builder_m_v_c_1_1_migrations&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Models&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;namespace_p_c_builder_m_v_c_1_1_models.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;namespace_p_c_builder_m_v_c_1_1_models&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ApplicationUserManager&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_application_user_manager.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_application_user_manager&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BundleConfig&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_bundle_config.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;EmailService&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_email_service.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_email_service&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FilterConfig&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_filter_config.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MvcApplication&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_mvc_application.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_mvc_application&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RouteConfig&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_route_config.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;SmsService&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_sms_service.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_sms_service&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Startup&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_startup.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_startup&quot;</highlight><highlight class="normal"><sp/>]</highlight></codeline>
+<codeline lineno="14"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_p_c_builder_m_v_c.js"/>
+  </compounddef>
+</doxygen>

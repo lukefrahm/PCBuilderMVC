@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_objects_1_1_g_p_u">
+<title>BusinessObjects::GPU class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_g_p_u_1ab773228207f38d564b424c819a4fc9c8">GPU</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;GPU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_g_p_u_1a444248551f8e905f4e5cbfa1e6f9b90a">GPU</link> (
+int gpuId, string brand, string model, double clockSpeed, string productLineName, int benchmarkScore, string bestUse, int gpuRamSize, int pciPinConnector1, int pciPinConnector2, int pciPinConnector3, int powerRequirement, char gpuLength, decimal price)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;GPU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_business_objects_1_1_g_p_u">GPU</link> object to hold necessary data on the <link linkend="class_business_objects_1_1_g_p_u">GPU</link>. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 18 of file GPU.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>GPU.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_objects_1_1_g_p_u_1ab773228207f38d564b424c819a4fc9c8">
+                <title>BusinessObjects.GPU.GPU ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;GPU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_objects_1_1_g_p_u_1a444248551f8e905f4e5cbfa1e6f9b90a">
+                <title>BusinessObjects.GPU.GPU (int gpuId, string brand, string model, double clockSpeed, string productLineName, int benchmarkScore, string bestUse, int gpuRamSize, int pciPinConnector1, int pciPinConnector2, int pciPinConnector3, int powerRequirement, char gpuLength, decimal price)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;GPU&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>gpuId</entry>
+                                <entry>
+<para>The <link linkend="class_business_objects_1_1_g_p_u">GPU</link> identifier.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>brand</entry>
+                                <entry>
+<para>The brand.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>model</entry>
+                                <entry>
+<para>The model.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>clockSpeed</entry>
+                                <entry>
+<para>The clock speed.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>productLineName</entry>
+                                <entry>
+<para>Name of the product line.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>benchmarkScore</entry>
+                                <entry>
+<para>The benchmark score.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>bestUse</entry>
+                                <entry>
+<para>The best use case.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>gpuRamSize</entry>
+                                <entry>
+<para>Size of the <link linkend="class_business_objects_1_1_g_p_u">GPU</link> ram.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>pciPinConnector1</entry>
+                                <entry>
+<para>The PCIe pin connector #1.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>pciPinConnector2</entry>
+                                <entry>
+<para>The PCIe pin connector #2.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>pciPinConnector3</entry>
+                                <entry>
+<para>The PCIe pin connector #3.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>powerRequirement</entry>
+                                <entry>
+<para>The power requirement.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>gpuLength</entry>
+                                <entry>
+<para>Length of the <link linkend="class_business_objects_1_1_g_p_u">GPU</link>.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>price</entry>
+                                <entry>
+<para>The price.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

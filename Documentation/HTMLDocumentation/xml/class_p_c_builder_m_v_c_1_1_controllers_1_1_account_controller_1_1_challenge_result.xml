@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result" kind="class" language="C#" prot="private">
+    <compoundname>PCBuilderMVC::Controllers::AccountController::ChallengeResult</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">HttpUnauthorizedResult</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1ac7cac910c22fc1c95c7a5a15f575cd5e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Controllers.AccountController.ChallengeResult.LoginProvider</definition>
+        <argsstring></argsstring>
+        <name>LoginProvider</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" line="547" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" bodystart="547" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1ac4ddc0bc44bfccf0a772e482d9499826" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Controllers.AccountController.ChallengeResult.RedirectUri</definition>
+        <argsstring></argsstring>
+        <name>RedirectUri</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" line="548" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" bodystart="548" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1ab685e3369f605b4bb9b92cc3cd7bb68e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string PCBuilderMVC.Controllers.AccountController.ChallengeResult.UserId</definition>
+        <argsstring></argsstring>
+        <name>UserId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" line="549" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" bodystart="549" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1a78cfcbf7db59c5e894ee96c209afc93c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderMVC.Controllers.AccountController.ChallengeResult.ChallengeResult</definition>
+        <argsstring>(string provider, string redirectUri)</argsstring>
+        <name>ChallengeResult</name>
+        <param>
+          <type>string</type>
+          <declname>provider</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>redirectUri</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" line="536" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" bodystart="536" bodyend="538"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1a2a6e6c2056b0b9ace59f8cc2e0357a64" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderMVC.Controllers.AccountController.ChallengeResult.ChallengeResult</definition>
+        <argsstring>(string provider, string redirectUri, string userId)</argsstring>
+        <name>ChallengeResult</name>
+        <param>
+          <type>string</type>
+          <declname>provider</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>redirectUri</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>userId</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" line="540" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" bodystart="540" bodyend="545"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1ab13dcc9d19f257e306f78f7e96e3fcd1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void PCBuilderMVC.Controllers.AccountController.ChallengeResult.ExecuteResult</definition>
+        <argsstring>(ControllerContext context)</argsstring>
+        <name>ExecuteResult</name>
+        <param>
+          <type>ControllerContext</type>
+          <declname>context</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" line="551" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" bodystart="551" bodyend="559"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="65">
+        <label>PCBuilderMVC.Controllers.AccountController.ChallengeResult</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result"/>
+        <childnode refid="66" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="66">
+        <label>HttpUnauthorizedResult</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="67">
+        <label>PCBuilderMVC.Controllers.AccountController.ChallengeResult</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result"/>
+        <childnode refid="68" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="68">
+        <label>HttpUnauthorizedResult</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" line="535" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers/AccountController.cs" bodystart="534" bodyend="560"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1a78cfcbf7db59c5e894ee96c209afc93c" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::AccountController::ChallengeResult</scope><name>ChallengeResult</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1a2a6e6c2056b0b9ace59f8cc2e0357a64" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::AccountController::ChallengeResult</scope><name>ChallengeResult</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1ab13dcc9d19f257e306f78f7e96e3fcd1" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::AccountController::ChallengeResult</scope><name>ExecuteResult</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1ac7cac910c22fc1c95c7a5a15f575cd5e" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::AccountController::ChallengeResult</scope><name>LoginProvider</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1ac4ddc0bc44bfccf0a772e482d9499826" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::AccountController::ChallengeResult</scope><name>RedirectUri</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1ab685e3369f605b4bb9b92cc3cd7bb68e" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Controllers::AccountController::ChallengeResult</scope><name>UserId</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

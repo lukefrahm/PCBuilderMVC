@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_data_access_1_1_optical_accessor" kind="class" language="C#" prot="public">
+    <compoundname>DataAccess::OpticalAccessor</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_data_access_1_1_optical_accessor_1ac26fe61270034ab1ca7d39cc898758ad" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref></type>
+        <definition>static Optical DataAccess.OpticalAccessor.RetrieveOpticalByName</definition>
+        <argsstring>(string name)</argsstring>
+        <name>RetrieveOpticalByName</name>
+        <param>
+          <type>string</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves optical drive by name. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Optical drive object</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/OpticalAccessor.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/OpticalAccessor.cs" bodystart="23" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_optical_accessor_1aec2da606590647ae3e6c6b80e6f920f2" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref> &gt;</type>
+        <definition>static List&lt;Optical&gt; DataAccess.OpticalAccessor.RetrieveOpticalsByType</definition>
+        <argsstring>(string type)</argsstring>
+        <name>RetrieveOpticalsByType</name>
+        <param>
+          <type>string</type>
+          <declname>type</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves optical drives by type. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>type</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The type.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>List of optical drives.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/OpticalAccessor.cs" line="72" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/OpticalAccessor.cs" bodystart="72" bodyend="114"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_optical_accessor_1aa2e6060824ca3ba994c360fc6918f3d4" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.OpticalAccessor.InsertOptical</definition>
+        <argsstring>(Optical optical)</argsstring>
+        <name>InsertOptical</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref></type>
+          <declname>optical</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a new optical drive. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>optical</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The optical.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of rows affected.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/OpticalAccessor.cs" line="121" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/OpticalAccessor.cs" bodystart="121" bodyend="151"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Optical accessor to communicate with database on Optical drive objects. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/OpticalAccessor.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/OpticalAccessor.cs" bodystart="15" bodyend="152"/>
+    <listofallmembers>
+      <member refid="class_data_access_1_1_optical_accessor_1aa2e6060824ca3ba994c360fc6918f3d4" prot="public" virt="non-virtual"><scope>DataAccess::OpticalAccessor</scope><name>InsertOptical</name></member>
+      <member refid="class_data_access_1_1_optical_accessor_1ac26fe61270034ab1ca7d39cc898758ad" prot="public" virt="non-virtual"><scope>DataAccess::OpticalAccessor</scope><name>RetrieveOpticalByName</name></member>
+      <member refid="class_data_access_1_1_optical_accessor_1aec2da606590647ae3e6c6b80e6f920f2" prot="public" virt="non-virtual"><scope>DataAccess::OpticalAccessor</scope><name>RetrieveOpticalsByType</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

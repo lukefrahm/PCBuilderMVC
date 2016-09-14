@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir__d79a7895413a9e44c731f6b401eae7b2_8js" kind="file" language="Javascript">
+    <compoundname>dir_d79a7895413a9e44c731f6b401eae7b2.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="dir__d79a7895413a9e44c731f6b401eae7b2_8js_1a3bfe64c1dc1eebfc908eae568ce32a71" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var dir_d79a7895413a9e44c731f6b401eae7b2</definition>
+        <argsstring></argsstring>
+        <name>dir_d79a7895413a9e44c731f6b401eae7b2</name>
+        <initializer>=
+[
+    [ &quot;AssemblyInfo.cs&quot;, &quot;_p_c_builder_forms_2_properties_2_assembly_info_8cs_source.html&quot;, null ],
+    [ &quot;Resources.Designer.cs&quot;, &quot;_resources_8_designer_8cs_source.html&quot;, null ],
+    [ &quot;Settings.Designer.cs&quot;, &quot;_settings_8_designer_8cs_source.html&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_d79a7895413a9e44c731f6b401eae7b2.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_d79a7895413a9e44c731f6b401eae7b2.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>dir_d79a7895413a9e44c731f6b401eae7b2<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AssemblyInfo.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_c_builder_forms_2_properties_2_assembly_info_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Resources.Designer.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_resources_8_designer_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Settings.Designer.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_settings_8_designer_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="6"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_d79a7895413a9e44c731f6b401eae7b2.js"/>
+  </compounddef>
+</doxygen>

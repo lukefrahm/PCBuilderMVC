@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_route_config" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::RouteConfig</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_route_config_1a3b8e090f16c0cbc87086f988712d0480" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void PCBuilderMVC.RouteConfig.RegisterRoutes</definition>
+        <argsstring>(RouteCollection routes)</argsstring>
+        <name>RegisterRoutes</name>
+        <param>
+          <type>RouteCollection</type>
+          <declname>routes</declname>
+        </param>
+        <briefdescription>
+<para>Registers the routes. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>routes</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The routes.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/RouteConfig.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/RouteConfig.cs" bodystart="19" bodyend="28"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Path configuration for MVC. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/RouteConfig.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/RouteConfig.cs" bodystart="13" bodyend="29"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_route_config_1a3b8e090f16c0cbc87086f988712d0480" prot="public" virt="non-virtual"><scope>PCBuilderMVC::RouteConfig</scope><name>RegisterRoutes</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

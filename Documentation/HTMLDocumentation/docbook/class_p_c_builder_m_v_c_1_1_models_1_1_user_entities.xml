@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities">
+<title>PCBuilderMVC::Models::UserEntities class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1ac10d86b7a584c3a8d3ff5d706409683f">UserEntities</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1a4e4635cfa93a11fe54575099f2394030">OnModelCreating</link> (
+DbModelBuilder modelBuilder)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1ac10d86b7a584c3a8d3ff5d706409683f">
+                <title>PCBuilderMVC.Models.UserEntities.UserEntities ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_models_1_1_user_entities_1a4e4635cfa93a11fe54575099f2394030">
+                <title>override void PCBuilderMVC.Models.UserEntities.OnModelCreating (DbModelBuilder modelBuilder)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

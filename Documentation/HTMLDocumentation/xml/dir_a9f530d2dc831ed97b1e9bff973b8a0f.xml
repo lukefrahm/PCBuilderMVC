@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_a9f530d2dc831ed97b1e9bff973b8a0f" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content</compoundname>
+    <innerdir refid="dir_f45541eca8fb07579ecbc66b1c012082">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/"/>
+  </compounddef>
+</doxygen>

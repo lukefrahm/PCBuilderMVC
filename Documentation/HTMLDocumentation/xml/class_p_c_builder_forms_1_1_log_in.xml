@@ -1,0 +1,706 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_forms_1_1_log_in" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderForms::LogIn</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">IComponentConnector</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">IComponentConnector</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a14d70ed974c56e1a0b92cc3c7b9f23da" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_access_token" kindref="compound">AccessToken</ref></type>
+        <definition>AccessToken PCBuilderForms.LogIn._accessToken</definition>
+        <argsstring></argsstring>
+        <name>_accessToken</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1ab7bcba65c47e51c34858cce414f2decd" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblUsername</definition>
+        <argsstring></argsstring>
+        <name>lblUsername</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="46" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1af3bf711dc3b2e7afdcf0b47d5c097416" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblPassword</definition>
+        <argsstring></argsstring>
+        <name>lblPassword</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="54" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a18403b2be197f23358cf073b10360a07" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblPassConfirm</definition>
+        <argsstring></argsstring>
+        <name>lblPassConfirm</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="62" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a2cee60babe4afc16f12049c744f9158a" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblFirstName</definition>
+        <argsstring></argsstring>
+        <name>lblFirstName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="70" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a387bedcbb2e3e91e52f1c7d439fdc4a5" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblLastName</definition>
+        <argsstring></argsstring>
+        <name>lblLastName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="78" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a38bc4cccf50c7d73b71e1061a8b6f918" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblAddress</definition>
+        <argsstring></argsstring>
+        <name>lblAddress</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="86" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a892e206664f293f6fd7e58487b7e0ab7" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblCity</definition>
+        <argsstring></argsstring>
+        <name>lblCity</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="94" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a7602a0f2fbd4d339609b3ed43bf1cab0" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblState</definition>
+        <argsstring></argsstring>
+        <name>lblState</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="102" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="102" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a95335e4f306d140c479af8d212d1c59a" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblZip</definition>
+        <argsstring></argsstring>
+        <name>lblZip</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="110" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="110" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a8bfcacc207daa48f971cf88164c74f56" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblPhone</definition>
+        <argsstring></argsstring>
+        <name>lblPhone</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="118" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="118" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a9f5d1f353476f6b81dd5c23226d3fb6a" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.LogIn::lblEmail</definition>
+        <argsstring></argsstring>
+        <name>lblEmail</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="126" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="126" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1aa9446489f0e9e0896303b3430fade22d" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox PCBuilderForms.LogIn::txtUsername</definition>
+        <argsstring></argsstring>
+        <name>txtUsername</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="134" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="134" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a0b81eaa25cb2868469292fa55b51d76c" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.PasswordBox</type>
+        <definition>System Windows Controls PasswordBox PCBuilderForms.LogIn::txtPassword</definition>
+        <argsstring></argsstring>
+        <name>txtPassword</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="142" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="142" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1ac6db00a879be9036ed5582977d99e54c" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.PasswordBox</type>
+        <definition>System Windows Controls PasswordBox PCBuilderForms.LogIn::txtPassConfirm</definition>
+        <argsstring></argsstring>
+        <name>txtPassConfirm</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="150" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="150" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a0a3383d92461671843f1e81bf3c1ba7f" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox PCBuilderForms.LogIn::txtFirstName</definition>
+        <argsstring></argsstring>
+        <name>txtFirstName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="158" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="158" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1aff9a595a21cb6de8311772d714ee3baf" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox PCBuilderForms.LogIn::txtLastName</definition>
+        <argsstring></argsstring>
+        <name>txtLastName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="166" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="166" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a058d08c9916e931de9e971766c46aa5a" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox PCBuilderForms.LogIn::txtAddress</definition>
+        <argsstring></argsstring>
+        <name>txtAddress</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="174" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="174" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1ad58fc7528dd38b267cf69ad727f4f540" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox PCBuilderForms.LogIn::txtCity</definition>
+        <argsstring></argsstring>
+        <name>txtCity</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="182" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="182" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1acb6869b9d62d240935fdf7a30d374312" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox PCBuilderForms.LogIn::txtState</definition>
+        <argsstring></argsstring>
+        <name>txtState</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="190" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="190" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1afea046faf47b1315035c8f7ff5d4e33e" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox PCBuilderForms.LogIn::txtZip</definition>
+        <argsstring></argsstring>
+        <name>txtZip</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="198" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="198" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a154f33f4ae0b8c376a28c7af29743a73" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox PCBuilderForms.LogIn::txtPhone</definition>
+        <argsstring></argsstring>
+        <name>txtPhone</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="206" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="206" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a49b9b1917d282c3bdd50c09225fcff96" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox PCBuilderForms.LogIn::txtEmail</definition>
+        <argsstring></argsstring>
+        <name>txtEmail</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="214" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="214" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1ab87fa6f5a4a6a03863fcdc55415ca463" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.CheckBox</type>
+        <definition>System Windows Controls CheckBox PCBuilderForms.LogIn::chkNewUser</definition>
+        <argsstring></argsstring>
+        <name>chkNewUser</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="222" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="222" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1ae16bbcdb8825c3c20581dcd102081053" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.LogIn::btnSubmit</definition>
+        <argsstring></argsstring>
+        <name>btnSubmit</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="230" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="230" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a14ee67f6d0363e194c50086339cbd8c5" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.LogIn::btnCancel</definition>
+        <argsstring></argsstring>
+        <name>btnCancel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="238" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="238" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_log_in_1a41ad8d18307518e6429387ec9ad2189a" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderForms.LogIn::_contentLoaded</definition>
+        <argsstring></argsstring>
+        <name>_contentLoaded</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="243" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="243" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_log_in_1a6a3ae2b82b608bdcdd99070a94e3a7c0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderForms.LogIn.LogIn</definition>
+        <argsstring>()</argsstring>
+        <name>LogIn</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_p_c_builder_forms_1_1_log_in" kindref="compound">LogIn</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_log_in_1ae0b7f84ba6cfe669a10e079fda5ab05d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.LogIn.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>InitializeComponent </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="250" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="250" bodyend="262"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_log_in_1ae0b7f84ba6cfe669a10e079fda5ab05d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.LogIn.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>InitializeComponent </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.i.cs" line="250" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.i.cs" bodystart="250" bodyend="262"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_log_in_1a42186d8ab10ba7fefbe6d93fe0686046" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.LogIn.chkNewUser_Checked</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>chkNewUser_Checked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Checked event of the chkNewUser control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" line="38" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" bodystart="38" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_log_in_1a82887e13a948dfad13c8f33758ae2e27" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.LogIn.chkNewUser_Unchecked</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>chkNewUser_Unchecked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Unchecked event of the chkNewUser control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" line="67" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" bodystart="67" bodyend="89"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_log_in_1a5bd038fb92b73172d645fb1c0b754a25" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.LogIn.btnSubmit_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>btnSubmit_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Click event of the btnSubmit control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" line="96" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" bodystart="96" bodyend="134"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_log_in_1af358b3dce8bd658650e92a6974c923bb" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.LogIn.btnCancel_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>btnCancel_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Click event of the btnCancel control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" line="141" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" bodystart="141" bodyend="145"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_log_in_1ac680078b371585945fb49de677d48bfd" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void System.Windows.Markup.IComponentConnector.</type>
+        <definition>void System.Windows.Markup.IComponentConnector. PCBuilderForms.LogIn.Connect</definition>
+        <argsstring>(int connectionId, object target)</argsstring>
+        <name>Connect</name>
+        <param>
+          <type>int</type>
+          <declname>connectionId</declname>
+        </param>
+        <param>
+          <type>object</type>
+          <declname>target</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" line="270" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.cs" bodystart="270" bodyend="374"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_log_in_1ac680078b371585945fb49de677d48bfd" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void System.Windows.Markup.IComponentConnector.</type>
+        <definition>void System.Windows.Markup.IComponentConnector. PCBuilderForms.LogIn.Connect</definition>
+        <argsstring>(int connectionId, object target)</argsstring>
+        <name>Connect</name>
+        <param>
+          <type>int</type>
+          <declname>connectionId</declname>
+        </param>
+        <param>
+          <type>object</type>
+          <declname>target</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.i.cs" line="270" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/LogIn.g.i.cs" bodystart="270" bodyend="374"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Interaction logic for LogIn.xaml </para>    </briefdescription>
+    <detaileddescription>
+<para><ref refid="class_p_c_builder_forms_1_1_log_in" kindref="compound">LogIn</ref> </para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="143">
+        <label>System::Windows::Window</label>
+      </node>
+      <node id="145">
+        <label>Window</label>
+      </node>
+      <node id="142">
+        <label>PCBuilderForms.LogIn</label>
+        <link refid="class_p_c_builder_forms_1_1_log_in"/>
+        <childnode refid="143" relation="public-inheritance">
+        </childnode>
+        <childnode refid="144" relation="public-inheritance">
+        </childnode>
+        <childnode refid="143" relation="public-inheritance">
+        </childnode>
+        <childnode refid="144" relation="public-inheritance">
+        </childnode>
+        <childnode refid="145" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="144">
+        <label>System::Windows::Markup::IComponentConnector</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="147">
+        <label>System::Windows::Window</label>
+      </node>
+      <node id="149">
+        <label>Window</label>
+      </node>
+      <node id="146">
+        <label>PCBuilderForms.LogIn</label>
+        <link refid="class_p_c_builder_forms_1_1_log_in"/>
+        <childnode refid="147" relation="public-inheritance">
+        </childnode>
+        <childnode refid="148" relation="public-inheritance">
+        </childnode>
+        <childnode refid="147" relation="public-inheritance">
+        </childnode>
+        <childnode refid="148" relation="public-inheritance">
+        </childnode>
+        <childnode refid="149" relation="public-inheritance">
+        </childnode>
+        <childnode refid="150" relation="usage">
+          <edgelabel>lblEmail</edgelabel>
+          <edgelabel>lblFirstName</edgelabel>
+          <edgelabel>lblPhone</edgelabel>
+          <edgelabel>txtZip</edgelabel>
+          <edgelabel>lblState</edgelabel>
+          <edgelabel>lblLastName</edgelabel>
+          <edgelabel>txtFirstName</edgelabel>
+          <edgelabel>lblPassConfirm</edgelabel>
+          <edgelabel>txtEmail</edgelabel>
+          <edgelabel>txtPhone</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+      </node>
+      <node id="150">
+        <label>System</label>
+      </node>
+      <node id="148">
+        <label>System::Windows::Markup::IComponentConnector</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/LogIn.xaml.cs" bodystart="21" bodyend="146"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a14d70ed974c56e1a0b92cc3c7b9f23da" prot="public" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>_accessToken</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a41ad8d18307518e6429387ec9ad2189a" prot="private" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>_contentLoaded</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a14ee67f6d0363e194c50086339cbd8c5" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>btnCancel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1af358b3dce8bd658650e92a6974c923bb" prot="private" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>btnCancel_Click</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1ae16bbcdb8825c3c20581dcd102081053" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>btnSubmit</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a5bd038fb92b73172d645fb1c0b754a25" prot="private" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>btnSubmit_Click</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1ab87fa6f5a4a6a03863fcdc55415ca463" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>chkNewUser</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a42186d8ab10ba7fefbe6d93fe0686046" prot="private" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>chkNewUser_Checked</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a82887e13a948dfad13c8f33758ae2e27" prot="private" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>chkNewUser_Unchecked</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1ac680078b371585945fb49de677d48bfd" prot="private" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>Connect</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1ac680078b371585945fb49de677d48bfd" prot="private" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>Connect</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1ae0b7f84ba6cfe669a10e079fda5ab05d" prot="public" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>InitializeComponent</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1ae0b7f84ba6cfe669a10e079fda5ab05d" prot="public" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>InitializeComponent</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a38bc4cccf50c7d73b71e1061a8b6f918" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblAddress</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a892e206664f293f6fd7e58487b7e0ab7" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblCity</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a9f5d1f353476f6b81dd5c23226d3fb6a" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblEmail</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a2cee60babe4afc16f12049c744f9158a" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblFirstName</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a387bedcbb2e3e91e52f1c7d439fdc4a5" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblLastName</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a18403b2be197f23358cf073b10360a07" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblPassConfirm</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1af3bf711dc3b2e7afdcf0b47d5c097416" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblPassword</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a8bfcacc207daa48f971cf88164c74f56" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblPhone</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a7602a0f2fbd4d339609b3ed43bf1cab0" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblState</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1ab7bcba65c47e51c34858cce414f2decd" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblUsername</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a95335e4f306d140c479af8d212d1c59a" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>lblZip</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a6a3ae2b82b608bdcdd99070a94e3a7c0" prot="public" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>LogIn</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a058d08c9916e931de9e971766c46aa5a" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtAddress</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1ad58fc7528dd38b267cf69ad727f4f540" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtCity</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a49b9b1917d282c3bdd50c09225fcff96" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtEmail</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a0a3383d92461671843f1e81bf3c1ba7f" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtFirstName</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1aff9a595a21cb6de8311772d714ee3baf" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtLastName</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1ac6db00a879be9036ed5582977d99e54c" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtPassConfirm</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a0b81eaa25cb2868469292fa55b51d76c" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtPassword</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1a154f33f4ae0b8c376a28c7af29743a73" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtPhone</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1acb6869b9d62d240935fdf7a30d374312" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtState</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1aa9446489f0e9e0896303b3430fade22d" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtUsername</name></member>
+      <member refid="class_p_c_builder_forms_1_1_log_in_1afea046faf47b1315035c8f7ff5d4e33e" prot="package" virt="non-virtual"><scope>PCBuilderForms::LogIn</scope><name>txtZip</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

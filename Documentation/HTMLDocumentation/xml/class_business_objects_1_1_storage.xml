@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_storage" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::Storage</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1a82da287c858085cd3340f744f311cf34" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Storage.StorageId</definition>
+        <argsstring></argsstring>
+        <name>StorageId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1ada87fb32d4e2a876f2baf8d60bd6d9d6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.Storage.Brand</definition>
+        <argsstring></argsstring>
+        <name>Brand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1a569c3090dc458511f9a3a3cca3527b30" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.Storage.Model</definition>
+        <argsstring></argsstring>
+        <name>Model</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1a81f60569ddee6f43909228397ae9f349" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Storage.StorageSize</definition>
+        <argsstring></argsstring>
+        <name>StorageSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1ad5dd9f4d116838e9f784015fbc0f66b7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.Storage.StorageType</definition>
+        <argsstring></argsstring>
+        <name>StorageType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1a005f6d4ba057da5f4c5ab4a3ef962b03" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Storage.BenchmarkScore</definition>
+        <argsstring></argsstring>
+        <name>BenchmarkScore</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1ad8cecc0b99badbfe998ee337801818e2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Storage.StorageSequentialRead</definition>
+        <argsstring></argsstring>
+        <name>StorageSequentialRead</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1a4a2935817a14037e969be09513959c08" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Storage.StorageSequentialWrite</definition>
+        <argsstring></argsstring>
+        <name>StorageSequentialWrite</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="26" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1a2bf2a6b46dca47a3a88f9270f3302c54" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Storage.StorageRandomRead</definition>
+        <argsstring></argsstring>
+        <name>StorageRandomRead</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1ab68e1b1fbeff3388f2a251b96bad1e1b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Storage.StorageRandomWrite</definition>
+        <argsstring></argsstring>
+        <name>StorageRandomWrite</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1a44f2ddbf0dcb50030acadc574fc4b0eb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.Storage.BestUse</definition>
+        <argsstring></argsstring>
+        <name>BestUse</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_storage_1acf3ae1fdd18c97a06f0a86744fe6e6fd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal BusinessObjects.Storage.Price</definition>
+        <argsstring></argsstring>
+        <name>Price</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_objects_1_1_storage_1a4695b8ceeac4b01c2f8b98ef67b01762" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.Storage.Storage</definition>
+        <argsstring>()</argsstring>
+        <name>Storage</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="35" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="35" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_objects_1_1_storage_1aba48b4e57da3d6c05ec55a59987a68f6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.Storage.Storage</definition>
+        <argsstring>(int storageId, string brand, string model, int storageSize, string storageType, int benchmarkScore, int storageSequentialRead, int storageSequentialWrite, int storageRandomRead, int storageRandomWrite, string bestUse, decimal price)</argsstring>
+        <name>Storage</name>
+        <param>
+          <type>int</type>
+          <declname>storageId</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>brand</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>model</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>storageSize</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>storageType</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>benchmarkScore</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>storageSequentialRead</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>storageSequentialWrite</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>storageRandomRead</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>storageRandomWrite</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>bestUse</declname>
+        </param>
+        <param>
+          <type>decimal</type>
+          <declname>price</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>storageId</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The storage identifier.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>brand</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The brand.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>model</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The model.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>storageSize</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Size of the storage.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>storageType</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Type of the storage.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>benchmarkScore</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The benchmark score.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>storageSequentialRead</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The storage sequential read.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>storageSequentialWrite</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The storage sequential write.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>storageRandomRead</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The storage random read.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>storageRandomWrite</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The storage random write.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>bestUse</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The best use case.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>price</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="52" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="52" bodyend="77"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref> object to hold necessary data on the storage device. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Storage.cs" bodystart="17" bodyend="78"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_storage_1a005f6d4ba057da5f4c5ab4a3ef962b03" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>BenchmarkScore</name></member>
+      <member refid="class_business_objects_1_1_storage_1a44f2ddbf0dcb50030acadc574fc4b0eb" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>BestUse</name></member>
+      <member refid="class_business_objects_1_1_storage_1ada87fb32d4e2a876f2baf8d60bd6d9d6" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>Brand</name></member>
+      <member refid="class_business_objects_1_1_storage_1a569c3090dc458511f9a3a3cca3527b30" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>Model</name></member>
+      <member refid="class_business_objects_1_1_storage_1acf3ae1fdd18c97a06f0a86744fe6e6fd" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>Price</name></member>
+      <member refid="class_business_objects_1_1_storage_1a4695b8ceeac4b01c2f8b98ef67b01762" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>Storage</name></member>
+      <member refid="class_business_objects_1_1_storage_1aba48b4e57da3d6c05ec55a59987a68f6" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>Storage</name></member>
+      <member refid="class_business_objects_1_1_storage_1a82da287c858085cd3340f744f311cf34" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>StorageId</name></member>
+      <member refid="class_business_objects_1_1_storage_1a2bf2a6b46dca47a3a88f9270f3302c54" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>StorageRandomRead</name></member>
+      <member refid="class_business_objects_1_1_storage_1ab68e1b1fbeff3388f2a251b96bad1e1b" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>StorageRandomWrite</name></member>
+      <member refid="class_business_objects_1_1_storage_1ad8cecc0b99badbfe998ee337801818e2" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>StorageSequentialRead</name></member>
+      <member refid="class_business_objects_1_1_storage_1a4a2935817a14037e969be09513959c08" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>StorageSequentialWrite</name></member>
+      <member refid="class_business_objects_1_1_storage_1a81f60569ddee6f43909228397ae9f349" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>StorageSize</name></member>
+      <member refid="class_business_objects_1_1_storage_1ad5dd9f4d116838e9f784015fbc0f66b7" prot="public" virt="non-virtual"><scope>BusinessObjects::Storage</scope><name>StorageType</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

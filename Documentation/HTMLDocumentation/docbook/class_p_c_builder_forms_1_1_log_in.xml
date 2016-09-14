@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_forms_1_1_log_in">
+<title>PCBuilderForms::LogIn class Reference</title>
+        <section>
+            <title>Public Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>AccessToken _accessToken</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblUsername</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblPassword</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblPassConfirm</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblFirstName</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblLastName</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblAddress</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblCity</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblState</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblZip</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblPhone</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Label lblEmail</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TextBox txtUsername</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.PasswordBox txtPassword</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.PasswordBox txtPassConfirm</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TextBox txtFirstName</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TextBox txtLastName</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TextBox txtAddress</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TextBox txtCity</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TextBox txtState</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TextBox txtZip</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TextBox txtPhone</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.TextBox txtEmail</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.CheckBox chkNewUser</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnSubmit</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>System.Windows.Controls.Button btnCancel</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>bool _contentLoaded</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_forms_1_1_log_in_1a6a3ae2b82b608bdcdd99070a94e3a7c0">LogIn</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;LogIn&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_log_in_1ae0b7f84ba6cfe669a10e079fda5ab05d">InitializeComponent</link> (
+)<para><emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_log_in_1ae0b7f84ba6cfe669a10e079fda5ab05d">InitializeComponent</link> (
+)<para><emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_log_in_1a42186d8ab10ba7fefbe6d93fe0686046">chkNewUser_Checked</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Checked event of the chkNewUser control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_log_in_1a82887e13a948dfad13c8f33758ae2e27">chkNewUser_Unchecked</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Unchecked event of the chkNewUser control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_log_in_1a5bd038fb92b73172d645fb1c0b754a25">btnSubmit_Click</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Click event of the btnSubmit control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_forms_1_1_log_in_1af358b3dce8bd658650e92a6974c923bb">btnCancel_Click</link> (
+object sender, RoutedEventArgs e)<para><emphasis>&lt;summary&gt;
+Handles the Click event of the btnCancel control.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void System.Windows.Markup.IComponentConnector. <link linkend="class_p_c_builder_forms_1_1_log_in_1ac680078b371585945fb49de677d48bfd">Connect</link> (
+int connectionId, object target)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void System.Windows.Markup.IComponentConnector. <link linkend="class_p_c_builder_forms_1_1_log_in_1ac680078b371585945fb49de677d48bfd">Connect</link> (
+int connectionId, object target)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Interaction logic for LogIn.xaml </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><link linkend="class_p_c_builder_forms_1_1_log_in">LogIn</link> </para>
+                <para>Definition at line 22 of file LogIn.xaml.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>LogIn.xaml.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_forms_1_1_log_in_1a6a3ae2b82b608bdcdd99070a94e3a7c0">
+                <title>PCBuilderForms.LogIn.LogIn ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;LogIn&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_log_in_1ae0b7f84ba6cfe669a10e079fda5ab05d">
+                <title>void PCBuilderForms.LogIn.InitializeComponent ()</title> <emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_log_in_1ae0b7f84ba6cfe669a10e079fda5ab05d">
+                <title>void PCBuilderForms.LogIn.InitializeComponent ()</title> <emphasis>&lt;summary&gt;
+InitializeComponent
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_log_in_1a42186d8ab10ba7fefbe6d93fe0686046">
+                <title>void PCBuilderForms.LogIn.chkNewUser_Checked (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Checked event of the chkNewUser control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_log_in_1a82887e13a948dfad13c8f33758ae2e27">
+                <title>void PCBuilderForms.LogIn.chkNewUser_Unchecked (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Unchecked event of the chkNewUser control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_log_in_1a5bd038fb92b73172d645fb1c0b754a25">
+                <title>void PCBuilderForms.LogIn.btnSubmit_Click (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Click event of the btnSubmit control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_log_in_1af358b3dce8bd658650e92a6974c923bb">
+                <title>void PCBuilderForms.LogIn.btnCancel_Click (object sender, RoutedEventArgs e)</title> <emphasis>&lt;summary&gt;
+Handles the Click event of the btnCancel control.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>sender</entry>
+                                <entry>
+<para>The source of the event.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>e</entry>
+                                <entry>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_log_in_1ac680078b371585945fb49de677d48bfd">
+                <title>void System.Windows.Markup.IComponentConnector. PCBuilderForms.LogIn.Connect (int connectionId, object target)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_forms_1_1_log_in_1ac680078b371585945fb49de677d48bfd">
+                <title>void System.Windows.Markup.IComponentConnector. PCBuilderForms.LogIn.Connect (int connectionId, object target)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

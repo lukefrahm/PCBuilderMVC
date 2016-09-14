@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="classes__1_8js" kind="file" language="Javascript">
+    <compoundname>classes_1.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="classes__1_8js_1ad01a7523f103d6242ef9b0451861231e" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var searchData</definition>
+        <argsstring></argsstring>
+        <name>searchData</name>
+        <initializer>=
+[
+  [&apos;buildprocessor&apos;,[&apos;BuildProcessor&apos;,[&apos;../class_business_logic_1_1_build_processor.html&apos;,1,&apos;BusinessLogic&apos;]]],
+  [&apos;buildproperties&apos;,[&apos;BuildProperties&apos;,[&apos;../class_business_objects_1_1_build_properties.html&apos;,1,&apos;BusinessObjects&apos;]]],
+  [&apos;buildresults&apos;,[&apos;BuildResults&apos;,[&apos;../class_p_c_builder_forms_1_1_build_results.html&apos;,1,&apos;PCBuilderForms&apos;]]],
+  [&apos;bundleconfig&apos;,[&apos;BundleConfig&apos;,[&apos;../class_p_c_builder_m_v_c_1_1_bundle_config.html&apos;,1,&apos;PCBuilderMVC&apos;]]]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/classes_1.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/classes_1.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>searchData=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;buildprocessor&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;BuildProcessor&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_logic_1_1_build_processor.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessLogic&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;buildproperties&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;BuildProperties&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_business_objects_1_1_build_properties.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;BusinessObjects&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;buildresults&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;BuildResults&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_forms_1_1_build_results.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderForms&apos;</highlight><highlight class="normal">]]],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/>[</highlight><highlight class="stringliteral">&apos;bundleconfig&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;BundleConfig&apos;</highlight><highlight class="normal">,[</highlight><highlight class="stringliteral">&apos;../class_p_c_builder_m_v_c_1_1_bundle_config.html&apos;</highlight><highlight class="normal">,1,</highlight><highlight class="stringliteral">&apos;PCBuilderMVC&apos;</highlight><highlight class="normal">]]]</highlight></codeline>
+<codeline lineno="7"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/search/classes_1.js"/>
+  </compounddef>
+</doxygen>

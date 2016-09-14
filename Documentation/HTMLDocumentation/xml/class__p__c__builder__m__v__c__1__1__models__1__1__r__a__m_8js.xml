@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__r__a__m_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__r__a__m_8js_1a019a1f7a0614b80331d5bbef01c10bf4" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m</name>
+        <initializer>=
+[
+    [ &quot;BestUse&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a560148297a0398a0db002931bad4a7f9&quot;, null ],
+    [ &quot;Brand&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a2bae1f446f590d621ee46b3905a9d4da&quot;, null ],
+    [ &quot;Model&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#afb9b2baf5e3dcfd52b75569a1276ebc4&quot;, null ],
+    [ &quot;Price&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#af0b205913d3954d18435e796d727eb39&quot;, null ],
+    [ &quot;RamGeneration&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a065a9f8bf75d9a42db42f1e9a6fcdbdd&quot;, null ],
+    [ &quot;RamId&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a66f9d91a5f6c76b16dc7640ccf01f132&quot;, null ],
+    [ &quot;RamSize&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#aac41713f961ead45c86afa8515f571fc&quot;, null ],
+    [ &quot;RamSpeed&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a8e313dcf0e5da516445d62e8a563e6b7&quot;, null ],
+    [ &quot;RamTimings&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a09f3174de6c2f12bfa47881b4e82a437&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BestUse&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a560148297a0398a0db002931bad4a7f9&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Brand&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a2bae1f446f590d621ee46b3905a9d4da&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Model&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#afb9b2baf5e3dcfd52b75569a1276ebc4&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#af0b205913d3954d18435e796d727eb39&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamGeneration&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a065a9f8bf75d9a42db42f1e9a6fcdbdd&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a66f9d91a5f6c76b16dc7640ccf01f132&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamSize&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#aac41713f961ead45c86afa8515f571fc&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamSpeed&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a8e313dcf0e5da516445d62e8a563e6b7&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RamTimings&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.html#a09f3174de6c2f12bfa47881b4e82a437&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="12"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m.js"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result">
+<title>PCBuilderMVC::Controllers::AccountController::ChallengeResult class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1a78cfcbf7db59c5e894ee96c209afc93c">ChallengeResult</link> (
+string provider, string redirectUri)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1a2a6e6c2056b0b9ace59f8cc2e0357a64">ChallengeResult</link> (
+string provider, string redirectUri, string userId)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1ab13dcc9d19f257e306f78f7e96e3fcd1">ExecuteResult</link> (
+ControllerContext context)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1a78cfcbf7db59c5e894ee96c209afc93c">
+                <title>PCBuilderMVC.Controllers.AccountController.ChallengeResult.ChallengeResult (string provider, string redirectUri)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1a2a6e6c2056b0b9ace59f8cc2e0357a64">
+                <title>PCBuilderMVC.Controllers.AccountController.ChallengeResult.ChallengeResult (string provider, string redirectUri, string userId)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller_1_1_challenge_result_1ab13dcc9d19f257e306f78f7e96e3fcd1">
+                <title>override void PCBuilderMVC.Controllers.AccountController.ChallengeResult.ExecuteResult (ControllerContext context)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

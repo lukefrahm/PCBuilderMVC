@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_motherboard" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::Motherboard</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1abc246b98bc21e635d8f3ef3f4f3e37ae" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.MotherboardId</definition>
+        <argsstring></argsstring>
+        <name>MotherboardId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a34cc10a562353bb82f3f6528be144da9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.Motherboard.Brand</definition>
+        <argsstring></argsstring>
+        <name>Brand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a415fdbe84c4cac80483cff86ca51be5c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.Motherboard.Model</definition>
+        <argsstring></argsstring>
+        <name>Model</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a285dfe9ebb19760379cd41bd0d7485b7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.Motherboard.Socket</definition>
+        <argsstring></argsstring>
+        <name>Socket</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a6ba9688200e845a7ef333153e9748472" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.Motherboard.Chipset</definition>
+        <argsstring></argsstring>
+        <name>Chipset</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1acde0211a2fe00d19df74729dfb1b9d2b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.MaxRam</definition>
+        <argsstring></argsstring>
+        <name>MaxRam</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1af56b8d6d22417d9563c7f5edaf7f23ec" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.RamType</definition>
+        <argsstring></argsstring>
+        <name>RamType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a15ae02ec02733e0ab8eb32898f2033fb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string BusinessObjects.Motherboard.FormFactor</definition>
+        <argsstring></argsstring>
+        <name>FormFactor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="26" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a97e5cf39f0b52b057a83cffa5f8f94d3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.SataPorts</definition>
+        <argsstring></argsstring>
+        <name>SataPorts</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a4f901c9c84f963c08688aff3cf7fe93b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.M2Slots</definition>
+        <argsstring></argsstring>
+        <name>M2Slots</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="28" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1ab41dd48b1d010ad3c131be9657fee162" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.PowerPhases</definition>
+        <argsstring></argsstring>
+        <name>PowerPhases</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1ad36bdcfa47ffe53db2e93df5859a9487" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.FanHeaders</definition>
+        <argsstring></argsstring>
+        <name>FanHeaders</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="30" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a478fbef2354824c5bb6327c206f2bea3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.Pcie16</definition>
+        <argsstring></argsstring>
+        <name>Pcie16</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a089664e4fffbbcae87b09546ffff43df" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.Pcie8</definition>
+        <argsstring></argsstring>
+        <name>Pcie8</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="32" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1ae5be97e8e6b82e33029eb6f64d79d8d0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.Pcie4</definition>
+        <argsstring></argsstring>
+        <name>Pcie4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="33" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1ab8ae24339c4e627c68b07779a4c58c4c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.Pcie1</definition>
+        <argsstring></argsstring>
+        <name>Pcie1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="34" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a5cdad498da1e01b77758d17971000cae" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int BusinessObjects.Motherboard.Pci</definition>
+        <argsstring></argsstring>
+        <name>Pci</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="35" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_business_objects_1_1_motherboard_1a65aa9ca8830c2e474712f9b888cc821a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal BusinessObjects.Motherboard.Price</definition>
+        <argsstring></argsstring>
+        <name>Price</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="36" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_objects_1_1_motherboard_1a91ff736d1cb114aa298e22ae44c90634" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.Motherboard.Motherboard</definition>
+        <argsstring>()</argsstring>
+        <name>Motherboard</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="41" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="41" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_objects_1_1_motherboard_1a21fe91580de645025fb2c84a93b75562" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.Motherboard.Motherboard</definition>
+        <argsstring>(int motherboardId, string brand, string model, string socket, string chipset, int maxRam, int ramType, string formFactor, int sataPorts, int m2Slots, int powerPhases, int fanHeaders, int pcie16, int pcie8, int pcie4, int pcie1, int pci, decimal price)</argsstring>
+        <name>Motherboard</name>
+        <param>
+          <type>int</type>
+          <declname>motherboardId</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>brand</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>model</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>socket</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>chipset</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>maxRam</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>ramType</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>formFactor</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>sataPorts</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>m2Slots</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>powerPhases</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>fanHeaders</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pcie16</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pcie8</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pcie4</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pcie1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pci</declname>
+        </param>
+        <param>
+          <type>decimal</type>
+          <declname>price</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>motherboardId</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The motherboard identifier.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>brand</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The brand.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>model</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The model.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>socket</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The socket.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>chipset</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The chipset.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>maxRam</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The maximum ram.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>ramType</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Type of the ram.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>formFactor</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The form factor.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>sataPorts</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of SATA ports.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>m2Slots</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of M.2 slots.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>powerPhases</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of power phases.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>fanHeaders</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of fan headers.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pcie16</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of PCIe x16 slots.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pcie8</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of PCIe x8 slots.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pcie4</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of PCIe x4 slots.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pcie1</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of PCIe x1 slots.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pci</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of PCI slots.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>price</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="64" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="64" bodyend="101"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref> object to hold necessary data on the motherboard. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/Motherboard.cs" bodystart="17" bodyend="102"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_motherboard_1a34cc10a562353bb82f3f6528be144da9" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Brand</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a6ba9688200e845a7ef333153e9748472" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Chipset</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1ad36bdcfa47ffe53db2e93df5859a9487" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>FanHeaders</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a15ae02ec02733e0ab8eb32898f2033fb" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>FormFactor</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a4f901c9c84f963c08688aff3cf7fe93b" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>M2Slots</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1acde0211a2fe00d19df74729dfb1b9d2b" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>MaxRam</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a415fdbe84c4cac80483cff86ca51be5c" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Model</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a91ff736d1cb114aa298e22ae44c90634" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Motherboard</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a21fe91580de645025fb2c84a93b75562" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Motherboard</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1abc246b98bc21e635d8f3ef3f4f3e37ae" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>MotherboardId</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a5cdad498da1e01b77758d17971000cae" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Pci</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1ab8ae24339c4e627c68b07779a4c58c4c" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Pcie1</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a478fbef2354824c5bb6327c206f2bea3" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Pcie16</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1ae5be97e8e6b82e33029eb6f64d79d8d0" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Pcie4</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a089664e4fffbbcae87b09546ffff43df" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Pcie8</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1ab41dd48b1d010ad3c131be9657fee162" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>PowerPhases</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a65aa9ca8830c2e474712f9b888cc821a" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Price</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1af56b8d6d22417d9563c7f5edaf7f23ec" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>RamType</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a97e5cf39f0b52b057a83cffa5f8f94d3" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>SataPorts</name></member>
+      <member refid="class_business_objects_1_1_motherboard_1a285dfe9ebb19760379cd41bd0d7485b7" prot="public" virt="non-virtual"><scope>BusinessObjects::Motherboard</scope><name>Socket</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

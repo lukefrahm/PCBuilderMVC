@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_mvc_application">
+<title>PCBuilderMVC::MvcApplication class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_p_c_builder_m_v_c_1_1_mvc_application_1a79dbe3343b39de1768ebf8c9279ed6e7">Application_Start</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Global settings for MVC application. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.HttpApplication</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file Global.asax.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>Global.asax.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_mvc_application_1a79dbe3343b39de1768ebf8c9279ed6e7">
+                <title>void PCBuilderMVC.MvcApplication.Application_Start ()</title> <emphasis></emphasis>
+                
+            </section>
+</section>

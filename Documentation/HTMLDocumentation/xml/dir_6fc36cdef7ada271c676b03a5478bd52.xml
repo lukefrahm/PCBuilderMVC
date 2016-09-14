@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_6fc36cdef7ada271c676b03a5478bd52" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models</compoundname>
+    <innerfile refid="_account_view_models_8cs">AccountViewModels.cs</innerfile>
+    <innerfile refid="_asp_net_role_8cs">AspNetRole.cs</innerfile>
+    <innerfile refid="_asp_net_user_8cs">AspNetUser.cs</innerfile>
+    <innerfile refid="_asp_net_user_claim_8cs">AspNetUserClaim.cs</innerfile>
+    <innerfile refid="_asp_net_user_login_8cs">AspNetUserLogin.cs</innerfile>
+    <innerfile refid="_p_c_builder_m_v_c_2_models_2_c_p_u_8cs">CPU.cs</innerfile>
+    <innerfile refid="_finalized_build_view_model_8cs">FinalizedBuildViewModel.cs</innerfile>
+    <innerfile refid="_p_c_builder_m_v_c_2_models_2_g_p_u_8cs">GPU.cs</innerfile>
+    <innerfile refid="_identity_models_8cs">IdentityModels.cs</innerfile>
+    <innerfile refid="_p_c_builder_m_v_c_2_models_2_motherboard_8cs">Motherboard.cs</innerfile>
+    <innerfile refid="_p_c_builder_m_v_c_2_models_2_optical_8cs">Optical.cs</innerfile>
+    <innerfile refid="_p_c_builder_entity_models_8cs">PCBuilderEntityModels.cs</innerfile>
+    <innerfile refid="_p_c_builder_m_v_c_2_models_2_p_s_u_8cs">PSU.cs</innerfile>
+    <innerfile refid="_questionnaire_view_model_8cs">QuestionnaireViewModel.cs</innerfile>
+    <innerfile refid="_p_c_builder_m_v_c_2_models_2_r_a_m_8cs">RAM.cs</innerfile>
+    <innerfile refid="_role_8cs">Role.cs</innerfile>
+    <innerfile refid="_p_c_builder_m_v_c_2_models_2_storage_8cs">Storage.cs</innerfile>
+    <innerfile refid="_p_c_builder_m_v_c_2_models_2_user_8cs">User.cs</innerfile>
+    <innerfile refid="_users_8_context_8cs">Users.Context.cs</innerfile>
+    <innerfile refid="_users_8cs">Users.cs</innerfile>
+    <innerfile refid="_users_8_designer_8cs">Users.Designer.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/"/>
+  </compounddef>
+</doxygen>

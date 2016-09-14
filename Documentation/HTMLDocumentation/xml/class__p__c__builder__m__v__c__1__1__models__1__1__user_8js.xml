@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__user_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_user.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__user_8js_1a675bc121d22375d5e848aa6ec0b491ef" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_user</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_user</name>
+        <initializer>=
+[
+    [ &quot;Active&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a05ce97e1989129db6016b4705b3742f4&quot;, null ],
+    [ &quot;Address&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a33910f815ef59234cbcc27bf500e867d&quot;, null ],
+    [ &quot;City&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#af8302db4cc634f8644c5ed07a270b34b&quot;, null ],
+    [ &quot;EmailAddress&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a7842479d49253d631bed7e5bb3ac1594&quot;, null ],
+    [ &quot;FirstName&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a390fa2a7b3c2c92751420eb4381531f5&quot;, null ],
+    [ &quot;LastName&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a6afadce146ce780f16ec9e4c8f84b5c4&quot;, null ],
+    [ &quot;LocalPhone&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a386b25c2466543821219255455b2d3e5&quot;, null ],
+    [ &quot;Password&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a8bfcb8563ffe3db210b488cd5cae78a2&quot;, null ],
+    [ &quot;RoleName&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a8bdf5ce709d4d2bd029d1eb20ab13dfb&quot;, null ],
+    [ &quot;StateCode&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a53a81b7a1ebd76edeb233d5045f378bc&quot;, null ],
+    [ &quot;UserId&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a5e64dcf76dc09943ccf7c6794e337279&quot;, null ],
+    [ &quot;Username&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#af0395972be87058e38df9735b3aec431&quot;, null ],
+    [ &quot;Zip&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#ab2e68ef58329fe83dc95b496da154afc&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_user.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_user.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_user<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Active&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a05ce97e1989129db6016b4705b3742f4&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Address&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a33910f815ef59234cbcc27bf500e867d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;City&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#af8302db4cc634f8644c5ed07a270b34b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;EmailAddress&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a7842479d49253d631bed7e5bb3ac1594&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FirstName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a390fa2a7b3c2c92751420eb4381531f5&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;LastName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a6afadce146ce780f16ec9e4c8f84b5c4&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;LocalPhone&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a386b25c2466543821219255455b2d3e5&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Password&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a8bfcb8563ffe3db210b488cd5cae78a2&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RoleName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a8bdf5ce709d4d2bd029d1eb20ab13dfb&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StateCode&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a53a81b7a1ebd76edeb233d5045f378bc&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#a5e64dcf76dc09943ccf7c6794e337279&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Username&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#af0395972be87058e38df9735b3aec431&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Zip&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_user.html#ab2e68ef58329fe83dc95b496da154afc&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="16"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_user.js"/>
+  </compounddef>
+</doxygen>

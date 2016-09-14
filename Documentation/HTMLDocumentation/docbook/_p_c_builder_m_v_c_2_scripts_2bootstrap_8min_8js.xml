@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js">
+    <title>bootstrap.min.js File Reference</title>
+        <section>
+            <title>Variables</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1aa4d4888597588a84fd5b1184d00c91f3">a</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1aa4026ad5544b958e54ce5e106fa1c805">b</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>a fn <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a006fe6a2a254572b367123c6db401ff3">emulateTransitionEnd</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1ad9d1ac02e33c4aed62ad517a7cb8b3fb">c</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1aeb337d295abaddb5ec3cb34cc2e2bbc9">d</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>d <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a3635f2df5844f69204b70bf7b3983587">VERSION</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>d d <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1ae4adb159aeacba734c34bd530baf92f6">TRANSITION_DURATION</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>d d d prototype <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a72fbb3628c3cc943ced8aad64247888c">close</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>var <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1ab5902775854a8b8440bcd25e0fe1c120">e</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>a fn <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1aaa41eef066735d697e7786ec86d52389">alert</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>a fn a fn alert <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a0545907c609a48549a0cf5d4c692f851">Constructor</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>a fn a fn alert a fn alert <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1ac26971afe341e4079ee34fceab395fc2">noConflict</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>c c <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a6c1cf0be5e5383617ddc5efdfdc8c651">DEFAULTS</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>c c c prototype <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a14f119ea3b5abc5536d590dfe1793c6e">setState</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>c c c prototype c prototype <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1aa8e797a9bda5e7e313be3518054164a3">toggle</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>a fn <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a55e170814e74f6c3db8ae9ea3ba9054f">button</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Functions</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1ac2d69f5011896c6ed4a54e0dd36f6334">if</link> (
+&quot;undefined&quot; )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a6b611115d8c4976e4caeb4a3fbfade0f">if</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>but lower than <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1af15ce22371f8af3b38c7d40a4987b366">version</link> (
+jQuery )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a7c192e47b11481e4717b9f1e04eb4420">b</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>a fn <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a1f5870dcf487187f13d5fd328ed9e6e7">a</link> (
+function(){a.support.transition=b(), a.support.transition &amp;&amp;(a.event.special.bsTransitionEnd={bindType:a.support.transition.end, delegateType:a.support.transition.end, handle:function(b){return a(b.target).is(this)?b.handleObj.handler.apply(this, arguments):void 0}})} )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1a398bb8542498d1b14178b02b99df309b">b</link> (
+b )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>a fn a fn alert a fn alert d prototype <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1afaca3a961d693f40135a872e93e71198">close</link> (
+jQuery )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>d <link linkend="_p_c_builder_m_v_c_2_scripts_2bootstrap_8min_8js_1afa9eb56c756985e9715e3820fd044aa3">hasClass</link> (
+&quot;btn&quot; )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts/bootstrap.min.js</para>
+    </simplesect>
+</section>

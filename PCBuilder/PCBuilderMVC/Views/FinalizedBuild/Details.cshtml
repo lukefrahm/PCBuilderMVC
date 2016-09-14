@@ -1,0 +1,74 @@
+﻿@model PCBuilderMVC.Models.FinalizedBuildViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<h2>Final Build Results:</h2>
+
+@if (Model.message != "")
+{
+    <h4>ERROR! @Model.message</h4>
+}
+else
+{
+    <h4>Your build has been compiled for you. Enjoy!</h4>
+}
+<br /><br />
+<table class="table">
+    <tr>
+        <th>Component</th>
+        <th>Brand</th>
+        <th>Model</th>
+        <th>Price</th>
+    </tr>
+    <tr>
+        <td>CPU</td>
+        <td>@Model.cpu.Brand</td>
+        <td>@Model.cpu.Model</td>
+        <td>@Model.cpu.Price</td>
+    </tr>
+    <tr>
+        <td>GPU</td>
+        <td>@Model.gpu.Brand</td>
+        <td>@Model.gpu.Model</td>
+        <td>@Model.gpu.Price</td>
+    </tr>
+    <tr>
+        <td>Motherboard</td>
+        <td>@Model.motherboard.Brand</td>
+        <td>@Model.motherboard.Model</td>
+        <td>@Model.motherboard.Price</td>
+    </tr>
+    <tr>
+        <td>Optical</td>
+        <td>@Model.optical.Brand</td>
+        <td>@Model.optical.Model</td>
+        <td>@Model.optical.Price</td>
+    </tr>
+    <tr>
+        <td>PSU</td>
+        <td>@Model.psu.Brand</td>
+        <td>@Model.psu.Model</td>
+        <td>@Model.psu.Price</td>
+    </tr>
+    <tr>
+        <td>RAM</td>
+        <td>@Model.ram.Brand</td>
+        <td>@Model.ram.Model</td>
+        <td>@Model.ram.Price</td>
+    </tr>
+    <tr>
+        <td>Storage</td>
+        <td>@Model.storage.Brand</td>
+        <td>@Model.storage.Model</td>
+        <td>@Model.storage.Price</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>Total Price:</td>
+        <td>@Model.price</td>
+    </tr>
+</table>

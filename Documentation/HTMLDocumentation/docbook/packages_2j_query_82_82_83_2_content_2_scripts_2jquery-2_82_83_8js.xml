@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8js">
+    <title>jquery-2.2.3.js File Reference</title>
+        <section>
+            <title>Variables</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8js_1a57efe929cc6b44042891d05e15cec785">global</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8js_1abf075bdbe59fd2c3336ed052c9c72b31">factory</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.2.2.3/Content/Scripts/jquery-2.2.3.js</para>
+    </simplesect>
+</section>

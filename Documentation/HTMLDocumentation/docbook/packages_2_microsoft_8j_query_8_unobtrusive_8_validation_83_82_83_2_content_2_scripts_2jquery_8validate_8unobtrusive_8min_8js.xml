@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="packages_2_microsoft_8j_query_8_unobtrusive_8_validation_83_82_83_2_content_2_scripts_2jquery_8validate_8unobtrusive_8min_8js">
+    <title>jquery.validate.unobtrusive.min.js File Reference</title>
+        <section>
+            <title>Variables</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="packages_2_microsoft_8j_query_8_unobtrusive_8_validation_83_82_83_2_content_2_scripts_2jquery_8validate_8unobtrusive_8min_8js_1aa4d4888597588a84fd5b1184d00c91f3">a</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Functions</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="packages_2_microsoft_8j_query_8_unobtrusive_8_validation_83_82_83_2_content_2_scripts_2jquery_8validate_8unobtrusive_8min_8js_1a49679efee850e553095f7d06862738a7">c</link> (
+a , b , c )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="packages_2_microsoft_8j_query_8_unobtrusive_8_validation_83_82_83_2_content_2_scripts_2jquery_8validate_8unobtrusive_8min_8js_1a5f7d9fc7ba35dc513eb3080d74d27476">j</link> (
+a )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="packages_2_microsoft_8j_query_8_unobtrusive_8_validation_83_82_83_2_content_2_scripts_2jquery_8validate_8unobtrusive_8min_8js_1a775508d78fd0500ad5567eb03db78606">f</link> (
+a )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.min.js</para>
+    </simplesect>
+</section>

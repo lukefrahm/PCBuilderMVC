@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir__f4dc2fe19f68722faa12b8f069bc77fa_8js" kind="file" language="Javascript">
+    <compoundname>dir_f4dc2fe19f68722faa12b8f069bc77fa.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="dir__f4dc2fe19f68722faa12b8f069bc77fa_8js_1a6f1309d9031e56b3557d23069914d798" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var dir_f4dc2fe19f68722faa12b8f069bc77fa</definition>
+        <argsstring></argsstring>
+        <name>dir_f4dc2fe19f68722faa12b8f069bc77fa</name>
+        <initializer>=
+[
+    [ &quot;obj&quot;, &quot;dir_a20715e4b19859f9ad0ca77ef68cfbe7.html&quot;, &quot;dir_a20715e4b19859f9ad0ca77ef68cfbe7&quot; ],
+    [ &quot;Properties&quot;, &quot;dir_a22ff3bfeddda3c04faae85caa1515b9.html&quot;, &quot;dir_a22ff3bfeddda3c04faae85caa1515b9&quot; ],
+    [ &quot;AccessToken.cs&quot;, &quot;_access_token_8cs_source.html&quot;, null ],
+    [ &quot;BuildProperties.cs&quot;, &quot;_build_properties_8cs_source.html&quot;, null ],
+    [ &quot;CPU.cs&quot;, &quot;_business_objects_2_c_p_u_8cs_source.html&quot;, null ],
+    [ &quot;Enums.cs&quot;, &quot;_enums_8cs_source.html&quot;, null ],
+    [ &quot;FinalizedBuild.cs&quot;, &quot;_finalized_build_8cs_source.html&quot;, null ],
+    [ &quot;GPU.cs&quot;, &quot;_business_objects_2_g_p_u_8cs_source.html&quot;, null ],
+    [ &quot;Motherboard.cs&quot;, &quot;_business_objects_2_motherboard_8cs_source.html&quot;, null ],
+    [ &quot;Optical.cs&quot;, &quot;_business_objects_2_optical_8cs_source.html&quot;, null ],
+    [ &quot;PSU.cs&quot;, &quot;_business_objects_2_p_s_u_8cs_source.html&quot;, null ],
+    [ &quot;QuestionnaireResults.cs&quot;, &quot;_questionnaire_results_8cs_source.html&quot;, null ],
+    [ &quot;RAM.cs&quot;, &quot;_business_objects_2_r_a_m_8cs_source.html&quot;, null ],
+    [ &quot;Roles.cs&quot;, &quot;_roles_8cs_source.html&quot;, null ],
+    [ &quot;StandardizedBasic.cs&quot;, &quot;_standardized_basic_8cs_source.html&quot;, null ],
+    [ &quot;StandardizedDevelopment.cs&quot;, &quot;_standardized_development_8cs_source.html&quot;, null ],
+    [ &quot;StandardizedGaming.cs&quot;, &quot;_standardized_gaming_8cs_source.html&quot;, null ],
+    [ &quot;StandardizedOffice.cs&quot;, &quot;_standardized_office_8cs_source.html&quot;, null ],
+    [ &quot;StandardizedVideoEditing.cs&quot;, &quot;_standardized_video_editing_8cs_source.html&quot;, null ],
+    [ &quot;Storage.cs&quot;, &quot;_business_objects_2_storage_8cs_source.html&quot;, null ],
+    [ &quot;User.cs&quot;, &quot;_business_objects_2_user_8cs_source.html&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_f4dc2fe19f68722faa12b8f069bc77fa.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_f4dc2fe19f68722faa12b8f069bc77fa.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>dir_f4dc2fe19f68722faa12b8f069bc77fa<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;obj&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;dir_a20715e4b19859f9ad0ca77ef68cfbe7.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;dir_a20715e4b19859f9ad0ca77ef68cfbe7&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Properties&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;dir_a22ff3bfeddda3c04faae85caa1515b9.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;dir_a22ff3bfeddda3c04faae85caa1515b9&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AccessToken.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_access_token_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BuildProperties.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_build_properties_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPU.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_business_objects_2_c_p_u_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Enums.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_enums_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FinalizedBuild.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_finalized_build_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPU.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_business_objects_2_g_p_u_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Motherboard.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_business_objects_2_motherboard_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Optical.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_business_objects_2_optical_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSU.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_business_objects_2_p_s_u_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;QuestionnaireResults.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_questionnaire_results_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAM.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_business_objects_2_r_a_m_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Roles.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_roles_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedBasic.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_standardized_basic_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedDevelopment.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_standardized_development_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedGaming.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_standardized_gaming_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedOffice.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_standardized_office_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedVideoEditing.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_standardized_video_editing_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Storage.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_business_objects_2_storage_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;User.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_business_objects_2_user_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="24"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_f4dc2fe19f68722faa12b8f069bc77fa.js"/>
+  </compounddef>
+</doxygen>

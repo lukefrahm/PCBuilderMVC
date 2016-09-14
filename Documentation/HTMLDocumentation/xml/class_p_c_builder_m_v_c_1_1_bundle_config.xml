@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_bundle_config" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::BundleConfig</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_bundle_config_1a857c57658698af214b4bbd5e3fc31d78" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void PCBuilderMVC.BundleConfig.RegisterBundles</definition>
+        <argsstring>(BundleCollection bundles)</argsstring>
+        <name>RegisterBundles</name>
+        <param>
+          <type>BundleCollection</type>
+          <declname>bundles</declname>
+        </param>
+        <briefdescription>
+<para>Registers the bundles. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>bundles</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The bundles.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/BundleConfig.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/BundleConfig.cs" bodystart="16" bodyend="40"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Bundle registration class. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/BundleConfig.cs" line="10" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/BundleConfig.cs" bodystart="9" bodyend="41"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_bundle_config_1a857c57658698af214b4bbd5e3fc31d78" prot="public" virt="non-virtual"><scope>PCBuilderMVC::BundleConfig</scope><name>RegisterBundles</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

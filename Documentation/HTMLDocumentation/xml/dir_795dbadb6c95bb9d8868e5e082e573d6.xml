@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_795dbadb6c95bb9d8868e5e082e573d6" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess</compoundname>
+    <innerdir refid="dir_a3e484eb452aea4c10dafc0103b5e665">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/obj</innerdir>
+    <innerdir refid="dir_f742d9b77248733bd365d2a6cf429e70">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/Properties</innerdir>
+    <innerfile refid="_c_p_u_accessor_8cs">CPUAccessor.cs</innerfile>
+    <innerfile refid="_d_b_connection_8cs">DBConnection.cs</innerfile>
+    <innerfile refid="_g_p_u_accessor_8cs">GPUAccessor.cs</innerfile>
+    <innerfile refid="_motherboard_accessor_8cs">MotherboardAccessor.cs</innerfile>
+    <innerfile refid="_optical_accessor_8cs">OpticalAccessor.cs</innerfile>
+    <innerfile refid="_p_s_u_accessor_8cs">PSUAccessor.cs</innerfile>
+    <innerfile refid="_r_a_m_accessor_8cs">RAMAccessor.cs</innerfile>
+    <innerfile refid="_storage_accessor_8cs">StorageAccessor.cs</innerfile>
+    <innerfile refid="_user_accessor_8cs">UserAccessor.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/"/>
+  </compounddef>
+</doxygen>

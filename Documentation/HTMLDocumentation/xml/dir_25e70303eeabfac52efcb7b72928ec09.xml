@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_25e70303eeabfac52efcb7b72928ec09" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/bootstrap.3.3.6/content/Scripts</compoundname>
+    <innerfile refid="packages_2bootstrap_83_83_86_2content_2_scripts_2bootstrap_8js">bootstrap.js</innerfile>
+    <innerfile refid="packages_2bootstrap_83_83_86_2content_2_scripts_2bootstrap_8min_8js">bootstrap.min.js</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/bootstrap.3.3.6/content/Scripts/"/>
+  </compounddef>
+</doxygen>

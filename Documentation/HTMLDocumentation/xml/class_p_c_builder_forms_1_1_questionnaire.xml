@@ -1,0 +1,1046 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_forms_1_1_questionnaire" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderForms::Questionnaire</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">IComponentConnector</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">IComponentConnector</basecompoundref>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1ac3267ec4c1147b071b1999f5fdd2c9e0" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Slider</type>
+        <definition>System Windows Controls Slider PCBuilderForms.Questionnaire::sldPerformance</definition>
+        <argsstring></argsstring>
+        <name>sldPerformance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="46" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a55404df979e7f8d081d9eb01e0f1f9d2" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblPerformance</definition>
+        <argsstring></argsstring>
+        <name>lblPerformance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="54" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1af6e8662a5f98ec6b0ea9a83c32194c14" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblAppxDollarsLabel</definition>
+        <argsstring></argsstring>
+        <name>lblAppxDollarsLabel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="62" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1ab110107164e6fa6bb5066a9019ef3472" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblAppxDollars</definition>
+        <argsstring></argsstring>
+        <name>lblAppxDollars</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="70" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a1fca841040d260bb0c2e38609d80164d" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblUse</definition>
+        <argsstring></argsstring>
+        <name>lblUse</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="78" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1abfc851eadf07f61c9baf4b084dba1c6e" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.CheckBox</type>
+        <definition>System Windows Controls CheckBox PCBuilderForms.Questionnaire::chkUseBasic</definition>
+        <argsstring></argsstring>
+        <name>chkUseBasic</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="86" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a22d8067caf3fddbc5e2ad0c122b65b66" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.CheckBox</type>
+        <definition>System Windows Controls CheckBox PCBuilderForms.Questionnaire::chkUseVideoEdit</definition>
+        <argsstring></argsstring>
+        <name>chkUseVideoEdit</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="94" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a01e1cbcd2cade5a159bf07c8a38a1ba1" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.CheckBox</type>
+        <definition>System Windows Controls CheckBox PCBuilderForms.Questionnaire::chkUseGaming</definition>
+        <argsstring></argsstring>
+        <name>chkUseGaming</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="102" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="102" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1aa5e3a716f12c8230813c1ea7e6dbe066" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.CheckBox</type>
+        <definition>System Windows Controls CheckBox PCBuilderForms.Questionnaire::chkUseDevelopment</definition>
+        <argsstring></argsstring>
+        <name>chkUseDevelopment</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="110" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="110" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1ac9b48ad0ed24356de2eca76f241a404a" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.CheckBox</type>
+        <definition>System Windows Controls CheckBox PCBuilderForms.Questionnaire::chkUseOfficeModerate</definition>
+        <argsstring></argsstring>
+        <name>chkUseOfficeModerate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="118" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="118" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1ad4b2f99b09dba09b72c0a30c5de2889b" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBlock</type>
+        <definition>System Windows Controls TextBlock PCBuilderForms.Questionnaire::lblBudgetNotice</definition>
+        <argsstring></argsstring>
+        <name>lblBudgetNotice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="126" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="126" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1acd21293e6eba54ed7ae80b1961396cb2" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.Questionnaire::btnAccept</definition>
+        <argsstring></argsstring>
+        <name>btnAccept</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="134" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="134" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a98f29008e5166e3805e78b4b3f3cde5a" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.Questionnaire::btnReset</definition>
+        <argsstring></argsstring>
+        <name>btnReset</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="142" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="142" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1aa430b93d2bfaea7fd7ab11efde8fc43b" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.Questionnaire::btnCancel</definition>
+        <argsstring></argsstring>
+        <name>btnCancel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="150" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="150" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a80489b03c4fd52c7068fa7c56dda5534" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Slider</type>
+        <definition>System Windows Controls Slider PCBuilderForms.Questionnaire::sldStorageSize</definition>
+        <argsstring></argsstring>
+        <name>sldStorageSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="158" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="158" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a8b222ca3676f8806e7d4c41165900f87" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblStorageSizeLabel</definition>
+        <argsstring></argsstring>
+        <name>lblStorageSizeLabel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="166" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="166" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a64334da3c950cbe2c1d69e132987da9f" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblStorageSize</definition>
+        <argsstring></argsstring>
+        <name>lblStorageSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="174" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="174" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a7b0d0ecbfbc74b6d565a42bb4141fbf4" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblStorageSizeGB</definition>
+        <argsstring></argsstring>
+        <name>lblStorageSizeGB</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="182" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="182" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a7f8e282593378445f3e6454297928f0c" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblStorageType</definition>
+        <argsstring></argsstring>
+        <name>lblStorageType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="190" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="190" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1aacb718674bd68956728ca4e7d4f24f20" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.GroupBox</type>
+        <definition>System Windows Controls GroupBox PCBuilderForms.Questionnaire::grpStorageType</definition>
+        <argsstring></argsstring>
+        <name>grpStorageType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="198" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="198" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1abaaba55fd7be22a9e7dd881a411ad074" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radSSD</definition>
+        <argsstring></argsstring>
+        <name>radSSD</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="206" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="206" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a50611bac3cc1a32bf7cd7cab900d19f4" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radHDD</definition>
+        <argsstring></argsstring>
+        <name>radHDD</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="214" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="214" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1adf88f1d08662bc0b93ba36ae5d6e3cd7" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.GroupBox</type>
+        <definition>System Windows Controls GroupBox PCBuilderForms.Questionnaire::grpRAMChoices</definition>
+        <argsstring></argsstring>
+        <name>grpRAMChoices</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="222" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="222" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a9667e48b87ba5ca17958376e62f85bfc" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radRAMRecommended</definition>
+        <argsstring></argsstring>
+        <name>radRAMRecommended</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="230" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="230" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a7621a4de2b14d731da3e9be5853deedf" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radRAMSelectManual</definition>
+        <argsstring></argsstring>
+        <name>radRAMSelectManual</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="238" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="238" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a6a563a88382357ef8eee89decdb80e8b" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Slider</type>
+        <definition>System Windows Controls Slider PCBuilderForms.Questionnaire::sldRamSize</definition>
+        <argsstring></argsstring>
+        <name>sldRamSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="246" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="246" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a19d7d3f5d3cc2141b9d0798cfe8a9852" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblManualRamSelect</definition>
+        <argsstring></argsstring>
+        <name>lblManualRamSelect</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="254" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="254" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a5f67de61e73e2579def21ff5bc7ab378" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblManualRamSelectLabel</definition>
+        <argsstring></argsstring>
+        <name>lblManualRamSelectLabel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="262" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="262" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a7714f0334ab693222eceb856e53aedef" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Slider</type>
+        <definition>System Windows Controls Slider PCBuilderForms.Questionnaire::sldNumCores</definition>
+        <argsstring></argsstring>
+        <name>sldNumCores</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="270" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="270" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1ae0a847f6e0a937fe43e28d65b82949ab" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblNumCoresLabel</definition>
+        <argsstring></argsstring>
+        <name>lblNumCoresLabel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="278" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="278" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1ae095cf3231846bbb3c840772a127508e" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.Questionnaire::lblNumCores</definition>
+        <argsstring></argsstring>
+        <name>lblNumCores</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="286" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="286" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a265f59b48d91297e31afc2bf6f6cc71f" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.GroupBox</type>
+        <definition>System Windows Controls GroupBox PCBuilderForms.Questionnaire::grpCaseSize</definition>
+        <argsstring></argsstring>
+        <name>grpCaseSize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="294" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="294" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a089c98cd9645269b160e120802ee6291" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radCaseSizeFull</definition>
+        <argsstring></argsstring>
+        <name>radCaseSizeFull</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="302" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="302" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a9da362816e5a9028ac621eadfa920084" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radCaseSizeMid</definition>
+        <argsstring></argsstring>
+        <name>radCaseSizeMid</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="310" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="310" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1af2a207060c7db62e28a4e51069ebbfb2" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radCaseSizeMicro</definition>
+        <argsstring></argsstring>
+        <name>radCaseSizeMicro</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="318" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="318" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a171661dc73623f275c82089ac80e92b8" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radCaseSizeMini</definition>
+        <argsstring></argsstring>
+        <name>radCaseSizeMini</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="326" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="326" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a5122088ec1da5fdfeff7f73e7a1ed7d8" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radCaseSizeConsole</definition>
+        <argsstring></argsstring>
+        <name>radCaseSizeConsole</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="334" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="334" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a7a94ab8ff1888935eb071e4c25efb276" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.GroupBox</type>
+        <definition>System Windows Controls GroupBox PCBuilderForms.Questionnaire::grpOptical</definition>
+        <argsstring></argsstring>
+        <name>grpOptical</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="342" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="342" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a439d90d008d5082cea79a9223280613e" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radBRBurner</definition>
+        <argsstring></argsstring>
+        <name>radBRBurner</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="350" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="350" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a1737317fe4bb2105fc33d6a85eb3bd80" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radBRReader</definition>
+        <argsstring></argsstring>
+        <name>radBRReader</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="358" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="358" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a4dbb291702e5c164203150799da2d179" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radDVDBurner</definition>
+        <argsstring></argsstring>
+        <name>radDVDBurner</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="366" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="366" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1a042a2900dee726caecea62754540e6a6" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.RadioButton</type>
+        <definition>System Windows Controls RadioButton PCBuilderForms.Questionnaire::radOpticalNone</definition>
+        <argsstring></argsstring>
+        <name>radOpticalNone</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="374" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="374" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_questionnaire_1ab9d56bf1f26e74f376becccf304a8f54" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderForms.Questionnaire::_contentLoaded</definition>
+        <argsstring></argsstring>
+        <name>_contentLoaded</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="379" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="379" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_forms_1_1_questionnaire_1afa53e86f988e8542c4355b18b4d61382" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_business_objects_1_1_finalized_build" kindref="compound">FinalizedBuild</ref></type>
+        <definition>FinalizedBuild PCBuilderForms.Questionnaire.FB</definition>
+        <argsstring></argsstring>
+        <name>FB</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" line="26" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_forms_1_1_questionnaire_1ac4a23f37f67fd6346138c0a480434dad" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_business_objects_1_1_questionnaire_results" kindref="compound">QuestionnaireResults</ref></type>
+        <definition>QuestionnaireResults PCBuilderForms.Questionnaire.QR</definition>
+        <argsstring></argsstring>
+        <name>QR</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1a89db3c8c78b52416caa22372430d1e6e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.Questionnaire.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>InitializeComponent </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="386" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="386" bodyend="398"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1a89db3c8c78b52416caa22372430d1e6e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.Questionnaire.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>InitializeComponent </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.i.cs" line="386" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.i.cs" bodystart="386" bodyend="398"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1a8adf8b22d2427f03949f3df37f99ce2d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderForms.Questionnaire.Questionnaire</definition>
+        <argsstring>()</argsstring>
+        <name>Questionnaire</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_p_c_builder_forms_1_1_questionnaire" kindref="compound">Questionnaire</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" line="32" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" bodystart="32" bodyend="35"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1af04ecdbdb6d1206ff7b04627ea55c08e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void System.Windows.Markup.IComponentConnector.</type>
+        <definition>void System.Windows.Markup.IComponentConnector. PCBuilderForms.Questionnaire.Connect</definition>
+        <argsstring>(int connectionId, object target)</argsstring>
+        <name>Connect</name>
+        <param>
+          <type>int</type>
+          <declname>connectionId</declname>
+        </param>
+        <param>
+          <type>object</type>
+          <declname>target</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="406" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="406" bodyend="573"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1af04ecdbdb6d1206ff7b04627ea55c08e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void System.Windows.Markup.IComponentConnector.</type>
+        <definition>void System.Windows.Markup.IComponentConnector. PCBuilderForms.Questionnaire.Connect</definition>
+        <argsstring>(int connectionId, object target)</argsstring>
+        <name>Connect</name>
+        <param>
+          <type>int</type>
+          <declname>connectionId</declname>
+        </param>
+        <param>
+          <type>object</type>
+          <declname>target</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.i.cs" line="406" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.i.cs" bodystart="406" bodyend="573"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1a4c5659e3c84f9eb08287fa86ad3a4684" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.Questionnaire.sldPerformance_ValueChanged</definition>
+        <argsstring>(object sender, RoutedPropertyChangedEventArgs&lt; double &gt; e)</argsstring>
+        <name>sldPerformance_ValueChanged</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedPropertyChangedEventArgs&lt; double &gt;</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the ValueChanged event of the sldPerformance control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedPropertyChangedEventArgs&lt;System.Double&gt; instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" line="42" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" bodystart="42" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1abd5934363e01fc284501e7dca14cf0e1" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.Questionnaire.radRAMSelectManual_Checked</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>radRAMSelectManual_Checked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Checked event of the radRAMSelectManual control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" line="51" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" bodystart="51" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1aafa36d5d99af61aec682aadc59f6b6b7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.Questionnaire.radRAMSelectManual_Unchecked</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>radRAMSelectManual_Unchecked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Unchecked event of the radRAMSelectManual control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" line="63" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" bodystart="63" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1a95e76d557be209143133d97d71e40bdd" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.Questionnaire.btnReset_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>btnReset_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Click event of the btnReset control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" line="75" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" bodystart="75" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1a21b5d339c61d10bdc83bdac62cebccd6" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.Questionnaire.btnCancel_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>btnCancel_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Click event of the btnCancel control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" line="89" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" bodystart="89" bodyend="98"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1a57d92628463485e31d68831240f1a97d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.Questionnaire.ResetForm</definition>
+        <argsstring>()</argsstring>
+        <name>ResetForm</name>
+        <briefdescription>
+<para>Resets the form. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" line="103" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" bodystart="103" bodyend="116"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_questionnaire_1a2000ae75279c69732241fe71e4b66b89" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.Questionnaire.btnAccept_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>btnAccept_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Click event of the btnAccept control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" line="123" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/Questionnaire.xaml.cs" bodystart="123" bodyend="164"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_p_c_builder_forms_1_1_questionnaire" kindref="compound">Questionnaire</ref> </para>    </briefdescription>
+    <detaileddescription>
+<para>Interaction logic for Questionnaire.xaml </para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="210">
+        <label>System::Windows::Window</label>
+      </node>
+      <node id="209">
+        <label>Window</label>
+      </node>
+      <node id="211">
+        <label>System::Windows::Markup::IComponentConnector</label>
+      </node>
+      <node id="208">
+        <label>PCBuilderForms.Questionnaire</label>
+        <link refid="class_p_c_builder_forms_1_1_questionnaire"/>
+        <childnode refid="209" relation="public-inheritance">
+        </childnode>
+        <childnode refid="210" relation="public-inheritance">
+        </childnode>
+        <childnode refid="211" relation="public-inheritance">
+        </childnode>
+        <childnode refid="210" relation="public-inheritance">
+        </childnode>
+        <childnode refid="211" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="214">
+        <label>System::Windows::Window</label>
+      </node>
+      <node id="213">
+        <label>Window</label>
+      </node>
+      <node id="216">
+        <label>System</label>
+      </node>
+      <node id="215">
+        <label>System::Windows::Markup::IComponentConnector</label>
+      </node>
+      <node id="212">
+        <label>PCBuilderForms.Questionnaire</label>
+        <link refid="class_p_c_builder_forms_1_1_questionnaire"/>
+        <childnode refid="213" relation="public-inheritance">
+        </childnode>
+        <childnode refid="214" relation="public-inheritance">
+        </childnode>
+        <childnode refid="215" relation="public-inheritance">
+        </childnode>
+        <childnode refid="214" relation="public-inheritance">
+        </childnode>
+        <childnode refid="215" relation="public-inheritance">
+        </childnode>
+        <childnode refid="216" relation="usage">
+          <edgelabel>radBRBurner</edgelabel>
+          <edgelabel>radCaseSizeMid</edgelabel>
+          <edgelabel>sldRamSize</edgelabel>
+          <edgelabel>lblAppxDollarsLabel</edgelabel>
+          <edgelabel>radCaseSizeMini</edgelabel>
+          <edgelabel>sldNumCores</edgelabel>
+          <edgelabel>btnReset</edgelabel>
+          <edgelabel>radSSD</edgelabel>
+          <edgelabel>chkUseOfficeModerate</edgelabel>
+          <edgelabel>grpOptical</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" line="41" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Questionnaire.g.cs" bodystart="41" bodyend="574"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1ab9d56bf1f26e74f376becccf304a8f54" prot="private" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>_contentLoaded</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1acd21293e6eba54ed7ae80b1961396cb2" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>btnAccept</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a2000ae75279c69732241fe71e4b66b89" prot="private" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>btnAccept_Click</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1aa430b93d2bfaea7fd7ab11efde8fc43b" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>btnCancel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a21b5d339c61d10bdc83bdac62cebccd6" prot="private" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>btnCancel_Click</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a98f29008e5166e3805e78b4b3f3cde5a" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>btnReset</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a95e76d557be209143133d97d71e40bdd" prot="private" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>btnReset_Click</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1abfc851eadf07f61c9baf4b084dba1c6e" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>chkUseBasic</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1aa5e3a716f12c8230813c1ea7e6dbe066" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>chkUseDevelopment</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a01e1cbcd2cade5a159bf07c8a38a1ba1" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>chkUseGaming</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1ac9b48ad0ed24356de2eca76f241a404a" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>chkUseOfficeModerate</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a22d8067caf3fddbc5e2ad0c122b65b66" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>chkUseVideoEdit</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1af04ecdbdb6d1206ff7b04627ea55c08e" prot="private" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>Connect</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1af04ecdbdb6d1206ff7b04627ea55c08e" prot="private" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>Connect</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1afa53e86f988e8542c4355b18b4d61382" prot="public" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>FB</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a265f59b48d91297e31afc2bf6f6cc71f" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>grpCaseSize</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a7a94ab8ff1888935eb071e4c25efb276" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>grpOptical</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1adf88f1d08662bc0b93ba36ae5d6e3cd7" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>grpRAMChoices</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1aacb718674bd68956728ca4e7d4f24f20" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>grpStorageType</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a89db3c8c78b52416caa22372430d1e6e" prot="public" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>InitializeComponent</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a89db3c8c78b52416caa22372430d1e6e" prot="public" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>InitializeComponent</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1ab110107164e6fa6bb5066a9019ef3472" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblAppxDollars</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1af6e8662a5f98ec6b0ea9a83c32194c14" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblAppxDollarsLabel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1ad4b2f99b09dba09b72c0a30c5de2889b" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblBudgetNotice</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a19d7d3f5d3cc2141b9d0798cfe8a9852" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblManualRamSelect</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a5f67de61e73e2579def21ff5bc7ab378" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblManualRamSelectLabel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1ae095cf3231846bbb3c840772a127508e" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblNumCores</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1ae0a847f6e0a937fe43e28d65b82949ab" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblNumCoresLabel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a55404df979e7f8d081d9eb01e0f1f9d2" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblPerformance</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a64334da3c950cbe2c1d69e132987da9f" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblStorageSize</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a7b0d0ecbfbc74b6d565a42bb4141fbf4" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblStorageSizeGB</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a8b222ca3676f8806e7d4c41165900f87" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblStorageSizeLabel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a7f8e282593378445f3e6454297928f0c" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblStorageType</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a1fca841040d260bb0c2e38609d80164d" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>lblUse</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1ac4a23f37f67fd6346138c0a480434dad" prot="public" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>QR</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a8adf8b22d2427f03949f3df37f99ce2d" prot="public" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>Questionnaire</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a439d90d008d5082cea79a9223280613e" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radBRBurner</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a1737317fe4bb2105fc33d6a85eb3bd80" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radBRReader</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a5122088ec1da5fdfeff7f73e7a1ed7d8" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radCaseSizeConsole</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a089c98cd9645269b160e120802ee6291" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radCaseSizeFull</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1af2a207060c7db62e28a4e51069ebbfb2" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radCaseSizeMicro</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a9da362816e5a9028ac621eadfa920084" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radCaseSizeMid</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a171661dc73623f275c82089ac80e92b8" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radCaseSizeMini</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a4dbb291702e5c164203150799da2d179" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radDVDBurner</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a50611bac3cc1a32bf7cd7cab900d19f4" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radHDD</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a042a2900dee726caecea62754540e6a6" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radOpticalNone</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a9667e48b87ba5ca17958376e62f85bfc" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radRAMRecommended</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a7621a4de2b14d731da3e9be5853deedf" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radRAMSelectManual</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1abd5934363e01fc284501e7dca14cf0e1" prot="private" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radRAMSelectManual_Checked</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1aafa36d5d99af61aec682aadc59f6b6b7" prot="private" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radRAMSelectManual_Unchecked</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1abaaba55fd7be22a9e7dd881a411ad074" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>radSSD</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a57d92628463485e31d68831240f1a97d" prot="private" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>ResetForm</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a7714f0334ab693222eceb856e53aedef" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>sldNumCores</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1ac3267ec4c1147b071b1999f5fdd2c9e0" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>sldPerformance</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a4c5659e3c84f9eb08287fa86ad3a4684" prot="private" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>sldPerformance_ValueChanged</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a6a563a88382357ef8eee89decdb80e8b" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>sldRamSize</name></member>
+      <member refid="class_p_c_builder_forms_1_1_questionnaire_1a80489b03c4fd52c7068fa7c56dda5534" prot="package" virt="non-virtual"><scope>PCBuilderForms::Questionnaire</scope><name>sldStorageSize</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

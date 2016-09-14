@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_email_service" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::EmailService</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IIdentityMessageService</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_email_service_1a5edc6da9b4227c6f699f71c011c86621" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Task</type>
+        <definition>Task PCBuilderMVC.EmailService.SendAsync</definition>
+        <argsstring>(IdentityMessage message)</argsstring>
+        <name>SendAsync</name>
+        <param>
+          <type>IdentityMessage</type>
+          <declname>message</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" line="79" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" bodystart="79" bodyend="83"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Creates an email service. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>Microsoft.AspNet.Identity.IIdentityMessageService</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="94">
+        <label>IIdentityMessageService</label>
+      </node>
+      <node id="93">
+        <label>PCBuilderMVC.EmailService</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_email_service"/>
+        <childnode refid="94" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="96">
+        <label>IIdentityMessageService</label>
+      </node>
+      <node id="95">
+        <label>PCBuilderMVC.EmailService</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_email_service"/>
+        <childnode refid="96" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" line="78" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/IdentityConfig.cs" bodystart="77" bodyend="84"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_email_service_1a5edc6da9b4227c6f699f71c011c86621" prot="public" virt="non-virtual"><scope>PCBuilderMVC::EmailService</scope><name>SendAsync</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

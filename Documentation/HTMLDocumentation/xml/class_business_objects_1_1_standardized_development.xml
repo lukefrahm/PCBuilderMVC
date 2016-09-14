@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_standardized_development" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::StandardizedDevelopment</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_development_1a5bc2483ecb2c73955f1bd43473a76ba3" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref></type>
+        <definition>CPU BusinessObjects.StandardizedDevelopment.cpu</definition>
+        <argsstring></argsstring>
+        <name>cpu</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_development_1a35a82523bcfbced358a744a2b0aa2973" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref></type>
+        <definition>GPU BusinessObjects.StandardizedDevelopment.gpu</definition>
+        <argsstring></argsstring>
+        <name>gpu</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_development_1ad124b8b764cdb5438003cdd3edc54f41" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref></type>
+        <definition>Motherboard BusinessObjects.StandardizedDevelopment.motherboard</definition>
+        <argsstring></argsstring>
+        <name>motherboard</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_development_1ad66844eb585020b6e83840871dbd34c0" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref></type>
+        <definition>Optical BusinessObjects.StandardizedDevelopment.optical</definition>
+        <argsstring></argsstring>
+        <name>optical</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_development_1a40e64b606dcde9bf0f8ac3258e09a966" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref></type>
+        <definition>PSU BusinessObjects.StandardizedDevelopment.psu</definition>
+        <argsstring></argsstring>
+        <name>psu</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_development_1a2d257a0a8acb247c4230defacf7b991d" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref></type>
+        <definition>RAM BusinessObjects.StandardizedDevelopment.ram</definition>
+        <argsstring></argsstring>
+        <name>ram</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_development_1ae149e2f0d1fea24ee4371cdfb2c62b60" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref></type>
+        <definition>Storage BusinessObjects.StandardizedDevelopment.storage</definition>
+        <argsstring></argsstring>
+        <name>storage</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_objects_1_1_standardized_development_1a65a94cd1370b7b2abeb84c38fafc8af4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.StandardizedDevelopment.StandardizedDevelopment</definition>
+        <argsstring>()</argsstring>
+        <name>StandardizedDevelopment</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_standardized_development" kindref="compound">StandardizedDevelopment</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para>Default values are entered into the object at time of instantiation. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" bodystart="31" bodyend="60"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Build object to hold necessary data on a Video Editing build. </para>    </briefdescription>
+    <detaileddescription>
+<para>This is used as a contingency build if user requests are far too outlandish to create an acceptable build. </para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="281">
+        <label>BusinessObjects.Optical</label>
+        <link refid="class_business_objects_1_1_optical"/>
+      </node>
+      <node id="277">
+        <label>BusinessObjects.StandardizedDevelopment</label>
+        <link refid="class_business_objects_1_1_standardized_development"/>
+        <childnode refid="278" relation="usage">
+          <edgelabel>gpu</edgelabel>
+        </childnode>
+        <childnode refid="279" relation="usage">
+          <edgelabel>psu</edgelabel>
+        </childnode>
+        <childnode refid="280" relation="usage">
+          <edgelabel>storage</edgelabel>
+        </childnode>
+        <childnode refid="281" relation="usage">
+          <edgelabel>optical</edgelabel>
+        </childnode>
+        <childnode refid="282" relation="usage">
+          <edgelabel>cpu</edgelabel>
+        </childnode>
+        <childnode refid="283" relation="usage">
+          <edgelabel>ram</edgelabel>
+        </childnode>
+        <childnode refid="284" relation="usage">
+          <edgelabel>motherboard</edgelabel>
+        </childnode>
+      </node>
+      <node id="279">
+        <label>BusinessObjects.PSU</label>
+        <link refid="class_business_objects_1_1_p_s_u"/>
+      </node>
+      <node id="283">
+        <label>BusinessObjects.RAM</label>
+        <link refid="class_business_objects_1_1_r_a_m"/>
+      </node>
+      <node id="280">
+        <label>BusinessObjects.Storage</label>
+        <link refid="class_business_objects_1_1_storage"/>
+      </node>
+      <node id="284">
+        <label>BusinessObjects.Motherboard</label>
+        <link refid="class_business_objects_1_1_motherboard"/>
+      </node>
+      <node id="278">
+        <label>BusinessObjects.GPU</label>
+        <link refid="class_business_objects_1_1_g_p_u"/>
+      </node>
+      <node id="282">
+        <label>BusinessObjects.CPU</label>
+        <link refid="class_business_objects_1_1_c_p_u"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedDevelopment.cs" bodystart="15" bodyend="61"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_standardized_development_1a5bc2483ecb2c73955f1bd43473a76ba3" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedDevelopment</scope><name>cpu</name></member>
+      <member refid="class_business_objects_1_1_standardized_development_1a35a82523bcfbced358a744a2b0aa2973" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedDevelopment</scope><name>gpu</name></member>
+      <member refid="class_business_objects_1_1_standardized_development_1ad124b8b764cdb5438003cdd3edc54f41" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedDevelopment</scope><name>motherboard</name></member>
+      <member refid="class_business_objects_1_1_standardized_development_1ad66844eb585020b6e83840871dbd34c0" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedDevelopment</scope><name>optical</name></member>
+      <member refid="class_business_objects_1_1_standardized_development_1a40e64b606dcde9bf0f8ac3258e09a966" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedDevelopment</scope><name>psu</name></member>
+      <member refid="class_business_objects_1_1_standardized_development_1a2d257a0a8acb247c4230defacf7b991d" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedDevelopment</scope><name>ram</name></member>
+      <member refid="class_business_objects_1_1_standardized_development_1a65a94cd1370b7b2abeb84c38fafc8af4" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedDevelopment</scope><name>StandardizedDevelopment</name></member>
+      <member refid="class_business_objects_1_1_standardized_development_1ae149e2f0d1fea24ee4371cdfb2c62b60" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedDevelopment</scope><name>storage</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

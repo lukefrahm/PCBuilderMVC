@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir__f742d9b77248733bd365d2a6cf429e70_8js" kind="file" language="Javascript">
+    <compoundname>dir_f742d9b77248733bd365d2a6cf429e70.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="dir__f742d9b77248733bd365d2a6cf429e70_8js_1ac830a1b4646c27b67bd4422acd5dca8a" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var dir_f742d9b77248733bd365d2a6cf429e70</definition>
+        <argsstring></argsstring>
+        <name>dir_f742d9b77248733bd365d2a6cf429e70</name>
+        <initializer>=
+[
+    [ &quot;AssemblyInfo.cs&quot;, &quot;_data_access_2_properties_2_assembly_info_8cs_source.html&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_f742d9b77248733bd365d2a6cf429e70.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_f742d9b77248733bd365d2a6cf429e70.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>dir_f742d9b77248733bd365d2a6cf429e70<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AssemblyInfo.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_data_access_2_properties_2_assembly_info_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="4"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_f742d9b77248733bd365d2a6cf429e70.js"/>
+  </compounddef>
+</doxygen>

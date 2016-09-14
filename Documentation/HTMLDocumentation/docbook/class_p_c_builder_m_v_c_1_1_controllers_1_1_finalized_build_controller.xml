@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller">
+<title>PCBuilderMVC::Controllers::FinalizedBuildController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a242b5e426f4bc1c73fe627d400281f9e">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a35dc61bcca940b614aab3c965bc0d2c9">Details</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a6bf70278e044bfd5e3f88ee514fb2249">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1ad7c02b253a9d65c0af1d2c8291bde7c7">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model">FinalizedBuildViewModel</link> finalizedBuildViewModel)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a2060f2af464247f5856255019afd972c">Edit</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1ab758e591d4fbd3f8735ff9b6d4b80974">Edit</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model">FinalizedBuildViewModel</link> finalizedBuildViewModel)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a67108920f596310eb9aee37122b5ccbe">Delete</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a1eafcada1b37f4df54b3a202209ee6ca">DeleteConfirmed</link> (
+int id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a5a502f607f19ae30e5b8b3c7b699a088">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Finalized build controller class to handle FinalizedBuild views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file FinalizedBuildController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>FinalizedBuildController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a242b5e426f4bc1c73fe627d400281f9e">
+                <title>ActionResult PCBuilderMVC.Controllers.FinalizedBuildController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a35dc61bcca940b614aab3c965bc0d2c9">
+                <title>ActionResult PCBuilderMVC.Controllers.FinalizedBuildController.Details (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a6bf70278e044bfd5e3f88ee514fb2249">
+                <title>ActionResult PCBuilderMVC.Controllers.FinalizedBuildController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1ad7c02b253a9d65c0af1d2c8291bde7c7">
+                <title>ActionResult PCBuilderMVC.Controllers.FinalizedBuildController.Create ([Bind(Include=&quot;FinalizedBuildID,message&quot;)] FinalizedBuildViewModel finalizedBuildViewModel)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a2060f2af464247f5856255019afd972c">
+                <title>ActionResult PCBuilderMVC.Controllers.FinalizedBuildController.Edit (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1ab758e591d4fbd3f8735ff9b6d4b80974">
+                <title>ActionResult PCBuilderMVC.Controllers.FinalizedBuildController.Edit ([Bind(Include=&quot;FinalizedBuildID,message&quot;)] FinalizedBuildViewModel finalizedBuildViewModel)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a67108920f596310eb9aee37122b5ccbe">
+                <title>ActionResult PCBuilderMVC.Controllers.FinalizedBuildController.Delete (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a1eafcada1b37f4df54b3a202209ee6ca">
+                <title>ActionResult PCBuilderMVC.Controllers.FinalizedBuildController.DeleteConfirmed (int id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller_1a5a502f607f19ae30e5b8b3c7b699a088">
+                <title>override void PCBuilderMVC.Controllers.FinalizedBuildController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_objects_1_1_motherboard">
+<title>BusinessObjects::Motherboard class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_motherboard_1a91ff736d1cb114aa298e22ae44c90634">Motherboard</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Motherboard&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_motherboard_1a21fe91580de645025fb2c84a93b75562">Motherboard</link> (
+int motherboardId, string brand, string model, string socket, string chipset, int maxRam, int ramType, string formFactor, int sataPorts, int m2Slots, int powerPhases, int fanHeaders, int pcie16, int pcie8, int pcie4, int pcie1, int pci, decimal price)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Motherboard&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_business_objects_1_1_motherboard">Motherboard</link> object to hold necessary data on the motherboard. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 18 of file Motherboard.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>Motherboard.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_objects_1_1_motherboard_1a91ff736d1cb114aa298e22ae44c90634">
+                <title>BusinessObjects.Motherboard.Motherboard ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Motherboard&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_objects_1_1_motherboard_1a21fe91580de645025fb2c84a93b75562">
+                <title>BusinessObjects.Motherboard.Motherboard (int motherboardId, string brand, string model, string socket, string chipset, int maxRam, int ramType, string formFactor, int sataPorts, int m2Slots, int powerPhases, int fanHeaders, int pcie16, int pcie8, int pcie4, int pcie1, int pci, decimal price)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;Motherboard&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>motherboardId</entry>
+                                <entry>
+<para>The motherboard identifier.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>brand</entry>
+                                <entry>
+<para>The brand.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>model</entry>
+                                <entry>
+<para>The model.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>socket</entry>
+                                <entry>
+<para>The socket.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>chipset</entry>
+                                <entry>
+<para>The chipset.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>maxRam</entry>
+                                <entry>
+<para>The maximum ram.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>ramType</entry>
+                                <entry>
+<para>Type of the ram.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>formFactor</entry>
+                                <entry>
+<para>The form factor.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>sataPorts</entry>
+                                <entry>
+<para>The number of SATA ports.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>m2Slots</entry>
+                                <entry>
+<para>The number of M.2 slots.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>powerPhases</entry>
+                                <entry>
+<para>The number of power phases.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>fanHeaders</entry>
+                                <entry>
+<para>The number of fan headers.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>pcie16</entry>
+                                <entry>
+<para>The number of PCIe x16 slots.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>pcie8</entry>
+                                <entry>
+<para>The number of PCIe x8 slots.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>pcie4</entry>
+                                <entry>
+<para>The number of PCIe x4 slots.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>pcie1</entry>
+                                <entry>
+<para>The number of PCIe x1 slots.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>pci</entry>
+                                <entry>
+<para>The number of PCI slots.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>price</entry>
+                                <entry>
+<para>The price.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

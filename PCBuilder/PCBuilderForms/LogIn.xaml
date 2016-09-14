@@ -1,0 +1,61 @@
+﻿<Window x:Class="PCBuilderForms.LogIn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="425" Width="300"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="lblUsername" Margin="10 2 0 0" Content="User name:" Grid.Row="0" Grid.Column="0"/>
+        <Label x:Name="lblPassword" Margin="10 2 0 0" Content="Password:" Grid.Row="1" Grid.Column="0"/>
+        <Label x:Name="lblPassConfirm" Margin="10 2 0 0" Content="Confirm Password:" Grid.Row="2" Grid.Column="0" Visibility="Hidden"/>
+        <Label x:Name="lblFirstName" Margin="10 2 0 0" Content="First name:" Grid.Row="3" Grid.Column="0" Visibility="Hidden"/>
+        <Label x:Name="lblLastName" Margin="10 2 0 0" Content="Last name:" Grid.Row="4" Grid.Column="0" Visibility="Hidden"/>
+        <Label x:Name="lblAddress" Margin="10 2 0 0" Content="Address:" Grid.Row="5" Grid.Column="0" Visibility="Hidden"/>
+        <Label x:Name="lblCity" Margin="10 2 0 0" Content="City:" Grid.Row="6" Grid.Column="0" Visibility="Hidden"/>
+        <Label x:Name="lblState" Margin="10 2 0 0" Content="State:" Grid.Row="7" Grid.Column="0" Visibility="Hidden"/>
+        <Label x:Name="lblZip" Margin="10 2 0 0" Content="Zip:" Grid.Row="8" Grid.Column="0" Visibility="Hidden"/>
+        <Label x:Name="lblPhone" Margin="10 2 0 0" Content="Phone:" Grid.Row="9" Grid.Column="0" Visibility="Hidden"/>
+        <Label x:Name="lblEmail" Margin="10 2 0 0" Content="Email:" Grid.Row="10" Grid.Column="0" Visibility="Hidden"/>
+                
+        <TextBox x:Name="txtUsername" Margin="5 5 20 5" Grid.Row="0" Grid.Column="1"/>
+        <PasswordBox x:Name="txtPassword" Margin="5 5 20 5" Grid.Row="1" Grid.Column="1"/>
+        <PasswordBox x:Name="txtPassConfirm" Margin="5 5 20 5" Grid.Row="2" Grid.Column="1" Visibility="Hidden"/>
+        <TextBox x:Name="txtFirstName" Margin="5 5 20 5" Grid.Row="3" Grid.Column="1" Visibility="Hidden"/>
+        <TextBox x:Name="txtLastName" Margin="5 5 20 5" Grid.Row="4" Grid.Column="1" Visibility="Hidden"/>
+        <TextBox x:Name="txtAddress" Margin="5 5 20 5" Grid.Row="5" Grid.Column="1" Visibility="Hidden"/>
+        <TextBox x:Name="txtCity" Margin="5 5 20 5" Grid.Row="6" Grid.Column="1" Visibility="Hidden"/>
+        <TextBox x:Name="txtState" Margin="5 5 20 5" Grid.Row="7" Grid.Column="1" Visibility="Hidden"/>
+        <TextBox x:Name="txtZip" Margin="5 5 20 5" Grid.Row="8" Grid.Column="1" Visibility="Hidden"/>
+        <TextBox x:Name="txtPhone" Margin="5 5 20 5" Grid.Row="9" Grid.Column="1" Visibility="Hidden"/>
+        <TextBox x:Name="txtEmail" Margin="5 5 20 5" Grid.Row="10" Grid.Column="1" Visibility="Hidden"/>
+        
+        <Grid Grid.Row="12" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <CheckBox x:Name="chkNewUser" Content="New User" HorizontalAlignment="Left" Margin="0,0,10,0" Grid.Column="0" VerticalAlignment="Center" Checked="chkNewUser_Checked" Unchecked="chkNewUser_Unchecked"/>
+            <Button x:Name="btnSubmit" Padding="10 0" Margin="0,0,10,0" Content="Log In" Grid.Column="1" Click="btnSubmit_Click" />
+            <Button x:Name="btnCancel" Padding="10 0" Margin="0,0,10,0" Content="Cancel" Grid.Column="2" Click="btnCancel_Click"/>
+        </Grid>
+    </Grid>
+</Window>

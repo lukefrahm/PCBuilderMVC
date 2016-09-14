@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__standardized__office_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_standardized_office.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__standardized__office_8js_1aa9856ac8321c404147dd49157f627ec0" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_standardized_office</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_standardized_office</name>
+        <initializer>=
+[
+    [ &quot;StandardizedOffice&quot;, &quot;class_business_objects_1_1_standardized_office.html#a275dde86acedc53982daf7aef92e934a&quot;, null ],
+    [ &quot;cpu&quot;, &quot;class_business_objects_1_1_standardized_office.html#a876e1cef05ce7970cea72c3024e741a9&quot;, null ],
+    [ &quot;gpu&quot;, &quot;class_business_objects_1_1_standardized_office.html#a8c1ba029d6692555303c6b10f554d99e&quot;, null ],
+    [ &quot;motherboard&quot;, &quot;class_business_objects_1_1_standardized_office.html#ad8acd1cf58d29f974d2a15ad307f5df6&quot;, null ],
+    [ &quot;optical&quot;, &quot;class_business_objects_1_1_standardized_office.html#a646489f3cc42a5da7bbe2046974c9503&quot;, null ],
+    [ &quot;psu&quot;, &quot;class_business_objects_1_1_standardized_office.html#af2b97a03ea3591cfcb8504582dd4b212&quot;, null ],
+    [ &quot;ram&quot;, &quot;class_business_objects_1_1_standardized_office.html#aa24c6fe7f07e06dca1f0db7b75df63dc&quot;, null ],
+    [ &quot;storage&quot;, &quot;class_business_objects_1_1_standardized_office.html#a3887a99840e85d5691b1c1715592bcd6&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_standardized_office.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_standardized_office.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_standardized_office<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedOffice&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_office.html#a275dde86acedc53982daf7aef92e934a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;cpu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_office.html#a876e1cef05ce7970cea72c3024e741a9&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;gpu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_office.html#a8c1ba029d6692555303c6b10f554d99e&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;motherboard&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_office.html#ad8acd1cf58d29f974d2a15ad307f5df6&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;optical&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_office.html#a646489f3cc42a5da7bbe2046974c9503&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;psu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_office.html#af2b97a03ea3591cfcb8504582dd4b212&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ram&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_office.html#aa24c6fe7f07e06dca1f0db7b75df63dc&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;storage&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_office.html#a3887a99840e85d5691b1c1715592bcd6&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="11"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_standardized_office.js"/>
+  </compounddef>
+</doxygen>

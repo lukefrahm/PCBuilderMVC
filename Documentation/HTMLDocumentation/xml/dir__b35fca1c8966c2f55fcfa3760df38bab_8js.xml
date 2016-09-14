@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir__b35fca1c8966c2f55fcfa3760df38bab_8js" kind="file" language="Javascript">
+    <compoundname>dir_b35fca1c8966c2f55fcfa3760df38bab.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="dir__b35fca1c8966c2f55fcfa3760df38bab_8js_1a1862ee8a484de01e11288788e2e99a22" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var dir_b35fca1c8966c2f55fcfa3760df38bab</definition>
+        <argsstring></argsstring>
+        <name>dir_b35fca1c8966c2f55fcfa3760df38bab</name>
+        <initializer>=
+[
+    [ &quot;jquery-2.2.3.intellisense.js&quot;, &quot;packages_2j_query_82_82_83_2_tools_2jquery-2_82_83_8intellisense_8js_source.html&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_b35fca1c8966c2f55fcfa3760df38bab.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_b35fca1c8966c2f55fcfa3760df38bab.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>dir_b35fca1c8966c2f55fcfa3760df38bab<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;jquery-2.2.3.intellisense.js&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;packages_2j_query_82_82_83_2_tools_2jquery-2_82_83_8intellisense_8js_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="4"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_b35fca1c8966c2f55fcfa3760df38bab.js"/>
+  </compounddef>
+</doxygen>

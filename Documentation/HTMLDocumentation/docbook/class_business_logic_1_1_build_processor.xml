@@ -1,0 +1,736 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_logic_1_1_build_processor">
+<title>BusinessLogic::BuildProcessor class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>QuestionnaireResults userNeeds</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>BuildProperties bp</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>FinalizedBuild fb</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>const decimal baseDelta</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>decimal budget</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>string opticalType</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; CPU &gt; allCPU</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; GPU &gt; allGPU</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; Motherboard &gt; allMotherboards</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; RAM &gt; allRAM</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; Storage &gt; allStorage</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; PSU &gt; allPSU</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; Optical &gt; opticalByType</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; CPU &gt; preliminaryCPU</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; GPU &gt; preliminaryGPU</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; Motherboard &gt; preliminaryMotherboards</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; RAM &gt; preliminaryRAM</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; Storage &gt; preliminaryStorage</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>List&lt; PSU &gt; preliminaryPSU</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>CPU CPUChoice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>GPU GPUChoice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Motherboard motherboardChoice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>RAM RAMChoice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>RAM RAMPreliminary</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Storage storageChoice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PSU PSUChoice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>Optical opticalChoice</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para><link linkend="class_business_objects_1_1_finalized_build">FinalizedBuild</link> <link linkend="class_business_logic_1_1_build_processor_1a7466ec3a31a7752924ca815e1d8bd5fe">DataBuilder</link> (
+<link linkend="class_business_objects_1_1_questionnaire_results">QuestionnaireResults</link> qr)<para><emphasis>&lt;summary&gt;
+Public base method that calls needed methods to complete build.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1ad19fb4a3d40031b59c04aa2c9f563ee9">FinalErrorCheck</link> (
+)<para><emphasis>&lt;summary&gt;
+Validates the build before returning to ensure all components are correct.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a7b2999f8f325a3eac8d7ac3e2467360e">FinalOptical</link> (
+)<para><emphasis>&lt;summary&gt;
+Selects the final choice for the optical drive.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a736030c17f756a67be21d12063588514">ContingencyBuilder</link> (
+bool majorFault, bool needsGPU, bool needsOptical)<para><emphasis>&lt;summary&gt;
+Takes fault results from FinalErrorCheck and processes for problems.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a48241b1584e37cbfeac0cf69fa573740">CreateFinalizedBuild</link> (
+)<para><emphasis>&lt;summary&gt;
+Creates the finalized build from all final choice methods.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a6d400fb8ccd35e9f769c8090fc1ad6d9">CPUChoicesByUserNeeds</link> (
+decimal delta)<para><emphasis>&lt;summary&gt;
+Chooses potential CPUs by user needs.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a4ab80278d65763824f1bfa573738f5f0">FinalCPU</link> (
+)<para><emphasis>&lt;summary&gt;
+Selects the final choice for the CPU.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a4d2c79f0219c32564dc53fbbeeb05a73">GPUChoicesByUserNeeds</link> (
+decimal delta)<para><emphasis>&lt;summary&gt;
+Chooses potential GPUs by user needs.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a2ff04ad18300ae7465005574d0e48772">FinalGPU</link> (
+)<para><emphasis>&lt;summary&gt;
+Selects the final choice for the GPU.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a8a8561de9ecd2966034c7a6a69611333">MotherboardChoicesByUserNeeds</link> (
+decimal delta)<para><emphasis>&lt;summary&gt;
+Chooses potential motherboards by user needs.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a36b321cf0c93184ab607d7e07993c505">FinalMotherboard</link> (
+)<para><emphasis>&lt;summary&gt;
+Selects the final choice for the motherboard.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a081f81558d48b97bb26290255aaf57eb">RAMChoicesByUserNeeds</link> (
+decimal delta)<para><emphasis>&lt;summary&gt;
+Chooses portential RAM modules by user needs.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a0db9fed50e7a97ad28e59808242126a2">FinalRAM</link> (
+)<para><emphasis>&lt;summary&gt;
+Selects the final choice for the RAM
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a6548ea5bfcc8e7f9977c7fa7bd5c75a9">StorageChoicesByUserNeeds</link> (
+decimal delta)<para><emphasis>&lt;summary&gt;
+Chooses potential storage candidates by user needs.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a9c56c221189ed6bd17ec8ea20593a8c5">FinalStorage</link> (
+)<para><emphasis>&lt;summary&gt;
+Selects the final choice for the storage.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a202adb3a888d805e5e71e75f67d3f086">PSUChoicesByUserNeeds</link> (
+decimal delta)<para><emphasis>&lt;summary&gt;
+Chooses potential PSUsby user needs.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1aa87a3667f6b2bbc272e864c08ba42364">FinalPSU</link> (
+)<para><emphasis>&lt;summary&gt;
+Selects the final choice for the PSU.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a600e948e1baf06c06237742a99a967ff">BuildProportioning</link> (
+)<para><emphasis>&lt;summary&gt;
+Creates budget proportions based on standardized build needs. Different use cases require different budget allocations for different parts.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>void <link linkend="class_business_logic_1_1_build_processor_1a54da61836d65e0e34a9e2ef76fb1a012">CreateAllComponentLists</link> (
+)<para><emphasis>&lt;summary&gt;
+Creates all component lists for each component.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>Clas tasked with processing of questionnaire data to build a system. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 15 of file BuildProcessor.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>BuildProcessor.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a7466ec3a31a7752924ca815e1d8bd5fe">
+                <title>FinalizedBuild BusinessLogic.BuildProcessor.DataBuilder (QuestionnaireResults qr)</title> <emphasis>&lt;summary&gt;
+Public base method that calls needed methods to complete build.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>qr</entry>
+                                <entry>
+<para>The questionnaire data.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                <formalpara><title>Returns: </title>
+
+<para>FinalizedBuild with all build components.</para>
+</formalpara>
+</para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1ad19fb4a3d40031b59c04aa2c9f563ee9">
+                <title>void BusinessLogic.BuildProcessor.FinalErrorCheck ()</title> <emphasis>&lt;summary&gt;
+Validates the build before returning to ensure all components are correct.
+&lt;/summary&gt;</emphasis>
+                
+<para>This method calls the ContingencyBuilder and passes the results of the tests. </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a7b2999f8f325a3eac8d7ac3e2467360e">
+                <title>void BusinessLogic.BuildProcessor.FinalOptical ()</title> <emphasis>&lt;summary&gt;
+Selects the final choice for the optical drive.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a736030c17f756a67be21d12063588514">
+                <title>void BusinessLogic.BuildProcessor.ContingencyBuilder (bool majorFault, bool needsGPU, bool needsOptical)</title> <emphasis>&lt;summary&gt;
+Takes fault results from FinalErrorCheck and processes for problems.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>majorFault</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [major fault]. Represents a significant problem with the build.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>needsGPU</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput> [needs gpu]. Represents the build does not have a processor capable of on-die graphics. A GPU must be selected.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>needsOptical</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput> [needs optical]. Represents a fault of not being able to pull an applicable optical drive.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a48241b1584e37cbfeac0cf69fa573740">
+                <title>void BusinessLogic.BuildProcessor.CreateFinalizedBuild ()</title> <emphasis>&lt;summary&gt;
+Creates the finalized build from all final choice methods.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a6d400fb8ccd35e9f769c8090fc1ad6d9">
+                <title>void BusinessLogic.BuildProcessor.CPUChoicesByUserNeeds (decimal delta)</title> <emphasis>&lt;summary&gt;
+Chooses potential CPUs by user needs.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>delta</entry>
+                                <entry>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a4ab80278d65763824f1bfa573738f5f0">
+                <title>void BusinessLogic.BuildProcessor.FinalCPU ()</title> <emphasis>&lt;summary&gt;
+Selects the final choice for the CPU.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a4d2c79f0219c32564dc53fbbeeb05a73">
+                <title>void BusinessLogic.BuildProcessor.GPUChoicesByUserNeeds (decimal delta)</title> <emphasis>&lt;summary&gt;
+Chooses potential GPUs by user needs.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>delta</entry>
+                                <entry>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a2ff04ad18300ae7465005574d0e48772">
+                <title>void BusinessLogic.BuildProcessor.FinalGPU ()</title> <emphasis>&lt;summary&gt;
+Selects the final choice for the GPU.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a8a8561de9ecd2966034c7a6a69611333">
+                <title>void BusinessLogic.BuildProcessor.MotherboardChoicesByUserNeeds (decimal delta)</title> <emphasis>&lt;summary&gt;
+Chooses potential motherboards by user needs.
+&lt;/summary&gt;</emphasis>
+                
+<para>This must be called after the FinalCPU method. Not doing so will cause incompatibilities between the CPU and motherboard. </para>
+
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>delta</entry>
+                                <entry>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a36b321cf0c93184ab607d7e07993c505">
+                <title>void BusinessLogic.BuildProcessor.FinalMotherboard ()</title> <emphasis>&lt;summary&gt;
+Selects the final choice for the motherboard.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a081f81558d48b97bb26290255aaf57eb">
+                <title>void BusinessLogic.BuildProcessor.RAMChoicesByUserNeeds (decimal delta)</title> <emphasis>&lt;summary&gt;
+Chooses portential RAM modules by user needs.
+&lt;/summary&gt;</emphasis>
+                
+<para>This must be called after the FinalMotherboard method. Not doing so will cause incompatibilities bwtween the motherboard and RAM. </para>
+
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>delta</entry>
+                                <entry>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a0db9fed50e7a97ad28e59808242126a2">
+                <title>void BusinessLogic.BuildProcessor.FinalRAM ()</title> <emphasis>&lt;summary&gt;
+Selects the final choice for the RAM
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a6548ea5bfcc8e7f9977c7fa7bd5c75a9">
+                <title>void BusinessLogic.BuildProcessor.StorageChoicesByUserNeeds (decimal delta)</title> <emphasis>&lt;summary&gt;
+Chooses potential storage candidates by user needs.
+&lt;/summary&gt;</emphasis>
+                
+<para>The method differentiates between HDD and SSD based on the user&apos;s needs. </para>
+
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>delta</entry>
+                                <entry>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a9c56c221189ed6bd17ec8ea20593a8c5">
+                <title>void BusinessLogic.BuildProcessor.FinalStorage ()</title> <emphasis>&lt;summary&gt;
+Selects the final choice for the storage.
+&lt;/summary&gt;</emphasis>
+                
+<para>This method takes into account the use case for the user. If the user needs high performance, an SSD is selected. </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a202adb3a888d805e5e71e75f67d3f086">
+                <title>void BusinessLogic.BuildProcessor.PSUChoicesByUserNeeds (decimal delta)</title> <emphasis>&lt;summary&gt;
+Chooses potential PSUsby user needs.
+&lt;/summary&gt;</emphasis>
+                
+<para>This method must be done last in the build process. Not doing so can result in an inadequate power supply being selected. </para>
+
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>delta</entry>
+                                <entry>
+<para>The price delta. Used for recursion to increasingly expand the price delta.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1aa87a3667f6b2bbc272e864c08ba42364">
+                <title>void BusinessLogic.BuildProcessor.FinalPSU ()</title> <emphasis>&lt;summary&gt;
+Selects the final choice for the PSU.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a600e948e1baf06c06237742a99a967ff">
+                <title>void BusinessLogic.BuildProcessor.BuildProportioning ()</title> <emphasis>&lt;summary&gt;
+Creates budget proportions based on standardized build needs. Different use cases require different budget allocations for different parts.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_logic_1_1_build_processor_1a54da61836d65e0e34a9e2ef76fb1a012">
+                <title>void BusinessLogic.BuildProcessor.CreateAllComponentLists ()</title> <emphasis>&lt;summary&gt;
+Creates all component lists for each component.
+&lt;/summary&gt;</emphasis>
+                
+<para>Special attention is needed for the optical type, so the stored procedure can pull the applicable types of ddrives only.</para>
+
+            </section>
+</section>

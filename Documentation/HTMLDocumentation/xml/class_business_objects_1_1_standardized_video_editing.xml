@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_objects_1_1_standardized_video_editing" kind="class" language="C#" prot="public">
+    <compoundname>BusinessObjects::StandardizedVideoEditing</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_video_editing_1a899ce4e020f0738df0d46d0afd9fa869" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref></type>
+        <definition>CPU BusinessObjects.StandardizedVideoEditing.cpu</definition>
+        <argsstring></argsstring>
+        <name>cpu</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_c_p_u" kindref="compound">CPU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" line="17" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_video_editing_1ab604c6f5f914f9e5076f51078349b635" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref></type>
+        <definition>GPU BusinessObjects.StandardizedVideoEditing.gpu</definition>
+        <argsstring></argsstring>
+        <name>gpu</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_g_p_u" kindref="compound">GPU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_video_editing_1a63ef4344c908e76acbbb890e5c4cba3f" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref></type>
+        <definition>Motherboard BusinessObjects.StandardizedVideoEditing.motherboard</definition>
+        <argsstring></argsstring>
+        <name>motherboard</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_motherboard" kindref="compound">Motherboard</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_video_editing_1ac4e7e717cc28b523d2e656b91106d82c" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref></type>
+        <definition>Optical BusinessObjects.StandardizedVideoEditing.optical</definition>
+        <argsstring></argsstring>
+        <name>optical</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_optical" kindref="compound">Optical</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_video_editing_1a63b5a3e09e6cdceafeaa31aa57f64e6c" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref></type>
+        <definition>PSU BusinessObjects.StandardizedVideoEditing.psu</definition>
+        <argsstring></argsstring>
+        <name>psu</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_p_s_u" kindref="compound">PSU</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_video_editing_1a33a82f29441006e1e538f180b277a074" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref></type>
+        <definition>RAM BusinessObjects.StandardizedVideoEditing.ram</definition>
+        <argsstring></argsstring>
+        <name>ram</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_r_a_m" kindref="compound">RAM</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_business_objects_1_1_standardized_video_editing_1a4fbc8c1d1371ff9710019ffe664fe740" prot="public" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref></type>
+        <definition>Storage BusinessObjects.StandardizedVideoEditing.storage</definition>
+        <argsstring></argsstring>
+        <name>storage</name>
+        <initializer>= new <ref refid="class_business_objects_1_1_storage" kindref="compound">Storage</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_business_objects_1_1_standardized_video_editing_1a3eb654cddfbf6c70a795b41373585a22" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BusinessObjects.StandardizedVideoEditing.StandardizedVideoEditing</definition>
+        <argsstring>()</argsstring>
+        <name>StandardizedVideoEditing</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_business_objects_1_1_standardized_video_editing" kindref="compound">StandardizedVideoEditing</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+<para>Default values are entered into the object at time of instantiation. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" line="31" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" bodystart="31" bodyend="60"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Build object to hold necessary data on a Video Editing build. </para>    </briefdescription>
+    <detaileddescription>
+<para>This is used as a contingency build if user requests are far too outlandish to create an acceptable build. </para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="308">
+        <label>BusinessObjects.Optical</label>
+        <link refid="class_business_objects_1_1_optical"/>
+      </node>
+      <node id="306">
+        <label>BusinessObjects.PSU</label>
+        <link refid="class_business_objects_1_1_p_s_u"/>
+      </node>
+      <node id="310">
+        <label>BusinessObjects.RAM</label>
+        <link refid="class_business_objects_1_1_r_a_m"/>
+      </node>
+      <node id="307">
+        <label>BusinessObjects.Storage</label>
+        <link refid="class_business_objects_1_1_storage"/>
+      </node>
+      <node id="311">
+        <label>BusinessObjects.Motherboard</label>
+        <link refid="class_business_objects_1_1_motherboard"/>
+      </node>
+      <node id="304">
+        <label>BusinessObjects.StandardizedVideoEditing</label>
+        <link refid="class_business_objects_1_1_standardized_video_editing"/>
+        <childnode refid="305" relation="usage">
+          <edgelabel>gpu</edgelabel>
+        </childnode>
+        <childnode refid="306" relation="usage">
+          <edgelabel>psu</edgelabel>
+        </childnode>
+        <childnode refid="307" relation="usage">
+          <edgelabel>storage</edgelabel>
+        </childnode>
+        <childnode refid="308" relation="usage">
+          <edgelabel>optical</edgelabel>
+        </childnode>
+        <childnode refid="309" relation="usage">
+          <edgelabel>cpu</edgelabel>
+        </childnode>
+        <childnode refid="310" relation="usage">
+          <edgelabel>ram</edgelabel>
+        </childnode>
+        <childnode refid="311" relation="usage">
+          <edgelabel>motherboard</edgelabel>
+        </childnode>
+      </node>
+      <node id="305">
+        <label>BusinessObjects.GPU</label>
+        <link refid="class_business_objects_1_1_g_p_u"/>
+      </node>
+      <node id="309">
+        <label>BusinessObjects.CPU</label>
+        <link refid="class_business_objects_1_1_c_p_u"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessObjects/StandardizedVideoEditing.cs" bodystart="15" bodyend="61"/>
+    <listofallmembers>
+      <member refid="class_business_objects_1_1_standardized_video_editing_1a899ce4e020f0738df0d46d0afd9fa869" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedVideoEditing</scope><name>cpu</name></member>
+      <member refid="class_business_objects_1_1_standardized_video_editing_1ab604c6f5f914f9e5076f51078349b635" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedVideoEditing</scope><name>gpu</name></member>
+      <member refid="class_business_objects_1_1_standardized_video_editing_1a63ef4344c908e76acbbb890e5c4cba3f" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedVideoEditing</scope><name>motherboard</name></member>
+      <member refid="class_business_objects_1_1_standardized_video_editing_1ac4e7e717cc28b523d2e656b91106d82c" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedVideoEditing</scope><name>optical</name></member>
+      <member refid="class_business_objects_1_1_standardized_video_editing_1a63b5a3e09e6cdceafeaa31aa57f64e6c" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedVideoEditing</scope><name>psu</name></member>
+      <member refid="class_business_objects_1_1_standardized_video_editing_1a33a82f29441006e1e538f180b277a074" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedVideoEditing</scope><name>ram</name></member>
+      <member refid="class_business_objects_1_1_standardized_video_editing_1a3eb654cddfbf6c70a795b41373585a22" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedVideoEditing</scope><name>StandardizedVideoEditing</name></member>
+      <member refid="class_business_objects_1_1_standardized_video_editing_1a4fbc8c1d1371ff9710019ffe664fe740" prot="public" virt="non-virtual"><scope>BusinessObjects::StandardizedVideoEditing</scope><name>storage</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

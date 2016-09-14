@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir__d86de650e6efa81a604365ade8314221_8js" kind="file" language="Javascript">
+    <compoundname>dir_d86de650e6efa81a604365ade8314221.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="dir__d86de650e6efa81a604365ade8314221_8js_1a64cdd5ce8a99a7289ab4f9ca1169b50f" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var dir_d86de650e6efa81a604365ade8314221</definition>
+        <argsstring></argsstring>
+        <name>dir_d86de650e6efa81a604365ade8314221</name>
+        <initializer>=
+[
+    [ &quot;AccountController.cs&quot;, &quot;_account_controller_8cs_source.html&quot;, null ],
+    [ &quot;AdministrationController.cs&quot;, &quot;_administration_controller_8cs_source.html&quot;, null ],
+    [ &quot;CPUController.cs&quot;, &quot;_c_p_u_controller_8cs_source.html&quot;, null ],
+    [ &quot;FinalizedBuildController.cs&quot;, &quot;_finalized_build_controller_8cs_source.html&quot;, null ],
+    [ &quot;GPUController.cs&quot;, &quot;_g_p_u_controller_8cs_source.html&quot;, null ],
+    [ &quot;HomeController.cs&quot;, &quot;_home_controller_8cs_source.html&quot;, null ],
+    [ &quot;MotherboardController.cs&quot;, &quot;_motherboard_controller_8cs_source.html&quot;, null ],
+    [ &quot;OpticalController.cs&quot;, &quot;_optical_controller_8cs_source.html&quot;, null ],
+    [ &quot;PSUController.cs&quot;, &quot;_p_s_u_controller_8cs_source.html&quot;, null ],
+    [ &quot;QuestionnaireController.cs&quot;, &quot;_questionnaire_controller_8cs_source.html&quot;, null ],
+    [ &quot;RAMController.cs&quot;, &quot;_r_a_m_controller_8cs_source.html&quot;, null ],
+    [ &quot;RoleController.cs&quot;, &quot;_role_controller_8cs_source.html&quot;, null ],
+    [ &quot;StorageController.cs&quot;, &quot;_storage_controller_8cs_source.html&quot;, null ],
+    [ &quot;UserController.cs&quot;, &quot;_user_controller_8cs_source.html&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_d86de650e6efa81a604365ade8314221.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_d86de650e6efa81a604365ade8314221.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>dir_d86de650e6efa81a604365ade8314221<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AccountController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_account_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AdministrationController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_administration_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPUController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_c_p_u_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FinalizedBuildController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_finalized_build_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPUController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_g_p_u_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;HomeController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_home_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MotherboardController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_motherboard_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;OpticalController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_optical_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSUController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_s_u_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;QuestionnaireController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_questionnaire_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAMController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_r_a_m_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RoleController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_role_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StorageController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_storage_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserController.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_user_controller_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="17"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_d86de650e6efa81a604365ade8314221.js"/>
+  </compounddef>
+</doxygen>

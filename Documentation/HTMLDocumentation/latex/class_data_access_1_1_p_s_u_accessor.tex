@@ -1,0 +1,137 @@
+\hypertarget{class_data_access_1_1_p_s_u_accessor}{}\section{Data\+Access.\+P\+S\+U\+Accessor Class Reference}
+\label{class_data_access_1_1_p_s_u_accessor}\index{Data\+Access.\+P\+S\+U\+Accessor@{Data\+Access.\+P\+S\+U\+Accessor}}
+
+
+P\+SU accessor to communicate with database on P\+SU objects.  
+
+
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \hyperlink{class_business_objects_1_1_p_s_u}{P\+SU} \hyperlink{class_data_access_1_1_p_s_u_accessor_a18a99912fcddb6255d3b36d74cdb4e57}{Retrieve\+P\+S\+U\+By\+Name} (string name)
+\begin{DoxyCompactList}\small\item\em Retrieves a P\+SU by name. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_p_s_u}{P\+SU} $>$ \hyperlink{class_data_access_1_1_p_s_u_accessor_a83eb22b79d6bd8ab03b2bcf0ce8fe5ea}{Retrieve\+P\+S\+Us\+By\+Wattage} (string wattage)
+\begin{DoxyCompactList}\small\item\em Retrieves P\+S\+Us by wattage. \end{DoxyCompactList}\item 
+static int \hyperlink{class_data_access_1_1_p_s_u_accessor_a3285bd4b20ff99e005ef98f496f8d2dd}{Insert\+P\+SU} (\hyperlink{class_business_objects_1_1_p_s_u}{P\+SU} psu)
+\begin{DoxyCompactList}\small\item\em Inserts a new P\+SU. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_p_s_u}{P\+SU} $>$ \hyperlink{class_data_access_1_1_p_s_u_accessor_a6f1192a9cf546dab42dab3d31c7c27e8}{Retrieve\+All\+P\+SU} ()
+\begin{DoxyCompactList}\small\item\em Retrieves all P\+S\+Us. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+P\+SU accessor to communicate with database on P\+SU objects. 
+
+
+
+Definition at line 15 of file P\+S\+U\+Accessor.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\index{Data\+Access\+::\+P\+S\+U\+Accessor@{Data\+Access\+::\+P\+S\+U\+Accessor}!Insert\+P\+SU@{Insert\+P\+SU}}
+\index{Insert\+P\+SU@{Insert\+P\+SU}!Data\+Access\+::\+P\+S\+U\+Accessor@{Data\+Access\+::\+P\+S\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Insert\+P\+S\+U(\+P\+S\+U psu)}{InsertPSU(PSU psu)}}]{\setlength{\rightskip}{0pt plus 5cm}static int Data\+Access.\+P\+S\+U\+Accessor.\+Insert\+P\+SU (
+\begin{DoxyParamCaption}
+\item[{{\bf P\+SU}}]{psu}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_p_s_u_accessor_a3285bd4b20ff99e005ef98f496f8d2dd}{}\label{class_data_access_1_1_p_s_u_accessor_a3285bd4b20ff99e005ef98f496f8d2dd}
+
+
+Inserts a new P\+SU. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em psu} & The psu.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Count of rows affected.
+\end{DoxyReturn}
+
+
+Definition at line 123 of file P\+S\+U\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+P\+S\+U\+Accessor@{Data\+Access\+::\+P\+S\+U\+Accessor}!Retrieve\+All\+P\+SU@{Retrieve\+All\+P\+SU}}
+\index{Retrieve\+All\+P\+SU@{Retrieve\+All\+P\+SU}!Data\+Access\+::\+P\+S\+U\+Accessor@{Data\+Access\+::\+P\+S\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+All\+P\+S\+U()}{RetrieveAllPSU()}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf P\+SU}$>$ Data\+Access.\+P\+S\+U\+Accessor.\+Retrieve\+All\+P\+SU (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_p_s_u_accessor_a6f1192a9cf546dab42dab3d31c7c27e8}{}\label{class_data_access_1_1_p_s_u_accessor_a6f1192a9cf546dab42dab3d31c7c27e8}
+
+
+Retrieves all P\+S\+Us. 
+
+\begin{DoxyReturn}{Returns}
+List of P\+SU
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found.\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 161 of file P\+S\+U\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+P\+S\+U\+Accessor@{Data\+Access\+::\+P\+S\+U\+Accessor}!Retrieve\+P\+S\+U\+By\+Name@{Retrieve\+P\+S\+U\+By\+Name}}
+\index{Retrieve\+P\+S\+U\+By\+Name@{Retrieve\+P\+S\+U\+By\+Name}!Data\+Access\+::\+P\+S\+U\+Accessor@{Data\+Access\+::\+P\+S\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+P\+S\+U\+By\+Name(string name)}{RetrievePSUByName(string name)}}]{\setlength{\rightskip}{0pt plus 5cm}static {\bf P\+SU} Data\+Access.\+P\+S\+U\+Accessor.\+Retrieve\+P\+S\+U\+By\+Name (
+\begin{DoxyParamCaption}
+\item[{string}]{name}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_p_s_u_accessor_a18a99912fcddb6255d3b36d74cdb4e57}{}\label{class_data_access_1_1_p_s_u_accessor_a18a99912fcddb6255d3b36d74cdb4e57}
+
+
+Retrieves a P\+SU by name. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & The name.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+P\+SU object.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 23 of file P\+S\+U\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+P\+S\+U\+Accessor@{Data\+Access\+::\+P\+S\+U\+Accessor}!Retrieve\+P\+S\+Us\+By\+Wattage@{Retrieve\+P\+S\+Us\+By\+Wattage}}
+\index{Retrieve\+P\+S\+Us\+By\+Wattage@{Retrieve\+P\+S\+Us\+By\+Wattage}!Data\+Access\+::\+P\+S\+U\+Accessor@{Data\+Access\+::\+P\+S\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+P\+S\+Us\+By\+Wattage(string wattage)}{RetrievePSUsByWattage(string wattage)}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf P\+SU}$>$ Data\+Access.\+P\+S\+U\+Accessor.\+Retrieve\+P\+S\+Us\+By\+Wattage (
+\begin{DoxyParamCaption}
+\item[{string}]{wattage}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_p_s_u_accessor_a83eb22b79d6bd8ab03b2bcf0ce8fe5ea}{}\label{class_data_access_1_1_p_s_u_accessor_a83eb22b79d6bd8ab03b2bcf0ce8fe5ea}
+
+
+Retrieves P\+S\+Us by wattage. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em wattage} & The wattage.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Lsit of P\+S\+Us.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 73 of file P\+S\+U\+Accessor.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/nh228u08/\+Desktop/\+Final\+Project/\+Final\+Project/\+P\+C\+Builder/\+Data\+Access/P\+S\+U\+Accessor.\+cs\end{DoxyCompactItemize}

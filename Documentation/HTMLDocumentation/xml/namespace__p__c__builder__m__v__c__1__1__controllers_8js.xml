@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace__p__c__builder__m__v__c__1__1__controllers_8js" kind="file" language="Javascript">
+    <compoundname>namespace_p_c_builder_m_v_c_1_1_controllers.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="namespace__p__c__builder__m__v__c__1__1__controllers_8js_1ac0c11e74049a670469e8c1aa8899dd28" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var namespace_p_c_builder_m_v_c_1_1_controllers</definition>
+        <argsstring></argsstring>
+        <name>namespace_p_c_builder_m_v_c_1_1_controllers</name>
+        <initializer>=
+[
+    [ &quot;AccountController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller&quot; ],
+    [ &quot;AdministrationController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_administration_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_administration_controller&quot; ],
+    [ &quot;CPUController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller&quot; ],
+    [ &quot;FinalizedBuildController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller&quot; ],
+    [ &quot;GPUController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller&quot; ],
+    [ &quot;HomeController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller&quot; ],
+    [ &quot;MotherboardController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller&quot; ],
+    [ &quot;OpticalController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller&quot; ],
+    [ &quot;PSUController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller&quot; ],
+    [ &quot;QuestionnaireController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller&quot; ],
+    [ &quot;RAMController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller&quot; ],
+    [ &quot;RoleController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller&quot; ],
+    [ &quot;StorageController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller&quot; ],
+    [ &quot;UserController&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html&quot;, &quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller&quot; ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_p_c_builder_m_v_c_1_1_controllers.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_p_c_builder_m_v_c_1_1_controllers.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>namespace_p_c_builder_m_v_c_1_1_controllers<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AccountController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_account_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AdministrationController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_administration_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_administration_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPUController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FinalizedBuildController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_finalized_build_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPUController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_g_p_u_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;HomeController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_home_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MotherboardController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_motherboard_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;OpticalController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_optical_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSUController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_p_s_u_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;QuestionnaireController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_questionnaire_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAMController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_r_a_m_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RoleController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_role_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StorageController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_storage_controller&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserController&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_controllers_1_1_user_controller&quot;</highlight><highlight class="normal"><sp/>]</highlight></codeline>
+<codeline lineno="17"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_p_c_builder_m_v_c_1_1_controllers.js"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,844 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_forms_1_1_main_window" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderForms::MainWindow</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">IComponentConnector</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">IComponentConnector</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a3cb3721bdeafd1505e6d3daffa53948d" prot="private" static="no" mutable="no">
+        <type><ref refid="class_business_objects_1_1_access_token" kindref="compound">AccessToken</ref></type>
+        <definition>AccessToken PCBuilderForms.MainWindow._accessToken</definition>
+        <argsstring></argsstring>
+        <name>_accessToken</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a9c6ea95e2d7c518d6d699fb18ad25bc8" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderForms.MainWindow::_contentLoaded</definition>
+        <argsstring></argsstring>
+        <name>_contentLoaded</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="324" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="324" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a53d466d670b9f69781a4139799ebe80b" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.MenuItem</type>
+        <definition>System Windows Controls MenuItem PCBuilderForms.MainWindow::mnuExit</definition>
+        <argsstring></argsstring>
+        <name>mnuExit</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="47" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a3d07af2e8da4efc0b3cc6d267e2bbd4d" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblLoginMessage</definition>
+        <argsstring></argsstring>
+        <name>lblLoginMessage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="55" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1ade2269fd046864f55446ebc6df1861cf" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.MainWindow::btnLogin</definition>
+        <argsstring></argsstring>
+        <name>btnLogin</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="63" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1ae351e6ef4dd06c9130510b0dfb0e42c6" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TabItem</type>
+        <definition>System Windows Controls TabItem PCBuilderForms.MainWindow::tabBuildAPC</definition>
+        <argsstring></argsstring>
+        <name>tabBuildAPC</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="71" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a686049c1273b758aa8cb90d6df28c66e" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.MainWindow::btnQuestionnaire</definition>
+        <argsstring></argsstring>
+        <name>btnQuestionnaire</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="79" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a8a08f6b04a5758d518c6a477eb760dc0" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TabItem</type>
+        <definition>System Windows Controls TabItem PCBuilderForms.MainWindow::tabBuildOutput</definition>
+        <argsstring></argsstring>
+        <name>tabBuildOutput</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="87" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="87" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a4beec0d4e8d2f9be5a7a0e45065b40ae" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblCpuBrand</definition>
+        <argsstring></argsstring>
+        <name>lblCpuBrand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="95" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a55bff109b418e181a8b414800a16a63f" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblGpuBrand</definition>
+        <argsstring></argsstring>
+        <name>lblGpuBrand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="103" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1ae80040a3f73acf0777b3ec0443c3b89e" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblMotherboardBrand</definition>
+        <argsstring></argsstring>
+        <name>lblMotherboardBrand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="111" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="111" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1aa9dec4fd7c39204b849c0e5c773d08f8" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblOpticalBrand</definition>
+        <argsstring></argsstring>
+        <name>lblOpticalBrand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="119" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="119" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a750db1e2aa6edaf0ea3fbc6df6a5cc5b" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblPsuBrand</definition>
+        <argsstring></argsstring>
+        <name>lblPsuBrand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="127" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a142c704730f49d4b965477d68907d485" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblRamBrand</definition>
+        <argsstring></argsstring>
+        <name>lblRamBrand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="135" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="135" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a3bf0b669539a609c7e7e61eec0358d30" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblStorageBrand</definition>
+        <argsstring></argsstring>
+        <name>lblStorageBrand</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="143" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="143" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a5cc408a021d32c64e43e5ae2385ebe08" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblCpuModel</definition>
+        <argsstring></argsstring>
+        <name>lblCpuModel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="151" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="151" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a8b508ce0f02f46eca4b8464b4afa4b2a" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblGpuModel</definition>
+        <argsstring></argsstring>
+        <name>lblGpuModel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="159" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="159" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1af400f268e48340e87f8479d7c0391af1" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblMotherboardModel</definition>
+        <argsstring></argsstring>
+        <name>lblMotherboardModel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="167" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="167" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1ae2edb6353608d2c52ecc0a6ddbdcb602" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblOpticalModel</definition>
+        <argsstring></argsstring>
+        <name>lblOpticalModel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="175" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="175" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a6d2c596ed32bfb3879e1242f908e5fe1" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblPsuModel</definition>
+        <argsstring></argsstring>
+        <name>lblPsuModel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="183" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="183" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1ab5d31bdb94c3986c0b03354e4e2a0487" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblRamModel</definition>
+        <argsstring></argsstring>
+        <name>lblRamModel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="191" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="191" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1acd1d1808b4f868ecd50dd15e2021864c" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblStorageModel</definition>
+        <argsstring></argsstring>
+        <name>lblStorageModel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="199" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="199" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a08fa4f8f707453efb3d85a53fa04c0d0" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblCPUPrice</definition>
+        <argsstring></argsstring>
+        <name>lblCPUPrice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="207" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="207" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a6cf92c3735ba782adcd9edfe7f812394" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblGPUPrice</definition>
+        <argsstring></argsstring>
+        <name>lblGPUPrice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="215" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="215" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a7691904b7c6835bfdddd8501ccf3d379" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblMotherboardPrice</definition>
+        <argsstring></argsstring>
+        <name>lblMotherboardPrice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="223" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="223" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a38790226817ed7fb5ba17fe7cb5a471d" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblOpticalPrice</definition>
+        <argsstring></argsstring>
+        <name>lblOpticalPrice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="231" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="231" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a16dd937cd87eff6be41f3400f906e21e" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblPSUPrice</definition>
+        <argsstring></argsstring>
+        <name>lblPSUPrice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="239" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="239" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a56e9d3fe56e1012c0685c1590089bf6b" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblRAMPrice</definition>
+        <argsstring></argsstring>
+        <name>lblRAMPrice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="247" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="247" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1aac3ae4c4d412f7ed2579b50f5bf49593" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblStoragePrice</definition>
+        <argsstring></argsstring>
+        <name>lblStoragePrice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="255" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="255" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1ad49dd04f2e8a7df276a86a1b0ed6e5d2" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblTotalPrice</definition>
+        <argsstring></argsstring>
+        <name>lblTotalPrice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="263" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="263" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1ab6f01653dcc72005e5ba59f5158b361f" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TabItem</type>
+        <definition>System Windows Controls TabItem PCBuilderForms.MainWindow::tabAdmin</definition>
+        <argsstring></argsstring>
+        <name>tabAdmin</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="271" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="271" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a18b997d107efafb1c6e0f12910bb8715" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.MainWindow::btnAddUser</definition>
+        <argsstring></argsstring>
+        <name>btnAddUser</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="279" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="279" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1aaf97eddace0b2527bd1162066db4a006" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.MainWindow::btnDeleteUser</definition>
+        <argsstring></argsstring>
+        <name>btnDeleteUser</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="287" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="287" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a0162f775ce0a7bb42689e4355cf5c7dd" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.MainWindow::btnUpdateUser</definition>
+        <argsstring></argsstring>
+        <name>btnUpdateUser</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="295" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="295" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a9f247869660ea54aa44f16541a132c44" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.MainWindow::btnAddComponent</definition>
+        <argsstring></argsstring>
+        <name>btnAddComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="303" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="303" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1a99287688d292de9d63ae8bd57d2c38ca" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button PCBuilderForms.MainWindow::btnRemoveComponent</definition>
+        <argsstring></argsstring>
+        <name>btnRemoveComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="311" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="311" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_main_window_1ac4321e76328a9635021287bac82b6a89" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Label</type>
+        <definition>System Windows Controls Label PCBuilderForms.MainWindow::lblStatusMessage</definition>
+        <argsstring></argsstring>
+        <name>lblStatusMessage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="319" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="319" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_main_window_1a6201f6763f4ee3b2188d9ec18a9fa881" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderForms.MainWindow.MainWindow</definition>
+        <argsstring>()</argsstring>
+        <name>MainWindow</name>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_p_c_builder_forms_1_1_main_window" kindref="compound">MainWindow</ref> class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_main_window_1af61d622148f662bb5060f1523fae41ae" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.MainWindow.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>InitializeComponent </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="331" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="331" bodyend="343"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_main_window_1af61d622148f662bb5060f1523fae41ae" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.MainWindow.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>InitializeComponent </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.i.cs" line="331" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.i.cs" bodystart="331" bodyend="343"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_main_window_1a9b54f303aa5413af93c5565e64a62712" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.MainWindow.btnLogin_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>btnLogin_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Click event of the btnLogin control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" line="39" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" bodystart="39" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_main_window_1a1e5ca63166c0a4fd384e436ba3ff262a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.MainWindow.btnQuestionnaire_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>btnQuestionnaire_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Click event of the btnQuestionnaire control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" line="57" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" bodystart="57" bodyend="71"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_main_window_1a239a3300ed5f9483736a1281c65078d6" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.MainWindow.Populator</definition>
+        <argsstring>(QuestionnaireResults qr, FinalizedBuild fb)</argsstring>
+        <name>Populator</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_questionnaire_results" kindref="compound">QuestionnaireResults</ref></type>
+          <declname>qr</declname>
+        </param>
+        <param>
+          <type><ref refid="class_business_objects_1_1_finalized_build" kindref="compound">FinalizedBuild</ref></type>
+          <declname>fb</declname>
+        </param>
+        <briefdescription>
+<para>Populators the specified labels based on questionnaire and build results. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>qr</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The <ref refid="class_p_c_builder_forms_1_1_questionnaire" kindref="compound">Questionnaire</ref> Results.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>fb</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The Finalized Build.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" line="78" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" bodystart="78" bodyend="151"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_main_window_1a69ec1e9eb373538650099946307dfd77" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.MainWindow.mnuExit_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>mnuExit_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Handles the Click event of the mnuExit control. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" line="158" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" bodystart="158" bodyend="161"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_main_window_1ab17677546c3e5a4c380ddcdff1d9aab1" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void System.Windows.Markup.IComponentConnector.</type>
+        <definition>void System.Windows.Markup.IComponentConnector. PCBuilderForms.MainWindow.Connect</definition>
+        <argsstring>(int connectionId, object target)</argsstring>
+        <name>Connect</name>
+        <param>
+          <type>int</type>
+          <declname>connectionId</declname>
+        </param>
+        <param>
+          <type>object</type>
+          <declname>target</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" line="351" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.cs" bodystart="351" bodyend="479"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_main_window_1ab17677546c3e5a4c380ddcdff1d9aab1" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void System.Windows.Markup.IComponentConnector.</type>
+        <definition>void System.Windows.Markup.IComponentConnector. PCBuilderForms.MainWindow.Connect</definition>
+        <argsstring>(int connectionId, object target)</argsstring>
+        <name>Connect</name>
+        <param>
+          <type>int</type>
+          <declname>connectionId</declname>
+        </param>
+        <param>
+          <type>object</type>
+          <declname>target</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.i.cs" line="351" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/MainWindow.g.i.cs" bodystart="351" bodyend="479"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Interaction logic for MainWindow.xaml </para>    </briefdescription>
+    <detaileddescription>
+<para><ref refid="class_p_c_builder_forms_1_1_main_window" kindref="compound">MainWindow</ref> </para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="154">
+        <label>System::Windows::Window</label>
+      </node>
+      <node id="156">
+        <label>Window</label>
+      </node>
+      <node id="155">
+        <label>System::Windows::Markup::IComponentConnector</label>
+      </node>
+      <node id="153">
+        <label>PCBuilderForms.MainWindow</label>
+        <link refid="class_p_c_builder_forms_1_1_main_window"/>
+        <childnode refid="154" relation="public-inheritance">
+        </childnode>
+        <childnode refid="155" relation="public-inheritance">
+        </childnode>
+        <childnode refid="154" relation="public-inheritance">
+        </childnode>
+        <childnode refid="155" relation="public-inheritance">
+        </childnode>
+        <childnode refid="156" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="158">
+        <label>System::Windows::Window</label>
+      </node>
+      <node id="160">
+        <label>Window</label>
+      </node>
+      <node id="161">
+        <label>System</label>
+      </node>
+      <node id="159">
+        <label>System::Windows::Markup::IComponentConnector</label>
+      </node>
+      <node id="157">
+        <label>PCBuilderForms.MainWindow</label>
+        <link refid="class_p_c_builder_forms_1_1_main_window"/>
+        <childnode refid="158" relation="public-inheritance">
+        </childnode>
+        <childnode refid="159" relation="public-inheritance">
+        </childnode>
+        <childnode refid="158" relation="public-inheritance">
+        </childnode>
+        <childnode refid="159" relation="public-inheritance">
+        </childnode>
+        <childnode refid="160" relation="public-inheritance">
+        </childnode>
+        <childnode refid="161" relation="usage">
+          <edgelabel>lblMotherboardModel</edgelabel>
+          <edgelabel>lblStoragePrice</edgelabel>
+          <edgelabel>lblCpuBrand</edgelabel>
+          <edgelabel>tabBuildOutput</edgelabel>
+          <edgelabel>tabBuildAPC</edgelabel>
+          <edgelabel>lblStorageModel</edgelabel>
+          <edgelabel>lblCpuModel</edgelabel>
+          <edgelabel>lblOpticalBrand</edgelabel>
+          <edgelabel>lblStatusMessage</edgelabel>
+          <edgelabel>btnDeleteUser</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/MainWindow.xaml.cs" bodystart="22" bodyend="162"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a3cb3721bdeafd1505e6d3daffa53948d" prot="private" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>_accessToken</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a9c6ea95e2d7c518d6d699fb18ad25bc8" prot="private" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>_contentLoaded</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a9f247869660ea54aa44f16541a132c44" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>btnAddComponent</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a18b997d107efafb1c6e0f12910bb8715" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>btnAddUser</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1aaf97eddace0b2527bd1162066db4a006" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>btnDeleteUser</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1ade2269fd046864f55446ebc6df1861cf" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>btnLogin</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a9b54f303aa5413af93c5565e64a62712" prot="private" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>btnLogin_Click</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a686049c1273b758aa8cb90d6df28c66e" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>btnQuestionnaire</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a1e5ca63166c0a4fd384e436ba3ff262a" prot="private" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>btnQuestionnaire_Click</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a99287688d292de9d63ae8bd57d2c38ca" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>btnRemoveComponent</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a0162f775ce0a7bb42689e4355cf5c7dd" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>btnUpdateUser</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1ab17677546c3e5a4c380ddcdff1d9aab1" prot="private" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>Connect</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1ab17677546c3e5a4c380ddcdff1d9aab1" prot="private" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>Connect</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1af61d622148f662bb5060f1523fae41ae" prot="public" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>InitializeComponent</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1af61d622148f662bb5060f1523fae41ae" prot="public" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>InitializeComponent</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a4beec0d4e8d2f9be5a7a0e45065b40ae" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblCpuBrand</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a5cc408a021d32c64e43e5ae2385ebe08" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblCpuModel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a08fa4f8f707453efb3d85a53fa04c0d0" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblCPUPrice</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a55bff109b418e181a8b414800a16a63f" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblGpuBrand</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a8b508ce0f02f46eca4b8464b4afa4b2a" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblGpuModel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a6cf92c3735ba782adcd9edfe7f812394" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblGPUPrice</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a3d07af2e8da4efc0b3cc6d267e2bbd4d" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblLoginMessage</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1ae80040a3f73acf0777b3ec0443c3b89e" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblMotherboardBrand</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1af400f268e48340e87f8479d7c0391af1" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblMotherboardModel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a7691904b7c6835bfdddd8501ccf3d379" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblMotherboardPrice</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1aa9dec4fd7c39204b849c0e5c773d08f8" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblOpticalBrand</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1ae2edb6353608d2c52ecc0a6ddbdcb602" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblOpticalModel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a38790226817ed7fb5ba17fe7cb5a471d" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblOpticalPrice</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a750db1e2aa6edaf0ea3fbc6df6a5cc5b" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblPsuBrand</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a6d2c596ed32bfb3879e1242f908e5fe1" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblPsuModel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a16dd937cd87eff6be41f3400f906e21e" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblPSUPrice</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a142c704730f49d4b965477d68907d485" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblRamBrand</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1ab5d31bdb94c3986c0b03354e4e2a0487" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblRamModel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a56e9d3fe56e1012c0685c1590089bf6b" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblRAMPrice</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1ac4321e76328a9635021287bac82b6a89" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblStatusMessage</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a3bf0b669539a609c7e7e61eec0358d30" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblStorageBrand</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1acd1d1808b4f868ecd50dd15e2021864c" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblStorageModel</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1aac3ae4c4d412f7ed2579b50f5bf49593" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblStoragePrice</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1ad49dd04f2e8a7df276a86a1b0ed6e5d2" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>lblTotalPrice</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a6201f6763f4ee3b2188d9ec18a9fa881" prot="public" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>MainWindow</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a53d466d670b9f69781a4139799ebe80b" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>mnuExit</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a69ec1e9eb373538650099946307dfd77" prot="private" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>mnuExit_Click</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a239a3300ed5f9483736a1281c65078d6" prot="private" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>Populator</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1ab6f01653dcc72005e5ba59f5158b361f" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>tabAdmin</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1ae351e6ef4dd06c9130510b0dfb0e42c6" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>tabBuildAPC</name></member>
+      <member refid="class_p_c_builder_forms_1_1_main_window_1a8a08f6b04a5758d518c6a477eb760dc0" prot="package" virt="non-virtual"><scope>PCBuilderForms::MainWindow</scope><name>tabBuildOutput</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_startup" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Startup</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_startup_1a0815b20f969548d7c06f8b286977f14c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderMVC.Startup.ConfigureAuth</definition>
+        <argsstring>(IAppBuilder app)</argsstring>
+        <name>ConfigureAuth</name>
+        <param>
+          <type>IAppBuilder</type>
+          <declname>app</declname>
+        </param>
+        <briefdescription>
+<para>Configures the authentication. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>app</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The application.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/Startup.Auth.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/Startup.Auth.cs" bodystart="24" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_startup_1a2d4fede3c2151fced1c6ac02dbd12cdd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderMVC.Startup.Configuration</definition>
+        <argsstring>(IAppBuilder app)</argsstring>
+        <name>Configuration</name>
+        <param>
+          <type>IAppBuilder</type>
+          <declname>app</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Startup.cs" line="12" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Startup.cs" bodystart="12" bodyend="15"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The startup class for MVC. </para>    </briefdescription>
+    <detaileddescription>
+<para><ref refid="class_p_c_builder_m_v_c_1_1_startup" kindref="compound">Startup</ref> configuration class. </para>    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/Startup.Auth.cs" line="18" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start/Startup.Auth.cs" bodystart="17" bodyend="66"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_startup_1a2d4fede3c2151fced1c6ac02dbd12cdd" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Startup</scope><name>Configuration</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_startup_1a0815b20f969548d7c06f8b286977f14c" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Startup</scope><name>ConfigureAuth</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

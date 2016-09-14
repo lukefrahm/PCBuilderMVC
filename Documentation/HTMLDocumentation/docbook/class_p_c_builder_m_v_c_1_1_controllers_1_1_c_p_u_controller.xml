@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller">
+<title>PCBuilderMVC::Controllers::CPUController class Reference</title>
+        <section>
+            <title>Private Attributes</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>PCBuilderEntityModels db</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1aa640d493ea48a0ed025e6c2c98d083f0">Index</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1a4d6de4531fcd3eaad2980fe9741743c0">Details</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1acd679be1eb43977d5f4b3929083cbc55">Create</link> (
+)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1ac04207e76257b362078c5f18a11a7d11">Create</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u">CPU</link> cPU)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1a3c8e98d63f6196a2e8f4e254dba66ce5">Edit</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1a1bf99839d52ca6ad02e971feb0f0ad4b">Edit</link> (
+<link linkend="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u">CPU</link> cPU)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1aecf48e4974303f62bfc5df8ffee64c7b">Delete</link> (
+int? id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>ActionResult <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1aae1ff81c3b6e4e5ba3b1ac03106a7ed2">DeleteConfirmed</link> (
+int id)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>override void <link linkend="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1a3b3148ca684258dc2d3a75ef1abc005e">Dispose</link> (
+bool disposing)</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para>CPU controller class to handle CPU views interaction. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para>System.Web.Mvc.Controller</para>
+</formalpara>
+</para>
+                <para>Definition at line 18 of file CPUController.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>CPUController.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+        <section>
+            <title>Member Data Documentation</title>
+        </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1aa640d493ea48a0ed025e6c2c98d083f0">
+                <title>ActionResult PCBuilderMVC.Controllers.CPUController.Index ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1a4d6de4531fcd3eaad2980fe9741743c0">
+                <title>ActionResult PCBuilderMVC.Controllers.CPUController.Details (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1acd679be1eb43977d5f4b3929083cbc55">
+                <title>ActionResult PCBuilderMVC.Controllers.CPUController.Create ()</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1ac04207e76257b362078c5f18a11a7d11">
+                <title>ActionResult PCBuilderMVC.Controllers.CPUController.Create ([Bind(Include=&quot;CpuId,Brand,Model,Cores,HyperThreaded,ClockSpeed,Unlocked,Socket,ProductLineName,BenchmarkScore,BestUse,PowerRequirement,Price&quot;)] CPU cPU)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1a3c8e98d63f6196a2e8f4e254dba66ce5">
+                <title>ActionResult PCBuilderMVC.Controllers.CPUController.Edit (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1a1bf99839d52ca6ad02e971feb0f0ad4b">
+                <title>ActionResult PCBuilderMVC.Controllers.CPUController.Edit ([Bind(Include=&quot;CpuId,Brand,Model,Cores,HyperThreaded,ClockSpeed,Unlocked,Socket,ProductLineName,BenchmarkScore,BestUse,PowerRequirement,Price&quot;)] CPU cPU)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1aecf48e4974303f62bfc5df8ffee64c7b">
+                <title>ActionResult PCBuilderMVC.Controllers.CPUController.Delete (int?id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1aae1ff81c3b6e4e5ba3b1ac03106a7ed2">
+                <title>ActionResult PCBuilderMVC.Controllers.CPUController.DeleteConfirmed (int id)</title> <emphasis></emphasis>
+                
+            </section>
+            <section xml:id="class_p_c_builder_m_v_c_1_1_controllers_1_1_c_p_u_controller_1a3b3148ca684258dc2d3a75ef1abc005e">
+                <title>override void PCBuilderMVC.Controllers.CPUController.Dispose (bool disposing)</title> <emphasis></emphasis>
+                
+            </section>
+</section>

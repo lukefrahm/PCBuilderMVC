@@ -1,0 +1,137 @@
+\hypertarget{class_data_access_1_1_g_p_u_accessor}{}\section{Data\+Access.\+G\+P\+U\+Accessor Class Reference}
+\label{class_data_access_1_1_g_p_u_accessor}\index{Data\+Access.\+G\+P\+U\+Accessor@{Data\+Access.\+G\+P\+U\+Accessor}}
+
+
+G\+PU accessor to communicate with database on G\+PU objects.  
+
+
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \hyperlink{class_business_objects_1_1_g_p_u}{G\+PU} \hyperlink{class_data_access_1_1_g_p_u_accessor_acd3cccc36aed6c7c9fd3af8077fb3ec7}{Retrieve\+G\+P\+U\+By\+Name} (string name)
+\begin{DoxyCompactList}\small\item\em Retrieves a G\+PU by name. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_g_p_u}{G\+PU} $>$ \hyperlink{class_data_access_1_1_g_p_u_accessor_a7203a061e7e659546c2c0240944c595b}{Retrieve\+G\+P\+Us\+By\+Ram\+Size} (int ram\+Size)
+\begin{DoxyCompactList}\small\item\em Retrieves lsit of G\+P\+Us by R\+AM size. \end{DoxyCompactList}\item 
+static int \hyperlink{class_data_access_1_1_g_p_u_accessor_a7fba4be184695de0c77385bc74ee50f0}{Insert\+Gpu} (\hyperlink{class_business_objects_1_1_g_p_u}{G\+PU} gpu)
+\begin{DoxyCompactList}\small\item\em Inserts a new G\+PU. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_g_p_u}{G\+PU} $>$ \hyperlink{class_data_access_1_1_g_p_u_accessor_ad0e40a593f48af857d32b9386ee02cd6}{Retrieve\+All\+G\+PU} ()
+\begin{DoxyCompactList}\small\item\em Retrieves all G\+P\+Us. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+G\+PU accessor to communicate with database on G\+PU objects. 
+
+
+
+Definition at line 15 of file G\+P\+U\+Accessor.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\index{Data\+Access\+::\+G\+P\+U\+Accessor@{Data\+Access\+::\+G\+P\+U\+Accessor}!Insert\+Gpu@{Insert\+Gpu}}
+\index{Insert\+Gpu@{Insert\+Gpu}!Data\+Access\+::\+G\+P\+U\+Accessor@{Data\+Access\+::\+G\+P\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Insert\+Gpu(\+G\+P\+U gpu)}{InsertGpu(GPU gpu)}}]{\setlength{\rightskip}{0pt plus 5cm}static int Data\+Access.\+G\+P\+U\+Accessor.\+Insert\+Gpu (
+\begin{DoxyParamCaption}
+\item[{{\bf G\+PU}}]{gpu}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_g_p_u_accessor_a7fba4be184695de0c77385bc74ee50f0}{}\label{class_data_access_1_1_g_p_u_accessor_a7fba4be184695de0c77385bc74ee50f0}
+
+
+Inserts a new G\+PU. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em gpu} & The gpu.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Count of rows affected.
+\end{DoxyReturn}
+
+
+Definition at line 139 of file G\+P\+U\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+G\+P\+U\+Accessor@{Data\+Access\+::\+G\+P\+U\+Accessor}!Retrieve\+All\+G\+PU@{Retrieve\+All\+G\+PU}}
+\index{Retrieve\+All\+G\+PU@{Retrieve\+All\+G\+PU}!Data\+Access\+::\+G\+P\+U\+Accessor@{Data\+Access\+::\+G\+P\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+All\+G\+P\+U()}{RetrieveAllGPU()}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf G\+PU}$>$ Data\+Access.\+G\+P\+U\+Accessor.\+Retrieve\+All\+G\+PU (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_g_p_u_accessor_ad0e40a593f48af857d32b9386ee02cd6}{}\label{class_data_access_1_1_g_p_u_accessor_ad0e40a593f48af857d32b9386ee02cd6}
+
+
+Retrieves all G\+P\+Us. 
+
+\begin{DoxyReturn}{Returns}
+List of G\+PU objects.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found.\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 185 of file G\+P\+U\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+G\+P\+U\+Accessor@{Data\+Access\+::\+G\+P\+U\+Accessor}!Retrieve\+G\+P\+U\+By\+Name@{Retrieve\+G\+P\+U\+By\+Name}}
+\index{Retrieve\+G\+P\+U\+By\+Name@{Retrieve\+G\+P\+U\+By\+Name}!Data\+Access\+::\+G\+P\+U\+Accessor@{Data\+Access\+::\+G\+P\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+G\+P\+U\+By\+Name(string name)}{RetrieveGPUByName(string name)}}]{\setlength{\rightskip}{0pt plus 5cm}static {\bf G\+PU} Data\+Access.\+G\+P\+U\+Accessor.\+Retrieve\+G\+P\+U\+By\+Name (
+\begin{DoxyParamCaption}
+\item[{string}]{name}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_g_p_u_accessor_acd3cccc36aed6c7c9fd3af8077fb3ec7}{}\label{class_data_access_1_1_g_p_u_accessor_acd3cccc36aed6c7c9fd3af8077fb3ec7}
+
+
+Retrieves a G\+PU by name. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & The name.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+A G\+PU object.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 23 of file G\+P\+U\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+G\+P\+U\+Accessor@{Data\+Access\+::\+G\+P\+U\+Accessor}!Retrieve\+G\+P\+Us\+By\+Ram\+Size@{Retrieve\+G\+P\+Us\+By\+Ram\+Size}}
+\index{Retrieve\+G\+P\+Us\+By\+Ram\+Size@{Retrieve\+G\+P\+Us\+By\+Ram\+Size}!Data\+Access\+::\+G\+P\+U\+Accessor@{Data\+Access\+::\+G\+P\+U\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+G\+P\+Us\+By\+Ram\+Size(int ram\+Size)}{RetrieveGPUsByRamSize(int ramSize)}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf G\+PU}$>$ Data\+Access.\+G\+P\+U\+Accessor.\+Retrieve\+G\+P\+Us\+By\+Ram\+Size (
+\begin{DoxyParamCaption}
+\item[{int}]{ram\+Size}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_g_p_u_accessor_a7203a061e7e659546c2c0240944c595b}{}\label{class_data_access_1_1_g_p_u_accessor_a7203a061e7e659546c2c0240944c595b}
+
+
+Retrieves lsit of G\+P\+Us by R\+AM size. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em ram\+Size} & Size of the ram.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+List of G\+PU objects.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 81 of file G\+P\+U\+Accessor.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/nh228u08/\+Desktop/\+Final\+Project/\+Final\+Project/\+P\+C\+Builder/\+Data\+Access/G\+P\+U\+Accessor.\+cs\end{DoxyCompactItemize}

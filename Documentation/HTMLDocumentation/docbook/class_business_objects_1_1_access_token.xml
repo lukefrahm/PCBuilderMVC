@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_objects_1_1_access_token">
+<title>BusinessObjects::AccessToken class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_access_token_1a0db5c344cbe742041a0200d686df4dfe">AccessToken</link> (
+<link linkend="class_business_objects_1_1_user">User</link> user, List&lt; <link linkend="class_business_objects_1_1_roles">Roles</link> &gt; roles)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;AccessToken&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_business_objects_1_1_access_token">AccessToken</link> object to hold necessary data on the user&apos;s authentication and role status. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+
+<para><formalpara><title>See also: </title>
+
+<para><link linkend="class_business_objects_1_1_user">BusinessObjects.User</link></para>
+</formalpara>
+</para>
+                <para>Definition at line 14 of file AccessToken.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>AccessToken.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_objects_1_1_access_token_1a0db5c344cbe742041a0200d686df4dfe">
+                <title>BusinessObjects.AccessToken.AccessToken (User user, List&lt; Roles &gt; roles)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;AccessToken&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>user</entry>
+                                <entry>
+<para>The user.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>roles</entry>
+                                <entry>
+<para>The roles assigned to the user.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Exceptions                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>System.ApplicationException</entry>
+                                <entry>
+<para>Invalid <link linkend="class_business_objects_1_1_user">User</link>.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

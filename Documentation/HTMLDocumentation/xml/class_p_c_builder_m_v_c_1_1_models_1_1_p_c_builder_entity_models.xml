@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderMVC::Models::PCBuilderEntityModels</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">DbContext</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a9412e2ad51d1271e2e22a72452fd2b89" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u" kindref="compound">CPU</ref> &gt;</type>
+        <definition>virtual DbSet&lt;CPU&gt; PCBuilderMVC.Models.PCBuilderEntityModels.CPUs</definition>
+        <argsstring></argsstring>
+        <name>CPUs</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="19" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1aaa8038351676c90b1cf5adde3466d9d3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_g_p_u" kindref="compound">GPU</ref> &gt;</type>
+        <definition>virtual DbSet&lt;GPU&gt; PCBuilderMVC.Models.PCBuilderEntityModels.GPUs</definition>
+        <argsstring></argsstring>
+        <name>GPUs</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a8d4169fcc124efe24a0e41c727d0497e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_motherboard" kindref="compound">Motherboard</ref> &gt;</type>
+        <definition>virtual DbSet&lt;Motherboard&gt; PCBuilderMVC.Models.PCBuilderEntityModels.Motherboards</definition>
+        <argsstring></argsstring>
+        <name>Motherboards</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="21" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1ac0a93bd467639e52e02051e12bfa44e5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_optical" kindref="compound">Optical</ref> &gt;</type>
+        <definition>virtual DbSet&lt;Optical&gt; PCBuilderMVC.Models.PCBuilderEntityModels.Opticals</definition>
+        <argsstring></argsstring>
+        <name>Opticals</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="22" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a0a5f731f0bcf9b1cdfb6865ecde4c08b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_s_u" kindref="compound">PSU</ref> &gt;</type>
+        <definition>virtual DbSet&lt;PSU&gt; PCBuilderMVC.Models.PCBuilderEntityModels.PSUs</definition>
+        <argsstring></argsstring>
+        <name>PSUs</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1aa58a925658f5db1a2451cdb6a0d57949" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_r_a_m" kindref="compound">RAM</ref> &gt;</type>
+        <definition>virtual DbSet&lt;RAM&gt; PCBuilderMVC.Models.PCBuilderEntityModels.RAMs</definition>
+        <argsstring></argsstring>
+        <name>RAMs</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="24" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1ab650b1da81b3077e41abe4ef3e0777cb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_role" kindref="compound">Role</ref> &gt;</type>
+        <definition>virtual DbSet&lt;Role&gt; PCBuilderMVC.Models.PCBuilderEntityModels.Roles</definition>
+        <argsstring></argsstring>
+        <name>Roles</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a79853744639305e4b275548629834558" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_storage" kindref="compound">Storage</ref> &gt;</type>
+        <definition>virtual DbSet&lt;Storage&gt; PCBuilderMVC.Models.PCBuilderEntityModels.Storages</definition>
+        <argsstring></argsstring>
+        <name>Storages</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="26" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a78925feeeef3b89318953daddeedc6ab" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_user" kindref="compound">User</ref> &gt;</type>
+        <definition>virtual DbSet&lt;User&gt; PCBuilderMVC.Models.PCBuilderEntityModels.Users</definition>
+        <argsstring></argsstring>
+        <name>Users</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="27" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1ada46bb5ef5120abffefa3ce38be5843a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>System.Data.Entity.DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_questionnaire_view_model" kindref="compound">PCBuilderMVC.Models.QuestionnaireViewModel</ref> &gt;</type>
+        <definition>System.Data.Entity.DbSet&lt;PCBuilderMVC.Models.QuestionnaireViewModel&gt; PCBuilderMVC.Models.PCBuilderEntityModels.QuestionnaireViewModels</definition>
+        <argsstring></argsstring>
+        <name>QuestionnaireViewModels</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="232" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="232" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a6cb50b4dd2ce526459e7dc52381fc627" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>System.Data.Entity.DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_finalized_build_view_model" kindref="compound">PCBuilderMVC.Models.FinalizedBuildViewModel</ref> &gt;</type>
+        <definition>System.Data.Entity.DbSet&lt;PCBuilderMVC.Models.FinalizedBuildViewModel&gt; PCBuilderMVC.Models.PCBuilderEntityModels.FinalizedBuildViewModels</definition>
+        <argsstring></argsstring>
+        <name>FinalizedBuildViewModels</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="234" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="234" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a4b38df58c1b0bb6500f88dbbd6b5e2d0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>System.Data.Entity.DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_user" kindref="compound">PCBuilderMVC.Models.AspNetUser</ref> &gt;</type>
+        <definition>System.Data.Entity.DbSet&lt;PCBuilderMVC.Models.AspNetUser&gt; PCBuilderMVC.Models.PCBuilderEntityModels.AspNetUsers</definition>
+        <argsstring></argsstring>
+        <name>AspNetUsers</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="236" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="236" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a89e01a79119dd60e1149e6be03f6cf81" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>System.Data.Entity.DbSet&lt; <ref refid="class_p_c_builder_m_v_c_1_1_models_1_1_asp_net_role" kindref="compound">PCBuilderMVC.Models.AspNetRole</ref> &gt;</type>
+        <definition>System.Data.Entity.DbSet&lt;PCBuilderMVC.Models.AspNetRole&gt; PCBuilderMVC.Models.PCBuilderEntityModels.AspNetRoles</definition>
+        <argsstring></argsstring>
+        <name>AspNetRoles</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="238" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="238" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1aa51e5f178a4fbb142efa7c8383d29190" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>PCBuilderMVC.Models.PCBuilderEntityModels.PCBuilderEntityModels</definition>
+        <argsstring>()</argsstring>
+        <name>PCBuilderEntityModels</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a6f1980dd854d63223c69a6b1fd948f74" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void PCBuilderMVC.Models.PCBuilderEntityModels.OnModelCreating</definition>
+        <argsstring>(DbModelBuilder modelBuilder)</argsstring>
+        <name>OnModelCreating</name>
+        <param>
+          <type>DbModelBuilder</type>
+          <declname>modelBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="29" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="29" bodyend="230"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>PCBuilder Entity Framework <ref refid="namespace_p_c_builder_m_v_c_1_1_models" kindref="compound">Models</ref> view model class. </para>    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para>System.Data.Entity.DbContext</para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="193">
+        <label>DbContext</label>
+      </node>
+      <node id="192">
+        <label>PCBuilderMVC.Models.PCBuilderEntityModels</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models"/>
+        <childnode refid="193" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="195">
+        <label>DbContext</label>
+      </node>
+      <node id="194">
+        <label>PCBuilderMVC.Models.PCBuilderEntityModels</label>
+        <link refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models"/>
+        <childnode refid="195" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" line="13" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models/PCBuilderEntityModels.cs" bodystart="12" bodyend="239"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a89e01a79119dd60e1149e6be03f6cf81" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>AspNetRoles</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a4b38df58c1b0bb6500f88dbbd6b5e2d0" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>AspNetUsers</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a9412e2ad51d1271e2e22a72452fd2b89" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>CPUs</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a6cb50b4dd2ce526459e7dc52381fc627" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>FinalizedBuildViewModels</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1aaa8038351676c90b1cf5adde3466d9d3" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>GPUs</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a8d4169fcc124efe24a0e41c727d0497e" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>Motherboards</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a6f1980dd854d63223c69a6b1fd948f74" prot="protected" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>OnModelCreating</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1ac0a93bd467639e52e02051e12bfa44e5" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>Opticals</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1aa51e5f178a4fbb142efa7c8383d29190" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>PCBuilderEntityModels</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a0a5f731f0bcf9b1cdfb6865ecde4c08b" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>PSUs</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1ada46bb5ef5120abffefa3ce38be5843a" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>QuestionnaireViewModels</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1aa58a925658f5db1a2451cdb6a0d57949" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>RAMs</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1ab650b1da81b3077e41abe4ef3e0777cb" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>Roles</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a79853744639305e4b275548629834558" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>Storages</name></member>
+      <member refid="class_p_c_builder_m_v_c_1_1_models_1_1_p_c_builder_entity_models_1a78925feeeef3b89318953daddeedc6ab" prot="public" virt="non-virtual"><scope>PCBuilderMVC::Models::PCBuilderEntityModels</scope><name>Users</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

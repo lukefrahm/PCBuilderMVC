@@ -1,0 +1,504 @@
+\hypertarget{class_business_logic_1_1_build_processor}{}\section{Business\+Logic.\+Build\+Processor Class Reference}
+\label{class_business_logic_1_1_build_processor}\index{Business\+Logic.\+Build\+Processor@{Business\+Logic.\+Build\+Processor}}
+
+
+Clas tasked with processing of questionnaire data to build a system.  
+
+
+Inheritance diagram for Business\+Logic.\+Build\+Processor\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_business_logic_1_1_build_processor}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_business_objects_1_1_finalized_build}{Finalized\+Build} \hyperlink{class_business_logic_1_1_build_processor_a7466ec3a31a7752924ca815e1d8bd5fe}{Data\+Builder} (\hyperlink{class_business_objects_1_1_questionnaire_results}{Questionnaire\+Results} qr)
+\begin{DoxyCompactList}\small\item\em Public base method that calls needed methods to complete build. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{class_business_logic_1_1_build_processor_ad19fb4a3d40031b59c04aa2c9f563ee9}{Final\+Error\+Check} ()
+\begin{DoxyCompactList}\small\item\em Validates the build before returning to ensure all components are correct. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a7b2999f8f325a3eac8d7ac3e2467360e}{Final\+Optical} ()
+\begin{DoxyCompactList}\small\item\em Selects the final choice for the optical drive. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a736030c17f756a67be21d12063588514}{Contingency\+Builder} (bool major\+Fault, bool needs\+G\+PU, bool needs\+Optical)
+\begin{DoxyCompactList}\small\item\em Takes fault results from Final\+Error\+Check and processes for problems. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a48241b1584e37cbfeac0cf69fa573740}{Create\+Finalized\+Build} ()
+\begin{DoxyCompactList}\small\item\em Creates the finalized build from all final choice methods. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a6d400fb8ccd35e9f769c8090fc1ad6d9}{C\+P\+U\+Choices\+By\+User\+Needs} (decimal delta)
+\begin{DoxyCompactList}\small\item\em Chooses potential C\+P\+Us by user needs. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a4ab80278d65763824f1bfa573738f5f0}{Final\+C\+PU} ()
+\begin{DoxyCompactList}\small\item\em Selects the final choice for the C\+PU. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a4d2c79f0219c32564dc53fbbeeb05a73}{G\+P\+U\+Choices\+By\+User\+Needs} (decimal delta)
+\begin{DoxyCompactList}\small\item\em Chooses potential G\+P\+Us by user needs. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a2ff04ad18300ae7465005574d0e48772}{Final\+G\+PU} ()
+\begin{DoxyCompactList}\small\item\em Selects the final choice for the G\+PU. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a8a8561de9ecd2966034c7a6a69611333}{Motherboard\+Choices\+By\+User\+Needs} (decimal delta)
+\begin{DoxyCompactList}\small\item\em Chooses potential motherboards by user needs. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a36b321cf0c93184ab607d7e07993c505}{Final\+Motherboard} ()
+\begin{DoxyCompactList}\small\item\em Selects the final choice for the motherboard. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a081f81558d48b97bb26290255aaf57eb}{R\+A\+M\+Choices\+By\+User\+Needs} (decimal delta)
+\begin{DoxyCompactList}\small\item\em Chooses portential R\+AM modules by user needs. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a0db9fed50e7a97ad28e59808242126a2}{Final\+R\+AM} ()
+\begin{DoxyCompactList}\small\item\em Selects the final choice for the R\+AM \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a6548ea5bfcc8e7f9977c7fa7bd5c75a9}{Storage\+Choices\+By\+User\+Needs} (decimal delta)
+\begin{DoxyCompactList}\small\item\em Chooses potential storage candidates by user needs. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a9c56c221189ed6bd17ec8ea20593a8c5}{Final\+Storage} ()
+\begin{DoxyCompactList}\small\item\em Selects the final choice for the storage. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a202adb3a888d805e5e71e75f67d3f086}{P\+S\+U\+Choices\+By\+User\+Needs} (decimal delta)
+\begin{DoxyCompactList}\small\item\em Chooses potential P\+S\+Usby user needs. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_aa87a3667f6b2bbc272e864c08ba42364}{Final\+P\+SU} ()
+\begin{DoxyCompactList}\small\item\em Selects the final choice for the P\+SU. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a600e948e1baf06c06237742a99a967ff}{Build\+Proportioning} ()
+\begin{DoxyCompactList}\small\item\em Creates budget proportions based on standardized build needs. Different use cases require different budget allocations for different parts. \end{DoxyCompactList}\item 
+void \hyperlink{class_business_logic_1_1_build_processor_a54da61836d65e0e34a9e2ef76fb1a012}{Create\+All\+Component\+Lists} ()
+\begin{DoxyCompactList}\small\item\em Creates all component lists for each component. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_business_objects_1_1_questionnaire_results}{Questionnaire\+Results} {\bfseries user\+Needs} = new \hyperlink{class_business_objects_1_1_questionnaire_results}{Questionnaire\+Results}()\hypertarget{class_business_logic_1_1_build_processor_a31e8da8761b5685ab0c25c40019f0764}{}\label{class_business_logic_1_1_build_processor_a31e8da8761b5685ab0c25c40019f0764}
+
+\item 
+\hyperlink{class_business_objects_1_1_build_properties}{Build\+Properties} {\bfseries bp} = new \hyperlink{class_business_objects_1_1_build_properties}{Build\+Properties}()\hypertarget{class_business_logic_1_1_build_processor_ab744ddd81ec4a34f0392af4c559eff47}{}\label{class_business_logic_1_1_build_processor_ab744ddd81ec4a34f0392af4c559eff47}
+
+\item 
+\hyperlink{class_business_objects_1_1_finalized_build}{Finalized\+Build} {\bfseries fb} = new \hyperlink{class_business_objects_1_1_finalized_build}{Finalized\+Build}()\hypertarget{class_business_logic_1_1_build_processor_a427ec4e6cc78a30ecee4ca94a4427cdb}{}\label{class_business_logic_1_1_build_processor_a427ec4e6cc78a30ecee4ca94a4427cdb}
+
+\item 
+const decimal {\bfseries base\+Delta} = 0M\hypertarget{class_business_logic_1_1_build_processor_a7466ca238311159f16e9eb8661fa99bc}{}\label{class_business_logic_1_1_build_processor_a7466ca238311159f16e9eb8661fa99bc}
+
+\item 
+decimal {\bfseries budget}\hypertarget{class_business_logic_1_1_build_processor_af1ad16921df1a5ce1eab8c607ba5fca4}{}\label{class_business_logic_1_1_build_processor_af1ad16921df1a5ce1eab8c607ba5fca4}
+
+\item 
+string {\bfseries optical\+Type}\hypertarget{class_business_logic_1_1_build_processor_a6af40fa6fc37eccdc6e3286b03c7dcd2}{}\label{class_business_logic_1_1_build_processor_a6af40fa6fc37eccdc6e3286b03c7dcd2}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_c_p_u}{C\+PU} $>$ {\bfseries all\+C\+PU}\hypertarget{class_business_logic_1_1_build_processor_adae821c7ea289141aef0a8cf78ad7f40}{}\label{class_business_logic_1_1_build_processor_adae821c7ea289141aef0a8cf78ad7f40}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_g_p_u}{G\+PU} $>$ {\bfseries all\+G\+PU}\hypertarget{class_business_logic_1_1_build_processor_a7dfcf48e00c6ea79790e7ce9d7503147}{}\label{class_business_logic_1_1_build_processor_a7dfcf48e00c6ea79790e7ce9d7503147}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_motherboard}{Motherboard} $>$ {\bfseries all\+Motherboards}\hypertarget{class_business_logic_1_1_build_processor_a5687ac445787bb6f6cdfc6bf0e39296f}{}\label{class_business_logic_1_1_build_processor_a5687ac445787bb6f6cdfc6bf0e39296f}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_r_a_m}{R\+AM} $>$ {\bfseries all\+R\+AM}\hypertarget{class_business_logic_1_1_build_processor_a357ab412eedca92d661b256099170bf9}{}\label{class_business_logic_1_1_build_processor_a357ab412eedca92d661b256099170bf9}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_storage}{Storage} $>$ {\bfseries all\+Storage}\hypertarget{class_business_logic_1_1_build_processor_a4b1eaf8478bdaa2a6ce5656286c076d9}{}\label{class_business_logic_1_1_build_processor_a4b1eaf8478bdaa2a6ce5656286c076d9}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_p_s_u}{P\+SU} $>$ {\bfseries all\+P\+SU}\hypertarget{class_business_logic_1_1_build_processor_aeb1bcd7c5f31090e401a66ca0a5a8774}{}\label{class_business_logic_1_1_build_processor_aeb1bcd7c5f31090e401a66ca0a5a8774}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_optical}{Optical} $>$ {\bfseries optical\+By\+Type}\hypertarget{class_business_logic_1_1_build_processor_a80a6534a685e310877f79f23e6b68225}{}\label{class_business_logic_1_1_build_processor_a80a6534a685e310877f79f23e6b68225}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_c_p_u}{C\+PU} $>$ {\bfseries preliminary\+C\+PU} = new List$<$\hyperlink{class_business_objects_1_1_c_p_u}{C\+PU}$>$()\hypertarget{class_business_logic_1_1_build_processor_a1fe14814390cf9a15dc4435b4e1c82b7}{}\label{class_business_logic_1_1_build_processor_a1fe14814390cf9a15dc4435b4e1c82b7}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_g_p_u}{G\+PU} $>$ {\bfseries preliminary\+G\+PU} = new List$<$\hyperlink{class_business_objects_1_1_g_p_u}{G\+PU}$>$()\hypertarget{class_business_logic_1_1_build_processor_ac0cc52090eca8883aaf5e4e131132dd8}{}\label{class_business_logic_1_1_build_processor_ac0cc52090eca8883aaf5e4e131132dd8}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_motherboard}{Motherboard} $>$ {\bfseries preliminary\+Motherboards} = new List$<$\hyperlink{class_business_objects_1_1_motherboard}{Motherboard}$>$()\hypertarget{class_business_logic_1_1_build_processor_ad32e0709a7660d47c8aaa9610c270efe}{}\label{class_business_logic_1_1_build_processor_ad32e0709a7660d47c8aaa9610c270efe}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_r_a_m}{R\+AM} $>$ {\bfseries preliminary\+R\+AM} = new List$<$\hyperlink{class_business_objects_1_1_r_a_m}{R\+AM}$>$()\hypertarget{class_business_logic_1_1_build_processor_a7d306da9a0e14537b644bd1b455e2b4c}{}\label{class_business_logic_1_1_build_processor_a7d306da9a0e14537b644bd1b455e2b4c}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_storage}{Storage} $>$ {\bfseries preliminary\+Storage} = new List$<$\hyperlink{class_business_objects_1_1_storage}{Storage}$>$()\hypertarget{class_business_logic_1_1_build_processor_ac1b65e705f9bab09b2bbaffe6aa56b08}{}\label{class_business_logic_1_1_build_processor_ac1b65e705f9bab09b2bbaffe6aa56b08}
+
+\item 
+List$<$ \hyperlink{class_business_objects_1_1_p_s_u}{P\+SU} $>$ {\bfseries preliminary\+P\+SU} = new List$<$\hyperlink{class_business_objects_1_1_p_s_u}{P\+SU}$>$()\hypertarget{class_business_logic_1_1_build_processor_a450fd81c9210fe84c16f34ac26d9995c}{}\label{class_business_logic_1_1_build_processor_a450fd81c9210fe84c16f34ac26d9995c}
+
+\item 
+\hyperlink{class_business_objects_1_1_c_p_u}{C\+PU} {\bfseries C\+P\+U\+Choice} = new \hyperlink{class_business_objects_1_1_c_p_u}{C\+PU}()\hypertarget{class_business_logic_1_1_build_processor_a2c842d5e2a425dfab029e084857783bb}{}\label{class_business_logic_1_1_build_processor_a2c842d5e2a425dfab029e084857783bb}
+
+\item 
+\hyperlink{class_business_objects_1_1_g_p_u}{G\+PU} {\bfseries G\+P\+U\+Choice} = new \hyperlink{class_business_objects_1_1_g_p_u}{G\+PU}()\hypertarget{class_business_logic_1_1_build_processor_abd02f717d13b938b7d615962b35a0fe1}{}\label{class_business_logic_1_1_build_processor_abd02f717d13b938b7d615962b35a0fe1}
+
+\item 
+\hyperlink{class_business_objects_1_1_motherboard}{Motherboard} {\bfseries motherboard\+Choice} = new \hyperlink{class_business_objects_1_1_motherboard}{Motherboard}()\hypertarget{class_business_logic_1_1_build_processor_a4d1aaf88ed0a083847f1dd1f9a7c1143}{}\label{class_business_logic_1_1_build_processor_a4d1aaf88ed0a083847f1dd1f9a7c1143}
+
+\item 
+\hyperlink{class_business_objects_1_1_r_a_m}{R\+AM} {\bfseries R\+A\+M\+Choice} = new \hyperlink{class_business_objects_1_1_r_a_m}{R\+AM}()\hypertarget{class_business_logic_1_1_build_processor_ab1bfcbae80f18cc7b46906c06d2315eb}{}\label{class_business_logic_1_1_build_processor_ab1bfcbae80f18cc7b46906c06d2315eb}
+
+\item 
+\hyperlink{class_business_objects_1_1_r_a_m}{R\+AM} {\bfseries R\+A\+M\+Preliminary} = new \hyperlink{class_business_objects_1_1_r_a_m}{R\+AM}()\hypertarget{class_business_logic_1_1_build_processor_a3c757b2ba0280a37e48a7172078da541}{}\label{class_business_logic_1_1_build_processor_a3c757b2ba0280a37e48a7172078da541}
+
+\item 
+\hyperlink{class_business_objects_1_1_storage}{Storage} {\bfseries storage\+Choice} = new \hyperlink{class_business_objects_1_1_storage}{Storage}()\hypertarget{class_business_logic_1_1_build_processor_a787043eb1b824d8ca99f451f90c3b05d}{}\label{class_business_logic_1_1_build_processor_a787043eb1b824d8ca99f451f90c3b05d}
+
+\item 
+\hyperlink{class_business_objects_1_1_p_s_u}{P\+SU} {\bfseries P\+S\+U\+Choice} = new \hyperlink{class_business_objects_1_1_p_s_u}{P\+SU}()\hypertarget{class_business_logic_1_1_build_processor_a132211a2121f81b04173466a6ddcbb55}{}\label{class_business_logic_1_1_build_processor_a132211a2121f81b04173466a6ddcbb55}
+
+\item 
+\hyperlink{class_business_objects_1_1_optical}{Optical} {\bfseries optical\+Choice} = new \hyperlink{class_business_objects_1_1_optical}{Optical}()\hypertarget{class_business_logic_1_1_build_processor_a9b9203f51653d018460765d3ac578327}{}\label{class_business_logic_1_1_build_processor_a9b9203f51653d018460765d3ac578327}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Clas tasked with processing of questionnaire data to build a system. 
+
+
+
+Definition at line 14 of file Build\+Processor.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Build\+Proportioning@{Build\+Proportioning}}
+\index{Build\+Proportioning@{Build\+Proportioning}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Build\+Proportioning()}{BuildProportioning()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Build\+Proportioning (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a600e948e1baf06c06237742a99a967ff}{}\label{class_business_logic_1_1_build_processor_a600e948e1baf06c06237742a99a967ff}
+
+
+Creates budget proportions based on standardized build needs. Different use cases require different budget allocations for different parts. 
+
+
+
+Definition at line 629 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Contingency\+Builder@{Contingency\+Builder}}
+\index{Contingency\+Builder@{Contingency\+Builder}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Contingency\+Builder(bool major\+Fault, bool needs\+G\+P\+U, bool needs\+Optical)}{ContingencyBuilder(bool majorFault, bool needsGPU, bool needsOptical)}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Contingency\+Builder (
+\begin{DoxyParamCaption}
+\item[{bool}]{major\+Fault, }
+\item[{bool}]{needs\+G\+PU, }
+\item[{bool}]{needs\+Optical}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a736030c17f756a67be21d12063588514}{}\label{class_business_logic_1_1_build_processor_a736030c17f756a67be21d12063588514}
+
+
+Takes fault results from Final\+Error\+Check and processes for problems. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em major\+Fault} & if set to {\ttfamily true}, \mbox{[}major fault\mbox{]}. Represents a significant problem with the build.\\
+\hline
+{\em needs\+G\+PU} & if set to {\ttfamily true} \mbox{[}needs gpu\mbox{]}. Represents the build does not have a processor capable of on-\/die graphics. A G\+PU must be selected.\\
+\hline
+{\em needs\+Optical} & if set to {\ttfamily true} \mbox{[}needs optical\mbox{]}. Represents a fault of not being able to pull an applicable optical drive.\\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 137 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!C\+P\+U\+Choices\+By\+User\+Needs@{C\+P\+U\+Choices\+By\+User\+Needs}}
+\index{C\+P\+U\+Choices\+By\+User\+Needs@{C\+P\+U\+Choices\+By\+User\+Needs}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{C\+P\+U\+Choices\+By\+User\+Needs(decimal delta)}{CPUChoicesByUserNeeds(decimal delta)}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+C\+P\+U\+Choices\+By\+User\+Needs (
+\begin{DoxyParamCaption}
+\item[{decimal}]{delta}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a6d400fb8ccd35e9f769c8090fc1ad6d9}{}\label{class_business_logic_1_1_build_processor_a6d400fb8ccd35e9f769c8090fc1ad6d9}
+
+
+Chooses potential C\+P\+Us by user needs. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em delta} & The price delta. Used for recursion to increasingly expand the price delta.\\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 234 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Create\+All\+Component\+Lists@{Create\+All\+Component\+Lists}}
+\index{Create\+All\+Component\+Lists@{Create\+All\+Component\+Lists}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Create\+All\+Component\+Lists()}{CreateAllComponentLists()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Create\+All\+Component\+Lists (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a54da61836d65e0e34a9e2ef76fb1a012}{}\label{class_business_logic_1_1_build_processor_a54da61836d65e0e34a9e2ef76fb1a012}
+
+
+Creates all component lists for each component. 
+
+Special attention is needed for the optical type, so the stored procedure can pull the applicable types of ddrives only.
+
+Definition at line 702 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Create\+Finalized\+Build@{Create\+Finalized\+Build}}
+\index{Create\+Finalized\+Build@{Create\+Finalized\+Build}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Create\+Finalized\+Build()}{CreateFinalizedBuild()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Create\+Finalized\+Build (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a48241b1584e37cbfeac0cf69fa573740}{}\label{class_business_logic_1_1_build_processor_a48241b1584e37cbfeac0cf69fa573740}
+
+
+Creates the finalized build from all final choice methods. 
+
+
+
+Definition at line 219 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Data\+Builder@{Data\+Builder}}
+\index{Data\+Builder@{Data\+Builder}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Data\+Builder(\+Questionnaire\+Results qr)}{DataBuilder(QuestionnaireResults qr)}}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Finalized\+Build} Business\+Logic.\+Build\+Processor.\+Data\+Builder (
+\begin{DoxyParamCaption}
+\item[{{\bf Questionnaire\+Results}}]{qr}
+\end{DoxyParamCaption}
+)}\hypertarget{class_business_logic_1_1_build_processor_a7466ec3a31a7752924ca815e1d8bd5fe}{}\label{class_business_logic_1_1_build_processor_a7466ec3a31a7752924ca815e1d8bd5fe}
+
+
+Public base method that calls needed methods to complete build. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em qr} & The questionnaire data.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Finalized\+Build with all build components.
+\end{DoxyReturn}
+
+
+Implements \hyperlink{interface_business_logic_1_1_i_build_processor}{Business\+Logic.\+I\+Build\+Processor}.
+
+
+
+Definition at line 54 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Final\+C\+PU@{Final\+C\+PU}}
+\index{Final\+C\+PU@{Final\+C\+PU}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Final\+C\+P\+U()}{FinalCPU()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Final\+C\+PU (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a4ab80278d65763824f1bfa573738f5f0}{}\label{class_business_logic_1_1_build_processor_a4ab80278d65763824f1bfa573738f5f0}
+
+
+Selects the final choice for the C\+PU. 
+
+
+
+Definition at line 253 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Final\+Error\+Check@{Final\+Error\+Check}}
+\index{Final\+Error\+Check@{Final\+Error\+Check}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Final\+Error\+Check()}{FinalErrorCheck()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Final\+Error\+Check (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_ad19fb4a3d40031b59c04aa2c9f563ee9}{}\label{class_business_logic_1_1_build_processor_ad19fb4a3d40031b59c04aa2c9f563ee9}
+
+
+Validates the build before returning to ensure all components are correct. 
+
+This method calls the Contingency\+Builder and passes the results of the tests. 
+
+Definition at line 88 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Final\+G\+PU@{Final\+G\+PU}}
+\index{Final\+G\+PU@{Final\+G\+PU}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Final\+G\+P\+U()}{FinalGPU()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Final\+G\+PU (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a2ff04ad18300ae7465005574d0e48772}{}\label{class_business_logic_1_1_build_processor_a2ff04ad18300ae7465005574d0e48772}
+
+
+Selects the final choice for the G\+PU. 
+
+
+
+Definition at line 292 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Final\+Motherboard@{Final\+Motherboard}}
+\index{Final\+Motherboard@{Final\+Motherboard}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Final\+Motherboard()}{FinalMotherboard()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Final\+Motherboard (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a36b321cf0c93184ab607d7e07993c505}{}\label{class_business_logic_1_1_build_processor_a36b321cf0c93184ab607d7e07993c505}
+
+
+Selects the final choice for the motherboard. 
+
+
+
+Definition at line 340 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Final\+Optical@{Final\+Optical}}
+\index{Final\+Optical@{Final\+Optical}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Final\+Optical()}{FinalOptical()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Final\+Optical (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a7b2999f8f325a3eac8d7ac3e2467360e}{}\label{class_business_logic_1_1_build_processor_a7b2999f8f325a3eac8d7ac3e2467360e}
+
+
+Selects the final choice for the optical drive. 
+
+
+
+Definition at line 116 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Final\+P\+SU@{Final\+P\+SU}}
+\index{Final\+P\+SU@{Final\+P\+SU}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Final\+P\+S\+U()}{FinalPSU()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Final\+P\+SU (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_aa87a3667f6b2bbc272e864c08ba42364}{}\label{class_business_logic_1_1_build_processor_aa87a3667f6b2bbc272e864c08ba42364}
+
+
+Selects the final choice for the P\+SU. 
+
+
+
+Definition at line 613 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Final\+R\+AM@{Final\+R\+AM}}
+\index{Final\+R\+AM@{Final\+R\+AM}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Final\+R\+A\+M()}{FinalRAM()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Final\+R\+AM (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a0db9fed50e7a97ad28e59808242126a2}{}\label{class_business_logic_1_1_build_processor_a0db9fed50e7a97ad28e59808242126a2}
+
+
+Selects the final choice for the R\+AM 
+
+
+
+Definition at line 453 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Final\+Storage@{Final\+Storage}}
+\index{Final\+Storage@{Final\+Storage}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Final\+Storage()}{FinalStorage()}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Final\+Storage (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a9c56c221189ed6bd17ec8ea20593a8c5}{}\label{class_business_logic_1_1_build_processor_a9c56c221189ed6bd17ec8ea20593a8c5}
+
+
+Selects the final choice for the storage. 
+
+This method takes into account the use case for the user. If the user needs high performance, an S\+SD is selected. 
+
+Definition at line 539 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!G\+P\+U\+Choices\+By\+User\+Needs@{G\+P\+U\+Choices\+By\+User\+Needs}}
+\index{G\+P\+U\+Choices\+By\+User\+Needs@{G\+P\+U\+Choices\+By\+User\+Needs}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{G\+P\+U\+Choices\+By\+User\+Needs(decimal delta)}{GPUChoicesByUserNeeds(decimal delta)}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+G\+P\+U\+Choices\+By\+User\+Needs (
+\begin{DoxyParamCaption}
+\item[{decimal}]{delta}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a4d2c79f0219c32564dc53fbbeeb05a73}{}\label{class_business_logic_1_1_build_processor_a4d2c79f0219c32564dc53fbbeeb05a73}
+
+
+Chooses potential G\+P\+Us by user needs. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em delta} & The price delta. Used for recursion to increasingly expand the price delta.\\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 270 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Motherboard\+Choices\+By\+User\+Needs@{Motherboard\+Choices\+By\+User\+Needs}}
+\index{Motherboard\+Choices\+By\+User\+Needs@{Motherboard\+Choices\+By\+User\+Needs}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Motherboard\+Choices\+By\+User\+Needs(decimal delta)}{MotherboardChoicesByUserNeeds(decimal delta)}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Motherboard\+Choices\+By\+User\+Needs (
+\begin{DoxyParamCaption}
+\item[{decimal}]{delta}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a8a8561de9ecd2966034c7a6a69611333}{}\label{class_business_logic_1_1_build_processor_a8a8561de9ecd2966034c7a6a69611333}
+
+
+Chooses potential motherboards by user needs. 
+
+This must be called after the Final\+C\+PU method. Not doing so will cause incompatibilities between the C\+PU and motherboard. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em delta} & The price delta. Used for recursion to increasingly expand the price delta.\\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 315 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!P\+S\+U\+Choices\+By\+User\+Needs@{P\+S\+U\+Choices\+By\+User\+Needs}}
+\index{P\+S\+U\+Choices\+By\+User\+Needs@{P\+S\+U\+Choices\+By\+User\+Needs}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{P\+S\+U\+Choices\+By\+User\+Needs(decimal delta)}{PSUChoicesByUserNeeds(decimal delta)}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+P\+S\+U\+Choices\+By\+User\+Needs (
+\begin{DoxyParamCaption}
+\item[{decimal}]{delta}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a202adb3a888d805e5e71e75f67d3f086}{}\label{class_business_logic_1_1_build_processor_a202adb3a888d805e5e71e75f67d3f086}
+
+
+Chooses potential P\+S\+Usby user needs. 
+
+This method must be done last in the build process. Not doing so can result in an inadequate power supply being selected. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em delta} & The price delta. Used for recursion to increasingly expand the price delta.\\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 588 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!R\+A\+M\+Choices\+By\+User\+Needs@{R\+A\+M\+Choices\+By\+User\+Needs}}
+\index{R\+A\+M\+Choices\+By\+User\+Needs@{R\+A\+M\+Choices\+By\+User\+Needs}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{R\+A\+M\+Choices\+By\+User\+Needs(decimal delta)}{RAMChoicesByUserNeeds(decimal delta)}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+R\+A\+M\+Choices\+By\+User\+Needs (
+\begin{DoxyParamCaption}
+\item[{decimal}]{delta}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a081f81558d48b97bb26290255aaf57eb}{}\label{class_business_logic_1_1_build_processor_a081f81558d48b97bb26290255aaf57eb}
+
+
+Chooses portential R\+AM modules by user needs. 
+
+This must be called after the Final\+Motherboard method. Not doing so will cause incompatibilities bwtween the motherboard and R\+AM. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em delta} & The price delta. Used for recursion to increasingly expand the price delta.\\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 387 of file Build\+Processor.\+cs.
+
+\index{Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}!Storage\+Choices\+By\+User\+Needs@{Storage\+Choices\+By\+User\+Needs}}
+\index{Storage\+Choices\+By\+User\+Needs@{Storage\+Choices\+By\+User\+Needs}!Business\+Logic\+::\+Build\+Processor@{Business\+Logic\+::\+Build\+Processor}}
+\subsubsection[{\texorpdfstring{Storage\+Choices\+By\+User\+Needs(decimal delta)}{StorageChoicesByUserNeeds(decimal delta)}}]{\setlength{\rightskip}{0pt plus 5cm}void Business\+Logic.\+Build\+Processor.\+Storage\+Choices\+By\+User\+Needs (
+\begin{DoxyParamCaption}
+\item[{decimal}]{delta}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\hypertarget{class_business_logic_1_1_build_processor_a6548ea5bfcc8e7f9977c7fa7bd5c75a9}{}\label{class_business_logic_1_1_build_processor_a6548ea5bfcc8e7f9977c7fa7bd5c75a9}
+
+
+Chooses potential storage candidates by user needs. 
+
+The method differentiates between H\+DD and S\+SD based on the user\textquotesingle{}s needs. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em delta} & The price delta. Used for recursion to increasingly expand the price delta.\\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 489 of file Build\+Processor.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/nh228u08/\+Desktop/\+Final\+Project/\+Final\+Project/\+P\+C\+Builder/\+Business\+Logic/Build\+Processor.\+cs\end{DoxyCompactItemize}

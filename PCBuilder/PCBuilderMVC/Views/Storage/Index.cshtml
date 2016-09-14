@@ -1,0 +1,93 @@
+﻿@model IEnumerable<PCBuilderMVC.Models.Storage>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StorageSize)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StorageType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BenchmarkScore)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StorageSequentialRead)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StorageSequentialWrite)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StorageRandomRead)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StorageRandomWrite)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BestUse)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Brand)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StorageSize)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StorageType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BenchmarkScore)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StorageSequentialRead)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StorageSequentialWrite)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StorageRandomRead)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StorageRandomWrite)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BestUse)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.StorageId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.StorageId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.StorageId })
+        </td>
+    </tr>
+}
+
+</table>

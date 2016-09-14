@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__standardized__basic_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_standardized_basic.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__standardized__basic_8js_1acf7bcd8fc075d254ff93347bec116346" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_standardized_basic</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_standardized_basic</name>
+        <initializer>=
+[
+    [ &quot;StandardizedBasic&quot;, &quot;class_business_objects_1_1_standardized_basic.html#a4c81e7aee14a5030d14a336b9ee90605&quot;, null ],
+    [ &quot;cpu&quot;, &quot;class_business_objects_1_1_standardized_basic.html#a84f80d9582981524beea065f299ecc35&quot;, null ],
+    [ &quot;gpu&quot;, &quot;class_business_objects_1_1_standardized_basic.html#a4f179bcb04e0cfc171bb8ff448a13550&quot;, null ],
+    [ &quot;motherboard&quot;, &quot;class_business_objects_1_1_standardized_basic.html#a468fce37795574a5e3cd0217ad68208d&quot;, null ],
+    [ &quot;optical&quot;, &quot;class_business_objects_1_1_standardized_basic.html#a248a04870bc31552cf809b532c2421f1&quot;, null ],
+    [ &quot;psu&quot;, &quot;class_business_objects_1_1_standardized_basic.html#a49798feb6516066b9637bea9c6d24283&quot;, null ],
+    [ &quot;ram&quot;, &quot;class_business_objects_1_1_standardized_basic.html#a3467cc8099863b0e31f3a88aed1c05df&quot;, null ],
+    [ &quot;storage&quot;, &quot;class_business_objects_1_1_standardized_basic.html#a0a8504ff7f0f2c2049112dc854dbd221&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_standardized_basic.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_standardized_basic.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_standardized_basic<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedBasic&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_basic.html#a4c81e7aee14a5030d14a336b9ee90605&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;cpu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_basic.html#a84f80d9582981524beea065f299ecc35&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;gpu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_basic.html#a4f179bcb04e0cfc171bb8ff448a13550&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;motherboard&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_basic.html#a468fce37795574a5e3cd0217ad68208d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;optical&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_basic.html#a248a04870bc31552cf809b532c2421f1&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;psu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_basic.html#a49798feb6516066b9637bea9c6d24283&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ram&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_basic.html#a3467cc8099863b0e31f3a88aed1c05df&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;storage&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_basic.html#a0a8504ff7f0f2c2049112dc854dbd221&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="11"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_standardized_basic.js"/>
+  </compounddef>
+</doxygen>

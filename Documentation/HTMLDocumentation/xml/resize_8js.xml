@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="resize_8js" kind="file" language="Javascript">
+    <compoundname>resize.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="resize_8js_1ab3321080c64c8797ebbcd6e30982c62c" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var cookie_namespace</definition>
+        <argsstring></argsstring>
+        <name>cookie_namespace</name>
+        <initializer>= &apos;doxygen&apos;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="resize_8js_1a9a7b07fe0df5af5957564912e842c0a4" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var sidenav</definition>
+        <argsstring></argsstring>
+        <name>sidenav</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="2" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="2" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="resize_8js_1a711d37a3374012d4f6060fffe0abea55" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var navtree</definition>
+        <argsstring></argsstring>
+        <name>navtree</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="2" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="2" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="resize_8js_1abaa405b2de1fea05ef421122098b4750" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var content</definition>
+        <argsstring></argsstring>
+        <name>content</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="2" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="2" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="resize_8js_1af920c2a7d4f4b5a962fe8e11257f871d" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var header</definition>
+        <argsstring></argsstring>
+        <name>header</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="2" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="2" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="resize_8js_1a578d54a5ebd9224fad0213048e7a49a7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>function</type>
+        <definition>function readCookie</definition>
+        <argsstring>(cookie)</argsstring>
+        <name>readCookie</name>
+        <param>
+          <type>cookie</type>
+          <defname>cookie</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="4" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="4" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="resize_8js_1ad0822459a7d442b8c5e4db795d0aabb4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>function</type>
+        <definition>function writeCookie</definition>
+        <argsstring>(cookie, val, expiration)</argsstring>
+        <name>writeCookie</name>
+        <param>
+          <type>cookie</type>
+          <defname>cookie</defname>
+        </param>
+        <param>
+          <type>val</type>
+          <defname>val</defname>
+        </param>
+        <param>
+          <type>expiration</type>
+          <defname>expiration</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="25" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="25" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="resize_8js_1a99942f5b5c75445364f2437051090367" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>function</type>
+        <definition>function resizeWidth</definition>
+        <argsstring>()</argsstring>
+        <name>resizeWidth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="37" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="37" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="resize_8js_1a517273f9259c941fd618dda7a901e6c2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>function</type>
+        <definition>function restoreWidth</definition>
+        <argsstring>(navWidth)</argsstring>
+        <name>restoreWidth</name>
+        <param>
+          <type>navWidth</type>
+          <defname>navWidth</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="45" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="45" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="resize_8js_1a4bd3414bc1780222b192bcf33b645804" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>function</type>
+        <definition>function resizeHeight</definition>
+        <argsstring>()</argsstring>
+        <name>resizeHeight</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="52" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="52" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="resize_8js_1a4d56aa7aa73d0ddf385565075fdfe271" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>function</type>
+        <definition>function initResizable</definition>
+        <argsstring>()</argsstring>
+        <name>initResizable</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" line="62" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js" bodystart="62" bodyend="95"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>cookie_namespace<sp/>=<sp/></highlight><highlight class="stringliteral">&apos;doxygen&apos;</highlight><highlight class="normal">;<sp/></highlight></codeline>
+<codeline lineno="2"><highlight class="normal">var<sp/>sidenav,navtree,content,header;</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">function</highlight><highlight class="normal"><sp/>readCookie(cookie)<sp/></highlight></codeline>
+<codeline lineno="5"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/>var<sp/>myCookie<sp/>=<sp/>cookie_namespace+</highlight><highlight class="stringliteral">&quot;_&quot;</highlight><highlight class="normal">+cookie+</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(document.cookie)<sp/></highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/>{</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>var<sp/>index<sp/>=<sp/>document.cookie.indexOf(myCookie);</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(index<sp/>!=<sp/>-1)<sp/></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>valStart<sp/>=<sp/>index<sp/>+<sp/>myCookie.length;</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>valEnd<sp/>=<sp/>document.cookie.indexOf(</highlight><highlight class="stringliteral">&quot;;&quot;</highlight><highlight class="normal">,<sp/>valStart);</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(valEnd<sp/>==<sp/>-1)<sp/></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>valEnd<sp/>=<sp/>document.cookie.length;</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>val<sp/>=<sp/>document.cookie.substring(valStart,<sp/>valEnd);</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>val;</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/>}</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>0;</highlight></codeline>
+<codeline lineno="23"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"></highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight><highlight class="keyword">function</highlight><highlight class="normal"><sp/>writeCookie(cookie,<sp/>val,<sp/>expiration)<sp/></highlight></codeline>
+<codeline lineno="26"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(val==undefined)<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(expiration<sp/>==<sp/>null)<sp/></highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/>{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/>var<sp/>date<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>Date();</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/>date.setTime(date.getTime()+(10*365*24*60*60*1000));<sp/></highlight><highlight class="comment">//<sp/>default<sp/>expiration<sp/>is<sp/>one<sp/>week</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/>expiration<sp/>=<sp/>date.toGMTString();</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/>}</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/>document.cookie<sp/>=<sp/>cookie_namespace<sp/>+<sp/></highlight><highlight class="stringliteral">&quot;_&quot;</highlight><highlight class="normal"><sp/>+<sp/>cookie<sp/>+<sp/></highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal"><sp/>+<sp/>val<sp/>+<sp/></highlight><highlight class="stringliteral">&quot;;<sp/>expires=&quot;</highlight><highlight class="normal"><sp/>+<sp/>expiration+</highlight><highlight class="stringliteral">&quot;;<sp/>path=/&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="35"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/></highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight><highlight class="keyword">function</highlight><highlight class="normal"><sp/>resizeWidth()<sp/></highlight></codeline>
+<codeline lineno="38"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/>var<sp/>windowWidth<sp/>=<sp/>$(window).width()<sp/>+<sp/></highlight><highlight class="stringliteral">&quot;px&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/>var<sp/>sidenavWidth<sp/>=<sp/>$(sidenav).outerWidth();</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/>content.css({marginLeft:parseInt(sidenavWidth)+</highlight><highlight class="stringliteral">&quot;px&quot;</highlight><highlight class="normal">});<sp/></highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/>writeCookie(</highlight><highlight class="stringliteral">&apos;width&apos;</highlight><highlight class="normal">,sidenavWidth,<sp/>null);</highlight></codeline>
+<codeline lineno="43"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"></highlight></codeline>
+<codeline lineno="45"><highlight class="normal"></highlight><highlight class="keyword">function</highlight><highlight class="normal"><sp/>restoreWidth(navWidth)</highlight></codeline>
+<codeline lineno="46"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/>var<sp/>windowWidth<sp/>=<sp/>$(window).width()<sp/>+<sp/></highlight><highlight class="stringliteral">&quot;px&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/>content.css({marginLeft:parseInt(navWidth)+6+</highlight><highlight class="stringliteral">&quot;px&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/>sidenav.css({width:navWidth<sp/>+<sp/></highlight><highlight class="stringliteral">&quot;px&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline lineno="50"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"></highlight></codeline>
+<codeline lineno="52"><highlight class="normal"></highlight><highlight class="keyword">function</highlight><highlight class="normal"><sp/>resizeHeight()<sp/></highlight></codeline>
+<codeline lineno="53"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/>var<sp/>headerHeight<sp/>=<sp/>header.outerHeight();</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/>var<sp/>footerHeight<sp/>=<sp/>footer.outerHeight();</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/>var<sp/>windowHeight<sp/>=<sp/>$(window).height()<sp/>-<sp/>headerHeight<sp/>-<sp/>footerHeight;</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/>content.css({height:windowHeight<sp/>+<sp/></highlight><highlight class="stringliteral">&quot;px&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/>navtree.css({height:windowHeight<sp/>+<sp/></highlight><highlight class="stringliteral">&quot;px&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/>sidenav.css({height:windowHeight<sp/>+<sp/></highlight><highlight class="stringliteral">&quot;px&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline lineno="60"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"></highlight></codeline>
+<codeline lineno="62"><highlight class="normal"></highlight><highlight class="keyword">function</highlight><highlight class="normal"><sp/>initResizable()</highlight></codeline>
+<codeline lineno="63"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"><sp/><sp/>header<sp/><sp/>=<sp/>$(</highlight><highlight class="stringliteral">&quot;#top&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"><sp/><sp/>sidenav<sp/>=<sp/>$(</highlight><highlight class="stringliteral">&quot;#side-nav&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/>content<sp/>=<sp/>$(</highlight><highlight class="stringliteral">&quot;#doc-content&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"><sp/><sp/>navtree<sp/>=<sp/>$(</highlight><highlight class="stringliteral">&quot;#nav-tree&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="68"><highlight class="normal"><sp/><sp/>footer<sp/><sp/>=<sp/>$(</highlight><highlight class="stringliteral">&quot;#nav-path&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/>$(</highlight><highlight class="stringliteral">&quot;.side-nav-resizable&quot;</highlight><highlight class="normal">).resizable({resize:<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(e,<sp/>ui)<sp/>{<sp/>resizeWidth();<sp/>}<sp/>});</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"><sp/><sp/>$(window).resize(</highlight><highlight class="keyword">function</highlight><highlight class="normal">()<sp/>{<sp/>resizeHeight();<sp/>});</highlight></codeline>
+<codeline lineno="71"><highlight class="normal"><sp/><sp/>var<sp/>width<sp/>=<sp/>readCookie(</highlight><highlight class="stringliteral">&apos;width&apos;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="72"><highlight class="normal"><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(width)<sp/>{<sp/>restoreWidth(width);<sp/>}<sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>{<sp/>resizeWidth();<sp/>}</highlight></codeline>
+<codeline lineno="73"><highlight class="normal"><sp/><sp/>resizeHeight();</highlight></codeline>
+<codeline lineno="74"><highlight class="normal"><sp/><sp/>var<sp/>url<sp/>=<sp/>location.href;</highlight></codeline>
+<codeline lineno="75"><highlight class="normal"><sp/><sp/>var<sp/>i=url.indexOf(</highlight><highlight class="stringliteral">&quot;#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(i&gt;=0)<sp/>window.location.hash=url.substr(i);</highlight></codeline>
+<codeline lineno="77"><highlight class="normal"><sp/><sp/>var<sp/>_preventDefault<sp/>=<sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(evt)<sp/>{<sp/>evt.preventDefault();<sp/>};</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/>$(</highlight><highlight class="stringliteral">&quot;#splitbar&quot;</highlight><highlight class="normal">).bind(</highlight><highlight class="stringliteral">&quot;dragstart&quot;</highlight><highlight class="normal">,<sp/>_preventDefault).bind(</highlight><highlight class="stringliteral">&quot;selectstart&quot;</highlight><highlight class="normal">,<sp/>_preventDefault);</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"><sp/><sp/>$(document).bind(</highlight><highlight class="stringliteral">&apos;touchmove&apos;</highlight><highlight class="normal">,</highlight><highlight class="keyword">function</highlight><highlight class="normal">(e){</highlight></codeline>
+<codeline lineno="80"><highlight class="normal"><sp/><sp/><sp/><sp/>var<sp/>device<sp/>=<sp/>navigator.userAgent.toLowerCase();</highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/>var<sp/>ios<sp/>=<sp/>device.match(/(iphone|ipod|ipad)/);</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(ios)<sp/>{</highlight></codeline>
+<codeline lineno="83"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">try</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>target<sp/>=<sp/>e.target;</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(target)<sp/>{</highlight></codeline>
+<codeline lineno="86"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>($(target).css(</highlight><highlight class="stringliteral">&apos;-webkit-overflow-scrolling&apos;</highlight><highlight class="normal">)==</highlight><highlight class="stringliteral">&apos;touch&apos;</highlight><highlight class="normal">)<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>target<sp/>=<sp/>target.parentNode;</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="89"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>e.preventDefault();</highlight></codeline>
+<codeline lineno="90"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>}<sp/></highlight><highlight class="keywordflow">catch</highlight><highlight class="normal">(err)<sp/>{</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>e.preventDefault();</highlight></codeline>
+<codeline lineno="92"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="93"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="94"><highlight class="normal"><sp/><sp/>});</highlight></codeline>
+<codeline lineno="95"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="96"><highlight class="normal"></highlight></codeline>
+<codeline lineno="97"><highlight class="normal"></highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/resize.js"/>
+  </compounddef>
+</doxygen>

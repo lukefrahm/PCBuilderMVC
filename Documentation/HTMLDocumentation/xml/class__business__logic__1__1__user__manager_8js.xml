@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__logic__1__1__user__manager_8js" kind="file" language="Javascript">
+    <compoundname>class_business_logic_1_1_user_manager.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__logic__1__1__user__manager_8js_1a0a055dc09ff43d3d35f627d1fb178e33" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_logic_1_1_user_manager</definition>
+        <argsstring></argsstring>
+        <name>class_business_logic_1_1_user_manager</name>
+        <initializer>=
+[
+    [ &quot;AddNewUser&quot;, &quot;class_business_logic_1_1_user_manager.html#ab868aeac2dd021d3d230cceb099422c8&quot;, null ],
+    [ &quot;GetUserCount&quot;, &quot;class_business_logic_1_1_user_manager.html#a65be32ae93f260d00fc7d259470d8869&quot;, null ],
+    [ &quot;GetUserList&quot;, &quot;class_business_logic_1_1_user_manager.html#a3056179e2041b2022e1a28356188c288&quot;, null ],
+    [ &quot;UpdateUserInformation&quot;, &quot;class_business_logic_1_1_user_manager.html#a58674010581be08d264cb486810c9de8&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_logic_1_1_user_manager.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_logic_1_1_user_manager.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_logic_1_1_user_manager<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;AddNewUser&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_logic_1_1_user_manager.html#ab868aeac2dd021d3d230cceb099422c8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GetUserCount&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_logic_1_1_user_manager.html#a65be32ae93f260d00fc7d259470d8869&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GetUserList&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_logic_1_1_user_manager.html#a3056179e2041b2022e1a28356188c288&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UpdateUserInformation&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_logic_1_1_user_manager.html#a58674010581be08d264cb486810c9de8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="7"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_logic_1_1_user_manager.js"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__user_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_user.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__user_8js_1a9c4d55164107e50a932f2532f1214231" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_user</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_user</name>
+        <initializer>=
+[
+    [ &quot;User&quot;, &quot;class_business_objects_1_1_user.html#a8fa01831c4b8e4e9d0a9fb6e93b5e2f9&quot;, null ],
+    [ &quot;User&quot;, &quot;class_business_objects_1_1_user.html#a6a7967d96c26864fb41b03069500eb46&quot;, null ],
+    [ &quot;Active&quot;, &quot;class_business_objects_1_1_user.html#aa87073276abad34a1a39176a19fcabc3&quot;, null ],
+    [ &quot;Address&quot;, &quot;class_business_objects_1_1_user.html#a17dfee1c4b7764be920621670ac50453&quot;, null ],
+    [ &quot;City&quot;, &quot;class_business_objects_1_1_user.html#a659b7c0249dc08fc62020a5a861cb428&quot;, null ],
+    [ &quot;EmailAddress&quot;, &quot;class_business_objects_1_1_user.html#a41f5ad9be3a1dbc01343ffaf71315580&quot;, null ],
+    [ &quot;FirstName&quot;, &quot;class_business_objects_1_1_user.html#a8206fa75c9fa7057103011bf5379ffc5&quot;, null ],
+    [ &quot;LastName&quot;, &quot;class_business_objects_1_1_user.html#af5ae131f690a317df575f57e445a7493&quot;, null ],
+    [ &quot;LocalPhone&quot;, &quot;class_business_objects_1_1_user.html#af8541ccaa5d8ea7bd9a9b2ef4be98628&quot;, null ],
+    [ &quot;Password&quot;, &quot;class_business_objects_1_1_user.html#abec2ef8d60373887ab9d14219edb41e2&quot;, null ],
+    [ &quot;Role&quot;, &quot;class_business_objects_1_1_user.html#a6e004323033c69f0d9bfd1d5daf7317f&quot;, null ],
+    [ &quot;State&quot;, &quot;class_business_objects_1_1_user.html#aaa0f17d23d58f8ad772ab57415737950&quot;, null ],
+    [ &quot;UserID&quot;, &quot;class_business_objects_1_1_user.html#a0d59552a8aa6580afe57ab02c3c58f9d&quot;, null ],
+    [ &quot;UserName&quot;, &quot;class_business_objects_1_1_user.html#a3b67463b53401175403f5d992aa0412c&quot;, null ],
+    [ &quot;Zip&quot;, &quot;class_business_objects_1_1_user.html#aff33b3f3de04d0bca2d45846e82795a3&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_user.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_user.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_user<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;User&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#a8fa01831c4b8e4e9d0a9fb6e93b5e2f9&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;User&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#a6a7967d96c26864fb41b03069500eb46&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Active&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#aa87073276abad34a1a39176a19fcabc3&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Address&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#a17dfee1c4b7764be920621670ac50453&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;City&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#a659b7c0249dc08fc62020a5a861cb428&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;EmailAddress&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#a41f5ad9be3a1dbc01343ffaf71315580&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;FirstName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#a8206fa75c9fa7057103011bf5379ffc5&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;LastName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#af5ae131f690a317df575f57e445a7493&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;LocalPhone&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#af8541ccaa5d8ea7bd9a9b2ef4be98628&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Password&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#abec2ef8d60373887ab9d14219edb41e2&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Role&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#a6e004323033c69f0d9bfd1d5daf7317f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;State&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#aaa0f17d23d58f8ad772ab57415737950&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserID&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#a0d59552a8aa6580afe57ab02c3c58f9d&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#a3b67463b53401175403f5d992aa0412c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Zip&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_user.html#aff33b3f3de04d0bca2d45846e82795a3&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="18"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_user.js"/>
+  </compounddef>
+</doxygen>

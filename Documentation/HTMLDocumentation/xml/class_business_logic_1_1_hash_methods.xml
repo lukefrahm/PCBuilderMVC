@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_business_logic_1_1_hash_methods" kind="class" language="C#" prot="public">
+    <compoundname>BusinessLogic::HashMethods</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_business_logic_1_1_hash_methods_1a8d882378500b661e39d7201d2b89aed2" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string BusinessLogic.HashMethods.HashSha256</definition>
+        <argsstring>(this string source)</argsstring>
+        <name>HashSha256</name>
+        <param>
+          <type>this string</type>
+          <declname>source</declname>
+        </param>
+        <briefdescription>
+<para>Hashes the passed value. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>source</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The value to be hashed.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>String of the hashed value.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/HashMethods.cs" line="20" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/HashMethods.cs" bodystart="20" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_business_logic_1_1_hash_methods_1a921c0dc701d7a46d7cbdb36e0409f025" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool BusinessLogic.HashMethods.VerifySha256Hash</definition>
+        <argsstring>(this string compareString, string hashString)</argsstring>
+        <name>VerifySha256Hash</name>
+        <param>
+          <type>this string</type>
+          <declname>compareString</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>hashString</declname>
+        </param>
+        <briefdescription>
+<para>Verifies the sha256 hash. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>compareString</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The compare string.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>hashString</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The hash string.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Boolean value of the result of the comparison.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/HashMethods.cs" line="45" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/HashMethods.cs" bodystart="45" bodyend="50"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Hash method class containing the Sha256 hashing method. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/HashMethods.cs" line="14" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/BusinessLogic/HashMethods.cs" bodystart="13" bodyend="51"/>
+    <listofallmembers>
+      <member refid="class_business_logic_1_1_hash_methods_1a8d882378500b661e39d7201d2b89aed2" prot="public" virt="non-virtual"><scope>BusinessLogic::HashMethods</scope><name>HashSha256</name></member>
+      <member refid="class_business_logic_1_1_hash_methods_1a921c0dc701d7a46d7cbdb36e0409f025" prot="public" virt="non-virtual"><scope>BusinessLogic::HashMethods</scope><name>VerifySha256Hash</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

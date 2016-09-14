@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__business__objects__1__1__standardized__video__editing_8js" kind="file" language="Javascript">
+    <compoundname>class_business_objects_1_1_standardized_video_editing.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__business__objects__1__1__standardized__video__editing_8js_1afc01e982573d6c9f4afdf39366b67ef1" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_business_objects_1_1_standardized_video_editing</definition>
+        <argsstring></argsstring>
+        <name>class_business_objects_1_1_standardized_video_editing</name>
+        <initializer>=
+[
+    [ &quot;StandardizedVideoEditing&quot;, &quot;class_business_objects_1_1_standardized_video_editing.html#a3eb654cddfbf6c70a795b41373585a22&quot;, null ],
+    [ &quot;cpu&quot;, &quot;class_business_objects_1_1_standardized_video_editing.html#a899ce4e020f0738df0d46d0afd9fa869&quot;, null ],
+    [ &quot;gpu&quot;, &quot;class_business_objects_1_1_standardized_video_editing.html#ab604c6f5f914f9e5076f51078349b635&quot;, null ],
+    [ &quot;motherboard&quot;, &quot;class_business_objects_1_1_standardized_video_editing.html#a63ef4344c908e76acbbb890e5c4cba3f&quot;, null ],
+    [ &quot;optical&quot;, &quot;class_business_objects_1_1_standardized_video_editing.html#ac4e7e717cc28b523d2e656b91106d82c&quot;, null ],
+    [ &quot;psu&quot;, &quot;class_business_objects_1_1_standardized_video_editing.html#a63b5a3e09e6cdceafeaa31aa57f64e6c&quot;, null ],
+    [ &quot;ram&quot;, &quot;class_business_objects_1_1_standardized_video_editing.html#a33a82f29441006e1e538f180b277a074&quot;, null ],
+    [ &quot;storage&quot;, &quot;class_business_objects_1_1_standardized_video_editing.html#a4fbc8c1d1371ff9710019ffe664fe740&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_standardized_video_editing.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_standardized_video_editing.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_business_objects_1_1_standardized_video_editing<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StandardizedVideoEditing&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_video_editing.html#a3eb654cddfbf6c70a795b41373585a22&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;cpu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_video_editing.html#a899ce4e020f0738df0d46d0afd9fa869&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;gpu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_video_editing.html#ab604c6f5f914f9e5076f51078349b635&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;motherboard&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_video_editing.html#a63ef4344c908e76acbbb890e5c4cba3f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;optical&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_video_editing.html#ac4e7e717cc28b523d2e656b91106d82c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;psu&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_video_editing.html#a63b5a3e09e6cdceafeaa31aa57f64e6c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ram&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_video_editing.html#a33a82f29441006e1e538f180b277a074&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;storage&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_objects_1_1_standardized_video_editing.html#a4fbc8c1d1371ff9710019ffe664fe740&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="11"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_business_objects_1_1_standardized_video_editing.js"/>
+  </compounddef>
+</doxygen>

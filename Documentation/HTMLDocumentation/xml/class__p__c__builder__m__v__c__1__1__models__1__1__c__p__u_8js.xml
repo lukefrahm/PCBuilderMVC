@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class__p__c__builder__m__v__c__1__1__models__1__1__c__p__u_8js" kind="file" language="Javascript">
+    <compoundname>class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="class__p__c__builder__m__v__c__1__1__models__1__1__c__p__u_8js_1ac57fd136e43679ffe5b8d79332db9d4b" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u</definition>
+        <argsstring></argsstring>
+        <name>class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u</name>
+        <initializer>=
+[
+    [ &quot;BenchmarkScore&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a4061ea1754a5439a260d290f642d1eaf&quot;, null ],
+    [ &quot;BestUse&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#ad2680d0499c84545de6787a7a185c7d8&quot;, null ],
+    [ &quot;Brand&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a46f0933a115043582379ed8845692090&quot;, null ],
+    [ &quot;ClockSpeed&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a3b88315bd4c8d296807d3f38f6f705f8&quot;, null ],
+    [ &quot;Cores&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a3b51ddcaba446375f2880e448d22d66f&quot;, null ],
+    [ &quot;CpuId&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a990a746196bffb0de705df0e5d05a5f3&quot;, null ],
+    [ &quot;HyperThreaded&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a4e09d178413e4af0f20b39f275f06591&quot;, null ],
+    [ &quot;Model&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a64cd925d1ab719b2c4519d314c11ae7a&quot;, null ],
+    [ &quot;PowerRequirement&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a8c71bc85082460aa45e7bc30bf90c477&quot;, null ],
+    [ &quot;Price&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a456c4cc415062456a8b8b3b1fc61b077&quot;, null ],
+    [ &quot;ProductLineName&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#adf3f7a5d8ab10033237a18ae9b68437c&quot;, null ],
+    [ &quot;Socket&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a12d3226172e4f56916215600f3e396e5&quot;, null ],
+    [ &quot;Unlocked&quot;, &quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#ad2e6b5def809796f3a7865ea0be5f22b&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BenchmarkScore&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a4061ea1754a5439a260d290f642d1eaf&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BestUse&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#ad2680d0499c84545de6787a7a185c7d8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Brand&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a46f0933a115043582379ed8845692090&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ClockSpeed&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a3b88315bd4c8d296807d3f38f6f705f8&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Cores&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a3b51ddcaba446375f2880e448d22d66f&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CpuId&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a990a746196bffb0de705df0e5d05a5f3&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;HyperThreaded&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a4e09d178413e4af0f20b39f275f06591&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Model&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a64cd925d1ab719b2c4519d314c11ae7a&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PowerRequirement&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a8c71bc85082460aa45e7bc30bf90c477&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Price&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a456c4cc415062456a8b8b3b1fc61b077&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;ProductLineName&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#adf3f7a5d8ab10033237a18ae9b68437c&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Socket&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#a12d3226172e4f56916215600f3e396e5&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Unlocked&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.html#ad2e6b5def809796f3a7865ea0be5f22b&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="16"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/class_p_c_builder_m_v_c_1_1_models_1_1_c_p_u.js"/>
+  </compounddef>
+</doxygen>

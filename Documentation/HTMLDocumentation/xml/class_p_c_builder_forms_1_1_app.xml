@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_forms_1_1_app" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderForms::App</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Application</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Application</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Application</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_app_1af10a7f8ea27debb593e600d4b7e0550e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.App.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>InitializeComponent </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/App.g.cs" line="48" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/App.g.cs" bodystart="48" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_app_1af10a7f8ea27debb593e600d4b7e0550e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.App.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>InitializeComponent </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/App.g.i.cs" line="48" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/App.g.i.cs" bodystart="48" bodyend="55"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_app_1a8e0e2ce98707651cc8d9f09d9866f51a" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void PCBuilderForms.App.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <briefdescription>
+<para>Application Entry Point. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/App.g.cs" line="63" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/App.g.cs" bodystart="63" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_app_1a8e0e2ce98707651cc8d9f09d9866f51a" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void PCBuilderForms.App.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <briefdescription>
+<para>Application Entry Point. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/App.g.i.cs" line="63" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/App.g.i.cs" bodystart="63" bodyend="67"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Interaction logic for App.xaml </para>    </briefdescription>
+    <detaileddescription>
+<para><ref refid="class_p_c_builder_forms_1_1_app" kindref="compound">App</ref> </para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="15">
+        <label>System::Windows::Application</label>
+      </node>
+      <node id="14">
+        <label>PCBuilderForms.App</label>
+        <link refid="class_p_c_builder_forms_1_1_app"/>
+        <childnode refid="15" relation="public-inheritance">
+        </childnode>
+        <childnode refid="15" relation="public-inheritance">
+        </childnode>
+        <childnode refid="16" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="16">
+        <label>Application</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="18">
+        <label>System::Windows::Application</label>
+      </node>
+      <node id="17">
+        <label>PCBuilderForms.App</label>
+        <link refid="class_p_c_builder_forms_1_1_app"/>
+        <childnode refid="18" relation="public-inheritance">
+        </childnode>
+        <childnode refid="18" relation="public-inheritance">
+        </childnode>
+        <childnode refid="19" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="19">
+        <label>Application</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/App.xaml.cs" line="15" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/App.xaml.cs" bodystart="14" bodyend="16"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_forms_1_1_app_1af10a7f8ea27debb593e600d4b7e0550e" prot="public" virt="non-virtual"><scope>PCBuilderForms::App</scope><name>InitializeComponent</name></member>
+      <member refid="class_p_c_builder_forms_1_1_app_1af10a7f8ea27debb593e600d4b7e0550e" prot="public" virt="non-virtual"><scope>PCBuilderForms::App</scope><name>InitializeComponent</name></member>
+      <member refid="class_p_c_builder_forms_1_1_app_1a8e0e2ce98707651cc8d9f09d9866f51a" prot="public" virt="non-virtual"><scope>PCBuilderForms::App</scope><name>Main</name></member>
+      <member refid="class_p_c_builder_forms_1_1_app_1a8e0e2ce98707651cc8d9f09d9866f51a" prot="public" virt="non-virtual"><scope>PCBuilderForms::App</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

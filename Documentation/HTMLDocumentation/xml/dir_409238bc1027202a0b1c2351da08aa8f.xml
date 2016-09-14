@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_409238bc1027202a0b1c2351da08aa8f" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC</compoundname>
+    <innerdir refid="dir_61d071d0c937d42f1c738e9c817bd3ee">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/App_Start</innerdir>
+    <innerdir refid="dir_d86de650e6efa81a604365ade8314221">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Controllers</innerdir>
+    <innerdir refid="dir_ee46ca4a9c3486117a4d27f99fa88242">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Migrations</innerdir>
+    <innerdir refid="dir_6fc36cdef7ada271c676b03a5478bd52">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Models</innerdir>
+    <innerdir refid="dir_0a149b3d59aa6e6f9ee3b8181cd40c74">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/obj</innerdir>
+    <innerdir refid="dir_20d9a7d4fd3667d9de0790274b4ce486">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Properties</innerdir>
+    <innerdir refid="dir_101fd9d9f9fa9d0d1214a6d5c5231b45">C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/Scripts</innerdir>
+    <innerfile refid="_global_8asax_8cs">Global.asax.cs</innerfile>
+    <innerfile refid="_startup_8cs">Startup.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderMVC/"/>
+  </compounddef>
+</doxygen>

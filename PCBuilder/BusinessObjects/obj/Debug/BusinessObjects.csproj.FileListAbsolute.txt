@@ -1,0 +1,20 @@
+F:\net Programming 2\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+F:\net Programming 2\FinalProject\PCBuilder\BusinessObjects\bin\Debug\BusinessObjects.dll
+F:\net Programming 2\FinalProject\PCBuilder\BusinessObjects\bin\Debug\BusinessObjects.pdb
+F:\net Programming 2\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.dll
+F:\net Programming 2\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.pdb
+F:\FinalProject\PCBuilder\BusinessObjects\bin\Debug\BusinessObjects.dll
+F:\FinalProject\PCBuilder\BusinessObjects\bin\Debug\BusinessObjects.pdb
+F:\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.dll
+F:\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.pdb
+F:\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\NET 3\FinalProject\PCBuilder\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\NET 3\FinalProject\PCBuilder\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\NET 3\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\NET 3\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\NET 3\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\FinalProject\PCBuilder\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\FinalProject\PCBuilder\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\FinalProject\PCBuilder\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache

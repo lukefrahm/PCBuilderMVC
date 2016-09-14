@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js">
+    <title>jquery-2.2.3.min.js File Reference</title>
+        <section>
+            <title>Variables</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js_1ae21cc36bf0d65014c717a481a3f8a468">undefined</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js_1aa4d4888597588a84fd5b1184d00c91f3">a</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js_1ac0431efac4d7c393d1e70b86115cb93f">b</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>n <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js_1a4f0af84f62a6e2f4aee1d072192b48ec">fn</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>n n <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js_1a95a6433c7ca35778b94dc2489f6838c9">extend</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Functions</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js_1a43f0b96ea8ec44ca20ba86809a785614">!function</link> (
+a , b )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>n n n <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js_1a7d9a559c5397733bb0bbbb67e50794a2">extend</link> (
+{expando:&quot;jQuery&quot;+(m+Math.random()).replace(/\D/g,&quot;&quot;), isReady:!0, error:function(a){throw new Error(a)}, noop:function(){}, isFunction:function(a){return&quot;function&quot;===n.type(a)}, isArray:Array.isArray, isWindow:function(a){return null!=a &amp;&amp;a===a.window}, isNumeric:function(a){var b=a &amp;&amp;a.toString();return!n.isArray(a)&amp;&amp;b-parseFloat(b)+1 &gt;=0}, isPlainObject:function(a){var b;if(&quot;object&quot;!==n.type(a)||a.nodeType||n.isWindow(a)) return!1;if(a.constructor &amp;&amp;!k.call(a,&quot;constructor&quot;)&amp;&amp;!k.call(a.constructor.prototype||{},&quot;isPrototypeOf&quot;)) return!1;for(b in a);return void 0===b||k.call(a, b)}, isEmptyObject:function(a){var b;for(b in a) return!1;return!0}, type:function(a){return null==a?a+&quot;&quot;:&quot;object&quot;==typeof a||&quot;function&quot;==typeof a?i[j.call(a)]||&quot;object&quot;:typeof a}, globalEval:function(a){var b, c=eval;a=n.trim(a), a &amp;&amp;(1===a.indexOf(&quot;use strict&quot;)?(b=d.createElement(&quot;script&quot;), b.text=a, d.head.appendChild(b).parentNode.removeChild(b)):c(a))}, camelCase:function(a){return a.replace(p,&quot;ms-&quot;).replace(q, r)}, nodeName:function(a, b){return a.nodeName &amp;&amp;a.nodeName.toLowerCase()===b.toLowerCase()}, each:function(a, b){var c, d=0;if(s(a)){for(c=a.length;c &gt;d;d++) if(b.call(a[d], d, a[d])===!1) break}else for(d in a) if(b.call(a[d], d, a[d])===!1) break;return a}, trim:function(a){return null==a?&quot;&quot;:(a+&quot;&quot;).replace(o,&quot;&quot;)}, makeArray:function(a, b){var c=b||[];return null!=a &amp;&amp;(s(Object(a))?n.merge(c,&quot;string&quot;==typeof a?[a]:a):g.call(c, a)), c}, inArray:function(a, b, c){return null==b?-1:h.call(b, a, c)}, merge:function(a, b){for(var c=+b.length, d=0, e=a.length;c &gt;d;d++) a[e++]=b[d];return a.length=e, a}, grep:function(a, b, c){for(var d, e=[], f=0, g=a.length, h=!c;g &gt;f;f++) d=!b(a[f], f), d!==h &amp;&amp;e.push(a[f]);return e}, map:function(a, b, c){var d, e, g=0, h=[];if(s(a)) for(d=a.length;d &gt;g;g++) e=b(a[g], g, c), null!=e &amp;&amp;h.push(e);else for(g in a) e=b(a[g], g, c), null!=e &amp;&amp;h.push(e);return f.apply([], h)}, guid:1, proxy:function(a, b){var c, d, f;return&quot;string&quot;==typeof b &amp;&amp;(c=a[b], b=a, a=c), n.isFunction(a)?(d=e.call(arguments, 2), f=function(){return a.apply(b||this, d.concat(e.call(arguments)))}, f.guid=a.guid=a.guid||n.guid++, f):void 0}, now:Date.now, support:l} )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function n <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js_1a53c7b9ea828db458b7ad4c5bd7d20b58">each</link> (
+&quot;Boolean Number String Function Array Date RegExp Object Error Symbol&quot;. split, function(a, b){i[&quot;[object &quot;+b+&quot;]&quot;]=b.toLowerCase()} )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>function <link linkend="packages_2j_query_82_82_83_2_content_2_scripts_2jquery-2_82_83_8min_8js_1ad64fceb77e67dfa33f377cfd23b524d6">s</link> (
+a )</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.2.2.3/Content/Scripts/jquery-2.2.3.min.js</para>
+    </simplesect>
+</section>

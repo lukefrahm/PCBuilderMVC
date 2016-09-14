@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="class_business_objects_1_1_user">
+<title>BusinessObjects::User class Reference</title>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title></title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_user_1a8fa01831c4b8e4e9d0a9fb6e93b5e2f9">User</link> (
+)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;User&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para> <link linkend="class_business_objects_1_1_user_1a6a7967d96c26864fb41b03069500eb46">User</link> (
+int userID, string firstName, string lastName, string address, string city, string state, string zip, string localPhone, string emailAddress, string userName, string password, bool active, string role)<para><emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;User&quot;/&gt; class.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+    <simplesect>
+
+<para><link linkend="class_business_objects_1_1_user">User</link> object to hold necessary data on users. </para>
+    </simplesect>
+        <simplesect>
+            <title>Detailed Description</title>
+                <para>Definition at line 13 of file User.cs</para>
+                <para>The Documentation for this struct was generated from the following file: </para>
+                <para><itemizedlist><listitem><para>User.cs</para></listitem></itemizedlist></para>
+        </simplesect>
+            <section xml:id="class_business_objects_1_1_user_1a8fa01831c4b8e4e9d0a9fb6e93b5e2f9">
+                <title>BusinessObjects.User.User ()</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;User&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+            </section>
+            <section xml:id="class_business_objects_1_1_user_1a6a7967d96c26864fb41b03069500eb46">
+                <title>BusinessObjects.User.User (int userID, string firstName, string lastName, string address, string city, string state, string zip, string localPhone, string emailAddress, string userName, string password, bool active, string role)</title> <emphasis>&lt;summary&gt;
+Initializes a new instance of the &lt;see cref=&quot;User&quot;/&gt; class.
+&lt;/summary&gt;</emphasis>
+                
+<para>
+                <formalpara>
+                    <title/>
+                    <table frame="all">
+                        <title>Parameters                        </title>
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>userID</entry>
+                                <entry>
+<para>The user identifier.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>firstName</entry>
+                                <entry>
+<para>The first name.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>lastName</entry>
+                                <entry>
+<para>The last name.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>address</entry>
+                                <entry>
+<para>The address.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>city</entry>
+                                <entry>
+<para>The city.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>state</entry>
+                                <entry>
+<para>The state.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>zip</entry>
+                                <entry>
+<para>The zip.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>localPhone</entry>
+                                <entry>
+<para>The local phone.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>emailAddress</entry>
+                                <entry>
+<para>The email address.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>userName</entry>
+                                <entry>
+<para>Username for the user.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>password</entry>
+                                <entry>
+<para>The password.</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>active</entry>
+                                <entry>
+<para>if set to <computeroutput>true</computeroutput>, [active].</para>
+</entry>
+                            </row>
+                            <row>
+                                <entry>role</entry>
+                                <entry>
+<para>The role.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                </formalpara>
+                </para>
+
+            </section>
+</section>

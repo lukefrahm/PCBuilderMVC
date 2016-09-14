@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="namespace__business__logic_8js" kind="file" language="Javascript">
+    <compoundname>namespace_business_logic.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="namespace__business__logic_8js_1a3805f601069ca2af98b69bc42954b585" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var namespace_business_logic</definition>
+        <argsstring></argsstring>
+        <name>namespace_business_logic</name>
+        <initializer>=
+[
+    [ &quot;BuildProcessor&quot;, &quot;class_business_logic_1_1_build_processor.html&quot;, &quot;class_business_logic_1_1_build_processor&quot; ],
+    [ &quot;IBuildProcessor&quot;, &quot;interface_business_logic_1_1_i_build_processor.html&quot;, &quot;interface_business_logic_1_1_i_build_processor&quot; ],
+    [ &quot;SecurityManager&quot;, &quot;class_business_logic_1_1_security_manager.html&quot;, null ],
+    [ &quot;UserManager&quot;, &quot;class_business_logic_1_1_user_manager.html&quot;, &quot;class_business_logic_1_1_user_manager&quot; ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_business_logic.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_business_logic.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>namespace_business_logic<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;BuildProcessor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_logic_1_1_build_processor.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_logic_1_1_build_processor&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;IBuildProcessor&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;interface_business_logic_1_1_i_build_processor.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;interface_business_logic_1_1_i_build_processor&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;SecurityManager&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_logic_1_1_security_manager.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserManager&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_logic_1_1_user_manager.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;class_business_logic_1_1_user_manager&quot;</highlight><highlight class="normal"><sp/>]</highlight></codeline>
+<codeline lineno="7"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/namespace_business_logic.js"/>
+  </compounddef>
+</doxygen>

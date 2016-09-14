@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_8707d3869ae2d6f2e5c182cf2a348b15" kind="dir">
+    <compoundname>C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.Validation.1.15.0/Content/Scripts</compoundname>
+    <innerfile refid="packages_2j_query_8_validation_81_815_80_2_content_2_scripts_2jquery_8validate-vsdoc_8js">jquery.validate-vsdoc.js</innerfile>
+    <innerfile refid="packages_2j_query_8_validation_81_815_80_2_content_2_scripts_2jquery_8validate_8js">jquery.validate.js</innerfile>
+    <innerfile refid="packages_2j_query_8_validation_81_815_80_2_content_2_scripts_2jquery_8validate_8min_8js">jquery.validate.min.js</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/packages/jQuery.Validation.1.15.0/Content/Scripts/"/>
+  </compounddef>
+</doxygen>

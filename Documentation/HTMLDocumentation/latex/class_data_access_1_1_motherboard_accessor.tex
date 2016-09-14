@@ -1,0 +1,137 @@
+\hypertarget{class_data_access_1_1_motherboard_accessor}{}\section{Data\+Access.\+Motherboard\+Accessor Class Reference}
+\label{class_data_access_1_1_motherboard_accessor}\index{Data\+Access.\+Motherboard\+Accessor@{Data\+Access.\+Motherboard\+Accessor}}
+
+
+Motherboard accessor to communicate with database on Motherboard objects.  
+
+
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \hyperlink{class_business_objects_1_1_motherboard}{Motherboard} \hyperlink{class_data_access_1_1_motherboard_accessor_ad37526e07fc9b4e31ebe7c00948a0ce6}{Retrieve\+Motherboard\+By\+Name} (string name)
+\begin{DoxyCompactList}\small\item\em Retrieves a motherboard by name. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_motherboard}{Motherboard} $>$ \hyperlink{class_data_access_1_1_motherboard_accessor_af11568bcfecf3d6d5223838a5e449f7a}{Retrieve\+Motherboards\+By\+Socket} (string socket)
+\begin{DoxyCompactList}\small\item\em Retrieves list of motherboards by socket. \end{DoxyCompactList}\item 
+static int \hyperlink{class_data_access_1_1_motherboard_accessor_a6209b0ce1d698b60cb47acb27d7ab18f}{Insert\+Motherboard} (\hyperlink{class_business_objects_1_1_motherboard}{Motherboard} motherboard)
+\begin{DoxyCompactList}\small\item\em Inserts a new motherboard. \end{DoxyCompactList}\item 
+static List$<$ \hyperlink{class_business_objects_1_1_motherboard}{Motherboard} $>$ \hyperlink{class_data_access_1_1_motherboard_accessor_a52361abf7892868739ce5a3a7107e00f}{Retrieve\+All\+Motherboards} ()
+\begin{DoxyCompactList}\small\item\em Retrieves all motherboards. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Motherboard accessor to communicate with database on Motherboard objects. 
+
+
+
+Definition at line 15 of file Motherboard\+Accessor.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\index{Data\+Access\+::\+Motherboard\+Accessor@{Data\+Access\+::\+Motherboard\+Accessor}!Insert\+Motherboard@{Insert\+Motherboard}}
+\index{Insert\+Motherboard@{Insert\+Motherboard}!Data\+Access\+::\+Motherboard\+Accessor@{Data\+Access\+::\+Motherboard\+Accessor}}
+\subsubsection[{\texorpdfstring{Insert\+Motherboard(\+Motherboard motherboard)}{InsertMotherboard(Motherboard motherboard)}}]{\setlength{\rightskip}{0pt plus 5cm}static int Data\+Access.\+Motherboard\+Accessor.\+Insert\+Motherboard (
+\begin{DoxyParamCaption}
+\item[{{\bf Motherboard}}]{motherboard}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_motherboard_accessor_a6209b0ce1d698b60cb47acb27d7ab18f}{}\label{class_data_access_1_1_motherboard_accessor_a6209b0ce1d698b60cb47acb27d7ab18f}
+
+
+Inserts a new motherboard. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em motherboard} & The motherboard.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Count of rows affected.
+\end{DoxyReturn}
+
+
+Definition at line 147 of file Motherboard\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+Motherboard\+Accessor@{Data\+Access\+::\+Motherboard\+Accessor}!Retrieve\+All\+Motherboards@{Retrieve\+All\+Motherboards}}
+\index{Retrieve\+All\+Motherboards@{Retrieve\+All\+Motherboards}!Data\+Access\+::\+Motherboard\+Accessor@{Data\+Access\+::\+Motherboard\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+All\+Motherboards()}{RetrieveAllMotherboards()}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf Motherboard}$>$ Data\+Access.\+Motherboard\+Accessor.\+Retrieve\+All\+Motherboards (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_motherboard_accessor_a52361abf7892868739ce5a3a7107e00f}{}\label{class_data_access_1_1_motherboard_accessor_a52361abf7892868739ce5a3a7107e00f}
+
+
+Retrieves all motherboards. 
+
+\begin{DoxyReturn}{Returns}
+List of motherboards
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found.\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 197 of file Motherboard\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+Motherboard\+Accessor@{Data\+Access\+::\+Motherboard\+Accessor}!Retrieve\+Motherboard\+By\+Name@{Retrieve\+Motherboard\+By\+Name}}
+\index{Retrieve\+Motherboard\+By\+Name@{Retrieve\+Motherboard\+By\+Name}!Data\+Access\+::\+Motherboard\+Accessor@{Data\+Access\+::\+Motherboard\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+Motherboard\+By\+Name(string name)}{RetrieveMotherboardByName(string name)}}]{\setlength{\rightskip}{0pt plus 5cm}static {\bf Motherboard} Data\+Access.\+Motherboard\+Accessor.\+Retrieve\+Motherboard\+By\+Name (
+\begin{DoxyParamCaption}
+\item[{string}]{name}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_motherboard_accessor_ad37526e07fc9b4e31ebe7c00948a0ce6}{}\label{class_data_access_1_1_motherboard_accessor_ad37526e07fc9b4e31ebe7c00948a0ce6}
+
+
+Retrieves a motherboard by name. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & The name.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Motherboard object.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 23 of file Motherboard\+Accessor.\+cs.
+
+\index{Data\+Access\+::\+Motherboard\+Accessor@{Data\+Access\+::\+Motherboard\+Accessor}!Retrieve\+Motherboards\+By\+Socket@{Retrieve\+Motherboards\+By\+Socket}}
+\index{Retrieve\+Motherboards\+By\+Socket@{Retrieve\+Motherboards\+By\+Socket}!Data\+Access\+::\+Motherboard\+Accessor@{Data\+Access\+::\+Motherboard\+Accessor}}
+\subsubsection[{\texorpdfstring{Retrieve\+Motherboards\+By\+Socket(string socket)}{RetrieveMotherboardsBySocket(string socket)}}]{\setlength{\rightskip}{0pt plus 5cm}static List$<${\bf Motherboard}$>$ Data\+Access.\+Motherboard\+Accessor.\+Retrieve\+Motherboards\+By\+Socket (
+\begin{DoxyParamCaption}
+\item[{string}]{socket}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_data_access_1_1_motherboard_accessor_af11568bcfecf3d6d5223838a5e449f7a}{}\label{class_data_access_1_1_motherboard_accessor_af11568bcfecf3d6d5223838a5e449f7a}
+
+
+Retrieves list of motherboards by socket. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em socket} & The socket.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+List of motherboards
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em System.\+Application\+Exception} & Data not found\\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 85 of file Motherboard\+Accessor.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/nh228u08/\+Desktop/\+Final\+Project/\+Final\+Project/\+P\+C\+Builder/\+Data\+Access/Motherboard\+Accessor.\+cs\end{DoxyCompactItemize}

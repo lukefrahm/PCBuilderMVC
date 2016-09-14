@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_data_access_1_1_user_accessor" kind="class" language="C#" prot="public">
+    <compoundname>DataAccess::UserAccessor</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_data_access_1_1_user_accessor_1a72f9e01c595f36043a8ba0801836ac11" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_business_objects_1_1_user" kindref="compound">User</ref></type>
+        <definition>static User DataAccess.UserAccessor.RetrieveUserByUsername</definition>
+        <argsstring>(string userName)</argsstring>
+        <name>RetrieveUserByUsername</name>
+        <param>
+          <type>string</type>
+          <declname>userName</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves the user by username. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>userName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The username from which to retrieve user data.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>User object from the supplied username.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" line="23" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" bodystart="23" bodyend="72"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_user_accessor_1a452e243ca11dd46f9b5c82daf1b19742" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_roles" kindref="compound">Roles</ref> &gt;</type>
+        <definition>static List&lt;Roles&gt; DataAccess.UserAccessor.RetrieveRolesByUserID</definition>
+        <argsstring>(string username)</argsstring>
+        <name>RetrieveRolesByUserID</name>
+        <param>
+          <type>string</type>
+          <declname>username</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves the roles by user identifier. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>username</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The username.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>List of roles for the username provided.</para></simplesect>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System.ApplicationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Data not found.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" line="80" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" bodystart="80" bodyend="118"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_user_accessor_1a47c06dec23dd7b81b6dad6b1c3a55259" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.UserAccessor.FindUserByUsernameAndPassword</definition>
+        <argsstring>(string username, string password)</argsstring>
+        <name>FindUserByUsernameAndPassword</name>
+        <param>
+          <type>string</type>
+          <declname>username</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>password</declname>
+        </param>
+        <briefdescription>
+<para>Finds the user by username and password. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>username</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The username.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>password</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The password.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Row count to signify success or failure.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" line="126" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" bodystart="126" bodyend="152"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_user_accessor_1acc5b572bb1f5a1073fbe5cfeb0096b65" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.UserAccessor.SetPasswordForUsername</definition>
+        <argsstring>(string username, string oldPassword, string newPassword)</argsstring>
+        <name>SetPasswordForUsername</name>
+        <param>
+          <type>string</type>
+          <declname>username</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>oldPassword</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>newPassword</declname>
+        </param>
+        <briefdescription>
+<para>Sets the password for the given username. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>username</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The username.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>oldPassword</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The old password.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>newPassword</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The new password.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Row count to signify success or failure.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" line="161" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" bodystart="161" bodyend="188"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_user_accessor_1a9936ef3d80655a8b9e1c63e9969a3c4d" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_business_objects_1_1_user" kindref="compound">User</ref> &gt;</type>
+        <definition>static List&lt;User&gt; DataAccess.UserAccessor.FetchUserList</definition>
+        <argsstring>(Active group=Active.active)</argsstring>
+        <name>FetchUserList</name>
+        <param>
+          <type><ref refid="namespace_business_objects_1a640a4d136931381578aad0a180173cfc" kindref="member">Active</ref></type>
+          <declname>group</declname>
+          <defval>Active.active</defval>
+        </param>
+        <briefdescription>
+<para>Fetches a user list. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>group</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The group of users. Defaults to active users only.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>List of Users</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" line="195" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" bodystart="195" bodyend="245"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_user_accessor_1a54f85a9514bd475a3d5342d31b10ee97" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.UserAccessor.FetchUserCount</definition>
+        <argsstring>(Active group=Active.active)</argsstring>
+        <name>FetchUserCount</name>
+        <param>
+          <type><ref refid="namespace_business_objects_1a640a4d136931381578aad0a180173cfc" kindref="member">Active</ref></type>
+          <declname>group</declname>
+          <defval>Active.active</defval>
+        </param>
+        <briefdescription>
+<para>Fetches the user count. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>group</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The active status. Defaults to active if no value is passed.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of records.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" line="252" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" bodystart="252" bodyend="274"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_user_accessor_1a4718ccfb3e6b1b32557c398de4332bf8" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.UserAccessor.InsertUser</definition>
+        <argsstring>(User usr)</argsstring>
+        <name>InsertUser</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_user" kindref="compound">User</ref></type>
+          <declname>usr</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a new user. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>usr</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The user.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of records affected.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" line="281" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" bodystart="281" bodyend="317"/>
+      </memberdef>
+      <memberdef kind="function" id="class_data_access_1_1_user_accessor_1a7349fc8c87333785420a2896e4c78540" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int DataAccess.UserAccessor.UpdateUserAccount</definition>
+        <argsstring>(User usr)</argsstring>
+        <name>UpdateUserAccount</name>
+        <param>
+          <type><ref refid="class_business_objects_1_1_user" kindref="compound">User</ref></type>
+          <declname>usr</declname>
+        </param>
+        <briefdescription>
+<para>Updates the user account. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>usr</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The user.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Count of records updated.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" line="324" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" bodystart="324" bodyend="360"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Data access class that handles data connections with the Users table. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" line="16" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/DataAccess/UserAccessor.cs" bodystart="15" bodyend="362"/>
+    <listofallmembers>
+      <member refid="class_data_access_1_1_user_accessor_1a54f85a9514bd475a3d5342d31b10ee97" prot="public" virt="non-virtual"><scope>DataAccess::UserAccessor</scope><name>FetchUserCount</name></member>
+      <member refid="class_data_access_1_1_user_accessor_1a9936ef3d80655a8b9e1c63e9969a3c4d" prot="public" virt="non-virtual"><scope>DataAccess::UserAccessor</scope><name>FetchUserList</name></member>
+      <member refid="class_data_access_1_1_user_accessor_1a47c06dec23dd7b81b6dad6b1c3a55259" prot="public" virt="non-virtual"><scope>DataAccess::UserAccessor</scope><name>FindUserByUsernameAndPassword</name></member>
+      <member refid="class_data_access_1_1_user_accessor_1a4718ccfb3e6b1b32557c398de4332bf8" prot="public" virt="non-virtual"><scope>DataAccess::UserAccessor</scope><name>InsertUser</name></member>
+      <member refid="class_data_access_1_1_user_accessor_1a452e243ca11dd46f9b5c82daf1b19742" prot="public" virt="non-virtual"><scope>DataAccess::UserAccessor</scope><name>RetrieveRolesByUserID</name></member>
+      <member refid="class_data_access_1_1_user_accessor_1a72f9e01c595f36043a8ba0801836ac11" prot="public" virt="non-virtual"><scope>DataAccess::UserAccessor</scope><name>RetrieveUserByUsername</name></member>
+      <member refid="class_data_access_1_1_user_accessor_1acc5b572bb1f5a1073fbe5cfeb0096b65" prot="public" virt="non-virtual"><scope>DataAccess::UserAccessor</scope><name>SetPasswordForUsername</name></member>
+      <member refid="class_data_access_1_1_user_accessor_1a7349fc8c87333785420a2896e4c78540" prot="public" virt="non-virtual"><scope>DataAccess::UserAccessor</scope><name>UpdateUserAccount</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

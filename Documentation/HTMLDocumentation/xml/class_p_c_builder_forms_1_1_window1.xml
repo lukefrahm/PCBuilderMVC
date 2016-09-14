@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="class_p_c_builder_forms_1_1_window1" kind="class" language="C#" prot="public">
+    <compoundname>PCBuilderForms::Window1</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">IComponentConnector</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_p_c_builder_forms_1_1_window1_1a31e5fc9ff6f8e2ad6453b364c986175d" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool PCBuilderForms.Window1._contentLoaded</definition>
+        <argsstring></argsstring>
+        <name>_contentLoaded</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Window1.g.i.cs" line="42" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Window1.g.i.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_window1_1a5cda1cb9593c778c04476a1584714a4c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void PCBuilderForms.Window1.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>InitializeComponent </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Window1.g.i.cs" line="49" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Window1.g.i.cs" bodystart="49" bodyend="61"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_p_c_builder_forms_1_1_window1_1a0540083e435f2a48f9cbc604ffaffff4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void System.Windows.Markup.IComponentConnector.</type>
+        <definition>void System.Windows.Markup.IComponentConnector. PCBuilderForms.Window1.Connect</definition>
+        <argsstring>(int connectionId, object target)</argsstring>
+        <name>Connect</name>
+        <param>
+          <type>int</type>
+          <declname>connectionId</declname>
+        </param>
+        <param>
+          <type>object</type>
+          <declname>target</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Window1.g.i.cs" line="69" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Window1.g.i.cs" bodystart="69" bodyend="71"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_p_c_builder_forms_1_1_window1" kindref="compound">Window1</ref> </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="345">
+        <label>PCBuilderForms.Window1</label>
+        <link refid="class_p_c_builder_forms_1_1_window1"/>
+        <childnode refid="346" relation="public-inheritance">
+        </childnode>
+        <childnode refid="347" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="346">
+        <label>System::Windows::Window</label>
+      </node>
+      <node id="347">
+        <label>System::Windows::Markup::IComponentConnector</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="348">
+        <label>PCBuilderForms.Window1</label>
+        <link refid="class_p_c_builder_forms_1_1_window1"/>
+        <childnode refid="349" relation="public-inheritance">
+        </childnode>
+        <childnode refid="350" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="349">
+        <label>System::Windows::Window</label>
+      </node>
+      <node id="350">
+        <label>System::Windows::Markup::IComponentConnector</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Window1.g.i.cs" line="40" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/PCBuilder/PCBuilderForms/obj/Debug/Window1.g.i.cs" bodystart="40" bodyend="72"/>
+    <listofallmembers>
+      <member refid="class_p_c_builder_forms_1_1_window1_1a31e5fc9ff6f8e2ad6453b364c986175d" prot="private" virt="non-virtual"><scope>PCBuilderForms::Window1</scope><name>_contentLoaded</name></member>
+      <member refid="class_p_c_builder_forms_1_1_window1_1a0540083e435f2a48f9cbc604ffaffff4" prot="private" virt="non-virtual"><scope>PCBuilderForms::Window1</scope><name>Connect</name></member>
+      <member refid="class_p_c_builder_forms_1_1_window1_1a5cda1cb9593c778c04476a1584714a4c" prot="public" virt="non-virtual"><scope>PCBuilderForms::Window1</scope><name>InitializeComponent</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

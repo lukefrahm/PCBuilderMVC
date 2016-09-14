@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir__795dbadb6c95bb9d8868e5e082e573d6_8js" kind="file" language="Javascript">
+    <compoundname>dir_795dbadb6c95bb9d8868e5e082e573d6.js</compoundname>
+      <sectiondef kind="var">
+      <memberdef kind="variable" id="dir__795dbadb6c95bb9d8868e5e082e573d6_8js_1a4721810d159fa01ea4cbd978b62858c8" prot="public" static="no" mutable="no">
+        <type>var</type>
+        <definition>var dir_795dbadb6c95bb9d8868e5e082e573d6</definition>
+        <argsstring></argsstring>
+        <name>dir_795dbadb6c95bb9d8868e5e082e573d6</name>
+        <initializer>=
+[
+    [ &quot;obj&quot;, &quot;dir_a3e484eb452aea4c10dafc0103b5e665.html&quot;, &quot;dir_a3e484eb452aea4c10dafc0103b5e665&quot; ],
+    [ &quot;Properties&quot;, &quot;dir_f742d9b77248733bd365d2a6cf429e70.html&quot;, &quot;dir_f742d9b77248733bd365d2a6cf429e70&quot; ],
+    [ &quot;CPUAccessor.cs&quot;, &quot;_c_p_u_accessor_8cs_source.html&quot;, null ],
+    [ &quot;DBConnection.cs&quot;, &quot;_d_b_connection_8cs_source.html&quot;, null ],
+    [ &quot;GPUAccessor.cs&quot;, &quot;_g_p_u_accessor_8cs_source.html&quot;, null ],
+    [ &quot;MotherboardAccessor.cs&quot;, &quot;_motherboard_accessor_8cs_source.html&quot;, null ],
+    [ &quot;OpticalAccessor.cs&quot;, &quot;_optical_accessor_8cs_source.html&quot;, null ],
+    [ &quot;PSUAccessor.cs&quot;, &quot;_p_s_u_accessor_8cs_source.html&quot;, null ],
+    [ &quot;RAMAccessor.cs&quot;, &quot;_r_a_m_accessor_8cs_source.html&quot;, null ],
+    [ &quot;StorageAccessor.cs&quot;, &quot;_storage_accessor_8cs_source.html&quot;, null ],
+    [ &quot;UserAccessor.cs&quot;, &quot;_user_accessor_8cs_source.html&quot;, null ]
+]</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_795dbadb6c95bb9d8868e5e082e573d6.js" line="1" column="1" bodyfile="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_795dbadb6c95bb9d8868e5e082e573d6.js" bodystart="1" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">var<sp/>dir_795dbadb6c95bb9d8868e5e082e573d6<sp/>=</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">[</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;obj&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;dir_a3e484eb452aea4c10dafc0103b5e665.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;dir_a3e484eb452aea4c10dafc0103b5e665&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;Properties&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;dir_f742d9b77248733bd365d2a6cf429e70.html&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;dir_f742d9b77248733bd365d2a6cf429e70&quot;</highlight><highlight class="normal"><sp/>],</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;CPUAccessor.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_c_p_u_accessor_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;DBConnection.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_d_b_connection_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;GPUAccessor.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_g_p_u_accessor_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;MotherboardAccessor.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_motherboard_accessor_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;OpticalAccessor.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_optical_accessor_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;PSUAccessor.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_p_s_u_accessor_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;RAMAccessor.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_r_a_m_accessor_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;StorageAccessor.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_storage_accessor_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>],</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>[<sp/></highlight><highlight class="stringliteral">&quot;UserAccessor.cs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;_user_accessor_8cs_source.html&quot;</highlight><highlight class="normal">,<sp/>null<sp/>]</highlight></codeline>
+<codeline lineno="14"><highlight class="normal">];</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/nh228u08/Desktop/FinalProject/FinalProject/Documentation/doxy minimum/html/dir_795dbadb6c95bb9d8868e5e082e573d6.js"/>
+  </compounddef>
+</doxygen>

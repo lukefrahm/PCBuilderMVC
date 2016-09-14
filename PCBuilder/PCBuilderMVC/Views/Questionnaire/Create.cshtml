@@ -1,0 +1,295 @@
+﻿@model PCBuilderMVC.Models.QuestionnaireViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>PC Builder Questionnaire</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Simply fill out these questions to breate your computer build.</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.SldPerformance, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SldPerformance, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.SldPerformance,"", new { @class = "text-danger" })
+            </div>
+        </div>
+        <br />
+        <br />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ChkUseBasic, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.ChkUseBasic)
+                    @Html.ValidationMessageFor(model => model.ChkUseBasic, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ChkUseOfficeModerate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.ChkUseOfficeModerate)
+                    @Html.ValidationMessageFor(model => model.ChkUseOfficeModerate, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ChkUseDevelopment, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.ChkUseDevelopment)
+                    @Html.ValidationMessageFor(model => model.ChkUseDevelopment, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ChkUseGaming, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.ChkUseGaming)
+                    @Html.ValidationMessageFor(model => model.ChkUseGaming, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ChkUseVideoEdit, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.ChkUseVideoEdit)
+                    @Html.ValidationMessageFor(model => model.ChkUseVideoEdit, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadResolution720, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadResolution720)
+                    @Html.ValidationMessageFor(model => model.RadResolution720, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadResolution1080, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadResolution1080)
+                    @Html.ValidationMessageFor(model => model.RadResolution1080, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadResolution4k, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadResolution4k)
+                    @Html.ValidationMessageFor(model => model.RadResolution4k, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SldNumMonitors, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SldNumMonitors, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.SldNumMonitors, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <br />
+        <br />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SldStorageSize, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SldStorageSize, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.SldStorageSize, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadSSD, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadSSD)
+                    @Html.ValidationMessageFor(model => model.RadSSD, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadHDD, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadHDD)
+                    @Html.ValidationMessageFor(model => model.RadHDD, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadRAMRecommended, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadRAMRecommended)
+                    @Html.ValidationMessageFor(model => model.RadRAMRecommended, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadRAMSelectManual, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadRAMSelectManual)
+                    @Html.ValidationMessageFor(model => model.RadRAMSelectManual, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SldRamSize, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SldRamSize, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.SldRamSize, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <br />
+        <br />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SldNumCores, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SldNumCores, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.SldNumCores, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <br />
+        <br />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadCaseSizeFull, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadCaseSizeFull)
+                    @Html.ValidationMessageFor(model => model.RadCaseSizeFull, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadCaseSizeMid, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadCaseSizeMid)
+                    @Html.ValidationMessageFor(model => model.RadCaseSizeMid, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadCaseSizeMicro, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadCaseSizeMicro)
+                    @Html.ValidationMessageFor(model => model.RadCaseSizeMicro, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadCaseSizeMini, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadCaseSizeMini)
+                    @Html.ValidationMessageFor(model => model.RadCaseSizeMini, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadCaseSizeConsole, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadCaseSizeConsole)
+                    @Html.ValidationMessageFor(model => model.RadCaseSizeConsole, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadBRBurner, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadBRBurner)
+                    @Html.ValidationMessageFor(model => model.RadBRBurner, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadBRReader, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadBRReader)
+                    @Html.ValidationMessageFor(model => model.RadBRReader, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadDVDBurner, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadDVDBurner)
+                    @Html.ValidationMessageFor(model => model.RadDVDBurner, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadOpticalNone, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.RadOpticalNone)
+                    @Html.ValidationMessageFor(model => model.RadOpticalNone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

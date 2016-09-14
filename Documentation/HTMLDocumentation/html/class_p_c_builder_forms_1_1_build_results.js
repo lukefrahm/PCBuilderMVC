@@ -1,0 +1,28 @@
+var class_p_c_builder_forms_1_1_build_results =
+[
+    [ "Connect", "class_p_c_builder_forms_1_1_build_results.html#a6fa0ebd3e7f1d83778bdf6176cd88013", null ],
+    [ "InitializeComponent", "class_p_c_builder_forms_1_1_build_results.html#a9c575c605cc69bafccc43687729b9f4c", null ],
+    [ "_contentLoaded", "class_p_c_builder_forms_1_1_build_results.html#abee62c73c339faca4908e3ce6dcc0b9f", null ],
+    [ "lblCPUBrand", "class_p_c_builder_forms_1_1_build_results.html#aac326fdead6162a7b42085fce0855dca", null ],
+    [ "lblCPUModel", "class_p_c_builder_forms_1_1_build_results.html#a829dc7edfb9410bceb2003ca2f6c552d", null ],
+    [ "lblCPUPrice", "class_p_c_builder_forms_1_1_build_results.html#abc1a726f02940e6fbe7f987cdb4849ed", null ],
+    [ "lblGPUBrand", "class_p_c_builder_forms_1_1_build_results.html#a98f314ca3e9d7396e4247b9b0992beed", null ],
+    [ "lblGPUModel", "class_p_c_builder_forms_1_1_build_results.html#aca769298463bda8d6ad6ba5dfbd7293d", null ],
+    [ "lblGPUPrice", "class_p_c_builder_forms_1_1_build_results.html#a4ab79e1bce7d641c083586df73c9308e", null ],
+    [ "lblMotherboardBrand", "class_p_c_builder_forms_1_1_build_results.html#ac72a764b2e7f4c92022e8deff175c37c", null ],
+    [ "lblMotherboardModel", "class_p_c_builder_forms_1_1_build_results.html#a24909913f3637a42e848ac097b23fc6b", null ],
+    [ "lblMotherboardPrice", "class_p_c_builder_forms_1_1_build_results.html#af60eb9523153380fa10597706607b2cd", null ],
+    [ "lblOpticalBrand", "class_p_c_builder_forms_1_1_build_results.html#ad051e33b794526b15eb9e8148fd304e2", null ],
+    [ "lblOpticalModel", "class_p_c_builder_forms_1_1_build_results.html#a8afd1c8e9fb45844c682abd043f0833a", null ],
+    [ "lblOpticalPrice", "class_p_c_builder_forms_1_1_build_results.html#ac4064daf48187fd8db6b9b6edf71a59a", null ],
+    [ "lblPSUBrand", "class_p_c_builder_forms_1_1_build_results.html#a8f2c31ef49d8983133ecbbe2d4bcec94", null ],
+    [ "lblPSUModel", "class_p_c_builder_forms_1_1_build_results.html#a381584a4d0733588caa483bb0c405c68", null ],
+    [ "lblPSUPrice", "class_p_c_builder_forms_1_1_build_results.html#af725e7c751a522182b6c906ad340b025", null ],
+    [ "lblRAMBrand", "class_p_c_builder_forms_1_1_build_results.html#aaa15b511e7a706d64cdb28dde00acd8b", null ],
+    [ "lblRAMModel", "class_p_c_builder_forms_1_1_build_results.html#a1e9d17258116e11c5648dfcf6e380db5", null ],
+    [ "lblRAMPrice", "class_p_c_builder_forms_1_1_build_results.html#adc5adb7b6e219ff35fbdc944607c695b", null ],
+    [ "lblStorageBrand", "class_p_c_builder_forms_1_1_build_results.html#a8b34235bb45508dd73516279087aa88f", null ],
+    [ "lblStorageModel", "class_p_c_builder_forms_1_1_build_results.html#a5ea5f98a06ca09c3111688c73a466655", null ],
+    [ "lblStoragePrice", "class_p_c_builder_forms_1_1_build_results.html#a26ae7c8a56885b91872ee41e86829b12", null ],
+    [ "lblTotalPrice", "class_p_c_builder_forms_1_1_build_results.html#a357080103fc5b8fcadb2929339225e37", null ]
+];

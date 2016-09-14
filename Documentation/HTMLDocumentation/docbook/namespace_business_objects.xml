@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="namespace_business_objects">
+<title>BusinessObjects</title>
+        <section>
+            <title> Classes </title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_access_token">BusinessObjects::AccessToken</link></para>
+<para><emphasis>&lt;summary&gt;
+AccessToken object to hold necessary data on the user&apos;s authentication and role status.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_build_properties">BusinessObjects::BuildProperties</link></para>
+<para><emphasis>&lt;summary&gt;
+BuildProperties object to hold necessary data on the budget of the build.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_c_p_u">BusinessObjects::CPU</link></para>
+<para><emphasis>&lt;summary&gt;
+CPU object to hold necessary data on the CPU.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_finalized_build">BusinessObjects::FinalizedBuild</link></para>
+<para><emphasis>&lt;summary&gt;
+FinalizedBuild object to hold necessary data on the final build after processing
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_g_p_u">BusinessObjects::GPU</link></para>
+<para><emphasis>&lt;summary&gt;
+GPU object to hold necessary data on the GPU.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_motherboard">BusinessObjects::Motherboard</link></para>
+<para><emphasis>&lt;summary&gt;
+Motherboard object to hold necessary data on the motherboard.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_optical">BusinessObjects::Optical</link></para>
+<para><emphasis>&lt;summary&gt;
+Optical object to hold necessary data on the optical drive
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_p_s_u">BusinessObjects::PSU</link></para>
+<para><emphasis>&lt;summary&gt;
+PSU object to hold necessary data on the PSU.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_questionnaire_results">BusinessObjects::QuestionnaireResults</link></para>
+<para><emphasis>&lt;summary&gt;
+QuestionnaireResults object to hold necessary data on the questionnaire form after submission.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_r_a_m">BusinessObjects::RAM</link></para>
+<para><emphasis>&lt;summary&gt;
+RAM object to hold necessary data on the RAM
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_roles">BusinessObjects::Roles</link></para>
+<para><emphasis>&lt;summary&gt;
+Role class that holds a role property.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_standardized_basic">BusinessObjects::StandardizedBasic</link></para>
+<para><emphasis>&lt;summary&gt;
+Build object to hold necessary data on a Video Editing build.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_standardized_development">BusinessObjects::StandardizedDevelopment</link></para>
+<para><emphasis>&lt;summary&gt;
+Build object to hold necessary data on a Video Editing build.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_standardized_gaming">BusinessObjects::StandardizedGaming</link></para>
+<para><emphasis>&lt;summary&gt;
+Build object to hold necessary data on a Video Editing build.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_standardized_office">BusinessObjects::StandardizedOffice</link></para>
+<para><emphasis>&lt;summary&gt;
+Build object to hold necessary data on a Office Use build.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_standardized_video_editing">BusinessObjects::StandardizedVideoEditing</link></para>
+<para><emphasis>&lt;summary&gt;
+Build object to hold necessary data on a Video Editing build.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_storage">BusinessObjects::Storage</link></para>
+<para><emphasis>&lt;summary&gt;
+Storage object to hold necessary data on the storage device.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para>struct <link linkend="class_business_objects_1_1_user">BusinessObjects::User</link></para>
+<para><emphasis>&lt;summary&gt;
+User object to hold necessary data on users.
+&lt;/summary&gt;</emphasis></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+        <section>
+            <title>Enumerations</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                            <para><literallayout>enum <link linkend="namespace_business_objects_1a640a4d136931381578aad0a180173cfc">Active</link> {
+<link linkend="namespace_business_objects_1a640a4d136931381578aad0a180173cfcac76a5e84e4bdee527e274ea30c680d79">active</link>= 0,
+<link linkend="namespace_business_objects_1a640a4d136931381578aad0a180173cfca19d3894f53ce79c3f836f26cf8a3be3b">inactive</link>,
+<link linkend="namespace_business_objects_1a640a4d136931381578aad0a180173cfcaa181a603769c1f98ad927e7367c7aa51">all</link>
+}</literallayout>
+<para><emphasis>&lt;summary&gt;
+Enum for active status.
+&lt;/summary&gt;</emphasis></para>
+</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </section>
+</section>
